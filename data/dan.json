@@ -1,1 +1,216 @@
-{"ADJ;DEF": {"morpho": {"Definite": "Def"}, "upos": "ADJ"}, "ADJ;DEF;CMPR": {"morpho": {"Definite": "Def", "Degree": "Cmp"}, "upos": "ADJ"}, "ADJ;DEF;SPRL": {"morpho": {"Definite": "Def", "Degree": "Sup"}, "upos": "ADJ"}, "ADJ;INDF;MASC+FEM;SG": {"morpho": {"Definite": "Ind", "Gender": ["Fem", "Masc"], "Number": "Sing"}, "upos": "ADJ"}, "ADJ;INDF;MASC+FEM;SG;CMPR": {"morpho": {"Definite": "Ind", "Degree": "Cmp", "Gender": ["Fem", "Masc"], "Number": "Sing"}, "upos": "ADJ"}, "ADJ;INDF;MASC+FEM;SG;SPRL": {"morpho": {"Definite": "Ind", "Degree": "Sup", "Gender": ["Fem", "Masc"], "Number": "Sing"}, "upos": "ADJ"}, "ADJ;INDF;NEUT;SG": {"morpho": {"Definite": "Ind", "Gender": "Neut", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;INDF;NEUT;SG;CMPR": {"morpho": {"Definite": "Ind", "Degree": "Cmp", "Gender": "Neut", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;INDF;NEUT;SG;SPRL": {"morpho": {"Definite": "Ind", "Degree": "Sup", "Gender": "Neut", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;INDF;PL": {"morpho": {"Definite": "Ind", "Number": "Plur"}, "upos": "ADJ"}, "ADJ;INDF;PL;CMPR": {"morpho": {"Definite": "Ind", "Degree": "Cmp", "Number": "Plur"}, "upos": "ADJ"}, "ADJ;INDF;PL;SPRL": {"morpho": {"Definite": "Ind", "Degree": "Sup", "Number": "Plur"}, "upos": "ADJ"}, "N;DEF;NOM;PL": {"morpho": {"Case": "Nom", "Definite": "Def", "Number": "Plur"}, "upos": "NOUN"}, "N;DEF;NOM;SG": {"morpho": {"Case": "Nom", "Definite": "Def", "Number": "Sing"}, "upos": "NOUN"}, "N;INDF;GEN;PL": {"morpho": {"Case": "Gen", "Definite": "Ind", "Number": "Plur"}, "upos": "NOUN"}, "N;INDF;GEN;SG": {"morpho": {"Case": "Gen", "Definite": "Ind", "Number": "Sing"}, "upos": "NOUN"}, "N;INDF;NOM;PL": {"morpho": {"Case": "Nom", "Definite": "Ind", "Number": "Plur"}, "upos": "NOUN"}, "N;INDF;NOM;SG": {"morpho": {"Case": "Nom", "Definite": "Ind", "Number": "Sing"}, "upos": "NOUN"}, "V.PTCP;ACT;PRS": {"morpho": {"Tense": "Pres", "VerbForm": "Part", "Voice": "Act"}, "upos": "VERB"}, "V.PTCP;PASS;PST": {"morpho": {"Tense": "Past", "VerbForm": "Part", "Voice": "Pass"}, "upos": "VERB"}, "V;ACT;IMP": {"morpho": {"Mood": "Imp", "Voice": "Act"}, "upos": "VERB"}, "V;ACT;IND;PRS": {"morpho": {"Mood": "Ind", "Tense": "Pres", "Voice": "Act"}, "upos": "VERB"}, "V;ACT;IND;PST": {"morpho": {"Mood": "Ind", "Tense": "Past", "Voice": "Act"}, "upos": "VERB"}, "V;ACT;NFIN": {"morpho": {"VerbForm": "NonFin", "Voice": "Act"}, "upos": "VERB"}, "V;PASS;IND;PRS": {"morpho": {"Mood": "Ind", "Tense": "Pres", "Voice": "Pass"}, "upos": "VERB"}, "V;PASS;IND;PST": {"morpho": {"Mood": "Ind", "Tense": "Past", "Voice": "Pass"}, "upos": "VERB"}}
+{
+    "ADJ;DEF": {
+        "morpho": {
+            "Definite": "Def"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DEF;CMPR": {
+        "morpho": {
+            "Definite": "Def",
+            "Degree": "Cmp"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DEF;SPRL": {
+        "morpho": {
+            "Definite": "Def",
+            "Degree": "Sup"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;INDF;MASC+FEM;SG": {
+        "morpho": {
+            "Definite": "Ind",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;INDF;MASC+FEM;SG;CMPR": {
+        "morpho": {
+            "Definite": "Ind",
+            "Degree": "Cmp",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;INDF;MASC+FEM;SG;SPRL": {
+        "morpho": {
+            "Definite": "Ind",
+            "Degree": "Sup",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;INDF;NEUT;SG": {
+        "morpho": {
+            "Definite": "Ind",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;INDF;NEUT;SG;CMPR": {
+        "morpho": {
+            "Definite": "Ind",
+            "Degree": "Cmp",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;INDF;NEUT;SG;SPRL": {
+        "morpho": {
+            "Definite": "Ind",
+            "Degree": "Sup",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;INDF;PL": {
+        "morpho": {
+            "Definite": "Ind",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;INDF;PL;CMPR": {
+        "morpho": {
+            "Definite": "Ind",
+            "Degree": "Cmp",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;INDF;PL;SPRL": {
+        "morpho": {
+            "Definite": "Ind",
+            "Degree": "Sup",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "N;DEF;NOM;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Def",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;DEF;NOM;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Def",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;INDF;GEN;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Ind",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;INDF;GEN;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Ind",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;INDF;NOM;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Ind",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;INDF;NOM;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Ind",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "V.PTCP;ACT;PRS": {
+        "morpho": {
+            "Tense": "Pres",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;PASS;PST": {
+        "morpho": {
+            "Tense": "Past",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V;ACT;IMP": {
+        "morpho": {
+            "Mood": "Imp",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V;ACT;IND;PRS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Tense": "Pres",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V;ACT;IND;PST": {
+        "morpho": {
+            "Mood": "Ind",
+            "Tense": "Past",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V;ACT;NFIN": {
+        "morpho": {
+            "VerbForm": "NonFin",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V;PASS;IND;PRS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Tense": "Pres",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V;PASS;IND;PST": {
+        "morpho": {
+            "Mood": "Ind",
+            "Tense": "Past",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    }
+}

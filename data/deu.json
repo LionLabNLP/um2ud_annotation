@@ -1,1 +1,3028 @@
-{"ADJ;ACC;FEM;SG": {"morpho": {"Case": "Acc", "Gender": "Fem", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;ACC;MASC;SG": {"morpho": {"Case": "Acc", "Gender": "Masc", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;ACC;NEUT;SG": {"morpho": {"Case": "Acc", "Gender": "Neut", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;ACC;PL": {"morpho": {"Case": "Acc", "Number": "Plur"}, "upos": "ADJ"}, "ADJ;ACC;SG;FEM": {"morpho": {"Case": "Acc", "Gender": "Fem", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;ACC;SG;MASC": {"morpho": {"Case": "Acc", "Gender": "Masc", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;ACC;SG;NEUT": {"morpho": {"Case": "Acc", "Gender": "Neut", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;CMPR": {"morpho": {"Degree": "Cmp"}, "upos": "ADJ"}, "ADJ;DAT;FEM;SG": {"morpho": {"Case": "Dat", "Gender": "Fem", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;DAT;MASC;SG": {"morpho": {"Case": "Dat", "Gender": "Masc", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;DAT;NEUT;SG": {"morpho": {"Case": "Dat", "Gender": "Neut", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;DAT;PL": {"morpho": {"Case": "Dat", "Number": "Plur"}, "upos": "ADJ"}, "ADJ;DAT;SG;FEM": {"morpho": {"Case": "Dat", "Gender": "Fem", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;DAT;SG;MASC": {"morpho": {"Case": "Dat", "Gender": "Masc", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;DAT;SG;NEUT": {"morpho": {"Case": "Dat", "Gender": "Neut", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;GEN;FEM;SG": {"morpho": {"Case": "Gen", "Gender": "Fem", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;GEN;MASC;SG": {"morpho": {"Case": "Gen", "Gender": "Masc", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;GEN;NEUT;SG": {"morpho": {"Case": "Gen", "Gender": "Neut", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;GEN;PL": {"morpho": {"Case": "Gen", "Number": "Plur"}, "upos": "ADJ"}, "ADJ;GEN;SG;FEM": {"morpho": {"Case": "Gen", "Gender": "Fem", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;GEN;SG;MASC": {"morpho": {"Case": "Gen", "Gender": "Masc", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;GEN;SG;NEUT": {"morpho": {"Case": "Gen", "Gender": "Neut", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;NOM;FEM;SG": {"morpho": {"Case": "Nom", "Gender": "Fem", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;NOM;MASC;SG": {"morpho": {"Case": "Nom", "Gender": "Masc", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;NOM;NEUT;SG": {"morpho": {"Case": "Nom", "Gender": "Neut", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;NOM;PL": {"morpho": {"Case": "Nom", "Number": "Plur"}, "upos": "ADJ"}, "ADJ;NOM;SG;FEM": {"morpho": {"Case": "Nom", "Gender": "Fem", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;NOM;SG;MASC": {"morpho": {"Case": "Nom", "Gender": "Masc", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;NOM;SG;NEUT": {"morpho": {"Case": "Nom", "Gender": "Neut", "Number": "Sing"}, "upos": "ADJ"}, "ADJ;SPRL": {"morpho": {"Degree": "Sup"}, "upos": "ADJ"}, "N;ACC;FEM+NEUT;PL": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Neut"], "Number": "Plur"}, "upos": "NOUN"}, "N;ACC;FEM+NEUT;SG": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Neut"], "Number": "Sing"}, "upos": "NOUN"}, "N;ACC;FEM;PL": {"morpho": {"Case": "Acc", "Gender": "Fem", "Number": "Plur"}, "upos": "NOUN"}, "N;ACC;FEM;SG": {"morpho": {"Case": "Acc", "Gender": "Fem", "Number": "Sing"}, "upos": "NOUN"}, "N;ACC;MASC+FEM+NEUT;PL": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;ACC;MASC+FEM+NEUT;SG": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;ACC;MASC+FEM;PL": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;ACC;MASC+FEM;SG": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;ACC;MASC+NEUT;PL": {"morpho": {"Case": "Acc", "Gender": ["Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;ACC;MASC+NEUT;SG": {"morpho": {"Case": "Acc", "Gender": ["Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;ACC;MASC;PL": {"morpho": {"Case": "Acc", "Gender": "Masc", "Number": "Plur"}, "upos": "NOUN"}, "N;ACC;MASC;SG": {"morpho": {"Case": "Acc", "Gender": "Masc", "Number": "Sing"}, "upos": "NOUN"}, "N;ACC;NEUT;PL": {"morpho": {"Case": "Acc", "Gender": "Neut", "Number": "Plur"}, "upos": "NOUN"}, "N;ACC;NEUT;SG": {"morpho": {"Case": "Acc", "Gender": "Neut", "Number": "Sing"}, "upos": "NOUN"}, "N;ACC;PL": {"morpho": {"Case": "Acc", "Number": "Plur"}, "upos": "NOUN"}, "N;ACC;PL;": {"morpho": {"Case": "Acc", "Number": "Plur"}, "upos": "NOUN"}, "N;ACC;PL;FEM": {"morpho": {"Case": "Acc", "Gender": "Fem", "Number": "Plur"}, "upos": "NOUN"}, "N;ACC;PL;FEM+MASC": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;ACC;PL;MASC": {"morpho": {"Case": "Acc", "Gender": "Masc", "Number": "Plur"}, "upos": "NOUN"}, "N;ACC;PL;MASC+FEM": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;ACC;PL;MASC+FEM+NEUT": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;ACC;PL;MASC+NEUT": {"morpho": {"Case": "Acc", "Gender": ["Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;ACC;PL;NEUT": {"morpho": {"Case": "Acc", "Gender": "Neut", "Number": "Plur"}, "upos": "NOUN"}, "N;ACC;PL;NEUT+FEM": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Neut"], "Number": "Plur"}, "upos": "NOUN"}, "N;ACC;PL;NEUT+MASC": {"morpho": {"Case": "Acc", "Gender": ["Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;ACC;SG": {"morpho": {"Case": "Acc", "Number": "Sing"}, "upos": "NOUN"}, "N;ACC;SG;": {"morpho": {"Case": "Acc", "Number": "Sing"}, "upos": "NOUN"}, "N;ACC;SG;FEM": {"morpho": {"Case": "Acc", "Gender": "Fem", "Number": "Sing"}, "upos": "NOUN"}, "N;ACC;SG;FEM+MASC": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;ACC;SG;FEM+MASC+NEUT": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;ACC;SG;FEM+NEUT": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Neut"], "Number": "Sing"}, "upos": "NOUN"}, "N;ACC;SG;FEM+NEUT+MASC": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;ACC;SG;MASC": {"morpho": {"Case": "Acc", "Gender": "Masc", "Number": "Sing"}, "upos": "NOUN"}, "N;ACC;SG;MASC+FEM": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;ACC;SG;MASC+FEM+NEUT": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;ACC;SG;MASC+NEUT": {"morpho": {"Case": "Acc", "Gender": ["Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;ACC;SG;NEUT": {"morpho": {"Case": "Acc", "Gender": "Neut", "Number": "Sing"}, "upos": "NOUN"}, "N;ACC;SG;NEUT+FEM": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Neut"], "Number": "Sing"}, "upos": "NOUN"}, "N;ACC;SG;NEUT+MASC": {"morpho": {"Case": "Acc", "Gender": ["Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;ACC;SG;NEUT+MASC+FEM": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;DAT;FEM+NEUT;PL": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Neut"], "Number": "Plur"}, "upos": "NOUN"}, "N;DAT;FEM+NEUT;SG": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Neut"], "Number": "Sing"}, "upos": "NOUN"}, "N;DAT;FEM;PL": {"morpho": {"Case": "Dat", "Gender": "Fem", "Number": "Plur"}, "upos": "NOUN"}, "N;DAT;FEM;SG": {"morpho": {"Case": "Dat", "Gender": "Fem", "Number": "Sing"}, "upos": "NOUN"}, "N;DAT;MASC+FEM+NEUT;PL": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;DAT;MASC+FEM+NEUT;SG": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;DAT;MASC+FEM;PL": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;DAT;MASC+FEM;SG": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;DAT;MASC+NEUT;PL": {"morpho": {"Case": "Dat", "Gender": ["Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;DAT;MASC+NEUT;SG": {"morpho": {"Case": "Dat", "Gender": ["Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;DAT;MASC;PL": {"morpho": {"Case": "Dat", "Gender": "Masc", "Number": "Plur"}, "upos": "NOUN"}, "N;DAT;MASC;SG": {"morpho": {"Case": "Dat", "Gender": "Masc", "Number": "Sing"}, "upos": "NOUN"}, "N;DAT;NEUT;PL": {"morpho": {"Case": "Dat", "Gender": "Neut", "Number": "Plur"}, "upos": "NOUN"}, "N;DAT;NEUT;SG": {"morpho": {"Case": "Dat", "Gender": "Neut", "Number": "Sing"}, "upos": "NOUN"}, "N;DAT;PL": {"morpho": {"Case": "Dat", "Number": "Plur"}, "upos": "NOUN"}, "N;DAT;PL;": {"morpho": {"Case": "Dat", "Number": "Plur"}, "upos": "NOUN"}, "N;DAT;PL;FEM": {"morpho": {"Case": "Dat", "Gender": "Fem", "Number": "Plur"}, "upos": "NOUN"}, "N;DAT;PL;MASC": {"morpho": {"Case": "Dat", "Gender": "Masc", "Number": "Plur"}, "upos": "NOUN"}, "N;DAT;PL;MASC+FEM": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;DAT;PL;MASC+FEM+NEUT": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;DAT;PL;MASC+NEUT": {"morpho": {"Case": "Dat", "Gender": ["Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;DAT;PL;NEUT": {"morpho": {"Case": "Dat", "Gender": "Neut", "Number": "Plur"}, "upos": "NOUN"}, "N;DAT;PL;NEUT+FEM": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Neut"], "Number": "Plur"}, "upos": "NOUN"}, "N;DAT;SG": {"morpho": {"Case": "Dat", "Number": "Sing"}, "upos": "NOUN"}, "N;DAT;SG;": {"morpho": {"Case": "Dat", "Number": "Sing"}, "upos": "NOUN"}, "N;DAT;SG;FEM": {"morpho": {"Case": "Dat", "Gender": "Fem", "Number": "Sing"}, "upos": "NOUN"}, "N;DAT;SG;FEM+MASC": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;DAT;SG;FEM+MASC+NEUT": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;DAT;SG;FEM+NEUT": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Neut"], "Number": "Sing"}, "upos": "NOUN"}, "N;DAT;SG;FEM+NEUT+MASC": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;DAT;SG;MASC": {"morpho": {"Case": "Dat", "Gender": "Masc", "Number": "Sing"}, "upos": "NOUN"}, "N;DAT;SG;MASC+FEM": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;DAT;SG;MASC+FEM+NEUT": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;DAT;SG;MASC+NEUT": {"morpho": {"Case": "Dat", "Gender": ["Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;DAT;SG;NEUT": {"morpho": {"Case": "Dat", "Gender": "Neut", "Number": "Sing"}, "upos": "NOUN"}, "N;DAT;SG;NEUT+FEM": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Neut"], "Number": "Sing"}, "upos": "NOUN"}, "N;DAT;SG;NEUT+MASC": {"morpho": {"Case": "Dat", "Gender": ["Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;DAT;SG;NEUT+MASC+FEM": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;FEM+MASC+NEUT;ACC;PL": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;FEM+MASC+NEUT;DAT;PL": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;FEM+MASC+NEUT;GEN;PL": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;FEM+MASC+NEUT;GEN;SG": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;FEM+MASC+NEUT;NOM;PL": {"morpho": {"Case": "Nom", "Gender": ["Fem", "Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;FEM+MASC;ACC;PL": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;FEM+MASC;ACC;SG": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;FEM+MASC;DAT;PL": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;FEM+MASC;DAT;SG": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;FEM+MASC;GEN;PL": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;FEM+MASC;GEN;SG": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;FEM+MASC;NOM;PL": {"morpho": {"Case": "Nom", "Gender": ["Fem", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;FEM+NEUT+MASC;GEN;SG": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;FEM+NEUT;ACC;PL": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Neut"], "Number": "Plur"}, "upos": "NOUN"}, "N;FEM+NEUT;DAT;PL": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Neut"], "Number": "Plur"}, "upos": "NOUN"}, "N;FEM+NEUT;DAT;SG": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Neut"], "Number": "Sing"}, "upos": "NOUN"}, "N;FEM+NEUT;GEN;PL": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Neut"], "Number": "Plur"}, "upos": "NOUN"}, "N;FEM+NEUT;GEN;SG": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Neut"], "Number": "Sing"}, "upos": "NOUN"}, "N;FEM+NEUT;NOM;PL": {"morpho": {"Case": "Nom", "Gender": ["Fem", "Neut"], "Number": "Plur"}, "upos": "NOUN"}, "N;GEN;FEM+NEUT;PL": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Neut"], "Number": "Plur"}, "upos": "NOUN"}, "N;GEN;FEM+NEUT;SG": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Neut"], "Number": "Sing"}, "upos": "NOUN"}, "N;GEN;FEM;PL": {"morpho": {"Case": "Gen", "Gender": "Fem", "Number": "Plur"}, "upos": "NOUN"}, "N;GEN;FEM;SG": {"morpho": {"Case": "Gen", "Gender": "Fem", "Number": "Sing"}, "upos": "NOUN"}, "N;GEN;MASC+FEM+NEUT;PL": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;GEN;MASC+FEM+NEUT;SG": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;GEN;MASC+FEM;PL": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;GEN;MASC+FEM;SG": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;GEN;MASC+NEUT;PL": {"morpho": {"Case": "Gen", "Gender": ["Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;GEN;MASC+NEUT;SG": {"morpho": {"Case": "Gen", "Gender": ["Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;GEN;MASC;PL": {"morpho": {"Case": "Gen", "Gender": "Masc", "Number": "Plur"}, "upos": "NOUN"}, "N;GEN;MASC;SG": {"morpho": {"Case": "Gen", "Gender": "Masc", "Number": "Sing"}, "upos": "NOUN"}, "N;GEN;NEUT;PL": {"morpho": {"Case": "Gen", "Gender": "Neut", "Number": "Plur"}, "upos": "NOUN"}, "N;GEN;NEUT;SG": {"morpho": {"Case": "Gen", "Gender": "Neut", "Number": "Sing"}, "upos": "NOUN"}, "N;GEN;PL": {"morpho": {"Case": "Gen", "Number": "Plur"}, "upos": "NOUN"}, "N;GEN;PL;": {"morpho": {"Case": "Gen", "Number": "Plur"}, "upos": "NOUN"}, "N;GEN;PL;FEM": {"morpho": {"Case": "Gen", "Gender": "Fem", "Number": "Plur"}, "upos": "NOUN"}, "N;GEN;PL;FEM+MASC": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;GEN;PL;MASC": {"morpho": {"Case": "Gen", "Gender": "Masc", "Number": "Plur"}, "upos": "NOUN"}, "N;GEN;PL;MASC+FEM": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;GEN;PL;MASC+FEM+NEUT": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;GEN;PL;MASC+NEUT": {"morpho": {"Case": "Gen", "Gender": ["Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;GEN;PL;NEUT": {"morpho": {"Case": "Gen", "Gender": "Neut", "Number": "Plur"}, "upos": "NOUN"}, "N;GEN;PL;NEUT+FEM": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Neut"], "Number": "Plur"}, "upos": "NOUN"}, "N;GEN;PL;NEUT+MASC": {"morpho": {"Case": "Gen", "Gender": ["Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;GEN;SG": {"morpho": {"Case": "Gen", "Number": "Sing"}, "upos": "NOUN"}, "N;GEN;SG;": {"morpho": {"Case": "Gen", "Number": "Sing"}, "upos": "NOUN"}, "N;GEN;SG;FEM": {"morpho": {"Case": "Gen", "Gender": "Fem", "Number": "Sing"}, "upos": "NOUN"}, "N;GEN;SG;FEM+MASC": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;GEN;SG;FEM+MASC+NEUT": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;GEN;SG;FEM+NEUT": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Neut"], "Number": "Sing"}, "upos": "NOUN"}, "N;GEN;SG;FEM+NEUT+MASC": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;GEN;SG;MASC": {"morpho": {"Case": "Gen", "Gender": "Masc", "Number": "Sing"}, "upos": "NOUN"}, "N;GEN;SG;MASC+FEM": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;GEN;SG;MASC+FEM+NEUT": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;GEN;SG;MASC+NEUT": {"morpho": {"Case": "Gen", "Gender": ["Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;GEN;SG;NEUT": {"morpho": {"Case": "Gen", "Gender": "Neut", "Number": "Sing"}, "upos": "NOUN"}, "N;GEN;SG;NEUT+FEM": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Neut"], "Number": "Sing"}, "upos": "NOUN"}, "N;GEN;SG;NEUT+MASC": {"morpho": {"Case": "Gen", "Gender": ["Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;GEN;SG;NEUT+MASC+FEM": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;MASC+FEM+NEUT;ACC;PL": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;MASC+FEM+NEUT;DAT;PL": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;MASC+FEM+NEUT;GEN;PL": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;MASC+FEM+NEUT;GEN;SG": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;MASC+FEM+NEUT;NOM;PL": {"morpho": {"Case": "Nom", "Gender": ["Fem", "Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;MASC+FEM;ACC;PL": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;MASC+FEM;ACC;SG": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;MASC+FEM;DAT;PL": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;MASC+FEM;DAT;SG": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;MASC+FEM;GEN;PL": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;MASC+FEM;GEN;SG": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;MASC+FEM;NOM;PL": {"morpho": {"Case": "Nom", "Gender": ["Fem", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;MASC+NEUT;ACC;PL": {"morpho": {"Case": "Acc", "Gender": ["Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;MASC+NEUT;ACC;SG": {"morpho": {"Case": "Acc", "Gender": ["Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;MASC+NEUT;DAT;PL": {"morpho": {"Case": "Dat", "Gender": ["Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;MASC+NEUT;DAT;SG": {"morpho": {"Case": "Dat", "Gender": ["Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;MASC+NEUT;GEN;PL": {"morpho": {"Case": "Gen", "Gender": ["Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;MASC+NEUT;GEN;SG": {"morpho": {"Case": "Gen", "Gender": ["Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;MASC+NEUT;NOM;PL": {"morpho": {"Case": "Nom", "Gender": ["Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;MASC;ACC;PL": {"morpho": {"Case": "Acc", "Gender": "Masc", "Number": "Plur"}, "upos": "NOUN"}, "N;MASC;ACC;SG": {"morpho": {"Case": "Acc", "Gender": "Masc", "Number": "Sing"}, "upos": "NOUN"}, "N;MASC;DAT;PL": {"morpho": {"Case": "Dat", "Gender": "Masc", "Number": "Plur"}, "upos": "NOUN"}, "N;MASC;DAT;SG": {"morpho": {"Case": "Dat", "Gender": "Masc", "Number": "Sing"}, "upos": "NOUN"}, "N;MASC;GEN;PL": {"morpho": {"Case": "Gen", "Gender": "Masc", "Number": "Plur"}, "upos": "NOUN"}, "N;MASC;GEN;SG": {"morpho": {"Case": "Gen", "Gender": "Masc", "Number": "Sing"}, "upos": "NOUN"}, "N;MASC;NOM;PL": {"morpho": {"Case": "Nom", "Gender": "Masc", "Number": "Plur"}, "upos": "NOUN"}, "N;NEUT+FEM;ACC;PL": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Neut"], "Number": "Plur"}, "upos": "NOUN"}, "N;NEUT+FEM;DAT;PL": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Neut"], "Number": "Plur"}, "upos": "NOUN"}, "N;NEUT+FEM;DAT;SG": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Neut"], "Number": "Sing"}, "upos": "NOUN"}, "N;NEUT+FEM;GEN;PL": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Neut"], "Number": "Plur"}, "upos": "NOUN"}, "N;NEUT+FEM;GEN;SG": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Neut"], "Number": "Sing"}, "upos": "NOUN"}, "N;NEUT+FEM;NOM;PL": {"morpho": {"Case": "Nom", "Gender": ["Fem", "Neut"], "Number": "Plur"}, "upos": "NOUN"}, "N;NEUT+MASC+FEM;ACC;PL": {"morpho": {"Case": "Acc", "Gender": ["Fem", "Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;NEUT+MASC+FEM;DAT;PL": {"morpho": {"Case": "Dat", "Gender": ["Fem", "Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;NEUT+MASC+FEM;GEN;PL": {"morpho": {"Case": "Gen", "Gender": ["Fem", "Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;NEUT+MASC+FEM;NOM;PL": {"morpho": {"Case": "Nom", "Gender": ["Fem", "Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;NEUT+MASC;ACC;PL": {"morpho": {"Case": "Acc", "Gender": ["Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;NEUT+MASC;ACC;SG": {"morpho": {"Case": "Acc", "Gender": ["Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;NEUT+MASC;DAT;PL": {"morpho": {"Case": "Dat", "Gender": ["Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;NEUT+MASC;DAT;SG": {"morpho": {"Case": "Dat", "Gender": ["Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;NEUT+MASC;GEN;PL": {"morpho": {"Case": "Gen", "Gender": ["Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;NEUT+MASC;GEN;SG": {"morpho": {"Case": "Gen", "Gender": ["Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;NEUT+MASC;NOM;PL": {"morpho": {"Case": "Nom", "Gender": ["Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;NEUT;ACC;PL": {"morpho": {"Case": "Acc", "Gender": "Neut", "Number": "Plur"}, "upos": "NOUN"}, "N;NEUT;ACC;SG": {"morpho": {"Case": "Acc", "Gender": "Neut", "Number": "Sing"}, "upos": "NOUN"}, "N;NEUT;DAT;PL": {"morpho": {"Case": "Dat", "Gender": "Neut", "Number": "Plur"}, "upos": "NOUN"}, "N;NEUT;DAT;SG": {"morpho": {"Case": "Dat", "Gender": "Neut", "Number": "Sing"}, "upos": "NOUN"}, "N;NEUT;GEN;PL": {"morpho": {"Case": "Gen", "Gender": "Neut", "Number": "Plur"}, "upos": "NOUN"}, "N;NEUT;GEN;SG": {"morpho": {"Case": "Gen", "Gender": "Neut", "Number": "Sing"}, "upos": "NOUN"}, "N;NEUT;NOM;PL": {"morpho": {"Case": "Nom", "Gender": "Neut", "Number": "Plur"}, "upos": "NOUN"}, "N;NOM;FEM+NEUT;PL": {"morpho": {"Case": "Nom", "Gender": ["Fem", "Neut"], "Number": "Plur"}, "upos": "NOUN"}, "N;NOM;FEM+NEUT;SG": {"morpho": {"Case": "Nom", "Gender": ["Fem", "Neut"], "Number": "Sing"}, "upos": "NOUN"}, "N;NOM;FEM;PL": {"morpho": {"Case": "Nom", "Gender": "Fem", "Number": "Plur"}, "upos": "NOUN"}, "N;NOM;FEM;SG": {"morpho": {"Case": "Nom", "Gender": "Fem", "Number": "Sing"}, "upos": "NOUN"}, "N;NOM;MASC+FEM+NEUT;PL": {"morpho": {"Case": "Nom", "Gender": ["Fem", "Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;NOM;MASC+FEM+NEUT;SG": {"morpho": {"Case": "Nom", "Gender": ["Fem", "Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;NOM;MASC+FEM;PL": {"morpho": {"Case": "Nom", "Gender": ["Fem", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;NOM;MASC+FEM;SG": {"morpho": {"Case": "Nom", "Gender": ["Fem", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;NOM;MASC+NEUT;PL": {"morpho": {"Case": "Nom", "Gender": ["Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;NOM;MASC+NEUT;SG": {"morpho": {"Case": "Nom", "Gender": ["Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;NOM;MASC;PL": {"morpho": {"Case": "Nom", "Gender": "Masc", "Number": "Plur"}, "upos": "NOUN"}, "N;NOM;MASC;SG": {"morpho": {"Case": "Nom", "Gender": "Masc", "Number": "Sing"}, "upos": "NOUN"}, "N;NOM;NEUT;PL": {"morpho": {"Case": "Nom", "Gender": "Neut", "Number": "Plur"}, "upos": "NOUN"}, "N;NOM;NEUT;SG": {"morpho": {"Case": "Nom", "Gender": "Neut", "Number": "Sing"}, "upos": "NOUN"}, "N;NOM;PL": {"morpho": {"Case": "Nom", "Number": "Plur"}, "upos": "NOUN"}, "N;NOM;PL;": {"morpho": {"Case": "Nom", "Number": "Plur"}, "upos": "NOUN"}, "N;NOM;PL;FEM": {"morpho": {"Case": "Nom", "Gender": "Fem", "Number": "Plur"}, "upos": "NOUN"}, "N;NOM;PL;FEM+MASC": {"morpho": {"Case": "Nom", "Gender": ["Fem", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;NOM;PL;MASC": {"morpho": {"Case": "Nom", "Gender": "Masc", "Number": "Plur"}, "upos": "NOUN"}, "N;NOM;PL;MASC+FEM": {"morpho": {"Case": "Nom", "Gender": ["Fem", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;NOM;PL;MASC+FEM+NEUT": {"morpho": {"Case": "Nom", "Gender": ["Fem", "Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;NOM;PL;MASC+NEUT": {"morpho": {"Case": "Nom", "Gender": ["Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;NOM;PL;NEUT": {"morpho": {"Case": "Nom", "Gender": "Neut", "Number": "Plur"}, "upos": "NOUN"}, "N;NOM;PL;NEUT+FEM": {"morpho": {"Case": "Nom", "Gender": ["Fem", "Neut"], "Number": "Plur"}, "upos": "NOUN"}, "N;NOM;PL;NEUT+MASC": {"morpho": {"Case": "Nom", "Gender": ["Neut", "Masc"], "Number": "Plur"}, "upos": "NOUN"}, "N;NOM;SG": {"morpho": {"Case": "Nom", "Number": "Sing"}, "upos": "NOUN"}, "N;NOM;SG;": {"morpho": {"Case": "Nom", "Number": "Sing"}, "upos": "NOUN"}, "N;NOM;SG;FEM": {"morpho": {"Case": "Nom", "Gender": "Fem", "Number": "Sing"}, "upos": "NOUN"}, "N;NOM;SG;FEM+MASC": {"morpho": {"Case": "Nom", "Gender": ["Fem", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;NOM;SG;FEM+MASC+NEUT": {"morpho": {"Case": "Nom", "Gender": ["Fem", "Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;NOM;SG;FEM+NEUT": {"morpho": {"Case": "Nom", "Gender": ["Fem", "Neut"], "Number": "Sing"}, "upos": "NOUN"}, "N;NOM;SG;FEM+NEUT+MASC": {"morpho": {"Case": "Nom", "Gender": ["Fem", "Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;NOM;SG;MASC": {"morpho": {"Case": "Nom", "Gender": "Masc", "Number": "Sing"}, "upos": "NOUN"}, "N;NOM;SG;MASC+FEM": {"morpho": {"Case": "Nom", "Gender": ["Fem", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;NOM;SG;MASC+FEM+NEUT": {"morpho": {"Case": "Nom", "Gender": ["Fem", "Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;NOM;SG;MASC+NEUT": {"morpho": {"Case": "Nom", "Gender": ["Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;NOM;SG;NEUT": {"morpho": {"Case": "Nom", "Gender": "Neut", "Number": "Sing"}, "upos": "NOUN"}, "N;NOM;SG;NEUT+FEM": {"morpho": {"Case": "Nom", "Gender": ["Fem", "Neut"], "Number": "Sing"}, "upos": "NOUN"}, "N;NOM;SG;NEUT+MASC": {"morpho": {"Case": "Nom", "Gender": ["Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "N;NOM;SG;NEUT+MASC+FEM": {"morpho": {"Case": "Nom", "Gender": ["Fem", "Neut", "Masc"], "Number": "Sing"}, "upos": "NOUN"}, "V.PTCP;PRS": {"morpho": {"Tense": "Pres", "VerbForm": "Part"}, "upos": "VERB"}, "V.PTCP;PST": {"morpho": {"Tense": "Past", "VerbForm": "Part"}, "upos": "VERB"}, "V;IMP;2;PL": {"morpho": {"Mood": "Imp", "Number": "Plur", "Person": "2"}, "upos": "VERB"}, "V;IMP;2;SG": {"morpho": {"Mood": "Imp", "Number": "Sing", "Person": "2"}, "upos": "VERB"}, "V;IMP;PL;2": {"morpho": {"Mood": "Imp", "Number": "Plur", "Person": "2"}, "upos": "VERB"}, "V;IMP;SG;2": {"morpho": {"Mood": "Imp", "Number": "Sing", "Person": "2"}, "upos": "VERB"}, "V;IND;PL;1;PRS": {"morpho": {"Mood": "Ind", "Number": "Plur", "Person": "1", "Tense": "Pres"}, "upos": "VERB"}, "V;IND;PL;1;PST": {"morpho": {"Mood": "Ind", "Number": "Plur", "Person": "1", "Tense": "Past"}, "upos": "VERB"}, "V;IND;PL;2;PRS": {"morpho": {"Mood": "Ind", "Number": "Plur", "Person": "2", "Tense": "Pres"}, "upos": "VERB"}, "V;IND;PL;2;PST": {"morpho": {"Mood": "Ind", "Number": "Plur", "Person": "2", "Tense": "Past"}, "upos": "VERB"}, "V;IND;PL;3;PRS": {"morpho": {"Mood": "Ind", "Number": "Plur", "Person": "3", "Tense": "Pres"}, "upos": "VERB"}, "V;IND;PL;3;PST": {"morpho": {"Mood": "Ind", "Number": "Plur", "Person": "3", "Tense": "Past"}, "upos": "VERB"}, "V;IND;PRS;1;PL": {"morpho": {"Mood": "Ind", "Number": "Plur", "Person": "1", "Tense": "Pres"}, "upos": "VERB"}, "V;IND;PRS;1;SG": {"morpho": {"Mood": "Ind", "Number": "Sing", "Person": "1", "Tense": "Pres"}, "upos": "VERB"}, "V;IND;PRS;2;PL": {"morpho": {"Mood": "Ind", "Number": "Plur", "Person": "2", "Tense": "Pres"}, "upos": "VERB"}, "V;IND;PRS;2;SG": {"morpho": {"Mood": "Ind", "Number": "Sing", "Person": "2", "Tense": "Pres"}, "upos": "VERB"}, "V;IND;PRS;3;PL": {"morpho": {"Mood": "Ind", "Number": "Plur", "Person": "3", "Tense": "Pres"}, "upos": "VERB"}, "V;IND;PRS;3;SG": {"morpho": {"Mood": "Ind", "Number": "Sing", "Person": "3", "Tense": "Pres"}, "upos": "VERB"}, "V;IND;PST;1;PL": {"morpho": {"Mood": "Ind", "Number": "Plur", "Person": "1", "Tense": "Past"}, "upos": "VERB"}, "V;IND;PST;1;SG": {"morpho": {"Mood": "Ind", "Number": "Sing", "Person": "1", "Tense": "Past"}, "upos": "VERB"}, "V;IND;PST;2;PL": {"morpho": {"Mood": "Ind", "Number": "Plur", "Person": "2", "Tense": "Past"}, "upos": "VERB"}, "V;IND;PST;2;SG": {"morpho": {"Mood": "Ind", "Number": "Sing", "Person": "2", "Tense": "Past"}, "upos": "VERB"}, "V;IND;PST;3;PL": {"morpho": {"Mood": "Ind", "Number": "Plur", "Person": "3", "Tense": "Past"}, "upos": "VERB"}, "V;IND;PST;3;SG": {"morpho": {"Mood": "Ind", "Number": "Sing", "Person": "3", "Tense": "Past"}, "upos": "VERB"}, "V;IND;SG;1;PRS": {"morpho": {"Mood": "Ind", "Number": "Sing", "Person": "1", "Tense": "Pres"}, "upos": "VERB"}, "V;IND;SG;1;PST": {"morpho": {"Mood": "Ind", "Number": "Sing", "Person": "1", "Tense": "Past"}, "upos": "VERB"}, "V;IND;SG;2;PRS": {"morpho": {"Mood": "Ind", "Number": "Sing", "Person": "2", "Tense": "Pres"}, "upos": "VERB"}, "V;IND;SG;2;PST": {"morpho": {"Mood": "Ind", "Number": "Sing", "Person": "2", "Tense": "Past"}, "upos": "VERB"}, "V;IND;SG;3;PRS": {"morpho": {"Mood": "Ind", "Number": "Sing", "Person": "3", "Tense": "Pres"}, "upos": "VERB"}, "V;IND;SG;3;PST": {"morpho": {"Mood": "Ind", "Number": "Sing", "Person": "3", "Tense": "Past"}, "upos": "VERB"}, "V;NFIN": {"morpho": {"VerbForm": "NonFin"}, "upos": "VERB"}, "V;NFIN;LGSPEC01": {"morpho": {"VerbForm": "NonFin"}, "upos": "VERB"}, "V;SBJV;PL;1;PRS": {"morpho": {"Mood": "Sub", "Number": "Plur", "Person": "1", "Tense": "Pres"}, "upos": "VERB"}, "V;SBJV;PL;1;PST": {"morpho": {"Mood": "Sub", "Number": "Plur", "Person": "1", "Tense": "Past"}, "upos": "VERB"}, "V;SBJV;PL;2;PRS": {"morpho": {"Mood": "Sub", "Number": "Plur", "Person": "2", "Tense": "Pres"}, "upos": "VERB"}, "V;SBJV;PL;2;PST": {"morpho": {"Mood": "Sub", "Number": "Plur", "Person": "2", "Tense": "Past"}, "upos": "VERB"}, "V;SBJV;PL;3;PRS": {"morpho": {"Mood": "Sub", "Number": "Plur", "Person": "3", "Tense": "Pres"}, "upos": "VERB"}, "V;SBJV;PL;3;PST": {"morpho": {"Mood": "Sub", "Number": "Plur", "Person": "3", "Tense": "Past"}, "upos": "VERB"}, "V;SBJV;PRS;1;PL": {"morpho": {"Mood": "Sub", "Number": "Plur", "Person": "1", "Tense": "Pres"}, "upos": "VERB"}, "V;SBJV;PRS;1;SG": {"morpho": {"Mood": "Sub", "Number": "Sing", "Person": "1", "Tense": "Pres"}, "upos": "VERB"}, "V;SBJV;PRS;2;PL": {"morpho": {"Mood": "Sub", "Number": "Plur", "Person": "2", "Tense": "Pres"}, "upos": "VERB"}, "V;SBJV;PRS;2;SG": {"morpho": {"Mood": "Sub", "Number": "Sing", "Person": "2", "Tense": "Pres"}, "upos": "VERB"}, "V;SBJV;PRS;3;PL": {"morpho": {"Mood": "Sub", "Number": "Plur", "Person": "3", "Tense": "Pres"}, "upos": "VERB"}, "V;SBJV;PRS;3;SG": {"morpho": {"Mood": "Sub", "Number": "Sing", "Person": "3", "Tense": "Pres"}, "upos": "VERB"}, "V;SBJV;PST;1;PL": {"morpho": {"Mood": "Sub", "Number": "Plur", "Person": "1", "Tense": "Past"}, "upos": "VERB"}, "V;SBJV;PST;1;SG": {"morpho": {"Mood": "Sub", "Number": "Sing", "Person": "1", "Tense": "Past"}, "upos": "VERB"}, "V;SBJV;PST;2;PL": {"morpho": {"Mood": "Sub", "Number": "Plur", "Person": "2", "Tense": "Past"}, "upos": "VERB"}, "V;SBJV;PST;2;SG": {"morpho": {"Mood": "Sub", "Number": "Sing", "Person": "2", "Tense": "Past"}, "upos": "VERB"}, "V;SBJV;PST;3;PL": {"morpho": {"Mood": "Sub", "Number": "Plur", "Person": "3", "Tense": "Past"}, "upos": "VERB"}, "V;SBJV;PST;3;SG": {"morpho": {"Mood": "Sub", "Number": "Sing", "Person": "3", "Tense": "Past"}, "upos": "VERB"}, "V;SBJV;SG;1;PRS": {"morpho": {"Mood": "Sub", "Number": "Sing", "Person": "1", "Tense": "Pres"}, "upos": "VERB"}, "V;SBJV;SG;1;PST": {"morpho": {"Mood": "Sub", "Number": "Sing", "Person": "1", "Tense": "Past"}, "upos": "VERB"}, "V;SBJV;SG;2;PRS": {"morpho": {"Mood": "Sub", "Number": "Sing", "Person": "2", "Tense": "Pres"}, "upos": "VERB"}, "V;SBJV;SG;2;PST": {"morpho": {"Mood": "Sub", "Number": "Sing", "Person": "2", "Tense": "Past"}, "upos": "VERB"}, "V;SBJV;SG;3;PRS": {"morpho": {"Mood": "Sub", "Number": "Sing", "Person": "3", "Tense": "Pres"}, "upos": "VERB"}, "V;SBJV;SG;3;PST": {"morpho": {"Mood": "Sub", "Number": "Sing", "Person": "3", "Tense": "Past"}, "upos": "VERB"}, "V;V.PTCP;PRS": {"morpho": {"Tense": "Pres", "VerbForm": "Part"}, "upos": "VERB"}, "V;V.PTCP;PST": {"morpho": {"Tense": "Past", "VerbForm": "Part"}, "upos": "VERB"}}
+{
+    "ADJ;ACC;FEM;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;MASC;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;NEUT;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;SG;FEM": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;SG;MASC": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;SG;NEUT": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;CMPR": {
+        "morpho": {
+            "Degree": "Cmp"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;FEM;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;MASC;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;NEUT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;SG;FEM": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;SG;MASC": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;SG;NEUT": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;FEM;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;MASC;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;NEUT;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;SG;FEM": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;SG;MASC": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;SG;NEUT": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;FEM;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;MASC;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;NEUT;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;SG;FEM": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;SG;MASC": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;SG;NEUT": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;SPRL": {
+        "morpho": {
+            "Degree": "Sup"
+        },
+        "upos": "ADJ"
+    },
+    "N;ACC;FEM+NEUT;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;FEM+NEUT;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;FEM;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": "Fem",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;FEM;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;MASC+FEM+NEUT;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;MASC+FEM+NEUT;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;MASC+FEM;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;MASC+FEM;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;MASC+NEUT;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;MASC+NEUT;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;MASC;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": "Masc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;MASC;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;NEUT;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": "Neut",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;NEUT;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;PL;": {
+        "morpho": {
+            "Case": "Acc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;PL;FEM": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": "Fem",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;PL;FEM+MASC": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;PL;MASC": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": "Masc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;PL;MASC+FEM": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;PL;MASC+FEM+NEUT": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;PL;MASC+NEUT": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;PL;NEUT": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": "Neut",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;PL;NEUT+FEM": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;PL;NEUT+MASC": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;SG;": {
+        "morpho": {
+            "Case": "Acc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;SG;FEM": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;SG;FEM+MASC": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;SG;FEM+MASC+NEUT": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;SG;FEM+NEUT": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;SG;FEM+NEUT+MASC": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;SG;MASC": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;SG;MASC+FEM": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;SG;MASC+FEM+NEUT": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;SG;MASC+NEUT": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;SG;NEUT": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;SG;NEUT+FEM": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;SG;NEUT+MASC": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;SG;NEUT+MASC+FEM": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;FEM+NEUT;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;FEM+NEUT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;FEM;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Fem",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;FEM;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;MASC+FEM+NEUT;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;MASC+FEM+NEUT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;MASC+FEM;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;MASC+FEM;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;MASC+NEUT;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;MASC+NEUT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;MASC;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Masc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;MASC;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;NEUT;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Neut",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;NEUT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;PL;": {
+        "morpho": {
+            "Case": "Dat",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;PL;FEM": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Fem",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;PL;MASC": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Masc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;PL;MASC+FEM": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;PL;MASC+FEM+NEUT": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;PL;MASC+NEUT": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;PL;NEUT": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Neut",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;PL;NEUT+FEM": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;SG;": {
+        "morpho": {
+            "Case": "Dat",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;SG;FEM": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;SG;FEM+MASC": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;SG;FEM+MASC+NEUT": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;SG;FEM+NEUT": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;SG;FEM+NEUT+MASC": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;SG;MASC": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;SG;MASC+FEM": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;SG;MASC+FEM+NEUT": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;SG;MASC+NEUT": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;SG;NEUT": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;SG;NEUT+FEM": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;SG;NEUT+MASC": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;SG;NEUT+MASC+FEM": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+MASC+NEUT;ACC;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+MASC+NEUT;DAT;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+MASC+NEUT;GEN;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+MASC+NEUT;GEN;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+MASC+NEUT;NOM;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+MASC;ACC;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+MASC;ACC;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+MASC;DAT;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+MASC;DAT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+MASC;GEN;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+MASC;GEN;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+MASC;NOM;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+NEUT+MASC;GEN;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+NEUT;ACC;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+NEUT;DAT;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+NEUT;DAT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+NEUT;GEN;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+NEUT;GEN;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+NEUT;NOM;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;FEM+NEUT;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;FEM+NEUT;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;FEM;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Fem",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;FEM;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;MASC+FEM+NEUT;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;MASC+FEM+NEUT;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;MASC+FEM;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;MASC+FEM;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;MASC+NEUT;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;MASC+NEUT;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;MASC;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Masc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;MASC;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;NEUT;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Neut",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;NEUT;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;PL;": {
+        "morpho": {
+            "Case": "Gen",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;PL;FEM": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Fem",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;PL;FEM+MASC": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;PL;MASC": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Masc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;PL;MASC+FEM": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;PL;MASC+FEM+NEUT": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;PL;MASC+NEUT": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;PL;NEUT": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Neut",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;PL;NEUT+FEM": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;PL;NEUT+MASC": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;SG;": {
+        "morpho": {
+            "Case": "Gen",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;SG;FEM": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;SG;FEM+MASC": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;SG;FEM+MASC+NEUT": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;SG;FEM+NEUT": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;SG;FEM+NEUT+MASC": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;SG;MASC": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;SG;MASC+FEM": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;SG;MASC+FEM+NEUT": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;SG;MASC+NEUT": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;SG;NEUT": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;SG;NEUT+FEM": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;SG;NEUT+MASC": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;SG;NEUT+MASC+FEM": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+FEM+NEUT;ACC;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+FEM+NEUT;DAT;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+FEM+NEUT;GEN;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+FEM+NEUT;GEN;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+FEM+NEUT;NOM;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+FEM;ACC;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+FEM;ACC;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+FEM;DAT;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+FEM;DAT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+FEM;GEN;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+FEM;GEN;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+FEM;NOM;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+NEUT;ACC;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+NEUT;ACC;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+NEUT;DAT;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+NEUT;DAT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+NEUT;GEN;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+NEUT;GEN;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+NEUT;NOM;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;ACC;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": "Masc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;ACC;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;DAT;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Masc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;DAT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;GEN;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Masc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;GEN;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;NOM;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": "Masc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT+FEM;ACC;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT+FEM;DAT;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT+FEM;DAT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT+FEM;GEN;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT+FEM;GEN;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT+FEM;NOM;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT+MASC+FEM;ACC;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT+MASC+FEM;DAT;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT+MASC+FEM;GEN;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT+MASC+FEM;NOM;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT+MASC;ACC;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT+MASC;ACC;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT+MASC;DAT;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT+MASC;DAT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT+MASC;GEN;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT+MASC;GEN;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT+MASC;NOM;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT;ACC;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": "Neut",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT;ACC;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT;DAT;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Neut",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT;DAT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT;GEN;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Neut",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT;GEN;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT;NOM;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": "Neut",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;FEM+NEUT;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;FEM+NEUT;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;FEM;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": "Fem",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;FEM;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;MASC+FEM+NEUT;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;MASC+FEM+NEUT;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;MASC+FEM;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;MASC+FEM;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;MASC+NEUT;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;MASC+NEUT;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;MASC;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": "Masc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;MASC;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;NEUT;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": "Neut",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;NEUT;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;PL;": {
+        "morpho": {
+            "Case": "Nom",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;PL;FEM": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": "Fem",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;PL;FEM+MASC": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;PL;MASC": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": "Masc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;PL;MASC+FEM": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;PL;MASC+FEM+NEUT": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;PL;MASC+NEUT": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;PL;NEUT": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": "Neut",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;PL;NEUT+FEM": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;PL;NEUT+MASC": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;SG;": {
+        "morpho": {
+            "Case": "Nom",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;SG;FEM": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;SG;FEM+MASC": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;SG;FEM+MASC+NEUT": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;SG;FEM+NEUT": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;SG;FEM+NEUT+MASC": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;SG;MASC": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;SG;MASC+FEM": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Fem",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;SG;MASC+FEM+NEUT": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;SG;MASC+NEUT": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;SG;NEUT": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;SG;NEUT+FEM": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Fem",
+                "Neut"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;SG;NEUT+MASC": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;SG;NEUT+MASC+FEM": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": [
+                "Fem",
+                "Neut",
+                "Masc"
+            ],
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "V.PTCP;PRS": {
+        "morpho": {
+            "Tense": "Pres",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;PST": {
+        "morpho": {
+            "Tense": "Past",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;2;PL": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;2;SG": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;PL;2": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;SG;2": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;PL;1;PRS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;PL;1;PST": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;PL;2;PRS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "2",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;PL;2;PST": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;PL;3;PRS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;PL;3;PST": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;PRS;1;PL": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;PRS;1;SG": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;PRS;2;PL": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "2",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;PRS;2;SG": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;PRS;3;PL": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;PRS;3;SG": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;PST;1;PL": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;PST;1;SG": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;PST;2;PL": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;PST;2;SG": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;PST;3;PL": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;PST;3;SG": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;SG;1;PRS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;SG;1;PST": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;SG;2;PRS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;SG;2;PST": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;SG;3;PRS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;SG;3;PST": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NFIN": {
+        "morpho": {
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    },
+    "V;NFIN;LGSPEC01": {
+        "morpho": {
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;PL;1;PRS": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;PL;1;PST": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;PL;2;PRS": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Plur",
+            "Person": "2",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;PL;2;PST": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Plur",
+            "Person": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;PL;3;PRS": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;PL;3;PST": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;PRS;1;PL": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;PRS;1;SG": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;PRS;2;PL": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Plur",
+            "Person": "2",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;PRS;2;SG": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;PRS;3;PL": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;PRS;3;SG": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;PST;1;PL": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;PST;1;SG": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;PST;2;PL": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Plur",
+            "Person": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;PST;2;SG": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;PST;3;PL": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;PST;3;SG": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;SG;1;PRS": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;SG;1;PST": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;SG;2;PRS": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;SG;2;PST": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;SG;3;PRS": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;SG;3;PST": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;V.PTCP;PRS": {
+        "morpho": {
+            "Tense": "Pres",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V;V.PTCP;PST": {
+        "morpho": {
+            "Tense": "Past",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    }
+}

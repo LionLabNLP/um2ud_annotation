@@ -1,1 +1,104 @@
-{"ADP;1;PL;LGSPEC1": {"morpho": {"Number": "Plur", "Person": "1"}, "upos": "ADP"}, "ADP;1;PL;LGSPEC2": {"morpho": {"Number": "Plur", "Person": "1"}, "upos": "ADP"}, "ADP;1;SG;LGSPEC1": {"morpho": {"Number": "Sing", "Person": "1"}, "upos": "ADP"}, "ADP;1;SG;LGSPEC2": {"morpho": {"Number": "Sing", "Person": "1"}, "upos": "ADP"}, "ADP;2;PL;LGSPEC1": {"morpho": {"Number": "Plur", "Person": "2"}, "upos": "ADP"}, "ADP;2;PL;LGSPEC2": {"morpho": {"Number": "Plur", "Person": "2"}, "upos": "ADP"}, "ADP;2;SG;LGSPEC1": {"morpho": {"Number": "Sing", "Person": "2"}, "upos": "ADP"}, "ADP;2;SG;LGSPEC2": {"morpho": {"Number": "Sing", "Person": "2"}, "upos": "ADP"}, "ADP;3;PL;LGSPEC1": {"morpho": {"Number": "Plur", "Person": "3"}, "upos": "ADP"}, "ADP;3;PL;LGSPEC3": {"morpho": {"Number": "Plur", "Person": "3"}, "upos": "ADP"}, "ADP;3;SG;FEM;LGSPEC1": {"morpho": {"Gender": "Fem", "Number": "Sing", "Person": "3"}, "upos": "ADP"}, "ADP;3;SG;FEM;LGSPEC2": {"morpho": {"Gender": "Fem", "Number": "Sing", "Person": "3"}, "upos": "ADP"}, "ADP;3;SG;MASC;LGSPEC1": {"morpho": {"Gender": "Masc", "Number": "Sing", "Person": "3"}, "upos": "ADP"}, "ADP;3;SG;MASC;LGSPEC2": {"morpho": {"Gender": "Masc", "Number": "Sing", "Person": "3"}, "upos": "ADP"}}
+{
+    "ADP;1;PL;LGSPEC1": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "1"
+        },
+        "upos": "ADP"
+    },
+    "ADP;1;PL;LGSPEC2": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "1"
+        },
+        "upos": "ADP"
+    },
+    "ADP;1;SG;LGSPEC1": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1"
+        },
+        "upos": "ADP"
+    },
+    "ADP;1;SG;LGSPEC2": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1"
+        },
+        "upos": "ADP"
+    },
+    "ADP;2;PL;LGSPEC1": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "2"
+        },
+        "upos": "ADP"
+    },
+    "ADP;2;PL;LGSPEC2": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "2"
+        },
+        "upos": "ADP"
+    },
+    "ADP;2;SG;LGSPEC1": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "ADP"
+    },
+    "ADP;2;SG;LGSPEC2": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "ADP"
+    },
+    "ADP;3;PL;LGSPEC1": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3"
+        },
+        "upos": "ADP"
+    },
+    "ADP;3;PL;LGSPEC3": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3"
+        },
+        "upos": "ADP"
+    },
+    "ADP;3;SG;FEM;LGSPEC1": {
+        "morpho": {
+            "Gender": "Fem",
+            "Number": "Sing",
+            "Person": "3"
+        },
+        "upos": "ADP"
+    },
+    "ADP;3;SG;FEM;LGSPEC2": {
+        "morpho": {
+            "Gender": "Fem",
+            "Number": "Sing",
+            "Person": "3"
+        },
+        "upos": "ADP"
+    },
+    "ADP;3;SG;MASC;LGSPEC1": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number": "Sing",
+            "Person": "3"
+        },
+        "upos": "ADP"
+    },
+    "ADP;3;SG;MASC;LGSPEC2": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number": "Sing",
+            "Person": "3"
+        },
+        "upos": "ADP"
+    }
+}
