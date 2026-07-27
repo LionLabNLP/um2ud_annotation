@@ -490,7 +490,7 @@ def map_um_value_to_ud(ufeat_raw):
                                                      parse_ufeat_value(subval),
                                                      is_disjunction=True)
 
-    out_format = {k: (v if type(v)!=set else tuple(v)) 
+    out_format = {k: (v if type(v)!=set else (tuple(v) if len(v)>1 else v.pop())) 
                   for k,v in sorted(mapped_morpho.items())}
     out_format = {"morpho": {k: v for k, v in out_format.items() if k!="upos"},
                   "upos": out_format.get("upos", None)}

@@ -3,11 +3,9 @@ Mapping morphological annotation from Unimorph to Universal Dependencies format 
 
 # Usage
 
-This repo's main intention is to map from the Unimorph (UM) annotation strings to valid Universal Dependencies (UD) formatted annotation (UPOS and morphological annotation), e.g.:
+This repo's main intention is to map from the Unimorph (UM) annotation strings to valid Universal Dependencies (UD) formatted annotation (UPOS and morphological annotation).
 
-> "eat	eaten	V;V.PTCP;PST" -> {'morpho': {'Tense': 'Past', 'VerbForm': 'Part'}, 'upos': ('VERB',)}
-
-Given an annotation string in Unimorph format `V;V.PTCP;PST`, we can obtain a UD-compatible feature dictionary `{"upos": "VERB", "VerbForm": "Participle", "Tense": "Past"}`:
+Given an annotation string in Unimorph format `V;V.PTCP;PST` (eat/eaten), we can obtain a UD-compatible feature dictionary `{'morpho': {'Tense': 'Past', 'VerbForm': 'Part'}, 'upos': 'VERB'}`:
 
 ```
 from um2ud_morpho.UM2UD_mapper import map_um_value_to_ud
@@ -16,7 +14,7 @@ print(ud_annotation)
 {'morpho': {'Tense': 'Past', 'VerbForm': 'Part'}, 'upos': ('VERB',)}
 ````
 
-When faced with a foreign value, a warning will be printed. Typos are also included here.
+When faced with a foreign value, a warning will be printed. Add the mapping to `UM2UD_values` or `unk_values` as needed.
 
 # Contents
 
@@ -24,10 +22,10 @@ When faced with a foreign value, a warning will be printed. Typos are also inclu
 * Contains the tagset of the Unimorph tags (and the features which the central documentation outlines), based on the UM docs and actual UM data.
 
 **data/**
-* Preparsed UM annotation types (i.e. without lemma/form information) per language, and one `complete_parses` collection
+* Preparsed UM annotation types (i.e., without lemma/form information) per language (`lang_code.json`), all in one file (`complete_parses.json`), and a collection of all unique annotation string parses across all languages (`unique_parses.json`) 
 
 **LGSPECs.md**
-* Compiled documenation on LGSPECXX tags from unimorph data repositories' readme fiels
+* Compiled documentation on `LGSPECXX` tags from the Unimorph data repositories' readme files
 
 **UM2UD_mapper.py**
 * Usage functions
@@ -38,25 +36,26 @@ When faced with a foreign value, a warning will be printed. Typos are also inclu
 # Known Issues
 
 #### Unmapped Features/Values 
-Some features/values are not modelled in UD and can therefore not be represented, these are found in UM2UD_mapper's `UM2UD_values` dict, but correspond to an empty feature dictionary.
+Some features/values are not modelled in UD and can therefore not be represented; these are found in `UM2UD_mapper`'s `UM2UD_values` dict, but correspond to an empty feature dictionary.
 
 |Feature|Value|Reason|Affects|
 |---|---|---|---|
-|Aktionsart|STAT, stative | Feature not modelled by UD|Chukchi|
-|Case|APPRX, approximate|Value not in UD|Livvi, Veps|
-|Case|OBL, oblique|Value not in UD|Gujarati(OBL+VOC)|
-|Interrogativity|DECL, declarative|Feature not modelled by UD|Korean, Turkish|
-|Mood|DED, deductive|Value not in UD|Yakut|
-|Mood|INFR, ??|Value not in UD|Turkish|
-|Voice|APPL, applicative|Value not in UD|Indonesian|
+|Aktionsart|STAT, stative | Feature not modelled by UD|Chukchi (ckt)|
+|Case|APPRX, approximate|Value not in UD|Livvi (olo), Veps (vep)|
+|Case|OBL, oblique|Value not in UD|Gujarati (OBL+VOC) (guj)|
+|Interrogativity|DECL, declarative|Feature not modelled by UD|Korean (kor), Turkish (tur)|
+|Mood|DED, deductive|Value not in UD|Sakha/Yakut (sah)|
+|Mood|INFR, ??|Value not in UD|Turkish (tur)|
+|Voice|APPL, applicative|Value not in UD|Indonesian (ind)|
+|upos?|ADJ.CVB/MSDR/PTCP|Verbal tags on ADJ unclear, only upos=ADJ mapped|Korean (kor)|
 
 The same file also has `unk_values`. These did occur in the Unimorph data, but for which neither documentation nor a corresponding UD value could be found, so that it is unclear whether they could be modelled by UD:
 
 |Feature|Value|Affects|
 |---|---|---|
-|Tense|NPST, Nonpast|Yakut|
-|Mood|HYP, hypothetic|Basque|
-|Case|(non)NOM, negated nominative|Pashto|
+|Tense|NPST, Nonpast|Sakha/Yakut (sah)|
+|Mood|HYP, hypothetic|Basque (eus)|
+|Case|(non)NOM, negated nominative|Pashto (pus)|
 
 #### Language-Specific (LGSPEC) Tags
 
@@ -84,19 +83,19 @@ It is possible that some instances of multivalue conflicts are/were intended as 
 
 # Creation
 
-The mapping is created specifically for the Unimorph -> Universal Dependencies direction. The focus is on mapping the values which occur in the Unimorph data to UD-compatible annotation.
+The mapping is created specifically for the Unimorph -> Universal Dependencies direction. The focus is on mapping the values that occur in the Unimorph data to UD-compatible annotation.
 
 1. Compile UM tagset from UM docs and data
-2. Search for direct matches in UD (i.e. same feature and value name, like Tense/FUT -> Tense/Fut, 'future') and close matches with direct correspondence (Tense/PRS -> Tense/Pres, 'present')
-3. Search for indirect correspondence via UD docs and UM-UD mapping (2023), e.g. Mood/OBLIG -> Mood/Nec
-4. Write mapping, note extra/missing values and define additional heuristics (incl. for argument marking/possession, and non-atomic values)
+2. Search for direct matches in UD (i.e., same feature and value name, like Tense/FUT -> Tense/Fut, 'future') and close matches with direct correspondence (Tense/PRS -> Tense/Pres, 'present')
+3. Search for indirect correspondence via UD docs and UM-UD mapping (2023), e.g., Mood/OBLIG -> Mood/Nec
+4. Write mapping, note extra/missing values, and define additional heuristics (incl. for argument marking/possession, and non-atomic values)
 
 
 # Citations
 
 **UM master repository:** https://github.com/unimorph/unimorph
 
-**UM documentation:** Sylak-Glassman, J. (2016). The Composition and use of the Universal Morphological Feature Schema (Unimorph Schema). Johns Hopkins University, p. 1–79. https://unimorph.github.io/publications/
+**UM documentation:** Sylak-Glassman, J. (2016). The Composition and Use of the Universal Morphological Feature Schema (Unimorph Schema). Johns Hopkins University, p. 1–79. https://unimorph.github.io/publications/
 
 **UM-UD mapping** by Dan Zeman (2023): https://github.com/dan-zeman/interset/blob/master/lib/Lingua/Interset/Tagset/MUL/Unimorph.pm
 
