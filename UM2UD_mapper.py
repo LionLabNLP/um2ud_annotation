@@ -270,7 +270,7 @@ UM2UD_values = dict(sorted({
 }.items(), key=lambda x: len(x[0]), reverse=True))
 
 for cls in (f"Bantu{i+1}" for i in range(23)):
-    UM2UD_values[cls.upper()] = {cls: {"NounClass": cls}}
+    UM2UD_values[cls.upper()] = {"NounClass": cls}
 
 
 blacklist = [
