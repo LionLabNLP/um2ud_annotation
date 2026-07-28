@@ -375,7 +375,7 @@ unk_values = [
     # found in UM data but couldnt find an appropriate UD match
     # also includes any conjunction (v1+v2)
     "NPST",      # yakut tense
-    "HYP",       # basque mood
+    "HYP",       # basque mood, (≠conditional, ≠potential)
     "(non)NOM",  # pashto negated case
     "(NON)NOM",
 ]

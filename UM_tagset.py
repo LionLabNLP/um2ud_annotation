@@ -77,7 +77,7 @@ UM_feature2values = {
     "PROL",   # Prolative/translative (Asp)
     "VERS"    # Versative (Asp)
   ],
-  "Comparison/Degree": [
+  "Degree": [
     "CMPR",  # Comparative
     "SPRL",  # Superlative
     "AB",    # Absolute (for superlatives)
@@ -118,18 +118,20 @@ UM_feature2values = {
     "INFER",  # Inferred
     "ASSUM"   # Assumed
   ],
-  "Finiteness": [
+  "VerbForm": [ # "Finiteness"
     "FIN",   # Finite
     "NFIN"   # Nonfinite
   ],
-  "Gender/Nounclass": [
+  "Gender": [
     "MASC",       # Masculine
     "FEM",        # Feminine
     "NEUT",       # Neuter
-    "BANTU1-23",  # Bantu Noun Classes
-    "NAKH1-8"     # Nakh-Daghestanian Noun Classes
   ],
-  "Information Structure": [
+  "NounType": ([f"BANTU{i}" for i in range(1,24)] # Bantu Noun Classes
+    +[f"NAKH{i}" for i in range(1,9)]     # Nakh-Daghestanian Noun Classes
+  )
+  ,
+  "Infstruct": [
     "TOP",  # Topic
     "FOC"   # Focus
   ],
@@ -168,7 +170,7 @@ UM_feature2values = {
     "GPAUC",  # Greater paucal
     "INVN"    # Inverse
   ],
-  "POS": [
+  "upos": [
     "N",       # Noun
     "PROPN",   # Proper Name
     "ADJ",     # Adjective
@@ -264,40 +266,40 @@ UM_feature2values = {
 }
 
 # not in UM docs, found in UM data
-UM_feature2values["Aspect"] + [
+UM_feature2values["Aspect"] += [
     "FREQ", # Lithuanian
 ]
-UM_feature2values["Non Core, Non Local Case"] + [
+UM_feature2values["Non Core, Non Local Case"] += [
     "INST", # Czech, Hungarian, Kazakh, Latvian, Lithuanian
     "OBL",  # Japanese, Turkish, Yakut
     "IO",   # Basque, indirect object arg marking case
 ]
-UM_feature2values["Local Case"] + [
+UM_feature2values["Local Case"] += [
     "IN+ESS", # Estonian, Finnish, Hungarian, Karelian, Livvi, Veps
     "LOC",    # Locative; Armenian, Assamese, Azerbaijani, Bengali, Gujarati, Kazakh, Korean, Latin, Latvian, Lithuanian, Sanskrit, Tatar, Turkish, Uzbek
 ]
-UM_feature2values["Degree"] + [
+UM_feature2values["Degree"] += [
     "SUP",   # Afrikaans
 ]
-UM_feature2values["Gender"] + [
+UM_feature2values["Gender"] += [
     "MASV",  # Irish
 ]
-UM_feature2values["Mood"] + [
+UM_feature2values["Mood"] += [
     "INFR",  # Turkish
     "SUBJ",  # Portugese, SBJV mistag
 ]
-UM_feature2values["NOUNTYPE"] + [
+UM_feature2values["NounType"] += [
     "STRONG", # Irish
     "WEAK",   # Irish
 ]
-UM_feature2values["PERSON"] + [
+UM_feature2values["Person"] += [
     "AUTO", # Irish, autonomous verb
 ]
-UM_feature2values["POS"] + [
+UM_feature2values["upos"] += [
     "PRON", # Irish, pronoun PRO mistag
     "PRE",  # preposition?
 ]
-UM_feature2values["VERBFORM"] + [
+UM_feature2values["VerbForm"] += [
     "INF",  # infinitive?
     "PTCP", # participle?
     "PCTP", # V.PCTP mistag -> V:PTCP, slovenian
@@ -305,12 +307,12 @@ UM_feature2values["VERBFORM"] + [
     "CVB",  # converbal
     "CV",   # CVB mistag, korean
 ]
-UM_feature2values["Tense"] + [
+UM_feature2values["Tense"] += [
     "PRES",  # PRS mistag, basque, sanskrit, yiddish
     "PAST",  # PST mistag, basque
 ]
 # used for argumentmarking (ARGXX) and possession marking (PSSX(X))
-UM_feature2values["supplements"] = [
+UM_feature2values["Supplements"] = [
     "AB",   # absolutive
     "AC",   # accusative
     "BE",   # benefactive
@@ -326,3 +328,11 @@ UM_feature2values["supplements"] = [
     "INFM", # basque
     "D",    # Construct state; UM Chuckchi, Hebrew
 ]
+
+UM_feature2values["Case"] = (UM_feature2values["Core Case"] 
+                             + UM_feature2values["Non Core, Non Local Case"] 
+                             + UM_feature2values["Local Case"])
+UM_feature2values["Polite"] = (UM_feature2values["Politeness (Speaker-Addressee)"] 
+                               + UM_feature2values["Politeness (Speaker-Bystander)"]
+                               +UM_feature2values["Politeness (Speaker-Referent)"]
+                               +UM_feature2values["Politeness (Speaker-Setting)"])
