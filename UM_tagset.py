@@ -84,7 +84,7 @@ UM_feature2values = {
     "RL",    # Relative (for superlatives)
     "EQT"    # Equative
   ],
-  "Definiteness": [
+  "Definite": [
     "DEF",    # Definite
     "INDF",   # Indefinite
     "SPEC",   # Specific

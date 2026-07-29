@@ -11,7 +11,7 @@ Given an annotation string in Unimorph format `V;V.PTCP;PST` (eat/eaten), we can
 from um2ud_morpho.UM2UD_mapper import map_um_value_to_ud
 ud_annotation = map_um_value_to_ud("V;V.PTCP;PST")
 print(ud_annotation)
-{'morpho': {'Tense': 'Past', 'VerbForm': 'Part'}, 'upos': ('VERB',)}
+{'morpho': {'Tense': 'Past', 'VerbForm': 'Part'}, 'upos': 'VERB'}
 ````
 
 When faced with a foreign value, a warning will be printed. Add the mapping to `UM2UD_values` or `unk_values` as needed.
