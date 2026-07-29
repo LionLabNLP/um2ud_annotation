@@ -131,7 +131,7 @@ UM_feature2values = {
     +[f"NAKH{i}" for i in range(1,9)]     # Nakh-Daghestanian Noun Classes
   )
   ,
-  "Infstruct": [
+  "InfStruct": [
     "TOP",  # Topic
     "FOC"   # Focus
   ],
