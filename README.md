@@ -1,4 +1,4 @@
-# um2ud_morpho
+# um2ud_annotation
 Mapping morphological annotation from Unimorph to Universal Dependencies format and tags
 
 # Usage
@@ -8,7 +8,7 @@ This repo's main intention is to map from the Unimorph (UM) annotation strings t
 Given an annotation string in Unimorph format `V;V.PTCP;PST` (eat/eaten), we can obtain a UD-compatible feature dictionary `{'morpho': {'Tense': 'Past', 'VerbForm': 'Part'}, 'upos': 'VERB'}`:
 
 ```
-from um2ud_morpho.UM2UD_mapper import map_um_value_to_ud
+from um2ud_annotation.UM2UD_mapper import map_um_value_to_ud
 ud_annotation = map_um_value_to_ud("V;V.PTCP;PST")
 print(ud_annotation)
 {'morpho': {'Tense': 'Past', 'VerbForm': 'Part'}, 'upos': 'VERB'}
