@@ -207,7 +207,7 @@ UM2UD_values = dict(sorted({
     "ADP":      {"upos": "ADP"},      # Adposition
     "ADV":      {"upos": "ADV"},      # Adverb
     "ART":      {"upos": "DET",
-                 "Prontype": "Art"},  # Article, Afrikaans
+                 "PronType": "Art"},  # Article, Afrikaans
     "AUX":      {"upos": "AUX"},      # Auxiliary, only Xibe has AUX
     "CONJ":     {"upos": "CONJ"},     # Conjunction, dan, strictly not UD (CCONJ vs SCONJ)
     "CLF":      {"upos": "NOUN",      # Classifier, dan, not in UM data
