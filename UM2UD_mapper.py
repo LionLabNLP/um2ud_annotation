@@ -169,7 +169,7 @@ UM2UD_values = dict(sorted({
     "3":    {"Person": "3"},    # Third person
     "4":    {"Person": "4"},    # hungarian PSS UM
     "AUTO": {"Person": "0"},    # irish impersonal/autonomous form, person=0 according to UD treebank readme; not in UM docs, but found in UM data
-    "IMPRS":{"Person": 0},      # Impersonal, dan, not in UM data
+    "IMPRS":{"Person": "0"},      # Impersonal, dan, not in UM data
 
     # "INF": "Informal", # used as basuqe person, how does UD handle this?
     # ud doesnt have obviative
