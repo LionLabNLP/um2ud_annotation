@@ -1,6 +1,7 @@
 # dan https://github.com/dan-zeman/interset/blob/master/lib/Lingua/Interset/Tagset/MUL/Unimorph.pm
 
 import re
+from typing import Optional
 
 shortened_vals = dict(sorted({
     "AB":   {"Case": "Abs"},     # absolutive
@@ -444,6 +445,23 @@ unk_values = {
     "SS":     "Switch_Reference",  # pei (1680) -- dan
     "DS":     "Switch_Reference",  # ail (126) -- dan
     "SIMMA":  "Switch_Reference",  # ail (183) -- dan
+
+    # These 8 were already keys in UM2UD_values itself, mapped to {} (i.e.
+    # already correctly excluded from val2feat) -- but ufeats2dict's own
+    # unguarded fallback branches (the "." and "+" multi-value splits) did a
+    # raw val2feat[...] index with no fallback for exactly this case, so any
+    # of these crashed instead of degrading gracefully (found via Gujarati's
+    # "OBL", real data: "N;FEM;OBL+VOC;PL" etc). Moved here, same as the
+    # rest of this dict, purely so they get a real category bucket instead
+    # of "UNK" once the crash was fixed.
+    "OBL":    "Case",             # gujarati, only ever as "OBL+VOC"
+    "APPRX":  "Case",             # dan; ail, krl, lud, olo, vep
+    "STAT":   "Aktionsart",       # stative; ail, ckt, evn, xty
+    "DECL":   "Interrogativity",  # dan; kor, mag, tur
+    "DED":    "Mood",             # Deductive, dan, Yakut (sah)
+    "INFR":   "Mood",             # not in UM docs, but found in UM data; tur
+    "SIM":    "Mood",             # Simulative; ail
+    "APPL":   "Voice",            # dan, conflict in ind.pickle; ind
 }
 
 fix_typos = {
@@ -537,6 +555,33 @@ def safe_dict_update(dict1, dict2, is_disjunction=False):
 # bucket instead of conflating them with genuinely unrecognized input --
 # can import this instead of re-deriving or hardcoding the pattern.
 LGSPEC_PATTERN = re.compile(r".?LGSPEC\d+")
+
+
+def feature_for(val: str) -> Optional[str]:
+    """The UM tagset feature category for a bare UM value, whether or not it
+    has a real UD mapping: val2feat's own entry if it has one; else its
+    category from blacklist/unk_values if this package knows the value is
+    real but has deliberately chosen not to map it; else the
+    LGSPEC-placeholder category; else None (genuinely unrecognized).
+    Normalizes known typos first (fix_typos), same as map_um_value_to_ud.
+
+    This is the single entry point for "what feature bucket does this UM
+    value belong to" -- a consumer that only cares about values with an
+    actual UD mapping should use val2feat directly instead, but one that
+    wants every acknowledged-real value to resolve to *something* (so e.g.
+    Basque's HYP mood stays distinguishable from genuinely-unrecognized
+    input, instead of both collapsing into the same fallback) needs this.
+    """
+    val = fix_typos.get(val, val)
+    if val in val2feat:
+        return val2feat[val]
+    if LGSPEC_PATTERN.match(val.upper()):
+        return "Language_Specific"
+    if val in blacklist:
+        return blacklist[val]
+    if val in unk_values:
+        return unk_values[val]
+    return None
 
 
 def map_um_value_to_ud(ufeat_raw):
