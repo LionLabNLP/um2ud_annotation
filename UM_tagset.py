@@ -126,6 +126,12 @@ UM_feature2values = {
     "MASC",       # Masculine
     "FEM",        # Feminine
     "NEUT",       # Neuter
+    "COMN",       # Common (UD Gender=Com, e.g. Danish/Swedish/Dutch -- not
+                  # a real UniMorph tag (UM's schema has no common-gender
+                  # value at all), added here so it round-trips through the
+                  # normal UD<->UM conversion like any other Gender value
+                  # instead of being silently dropped. Not "COM": that tag
+                  # is already Case=Comitative above.
   ],
   "NounType": ([f"BANTU{i}" for i in range(1,24)] # Bantu Noun Classes
     +[f"NAKH{i}" for i in range(1,9)]     # Nakh-Daghestanian Noun Classes

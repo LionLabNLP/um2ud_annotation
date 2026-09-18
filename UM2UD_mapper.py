@@ -117,6 +117,8 @@ UM2UD_values = dict(sorted({
     "FEM":  {"Gender": "Fem"},   # Feminine
     "MASC": {"Gender": "Masc"},  # Masculine
     "NEUT": {"Gender": "Neut"},  # Neuter
+    "COMN": {"Gender": "Com"},   # Common (Danish/Swedish/Dutch/... -- not a
+                                 # real UM tag, see UM_tagset.py's own entry
 
     # INFORMATION STRUCTURE
     "FOC": {"InfStruct": "Foc"},  # Focus
@@ -416,6 +418,19 @@ unk_values = {
     "HYP":       "Mood",   # basque mood, (≠conditional, ≠potential)
     "(non)NOM":  "Case",   # pashto negated case
     "(NON)NOM":  "Case",
+    "non{NOM}":  "Case",   # old french negated case; fro (145 rows)
+    "NON{NOM}":  "Case",   # map_um_value_to_ud upper()s the whole string
+                           # before this check, so only the uppercase form
+                           # is ever actually matched there -- both kept,
+                           # same as (non)NOM/(NON)NOM above, since other
+                           # consumers (e.g. multiblimp.unimorph.feature_for)
+                           # don't uppercase first.
+    "not{NOM}":  "Case",   # old french negated case; fro (227 rows)
+    "NOT{NOM}":  "Case",
+    "nonNOM":    "Case",   # multiblimp.unimorph.ufeats2dict strips "{"/"}"
+    "NONNOM":    "Case",   # before this check, so the brace-free (and, via
+    "notNOM":    "Case",   # its own final .upper() fallback branch, all-
+    "NOTNOM":    "Case",   # caps) spellings need entries here too.
 
     # The following 14 were in `missing` above (wrongly, per that dict's
     # "missing from the actual UM data" comment) until a 2026-09 scan of
@@ -596,14 +611,24 @@ def map_um_value_to_ud(ufeat_raw):
         ufeat = fix_typos.get(ufeat, ufeat)
         if (ufeat in blacklist) or (ufeat in ("", "-")) or (ufeat in unk_values): # skip: dont know what to map these to
             continue
-        # first: check if: / or +, i.e. non-atomic value (disjunction/conjunction)
-        if not re.findall(r"\+|/", ufeat):
+        # first: check if: / or , or +, i.e. non-atomic value
+        # (disjunction/conjunction). "," is a second disjunction marker
+        # alongside "/" (not a conjunction like "+") -- this codebase's own
+        # output convention for a resolved multi-value already agrees:
+        # safe_dict_update's is_disjunction branch joins with "," (e.g.
+        # "Fem,Masc"), so an input value like Person's syncretic "1,2,3"
+        # (ambiguous among all three, not simultaneously all three) gets
+        # the same disjunction treatment as "1/2/3" would, instead of
+        # falling through as one unrecognized atomic string and silently
+        # losing the feature (previously: "Warning: Unknown Unimorph
+        # value 1,2,3").
+        if not re.findall(r"\+|/|,", ufeat):
             # normal case, atomic UM ufeat value, e.g. "NOM"
-            mapped_morpho = safe_dict_update(mapped_morpho, 
+            mapped_morpho = safe_dict_update(mapped_morpho,
                                              parse_ufeat_value(ufeat))
         else:
             # do partial parse
-            if "+" in ufeat and "/" in ufeat: # highly complex
+            if "+" in ufeat and re.findall(r"/|,", ufeat): # highly complex
                 continue # skip: we cant model conjucntions, also order of operations is unclear here
             elif "+" in ufeat: # conjunction
                 if ufeat in UM2UD_values: # very few conjunctions have one atomic UD counterpart
@@ -616,7 +641,7 @@ def map_um_value_to_ud(ufeat_raw):
                         mapped_morpho = safe_dict_update(mapped_morpho,
                                                          parse_ufeat_value(subval))
             else: # disjunction (these, we can model in UD)
-                for subval in ufeat.split("/"):
+                for subval in re.split(r"/|,", ufeat):
                     mapped_morpho = safe_dict_update(mapped_morpho,
                                                      parse_ufeat_value(subval),
                                                      is_disjunction=True)
