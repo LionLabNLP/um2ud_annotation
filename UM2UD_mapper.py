@@ -572,6 +572,14 @@ def safe_dict_update(dict1, dict2, is_disjunction=False):
 LGSPEC_PATTERN = re.compile(r".?LGSPEC\d+")
 
 
+def um_tag_upos(tag: str) -> Optional[str]:
+    """The UD upos a bare UM tag implies, e.g. "ART" -> "DET", "PRO" -> "PRON",
+    "PRE" -> "ADP", "V" -> "VERB"; None if the tag implies no upos (or is
+    unknown). Normalizes known typos first (fix_typos).
+    """
+    return UM2UD_values.get(fix_typos.get(tag, tag), {}).get("upos")
+
+
 def feature_for(val: str) -> Optional[str]:
     """The UM tagset feature category for a bare UM value, whether or not it
     has a real UD mapping: val2feat's own entry if it has one; else its

@@ -21,8 +21,39 @@ from .UM2UD_mapper import UM2UD_values
 
 # Pass 1: (feature, value) -> UM tag, via each tag's first dict item (matches
 # UM2UD_values' longest-tag-first order, e.g. Mood/Ind -> "IND" over "REAL").
+# Several UD values are genuinely ambiguous this way -- more than one UM tag
+# collapses onto the same (feature, value) pair because UD's schema doesn't
+# distinguish what UniMorph does (e.g. Aspect/Perf covers both PFV and PRF).
+# Every colliding tag is kept, "/"-joined the same way UniMorph itself
+# encodes a disjunctive tag (matching feat_val_to_um_tag's own convention
+# below) -- a downstream QUERY-time lookup by exact form+lemma concretizes
+# to whichever one the real entry actually is, so keeping every candidate
+# here only widens that search, never picks the wrong single answer outright.
+# upos collisions are excluded from this and keep their original single
+# pick: unlike a marked feature value (Aspect=Perf, Case=Ess, ...), upos is
+# a mandatory, high-frequency field on every token, and the BUILD-time UD ->
+# UM converter (multiblimp.ud2um.ud_feats_to_um_tags, used once per real UD
+# token with no later concretization step) would otherwise bake this
+# disjunction into every single token of that upos, in every language, not
+# just the rare one the ambiguity is really about -- confirmed the hard way:
+# joining upos/ADJ's collision ("ADJ.MSDR/ADJ.PTCP/ADJ.CVB/ADJ" -- Korean's
+# deverbal-adjective forms, which carry no other UD feature to disambiguate
+# by, unlike the verbal VerbForm/Part etc. equivalents) broke parsing for
+# every OTHER language's plain adjectives the moment ud2um.py touched real
+# data (UnimorphInflector.ufeats2dict's dot-count assumption chokes on the
+# multi-dot compound). Left as a known, unfixed gap for Korean specifically,
+# not attempted here.
+_pair_to_tags: Dict[Tuple[str, str], List[str]] = {}
+for _um_tag, _ud_feats in UM2UD_values.items():
+    if not _ud_feats.items():
+        continue
+    _pair_to_tags.setdefault(tuple(_ud_feats.items())[0], []).append(_um_tag)
 UD2UM_values: Dict[Tuple[str, str], str] = {
-    tuple(v.items())[0]: k for k, v in UM2UD_values.items() if v.items()
+    # upos/* keeps its original single pick (the last of the colliding tags
+    # in UM2UD_values' own definition order, matching what a last-write-wins
+    # dict comprehension picked before this rewrite), not the first.
+    pair: (tags[-1] if pair[0] == "upos" else "/".join(dict.fromkeys(tags)))
+    for pair, tags in _pair_to_tags.items()
 }
 # Pass 2: backfill (feature, value) pairs a compound tag sets beyond its
 # first (e.g. VerbForm/Part for "V.PTCP"), without overwriting pass 1's picks.
