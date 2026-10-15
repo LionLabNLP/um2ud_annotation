@@ -2,7 +2,7 @@
     "ADJ;SG;POS;;;": {
         "morpho": {
             "Number": "Sing",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -10,7 +10,7 @@
         "morpho": {
             "Definite": "Def",
             "Number": "Sing",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -18,7 +18,7 @@
         "morpho": {
             "Definite": "Def",
             "Number": "Sing",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -26,7 +26,8 @@
         "morpho": {
             "Definite": "Def",
             "Number": "Sing",
-            "Polarity": "Pos"
+            "Polarity": "Pos",
+            "Voice": "Appl"
         },
         "upos": "ADJ"
     },
@@ -44,7 +45,7 @@
             "Definite": "Def",
             "InfStruct": "Foc",
             "Number": "Sing",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -63,7 +64,7 @@
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "1",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -73,7 +74,7 @@
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "2",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -83,7 +84,7 @@
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "3",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -91,8 +92,8 @@
         "morpho": {
             "Definite": "Def",
             "Number": "Sing",
-            "Polarity": "Pos",
-            "SubCat": "Tran"
+            "SubCat": "Tran",
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -100,7 +101,7 @@
         "morpho": {
             "InfStruct": "Foc",
             "Number": "Sing",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -109,7 +110,7 @@
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "1",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -118,7 +119,7 @@
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "2",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -128,7 +129,7 @@
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "3",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -142,7 +143,8 @@
     "ADJ;SG;SPRL;APPL": {
         "morpho": {
             "Degree": "Sup",
-            "Number": "Sing"
+            "Number": "Sing",
+            "Voice": "Appl"
         },
         "upos": "ADJ"
     },
@@ -266,7 +268,8 @@
     "N;SG;NEUT;APPL": {
         "morpho": {
             "Gender": "Neut",
-            "Number": "Sing"
+            "Number": "Sing",
+            "Voice": "Appl"
         },
         "upos": "NOUN"
     },
@@ -414,7 +417,7 @@
     },
     "V;ACT;APPL": {
         "morpho": {
-            "Voice": "Act"
+            "Voice": "Act,Appl"
         },
         "upos": "VERB"
     },
@@ -422,7 +425,7 @@
         "morpho": {
             "Number": "Sing",
             "Person": "1",
-            "Voice": "Act"
+            "Voice": "Act,Appl"
         },
         "upos": "VERB"
     },
@@ -430,16 +433,13 @@
         "morpho": {
             "Number": "Sing",
             "Person": "2",
-            "Voice": "Act"
+            "Voice": "Act,Appl"
         },
         "upos": "VERB"
     },
     "V;ACT;CAUS": {
         "morpho": {
-            "Voice": [
-                "Act",
-                "Cau"
-            ]
+            "Voice": "Act,Cau"
         },
         "upos": "VERB"
     },
@@ -447,10 +447,7 @@
         "morpho": {
             "Number": "Sing",
             "Person": "1",
-            "Voice": [
-                "Act",
-                "Cau"
-            ]
+            "Voice": "Act,Cau"
         },
         "upos": "VERB"
     },
@@ -458,10 +455,7 @@
         "morpho": {
             "Number": "Sing",
             "Person": "1",
-            "Voice": [
-                "Act",
-                "Cau"
-            ]
+            "Voice": "Act,Cau"
         },
         "upos": "VERB"
     },
@@ -469,10 +463,7 @@
         "morpho": {
             "Number": "Sing",
             "Person": "1",
-            "Voice": [
-                "Act",
-                "Cau"
-            ]
+            "Voice": "Act,Cau"
         },
         "upos": "VERB"
     },
@@ -480,10 +471,7 @@
         "morpho": {
             "Number": "Sing",
             "Person": "2",
-            "Voice": [
-                "Act",
-                "Cau"
-            ]
+            "Voice": "Act,Cau"
         },
         "upos": "VERB"
     },
@@ -603,16 +591,13 @@
     },
     "V;PASS;APPL": {
         "morpho": {
-            "Voice": "Pass"
+            "Voice": "Appl,Pass"
         },
         "upos": "VERB"
     },
     "V;PASS;CAUS": {
         "morpho": {
-            "Voice": [
-                "Pass",
-                "Cau"
-            ]
+            "Voice": "Cau,Pass"
         },
         "upos": "VERB"
     },

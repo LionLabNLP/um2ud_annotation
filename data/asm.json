@@ -804,10 +804,7 @@
     "V;COND;SG+PL;1;NEG;FUT": {
         "morpho": {
             "Mood": "Cnd",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "1",
             "Polarity": "Neg",
             "Tense": "Fut"
@@ -817,10 +814,7 @@
     "V;COND;SG+PL;2;NEG;COL;FUT": {
         "morpho": {
             "Mood": "Cnd",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Neg",
             "Style": "Coll",
@@ -831,10 +825,7 @@
     "V;COND;SG+PL;2;NEG;FUT;LGSPEC02": {
         "morpho": {
             "Mood": "Cnd",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Neg",
             "Tense": "Fut"
@@ -844,10 +835,7 @@
     "V;COND;SG+PL;3;NEG;FUT": {
         "morpho": {
             "Mood": "Cnd",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "3",
             "Polarity": "Neg",
             "Tense": "Fut"
@@ -906,10 +894,7 @@
         "morpho": {
             "Aspect": "Hab",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "1",
             "Polarity": "Neg",
             "Tense": "Past"
@@ -920,10 +905,7 @@
         "morpho": {
             "Aspect": "Hab",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Neg",
             "Style": "Coll",
@@ -935,10 +917,7 @@
         "morpho": {
             "Aspect": "Hab",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Neg",
             "Tense": "Past"
@@ -949,10 +928,7 @@
         "morpho": {
             "Aspect": "Hab",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "3",
             "Polarity": "Neg",
             "Tense": "Past"
@@ -962,10 +938,7 @@
     "V;IMP;SG+PL;1;POS": {
         "morpho": {
             "Mood": "Imp",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "1",
             "Polarity": "Pos"
         },
@@ -974,10 +947,7 @@
     "V;IMP;SG+PL;2;NEG;COL": {
         "morpho": {
             "Mood": "Imp",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Neg",
             "Style": "Coll"
@@ -987,10 +957,7 @@
     "V;IMP;SG+PL;2;NEG;LGSPEC02": {
         "morpho": {
             "Mood": "Imp",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Neg"
         },
@@ -999,10 +966,7 @@
     "V;IMP;SG+PL;2;POS;COL": {
         "morpho": {
             "Mood": "Imp",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Pos",
             "Style": "Coll"
@@ -1012,10 +976,7 @@
     "V;IMP;SG+PL;2;POS;LGSPEC02": {
         "morpho": {
             "Mood": "Imp",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Pos"
         },
@@ -1024,10 +985,7 @@
     "V;IMP;SG+PL;3;NEG": {
         "morpho": {
             "Mood": "Imp",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "3",
             "Polarity": "Neg"
         },
@@ -1036,10 +994,7 @@
     "V;IMP;SG+PL;3;POS": {
         "morpho": {
             "Mood": "Imp",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "3",
             "Polarity": "Pos"
         },
@@ -1048,10 +1003,7 @@
     "V;IND;SG+PL;1;NEG;FUT": {
         "morpho": {
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "1",
             "Polarity": "Neg",
             "Tense": "Fut"
@@ -1061,10 +1013,7 @@
     "V;IND;SG+PL;1;NEG;PST": {
         "morpho": {
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "1",
             "Polarity": "Neg",
             "Tense": "Past"
@@ -1074,10 +1023,7 @@
     "V;IND;SG+PL;1;POS;FUT": {
         "morpho": {
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "1",
             "Polarity": "Pos",
             "Tense": "Fut"
@@ -1087,10 +1033,7 @@
     "V;IND;SG+PL;1;POS;PST": {
         "morpho": {
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "1",
             "Polarity": "Pos",
             "Tense": "Past"
@@ -1100,10 +1043,7 @@
     "V;IND;SG+PL;2;NEG;COL;FUT": {
         "morpho": {
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Neg",
             "Style": "Coll",
@@ -1114,10 +1054,7 @@
     "V;IND;SG+PL;2;NEG;COL;PST": {
         "morpho": {
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Neg",
             "Style": "Coll",
@@ -1128,10 +1065,7 @@
     "V;IND;SG+PL;2;NEG;FUT;LGSPEC02": {
         "morpho": {
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Neg",
             "Tense": "Fut"
@@ -1141,10 +1075,7 @@
     "V;IND;SG+PL;2;NEG;PST;LGSPEC02": {
         "morpho": {
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Neg",
             "Tense": "Past"
@@ -1154,10 +1085,7 @@
     "V;IND;SG+PL;2;POS;COL;FUT": {
         "morpho": {
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Pos",
             "Style": "Coll",
@@ -1168,10 +1096,7 @@
     "V;IND;SG+PL;2;POS;COL;PST": {
         "morpho": {
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Pos",
             "Style": "Coll",
@@ -1182,10 +1107,7 @@
     "V;IND;SG+PL;2;POS;FUT;LGSPEC02": {
         "morpho": {
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Pos",
             "Tense": "Fut"
@@ -1195,10 +1117,7 @@
     "V;IND;SG+PL;2;POS;PST;LGSPEC02": {
         "morpho": {
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Pos",
             "Tense": "Past"
@@ -1208,10 +1127,7 @@
     "V;IND;SG+PL;3;NEG;FUT": {
         "morpho": {
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "3",
             "Polarity": "Neg",
             "Tense": "Fut"
@@ -1221,10 +1137,7 @@
     "V;IND;SG+PL;3;NEG;PST": {
         "morpho": {
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "3",
             "Polarity": "Neg",
             "Tense": "Past"
@@ -1234,10 +1147,7 @@
     "V;IND;SG+PL;3;POS;FUT": {
         "morpho": {
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "3",
             "Polarity": "Pos",
             "Tense": "Fut"
@@ -1247,10 +1157,7 @@
     "V;IND;SG+PL;3;POS;PST": {
         "morpho": {
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "3",
             "Polarity": "Pos",
             "Tense": "Past"
@@ -1261,10 +1168,7 @@
         "morpho": {
             "Definite": "Ind",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "1",
             "Polarity": "Neg",
             "Tense": "Pres"
@@ -1275,10 +1179,7 @@
         "morpho": {
             "Definite": "Ind",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "1",
             "Polarity": "Pos",
             "Tense": "Pres"
@@ -1289,10 +1190,7 @@
         "morpho": {
             "Definite": "Ind",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Neg",
             "Style": "Coll",
@@ -1304,10 +1202,7 @@
         "morpho": {
             "Definite": "Ind",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Neg",
             "Tense": "Pres"
@@ -1318,10 +1213,7 @@
         "morpho": {
             "Definite": "Ind",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Pos",
             "Style": "Coll",
@@ -1333,10 +1225,7 @@
         "morpho": {
             "Definite": "Ind",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Pos",
             "Tense": "Pres"
@@ -1347,10 +1236,7 @@
         "morpho": {
             "Definite": "Ind",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "3",
             "Polarity": "Neg",
             "Tense": "Pres"
@@ -1361,10 +1247,7 @@
         "morpho": {
             "Definite": "Ind",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "3",
             "Polarity": "Pos",
             "Tense": "Pres"
@@ -1384,10 +1267,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "1",
             "Polarity": "Neg",
             "Tense": "Pres"
@@ -1398,10 +1278,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "1",
             "Polarity": "Neg",
             "Tense": "Past"
@@ -1412,10 +1289,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "1",
             "Polarity": "Pos",
             "Tense": "Pres"
@@ -1426,10 +1300,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "1",
             "Polarity": "Pos",
             "Tense": "Past"
@@ -1440,10 +1311,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Neg",
             "Style": "Coll",
@@ -1455,10 +1323,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Neg",
             "Style": "Coll",
@@ -1470,10 +1335,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Neg",
             "Tense": "Pres"
@@ -1484,10 +1346,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Neg",
             "Tense": "Past"
@@ -1498,10 +1357,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Pos",
             "Style": "Coll",
@@ -1513,10 +1369,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Pos",
             "Style": "Coll",
@@ -1528,10 +1381,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Pos",
             "Tense": "Pres"
@@ -1542,10 +1392,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Pos",
             "Tense": "Past"
@@ -1556,10 +1403,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "3",
             "Polarity": "Neg",
             "Tense": "Pres"
@@ -1570,10 +1414,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "3",
             "Polarity": "Neg",
             "Tense": "Past"
@@ -1584,10 +1425,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "3",
             "Polarity": "Pos",
             "Tense": "Pres"
@@ -1598,10 +1436,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "3",
             "Polarity": "Pos",
             "Tense": "Past"
@@ -1706,10 +1541,7 @@
         "morpho": {
             "Aspect": "Prog",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "1",
             "Polarity": "Neg",
             "Tense": "Fut"
@@ -1720,10 +1552,7 @@
         "morpho": {
             "Aspect": "Prog",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "1",
             "Polarity": "Neg",
             "Tense": "Pres"
@@ -1734,10 +1563,7 @@
         "morpho": {
             "Aspect": "Prog",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "1",
             "Polarity": "Neg",
             "Tense": "Past"
@@ -1748,10 +1574,7 @@
         "morpho": {
             "Aspect": "Prog",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "1",
             "Polarity": "Pos",
             "Tense": "Fut"
@@ -1762,10 +1585,7 @@
         "morpho": {
             "Aspect": "Prog",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "1",
             "Polarity": "Pos",
             "Tense": "Pres"
@@ -1776,10 +1596,7 @@
         "morpho": {
             "Aspect": "Prog",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "1",
             "Polarity": "Pos",
             "Tense": "Past"
@@ -1790,10 +1607,7 @@
         "morpho": {
             "Aspect": "Prog",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Neg",
             "Style": "Coll",
@@ -1805,10 +1619,7 @@
         "morpho": {
             "Aspect": "Prog",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Neg",
             "Style": "Coll",
@@ -1820,10 +1631,7 @@
         "morpho": {
             "Aspect": "Prog",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Neg",
             "Tense": "Fut"
@@ -1834,10 +1642,7 @@
         "morpho": {
             "Aspect": "Prog",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Neg",
             "Tense": "Past"
@@ -1848,10 +1653,7 @@
         "morpho": {
             "Aspect": "Prog",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Pos",
             "Style": "Coll",
@@ -1863,10 +1665,7 @@
         "morpho": {
             "Aspect": "Prog",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Pos",
             "Style": "Coll",
@@ -1878,10 +1677,7 @@
         "morpho": {
             "Aspect": "Prog",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Pos",
             "Style": "Coll",
@@ -1893,10 +1689,7 @@
         "morpho": {
             "Aspect": "Prog",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Pos",
             "Tense": "Fut"
@@ -1907,10 +1700,7 @@
         "morpho": {
             "Aspect": "Prog",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Pos",
             "Tense": "Pres"
@@ -1921,10 +1711,7 @@
         "morpho": {
             "Aspect": "Prog",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "2",
             "Polarity": "Pos",
             "Tense": "Past"
@@ -1935,10 +1722,7 @@
         "morpho": {
             "Aspect": "Prog",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "3",
             "Polarity": "Neg",
             "Tense": "Fut"
@@ -1949,10 +1733,7 @@
         "morpho": {
             "Aspect": "Prog",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "3",
             "Polarity": "Neg",
             "Tense": "Past"
@@ -1963,10 +1744,7 @@
         "morpho": {
             "Aspect": "Prog",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "3",
             "Polarity": "Pos",
             "Tense": "Fut"
@@ -1977,10 +1755,7 @@
         "morpho": {
             "Aspect": "Prog",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "3",
             "Polarity": "Pos",
             "Tense": "Pres"
@@ -1991,10 +1766,7 @@
         "morpho": {
             "Aspect": "Prog",
             "Mood": "Ind",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
+            "Number": "Plur,Sing",
             "Person": "3",
             "Polarity": "Pos",
             "Tense": "Past"

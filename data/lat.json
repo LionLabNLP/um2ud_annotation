@@ -10,11 +10,7 @@
     "ADJ;ABL;MASC+FEM+NEUT;PL": {
         "morpho": {
             "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Plur"
         },
         "upos": "ADJ"
@@ -22,11 +18,7 @@
     "ADJ;ABL;MASC+FEM+NEUT;SG": {
         "morpho": {
             "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Sing"
         },
         "upos": "ADJ"
@@ -34,10 +26,7 @@
     "ADJ;ABL;MASC+FEM;SG": {
         "morpho": {
             "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "ADJ"
@@ -77,11 +66,7 @@
     "ADJ;ACC;MASC+FEM+NEUT;PL": {
         "morpho": {
             "Case": "Acc",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Plur"
         },
         "upos": "ADJ"
@@ -89,11 +74,7 @@
     "ADJ;ACC;MASC+FEM+NEUT;SG": {
         "morpho": {
             "Case": "Acc",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Sing"
         },
         "upos": "ADJ"
@@ -101,10 +82,7 @@
     "ADJ;ACC;MASC+FEM;PL": {
         "morpho": {
             "Case": "Acc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur"
         },
         "upos": "ADJ"
@@ -112,10 +90,7 @@
     "ADJ;ACC;MASC+FEM;SG": {
         "morpho": {
             "Case": "Acc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "ADJ"
@@ -155,11 +130,7 @@
     "ADJ;DAT;MASC+FEM+NEUT;PL": {
         "morpho": {
             "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Plur"
         },
         "upos": "ADJ"
@@ -167,11 +138,7 @@
     "ADJ;DAT;MASC+FEM+NEUT;SG": {
         "morpho": {
             "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Sing"
         },
         "upos": "ADJ"
@@ -179,10 +146,7 @@
     "ADJ;DAT;MASC+FEM;SG": {
         "morpho": {
             "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "ADJ"
@@ -205,10 +169,7 @@
     },
     "ADJ;GEN+DAT;FEM;SG": {
         "morpho": {
-            "Case": [
-                "Gen",
-                "Dat"
-            ],
+            "Case": "Dat,Gen",
             "Gender": "Fem",
             "Number": "Sing"
         },
@@ -225,11 +186,7 @@
     "ADJ;GEN;MASC+FEM+NEUT;PL": {
         "morpho": {
             "Case": "Gen",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Plur"
         },
         "upos": "ADJ"
@@ -237,11 +194,7 @@
     "ADJ;GEN;MASC+FEM+NEUT;SG": {
         "morpho": {
             "Case": "Gen",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Sing"
         },
         "upos": "ADJ"
@@ -249,10 +202,7 @@
     "ADJ;GEN;MASC+FEM;PL": {
         "morpho": {
             "Case": "Gen",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur"
         },
         "upos": "ADJ"
@@ -260,10 +210,7 @@
     "ADJ;GEN;MASC+FEM;SG": {
         "morpho": {
             "Case": "Gen",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "ADJ"
@@ -319,11 +266,7 @@
     "ADJ;NOM;MASC+FEM+NEUT;PL": {
         "morpho": {
             "Case": "Nom",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Plur"
         },
         "upos": "ADJ"
@@ -331,11 +274,7 @@
     "ADJ;NOM;MASC+FEM+NEUT;SG": {
         "morpho": {
             "Case": "Nom",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Sing"
         },
         "upos": "ADJ"
@@ -343,10 +282,7 @@
     "ADJ;NOM;MASC+FEM;PL": {
         "morpho": {
             "Case": "Nom",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur"
         },
         "upos": "ADJ"
@@ -354,10 +290,7 @@
     "ADJ;NOM;MASC+FEM;SG": {
         "morpho": {
             "Case": "Nom",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "ADJ"
@@ -413,11 +346,7 @@
     "ADJ;VOC;MASC+FEM+NEUT;PL": {
         "morpho": {
             "Case": "Voc",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Plur"
         },
         "upos": "ADJ"
@@ -425,11 +354,7 @@
     "ADJ;VOC;MASC+FEM+NEUT;SG": {
         "morpho": {
             "Case": "Voc",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Sing"
         },
         "upos": "ADJ"
@@ -437,10 +362,7 @@
     "ADJ;VOC;MASC+FEM;PL": {
         "morpho": {
             "Case": "Voc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur"
         },
         "upos": "ADJ"
@@ -448,10 +370,7 @@
     "ADJ;VOC;MASC+FEM;SG": {
         "morpho": {
             "Case": "Voc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "ADJ"
@@ -533,10 +452,7 @@
     "N;FEM+MASC;ABL;PL": {
         "morpho": {
             "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -544,10 +460,7 @@
     "N;FEM+MASC;ABL;SG": {
         "morpho": {
             "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -555,10 +468,7 @@
     "N;FEM+MASC;ACC;PL": {
         "morpho": {
             "Case": "Acc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -566,10 +476,7 @@
     "N;FEM+MASC;ACC;SG": {
         "morpho": {
             "Case": "Acc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -577,10 +484,7 @@
     "N;FEM+MASC;DAT;PL": {
         "morpho": {
             "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -588,10 +492,7 @@
     "N;FEM+MASC;DAT;SG": {
         "morpho": {
             "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -599,10 +500,7 @@
     "N;FEM+MASC;GEN;PL": {
         "morpho": {
             "Case": "Gen",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -610,10 +508,7 @@
     "N;FEM+MASC;GEN;SG": {
         "morpho": {
             "Case": "Gen",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -621,10 +516,7 @@
     "N;FEM+MASC;NOM;PL": {
         "morpho": {
             "Case": "Nom",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -632,10 +524,7 @@
     "N;FEM+MASC;NOM;SG": {
         "morpho": {
             "Case": "Nom",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -643,10 +532,7 @@
     "N;FEM+MASC;VOC;PL": {
         "morpho": {
             "Case": "Voc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -654,10 +540,7 @@
     "N;FEM+MASC;VOC;SG": {
         "morpho": {
             "Case": "Voc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -665,10 +548,7 @@
     "N;FEM+NEUT;ABL;PL": {
         "morpho": {
             "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Neut"
-            ],
+            "Gender": "Fem,Neut",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -676,10 +556,7 @@
     "N;FEM+NEUT;ABL;SG": {
         "morpho": {
             "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Neut"
-            ],
+            "Gender": "Fem,Neut",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -687,10 +564,7 @@
     "N;FEM+NEUT;ACC;PL": {
         "morpho": {
             "Case": "Acc",
-            "Gender": [
-                "Fem",
-                "Neut"
-            ],
+            "Gender": "Fem,Neut",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -698,10 +572,7 @@
     "N;FEM+NEUT;ACC;SG": {
         "morpho": {
             "Case": "Acc",
-            "Gender": [
-                "Fem",
-                "Neut"
-            ],
+            "Gender": "Fem,Neut",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -709,10 +580,7 @@
     "N;FEM+NEUT;DAT;PL": {
         "morpho": {
             "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Neut"
-            ],
+            "Gender": "Fem,Neut",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -720,10 +588,7 @@
     "N;FEM+NEUT;DAT;SG": {
         "morpho": {
             "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Neut"
-            ],
+            "Gender": "Fem,Neut",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -731,10 +596,7 @@
     "N;FEM+NEUT;GEN;PL": {
         "morpho": {
             "Case": "Gen",
-            "Gender": [
-                "Fem",
-                "Neut"
-            ],
+            "Gender": "Fem,Neut",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -742,10 +604,7 @@
     "N;FEM+NEUT;GEN;SG": {
         "morpho": {
             "Case": "Gen",
-            "Gender": [
-                "Fem",
-                "Neut"
-            ],
+            "Gender": "Fem,Neut",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -753,10 +612,7 @@
     "N;FEM+NEUT;NOM;PL": {
         "morpho": {
             "Case": "Nom",
-            "Gender": [
-                "Fem",
-                "Neut"
-            ],
+            "Gender": "Fem,Neut",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -764,10 +620,7 @@
     "N;FEM+NEUT;NOM;SG": {
         "morpho": {
             "Case": "Nom",
-            "Gender": [
-                "Fem",
-                "Neut"
-            ],
+            "Gender": "Fem,Neut",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -775,10 +628,7 @@
     "N;FEM+NEUT;VOC;PL": {
         "morpho": {
             "Case": "Voc",
-            "Gender": [
-                "Fem",
-                "Neut"
-            ],
+            "Gender": "Fem,Neut",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -786,10 +636,7 @@
     "N;FEM+NEUT;VOC;SG": {
         "morpho": {
             "Case": "Voc",
-            "Gender": [
-                "Fem",
-                "Neut"
-            ],
+            "Gender": "Fem,Neut",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -825,11 +672,7 @@
     "N;MASC+FEM+NEUT;ABL;PL": {
         "morpho": {
             "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -837,11 +680,7 @@
     "N;MASC+FEM+NEUT;ABL;SG": {
         "morpho": {
             "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -849,11 +688,7 @@
     "N;MASC+FEM+NEUT;ACC;PL": {
         "morpho": {
             "Case": "Acc",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -861,11 +696,7 @@
     "N;MASC+FEM+NEUT;ACC;SG": {
         "morpho": {
             "Case": "Acc",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -873,11 +704,7 @@
     "N;MASC+FEM+NEUT;DAT;PL": {
         "morpho": {
             "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -885,11 +712,7 @@
     "N;MASC+FEM+NEUT;DAT;SG": {
         "morpho": {
             "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -897,11 +720,7 @@
     "N;MASC+FEM+NEUT;GEN;PL": {
         "morpho": {
             "Case": "Gen",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -909,11 +728,7 @@
     "N;MASC+FEM+NEUT;GEN;SG": {
         "morpho": {
             "Case": "Gen",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -921,11 +736,7 @@
     "N;MASC+FEM+NEUT;NOM;PL": {
         "morpho": {
             "Case": "Nom",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -933,11 +744,7 @@
     "N;MASC+FEM+NEUT;NOM;SG": {
         "morpho": {
             "Case": "Nom",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -945,11 +752,7 @@
     "N;MASC+FEM+NEUT;VOC;PL": {
         "morpho": {
             "Case": "Voc",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -957,11 +760,7 @@
     "N;MASC+FEM+NEUT;VOC;SG": {
         "morpho": {
             "Case": "Voc",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -969,10 +768,7 @@
     "N;MASC+FEM;ABL;PL": {
         "morpho": {
             "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -980,10 +776,7 @@
     "N;MASC+FEM;ABL;SG": {
         "morpho": {
             "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -991,10 +784,7 @@
     "N;MASC+FEM;ACC;PL": {
         "morpho": {
             "Case": "Acc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -1002,10 +792,7 @@
     "N;MASC+FEM;ACC;SG": {
         "morpho": {
             "Case": "Acc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -1013,10 +800,7 @@
     "N;MASC+FEM;DAT;PL": {
         "morpho": {
             "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -1024,10 +808,7 @@
     "N;MASC+FEM;DAT;SG": {
         "morpho": {
             "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -1035,10 +816,7 @@
     "N;MASC+FEM;GEN;PL": {
         "morpho": {
             "Case": "Gen",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -1046,10 +824,7 @@
     "N;MASC+FEM;GEN;SG": {
         "morpho": {
             "Case": "Gen",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -1057,10 +832,7 @@
     "N;MASC+FEM;NOM;PL": {
         "morpho": {
             "Case": "Nom",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -1068,10 +840,7 @@
     "N;MASC+FEM;NOM;SG": {
         "morpho": {
             "Case": "Nom",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -1079,10 +848,7 @@
     "N;MASC+FEM;VOC;PL": {
         "morpho": {
             "Case": "Voc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -1090,10 +856,7 @@
     "N;MASC+FEM;VOC;SG": {
         "morpho": {
             "Case": "Voc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -1101,10 +864,7 @@
     "N;MASC+NEUT;ABL;PL": {
         "morpho": {
             "Case": "Abl",
-            "Gender": [
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Masc,Neut",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -1112,10 +872,7 @@
     "N;MASC+NEUT;ABL;SG": {
         "morpho": {
             "Case": "Abl",
-            "Gender": [
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Masc,Neut",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -1123,10 +880,7 @@
     "N;MASC+NEUT;ACC;PL": {
         "morpho": {
             "Case": "Acc",
-            "Gender": [
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Masc,Neut",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -1134,10 +888,7 @@
     "N;MASC+NEUT;ACC;SG": {
         "morpho": {
             "Case": "Acc",
-            "Gender": [
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Masc,Neut",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -1145,10 +896,7 @@
     "N;MASC+NEUT;DAT;PL": {
         "morpho": {
             "Case": "Dat",
-            "Gender": [
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Masc,Neut",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -1156,10 +904,7 @@
     "N;MASC+NEUT;DAT;SG": {
         "morpho": {
             "Case": "Dat",
-            "Gender": [
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Masc,Neut",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -1167,10 +912,7 @@
     "N;MASC+NEUT;GEN;PL": {
         "morpho": {
             "Case": "Gen",
-            "Gender": [
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Masc,Neut",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -1178,10 +920,7 @@
     "N;MASC+NEUT;GEN;SG": {
         "morpho": {
             "Case": "Gen",
-            "Gender": [
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Masc,Neut",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -1189,10 +928,7 @@
     "N;MASC+NEUT;NOM;PL": {
         "morpho": {
             "Case": "Nom",
-            "Gender": [
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Masc,Neut",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -1200,10 +936,7 @@
     "N;MASC+NEUT;NOM;SG": {
         "morpho": {
             "Case": "Nom",
-            "Gender": [
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Masc,Neut",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -1211,10 +944,7 @@
     "N;MASC+NEUT;VOC;PL": {
         "morpho": {
             "Case": "Voc",
-            "Gender": [
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Masc,Neut",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -1222,10 +952,7 @@
     "N;MASC+NEUT;VOC;SG": {
         "morpho": {
             "Case": "Voc",
-            "Gender": [
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Masc,Neut",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -1233,10 +960,7 @@
     "N;NEUT+MASC;ABL;SG": {
         "morpho": {
             "Case": "Abl",
-            "Gender": [
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Masc,Neut",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -1244,10 +968,7 @@
     "N;NEUT+MASC;ACC;SG": {
         "morpho": {
             "Case": "Acc",
-            "Gender": [
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Masc,Neut",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -1255,10 +976,7 @@
     "N;NEUT+MASC;DAT;SG": {
         "morpho": {
             "Case": "Dat",
-            "Gender": [
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Masc,Neut",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -1266,10 +984,7 @@
     "N;NEUT+MASC;GEN;SG": {
         "morpho": {
             "Case": "Gen",
-            "Gender": [
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Masc,Neut",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -1277,10 +992,7 @@
     "N;NEUT+MASC;NOM;SG": {
         "morpho": {
             "Case": "Nom",
-            "Gender": [
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Masc,Neut",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -1288,10 +1000,7 @@
     "N;NEUT+MASC;VOC;SG": {
         "morpho": {
             "Case": "Voc",
-            "Gender": [
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Masc,Neut",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -1429,10 +1138,7 @@
     "PROPN;FEM+MASC;ABL;SG": {
         "morpho": {
             "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1441,10 +1147,7 @@
     "PROPN;FEM+MASC;ACC;SG": {
         "morpho": {
             "Case": "Acc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1453,10 +1156,7 @@
     "PROPN;FEM+MASC;DAT;SG": {
         "morpho": {
             "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1465,10 +1165,7 @@
     "PROPN;FEM+MASC;GEN;SG": {
         "morpho": {
             "Case": "Gen",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1477,10 +1174,7 @@
     "PROPN;FEM+MASC;LOC;SG": {
         "morpho": {
             "Case": "Loc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1489,10 +1183,7 @@
     "PROPN;FEM+MASC;NOM;SG": {
         "morpho": {
             "Case": "Nom",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1501,10 +1192,7 @@
     "PROPN;FEM+MASC;VOC;SG": {
         "morpho": {
             "Case": "Voc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1513,10 +1201,7 @@
     "PROPN;FEM+NEUT;ABL;SG": {
         "morpho": {
             "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Neut"
-            ],
+            "Gender": "Fem,Neut",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1525,10 +1210,7 @@
     "PROPN;FEM+NEUT;ACC;SG": {
         "morpho": {
             "Case": "Acc",
-            "Gender": [
-                "Fem",
-                "Neut"
-            ],
+            "Gender": "Fem,Neut",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1537,10 +1219,7 @@
     "PROPN;FEM+NEUT;DAT;SG": {
         "morpho": {
             "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Neut"
-            ],
+            "Gender": "Fem,Neut",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1549,10 +1228,7 @@
     "PROPN;FEM+NEUT;GEN;SG": {
         "morpho": {
             "Case": "Gen",
-            "Gender": [
-                "Fem",
-                "Neut"
-            ],
+            "Gender": "Fem,Neut",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1561,10 +1237,7 @@
     "PROPN;FEM+NEUT;LOC;SG": {
         "morpho": {
             "Case": "Loc",
-            "Gender": [
-                "Fem",
-                "Neut"
-            ],
+            "Gender": "Fem,Neut",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1573,10 +1246,7 @@
     "PROPN;FEM+NEUT;NOM;SG": {
         "morpho": {
             "Case": "Nom",
-            "Gender": [
-                "Fem",
-                "Neut"
-            ],
+            "Gender": "Fem,Neut",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1585,10 +1255,7 @@
     "PROPN;FEM+NEUT;VOC;SG": {
         "morpho": {
             "Case": "Voc",
-            "Gender": [
-                "Fem",
-                "Neut"
-            ],
+            "Gender": "Fem,Neut",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1629,10 +1296,7 @@
     "PROPN;MASC+FEM;ABL;PL": {
         "morpho": {
             "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "NounType": "Prop",
             "Number": "Plur"
         },
@@ -1641,10 +1305,7 @@
     "PROPN;MASC+FEM;ABL;SG": {
         "morpho": {
             "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1653,10 +1314,7 @@
     "PROPN;MASC+FEM;ACC;PL": {
         "morpho": {
             "Case": "Acc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "NounType": "Prop",
             "Number": "Plur"
         },
@@ -1665,10 +1323,7 @@
     "PROPN;MASC+FEM;ACC;SG": {
         "morpho": {
             "Case": "Acc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1677,10 +1332,7 @@
     "PROPN;MASC+FEM;DAT;PL": {
         "morpho": {
             "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "NounType": "Prop",
             "Number": "Plur"
         },
@@ -1689,10 +1341,7 @@
     "PROPN;MASC+FEM;DAT;SG": {
         "morpho": {
             "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1701,10 +1350,7 @@
     "PROPN;MASC+FEM;GEN;PL": {
         "morpho": {
             "Case": "Gen",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "NounType": "Prop",
             "Number": "Plur"
         },
@@ -1713,10 +1359,7 @@
     "PROPN;MASC+FEM;GEN;SG": {
         "morpho": {
             "Case": "Gen",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1725,10 +1368,7 @@
     "PROPN;MASC+FEM;LOC;SG": {
         "morpho": {
             "Case": "Loc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1737,10 +1377,7 @@
     "PROPN;MASC+FEM;NOM;PL": {
         "morpho": {
             "Case": "Nom",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "NounType": "Prop",
             "Number": "Plur"
         },
@@ -1749,10 +1386,7 @@
     "PROPN;MASC+FEM;NOM;SG": {
         "morpho": {
             "Case": "Nom",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1761,10 +1395,7 @@
     "PROPN;MASC+FEM;VOC;PL": {
         "morpho": {
             "Case": "Voc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "NounType": "Prop",
             "Number": "Plur"
         },
@@ -1773,10 +1404,7 @@
     "PROPN;MASC+FEM;VOC;SG": {
         "morpho": {
             "Case": "Voc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1826,11 +1454,7 @@
     "V.PTCP;ABL;MASC+FEM+NEUT;PL": {
         "morpho": {
             "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Plur",
             "VerbForm": "Part"
         },
@@ -1839,11 +1463,7 @@
     "V.PTCP;ABL;MASC+FEM+NEUT;SG": {
         "morpho": {
             "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Sing",
             "VerbForm": "Part"
         },
@@ -1888,10 +1508,7 @@
     "V.PTCP;ACC;MASC+FEM;PL": {
         "morpho": {
             "Case": "Acc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur",
             "VerbForm": "Part"
         },
@@ -1900,10 +1517,7 @@
     "V.PTCP;ACC;MASC+FEM;SG": {
         "morpho": {
             "Case": "Acc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing",
             "VerbForm": "Part"
         },
@@ -1948,11 +1562,7 @@
     "V.PTCP;DAT;MASC+FEM+NEUT;PL": {
         "morpho": {
             "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Plur",
             "VerbForm": "Part"
         },
@@ -1961,11 +1571,7 @@
     "V.PTCP;DAT;MASC+FEM+NEUT;SG": {
         "morpho": {
             "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Sing",
             "VerbForm": "Part"
         },
@@ -1991,10 +1597,7 @@
     },
     "V.PTCP;GEN+DAT;FEM;SG": {
         "morpho": {
-            "Case": [
-                "Gen",
-                "Dat"
-            ],
+            "Case": "Dat,Gen",
             "Gender": "Fem",
             "Number": "Sing",
             "VerbForm": "Part"
@@ -2013,11 +1616,7 @@
     "V.PTCP;GEN;MASC+FEM+NEUT;PL": {
         "morpho": {
             "Case": "Gen",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Plur",
             "VerbForm": "Part"
         },
@@ -2026,11 +1625,7 @@
     "V.PTCP;GEN;MASC+FEM+NEUT;SG": {
         "morpho": {
             "Case": "Gen",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Sing",
             "VerbForm": "Part"
         },
@@ -2093,11 +1688,7 @@
     "V.PTCP;NOM;MASC+FEM+NEUT;SG": {
         "morpho": {
             "Case": "Nom",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Sing",
             "VerbForm": "Part"
         },
@@ -2106,10 +1697,7 @@
     "V.PTCP;NOM;MASC+FEM;PL": {
         "morpho": {
             "Case": "Nom",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur",
             "VerbForm": "Part"
         },
@@ -2172,11 +1760,7 @@
     "V.PTCP;VOC;MASC+FEM+NEUT;SG": {
         "morpho": {
             "Case": "Voc",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc,Neut",
             "Number": "Sing",
             "VerbForm": "Part"
         },
@@ -2185,10 +1769,7 @@
     "V.PTCP;VOC;MASC+FEM;PL": {
         "morpho": {
             "Case": "Voc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur",
             "VerbForm": "Part"
         },
@@ -2230,301 +1811,6 @@
         },
         "upos": "VERB"
     },
-    "V;FUT;IND;ACT;1;PL": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "1",
-            "Tense": "Fut",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;IND;ACT;1;PL;LGSPEC2": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "1",
-            "Tense": "Fut",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;IND;ACT;1;SG": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "1",
-            "Tense": "Fut",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;IND;ACT;1;SG;LGSPEC2": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "1",
-            "Tense": "Fut",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;IND;ACT;2;PL": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "2",
-            "Tense": "Fut",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;IND;ACT;2;PL;LGSPEC2": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "2",
-            "Tense": "Fut",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;IND;ACT;2;SG": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "2",
-            "Tense": "Fut",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;IND;ACT;2;SG;LGSPEC2": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "2",
-            "Tense": "Fut",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;IND;ACT;3;PL": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "3",
-            "Tense": "Fut",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;IND;ACT;3;PL;LGSPEC2": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "3",
-            "Tense": "Fut",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;IND;ACT;3;SG": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "3",
-            "Tense": "Fut",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;IND;ACT;3;SG;LGSPEC2": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "3",
-            "Tense": "Fut",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;IND;PASS;1;PL": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "1",
-            "Tense": "Fut",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;IND;PASS;1;PL;LGSPEC3": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "1",
-            "Tense": "Fut",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;IND;PASS;1;SG": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "1",
-            "Tense": "Fut",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;IND;PASS;1;SG;LGSPEC3": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "1",
-            "Tense": "Fut",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;IND;PASS;2;PL": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "2",
-            "Tense": "Fut",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;IND;PASS;2;PL;LGSPEC3": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "2",
-            "Tense": "Fut",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;IND;PASS;2;SG": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "2",
-            "Tense": "Fut",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;IND;PASS;2;SG;LGSPEC3": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "2",
-            "Tense": "Fut",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;IND;PASS;3;PL": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "3",
-            "Tense": "Fut",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;IND;PASS;3;PL;LGSPEC3": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "3",
-            "Tense": "Fut",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;IND;PASS;3;SG": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "3",
-            "Tense": "Fut",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;IND;PASS;3;SG;LGSPEC3": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "3",
-            "Tense": "Fut",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;PRF;IND;ACT;1;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "1",
-            "Tense": "Fut",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;PRF;IND;ACT;2;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "2",
-            "Tense": "Fut",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;PRF;IND;ACT;2;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "2",
-            "Tense": "Fut",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;PRF;IND;ACT;3;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "3",
-            "Tense": "Fut",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;FUT;PRF;IND;ACT;3;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "3",
-            "Tense": "Fut",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
     "V;IMP;ACT;FUT;2;PL": {
         "morpho": {
             "Mood": "Imp",
@@ -2545,27 +1831,7 @@
         },
         "upos": "VERB"
     },
-    "V;IMP;ACT;FUT;2;SG;LGSPEC2": {
-        "morpho": {
-            "Mood": "Imp",
-            "Number": "Sing",
-            "Person": "2",
-            "Tense": "Fut",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
     "V;IMP;ACT;FUT;3;PL": {
-        "morpho": {
-            "Mood": "Imp",
-            "Number": "Plur",
-            "Person": "3",
-            "Tense": "Fut",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;IMP;ACT;FUT;3;PL;LGSPEC2": {
         "morpho": {
             "Mood": "Imp",
             "Number": "Plur",
@@ -2585,16 +1851,6 @@
         },
         "upos": "VERB"
     },
-    "V;IMP;ACT;FUT;3;SG;LGSPEC2": {
-        "morpho": {
-            "Mood": "Imp",
-            "Number": "Sing",
-            "Person": "3",
-            "Tense": "Fut",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
     "V;IMP;ACT;PRS;2;PL": {
         "morpho": {
             "Mood": "Imp",
@@ -2605,27 +1861,7 @@
         },
         "upos": "VERB"
     },
-    "V;IMP;ACT;PRS;2;PL;LGSPEC2": {
-        "morpho": {
-            "Mood": "Imp",
-            "Number": "Plur",
-            "Person": "2",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
     "V;IMP;ACT;PRS;2;SG": {
-        "morpho": {
-            "Mood": "Imp",
-            "Number": "Sing",
-            "Person": "2",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;IMP;ACT;PRS;2;SG;LGSPEC2": {
         "morpho": {
             "Mood": "Imp",
             "Number": "Sing",
@@ -2655,27 +1891,7 @@
         },
         "upos": "VERB"
     },
-    "V;IMP;PASS;FUT;2;SG;LGSPEC3": {
-        "morpho": {
-            "Mood": "Imp",
-            "Number": "Sing",
-            "Person": "2",
-            "Tense": "Fut",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
     "V;IMP;PASS;FUT;3;PL": {
-        "morpho": {
-            "Mood": "Imp",
-            "Number": "Plur",
-            "Person": "3",
-            "Tense": "Fut",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;IMP;PASS;FUT;3;PL;LGSPEC3": {
         "morpho": {
             "Mood": "Imp",
             "Number": "Plur",
@@ -2695,27 +1911,7 @@
         },
         "upos": "VERB"
     },
-    "V;IMP;PASS;FUT;3;SG;LGSPEC3": {
-        "morpho": {
-            "Mood": "Imp",
-            "Number": "Sing",
-            "Person": "3",
-            "Tense": "Fut",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
     "V;IMP;PASS;PRS;2;PL": {
-        "morpho": {
-            "Mood": "Imp",
-            "Number": "Plur",
-            "Person": "2",
-            "Tense": "Pres",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;IMP;PASS;PRS;2;PL;LGSPEC3": {
         "morpho": {
             "Mood": "Imp",
             "Number": "Plur",
@@ -2871,27 +2067,7 @@
         },
         "upos": "VERB"
     },
-    "V;IND;ACT;PRS;1;PL;LGSPEC2": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "1",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
     "V;IND;ACT;PRS;1;SG": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "1",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;IND;ACT;PRS;1;SG;LGSPEC2": {
         "morpho": {
             "Mood": "Ind",
             "Number": "Sing",
@@ -2911,27 +2087,7 @@
         },
         "upos": "VERB"
     },
-    "V;IND;ACT;PRS;2;PL;LGSPEC2": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "2",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
     "V;IND;ACT;PRS;2;SG": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "2",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;IND;ACT;PRS;2;SG;LGSPEC2": {
         "morpho": {
             "Mood": "Ind",
             "Number": "Sing",
@@ -2951,27 +2107,7 @@
         },
         "upos": "VERB"
     },
-    "V;IND;ACT;PRS;3;PL;LGSPEC2": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "3",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
     "V;IND;ACT;PRS;3;SG": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "3",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;IND;ACT;PRS;3;SG;LGSPEC2": {
         "morpho": {
             "Mood": "Ind",
             "Number": "Sing",
@@ -3249,16 +2385,6 @@
         },
         "upos": "VERB"
     },
-    "V;IND;PASS;PRS;1;PL;LGSPEC3": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "1",
-            "Tense": "Pres",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
     "V;IND;PASS;PRS;1;SG": {
         "morpho": {
             "Mood": "Ind",
@@ -3279,27 +2405,7 @@
         },
         "upos": "VERB"
     },
-    "V;IND;PASS;PRS;2;PL;LGSPEC3": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "2",
-            "Tense": "Pres",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
     "V;IND;PASS;PRS;2;SG": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "2",
-            "Tense": "Pres",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;IND;PASS;PRS;2;SG;LGSPEC3": {
         "morpho": {
             "Mood": "Ind",
             "Number": "Sing",
@@ -3319,27 +2425,7 @@
         },
         "upos": "VERB"
     },
-    "V;IND;PASS;PRS;3;PL;LGSPEC3": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "3",
-            "Tense": "Pres",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
     "V;IND;PASS;PRS;3;SG": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "3",
-            "Tense": "Pres",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;IND;PASS;PRS;3;SG;LGSPEC3": {
         "morpho": {
             "Mood": "Ind",
             "Number": "Sing",
@@ -3423,14 +2509,6 @@
         },
         "upos": "VERB"
     },
-    "V;NFIN;ACT;FUT;LGSPEC2": {
-        "morpho": {
-            "Tense": "Fut",
-            "VerbForm": "NonFin",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
     "V;NFIN;ACT;PRS": {
         "morpho": {
             "Tense": "Pres",
@@ -3439,24 +2517,7 @@
         },
         "upos": "VERB"
     },
-    "V;NFIN;ACT;PRS;LGSPEC2": {
-        "morpho": {
-            "Tense": "Pres",
-            "VerbForm": "NonFin",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
     "V;NFIN;ACT;PST;PFV": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Tense": "Past",
-            "VerbForm": "NonFin",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;NFIN;ACT;PST;PFV;LGSPEC2": {
         "morpho": {
             "Aspect": "Perf",
             "Tense": "Past",
@@ -3490,347 +2551,7 @@
         },
         "upos": "VERB"
     },
-    "V;PST;IPFV;IND;ACT;1;PL": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "1",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;IPFV;IND;ACT;1;PL;LGSPEC2": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "1",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;IPFV;IND;ACT;1;SG": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "1",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;IPFV;IND;ACT;1;SG;LGSPEC2": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "1",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;IPFV;IND;ACT;2;PL": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "2",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;IPFV;IND;ACT;2;PL;LGSPEC2": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "2",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;IPFV;IND;ACT;2;SG": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "2",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;IPFV;IND;ACT;2;SG;LGSPEC2": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "2",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;IPFV;IND;ACT;3;PL": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "3",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;IPFV;IND;ACT;3;PL;LGSPEC2": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "3",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;IPFV;IND;ACT;3;SG": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "3",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;IPFV;IND;ACT;3;SG;LGSPEC2": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "3",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;IPFV;IND;PASS;1;PL": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "1",
-            "Tense": "Past",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;IPFV;IND;PASS;1;PL;LGSPEC3": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "1",
-            "Tense": "Past",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;IPFV;IND;PASS;1;SG": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "1",
-            "Tense": "Past",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;IPFV;IND;PASS;1;SG;LGSPEC3": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "1",
-            "Tense": "Past",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;IPFV;IND;PASS;2;PL": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "2",
-            "Tense": "Past",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;IPFV;IND;PASS;2;PL;LGSPEC3": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "2",
-            "Tense": "Past",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;IPFV;IND;PASS;2;SG": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "2",
-            "Tense": "Past",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;IPFV;IND;PASS;2;SG;LGSPEC3": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "2",
-            "Tense": "Past",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;IPFV;IND;PASS;3;PL": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "3",
-            "Tense": "Past",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;IPFV;IND;PASS;3;PL;LGSPEC3": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "3",
-            "Tense": "Past",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;IPFV;IND;PASS;3;SG": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "3",
-            "Tense": "Past",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;IPFV;IND;PASS;3;SG;LGSPEC3": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "3",
-            "Tense": "Past",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;PRF;IND;ACT;1;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "1",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;PRF;IND;ACT;1;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "1",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;PRF;IND;ACT;2;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "2",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;PRF;IND;ACT;2;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "2",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;PRF;IND;ACT;3;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "3",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;PST;PRF;IND;ACT;3;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "3",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
     "V;SBJV;ACT;PRS;1;PL": {
-        "morpho": {
-            "Mood": "Sub",
-            "Number": "Plur",
-            "Person": "1",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;ACT;PRS;1;PL;LGSPEC2": {
         "morpho": {
             "Mood": "Sub",
             "Number": "Plur",
@@ -3850,27 +2571,7 @@
         },
         "upos": "VERB"
     },
-    "V;SBJV;ACT;PRS;1;SG;LGSPEC2": {
-        "morpho": {
-            "Mood": "Sub",
-            "Number": "Sing",
-            "Person": "1",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
     "V;SBJV;ACT;PRS;2;PL": {
-        "morpho": {
-            "Mood": "Sub",
-            "Number": "Plur",
-            "Person": "2",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;ACT;PRS;2;PL;LGSPEC2": {
         "morpho": {
             "Mood": "Sub",
             "Number": "Plur",
@@ -3890,16 +2591,6 @@
         },
         "upos": "VERB"
     },
-    "V;SBJV;ACT;PRS;2;SG;LGSPEC2": {
-        "morpho": {
-            "Mood": "Sub",
-            "Number": "Sing",
-            "Person": "2",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
     "V;SBJV;ACT;PRS;3;PL": {
         "morpho": {
             "Mood": "Sub",
@@ -3910,27 +2601,7 @@
         },
         "upos": "VERB"
     },
-    "V;SBJV;ACT;PRS;3;PL;LGSPEC2": {
-        "morpho": {
-            "Mood": "Sub",
-            "Number": "Plur",
-            "Person": "3",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
     "V;SBJV;ACT;PRS;3;SG": {
-        "morpho": {
-            "Mood": "Sub",
-            "Number": "Sing",
-            "Person": "3",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;ACT;PRS;3;SG;LGSPEC2": {
         "morpho": {
             "Mood": "Sub",
             "Number": "Sing",
@@ -4148,27 +2819,7 @@
         },
         "upos": "VERB"
     },
-    "V;SBJV;PASS;PRS;1;PL;LGSPEC3": {
-        "morpho": {
-            "Mood": "Sub",
-            "Number": "Plur",
-            "Person": "1",
-            "Tense": "Pres",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
     "V;SBJV;PASS;PRS;1;SG": {
-        "morpho": {
-            "Mood": "Sub",
-            "Number": "Sing",
-            "Person": "1",
-            "Tense": "Pres",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PASS;PRS;1;SG;LGSPEC3": {
         "morpho": {
             "Mood": "Sub",
             "Number": "Sing",
@@ -4188,27 +2839,7 @@
         },
         "upos": "VERB"
     },
-    "V;SBJV;PASS;PRS;2;PL;LGSPEC3": {
-        "morpho": {
-            "Mood": "Sub",
-            "Number": "Plur",
-            "Person": "2",
-            "Tense": "Pres",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
     "V;SBJV;PASS;PRS;2;SG": {
-        "morpho": {
-            "Mood": "Sub",
-            "Number": "Sing",
-            "Person": "2",
-            "Tense": "Pres",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PASS;PRS;2;SG;LGSPEC3": {
         "morpho": {
             "Mood": "Sub",
             "Number": "Sing",
@@ -4228,27 +2859,7 @@
         },
         "upos": "VERB"
     },
-    "V;SBJV;PASS;PRS;3;PL;LGSPEC3": {
-        "morpho": {
-            "Mood": "Sub",
-            "Number": "Plur",
-            "Person": "3",
-            "Tense": "Pres",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
     "V;SBJV;PASS;PRS;3;SG": {
-        "morpho": {
-            "Mood": "Sub",
-            "Number": "Sing",
-            "Person": "3",
-            "Tense": "Pres",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PASS;PRS;3;SG;LGSPEC3": {
         "morpho": {
             "Mood": "Sub",
             "Number": "Sing",
@@ -4324,402 +2935,6 @@
         },
         "upos": "VERB"
     },
-    "V;SBJV;PST;IPFV;ACT;1;PL": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Sub",
-            "Number": "Plur",
-            "Person": "1",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;IPFV;ACT;1;PL;LGSPEC2": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Sub",
-            "Number": "Plur",
-            "Person": "1",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;IPFV;ACT;1;SG": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Sub",
-            "Number": "Sing",
-            "Person": "1",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;IPFV;ACT;1;SG;LGSPEC2": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Sub",
-            "Number": "Sing",
-            "Person": "1",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;IPFV;ACT;2;PL": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Sub",
-            "Number": "Plur",
-            "Person": "2",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;IPFV;ACT;2;PL;LGSPEC2": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Sub",
-            "Number": "Plur",
-            "Person": "2",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;IPFV;ACT;2;SG": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Sub",
-            "Number": "Sing",
-            "Person": "2",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;IPFV;ACT;2;SG;LGSPEC2": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Sub",
-            "Number": "Sing",
-            "Person": "2",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;IPFV;ACT;3;PL": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Sub",
-            "Number": "Plur",
-            "Person": "3",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;IPFV;ACT;3;PL;LGSPEC2": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Sub",
-            "Number": "Plur",
-            "Person": "3",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;IPFV;ACT;3;SG": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Sub",
-            "Number": "Sing",
-            "Person": "3",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;IPFV;ACT;3;SG;LGSPEC2": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Sub",
-            "Number": "Sing",
-            "Person": "3",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;IPFV;PASS;1;PL": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Sub",
-            "Number": "Plur",
-            "Person": "1",
-            "Tense": "Past",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;IPFV;PASS;1;PL;LGSPEC3": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Sub",
-            "Number": "Plur",
-            "Person": "1",
-            "Tense": "Past",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;IPFV;PASS;1;SG": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Sub",
-            "Number": "Sing",
-            "Person": "1",
-            "Tense": "Past",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;IPFV;PASS;1;SG;LGSPEC3": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Sub",
-            "Number": "Sing",
-            "Person": "1",
-            "Tense": "Past",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;IPFV;PASS;2;PL": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Sub",
-            "Number": "Plur",
-            "Person": "2",
-            "Tense": "Past",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;IPFV;PASS;2;PL;LGSPEC3": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Sub",
-            "Number": "Plur",
-            "Person": "2",
-            "Tense": "Past",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;IPFV;PASS;2;SG": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Sub",
-            "Number": "Sing",
-            "Person": "2",
-            "Tense": "Past",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;IPFV;PASS;2;SG;LGSPEC3": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Sub",
-            "Number": "Sing",
-            "Person": "2",
-            "Tense": "Past",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;IPFV;PASS;3;PL": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Sub",
-            "Number": "Plur",
-            "Person": "3",
-            "Tense": "Past",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;IPFV;PASS;3;PL;LGSPEC3": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Sub",
-            "Number": "Plur",
-            "Person": "3",
-            "Tense": "Past",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;IPFV;PASS;3;SG": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Sub",
-            "Number": "Sing",
-            "Person": "3",
-            "Tense": "Past",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;IPFV;PASS;3;SG;LGSPEC3": {
-        "morpho": {
-            "Aspect": "Imp",
-            "Mood": "Sub",
-            "Number": "Sing",
-            "Person": "3",
-            "Tense": "Past",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;PFV;ACT;1;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Sub",
-            "Number": "Plur",
-            "Person": "1",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;PFV;ACT;1;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Sub",
-            "Number": "Sing",
-            "Person": "1",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;PFV;ACT;2;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Sub",
-            "Number": "Plur",
-            "Person": "2",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;PFV;ACT;2;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Sub",
-            "Number": "Sing",
-            "Person": "2",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;PFV;ACT;3;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Sub",
-            "Number": "Plur",
-            "Person": "3",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;PFV;ACT;3;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Sub",
-            "Number": "Sing",
-            "Person": "3",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;PRF;ACT;1;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Sub",
-            "Number": "Plur",
-            "Person": "1",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;PRF;ACT;1;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Sub",
-            "Number": "Sing",
-            "Person": "1",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;PRF;ACT;2;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Sub",
-            "Number": "Plur",
-            "Person": "2",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;PRF;ACT;2;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Sub",
-            "Number": "Sing",
-            "Person": "2",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;PRF;ACT;3;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Sub",
-            "Number": "Plur",
-            "Person": "3",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;SBJV;PST;PRF;ACT;3;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Sub",
-            "Number": "Sing",
-            "Person": "3",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
     "V;V.MSDR;ABL": {
         "morpho": {
             "Case": "Abl",
@@ -4728,20 +2943,6 @@
         "upos": "VERB"
     },
     "V;V.MSDR;ABL;LGSPEC1": {
-        "morpho": {
-            "Case": "Abl",
-            "VerbForm": "Vnoun"
-        },
-        "upos": "VERB"
-    },
-    "V;V.MSDR;ABL;LGSPEC1;LGSPEC2": {
-        "morpho": {
-            "Case": "Abl",
-            "VerbForm": "Vnoun"
-        },
-        "upos": "VERB"
-    },
-    "V;V.MSDR;ABL;LGSPEC2": {
         "morpho": {
             "Case": "Abl",
             "VerbForm": "Vnoun"
@@ -4762,20 +2963,6 @@
         },
         "upos": "VERB"
     },
-    "V;V.MSDR;ACC;LGSPEC1;LGSPEC2": {
-        "morpho": {
-            "Case": "Acc",
-            "VerbForm": "Vnoun"
-        },
-        "upos": "VERB"
-    },
-    "V;V.MSDR;ACC;LGSPEC2": {
-        "morpho": {
-            "Case": "Acc",
-            "VerbForm": "Vnoun"
-        },
-        "upos": "VERB"
-    },
     "V;V.MSDR;DAT": {
         "morpho": {
             "Case": "Dat",
@@ -4783,21 +2970,7 @@
         },
         "upos": "VERB"
     },
-    "V;V.MSDR;DAT;LGSPEC2": {
-        "morpho": {
-            "Case": "Dat",
-            "VerbForm": "Vnoun"
-        },
-        "upos": "VERB"
-    },
     "V;V.MSDR;GEN": {
-        "morpho": {
-            "Case": "Gen",
-            "VerbForm": "Vnoun"
-        },
-        "upos": "VERB"
-    },
-    "V;V.MSDR;GEN;LGSPEC2": {
         "morpho": {
             "Case": "Gen",
             "VerbForm": "Vnoun"
@@ -4812,1168 +2985,8 @@
         },
         "upos": "VERB"
     },
-    "V;V.PTCP;ACT;FUT;ABL;FEM;SG": {
-        "morpho": {
-            "Case": "Abl",
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;ABL;MASC+FEM+NEUT;PL": {
-        "morpho": {
-            "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;ABL;MASC;SG": {
-        "morpho": {
-            "Case": "Abl",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;ABL;NEUT;SG": {
-        "morpho": {
-            "Case": "Abl",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;ACC;FEM;PL": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Fem",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;ACC;FEM;SG": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;ACC;MASC;PL": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Masc",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;ACC;MASC;SG": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;ACC;NEUT;PL": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;ACC;NEUT;SG": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;DAT;MASC+FEM+NEUT;PL": {
-        "morpho": {
-            "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;DAT;MASC;SG": {
-        "morpho": {
-            "Case": "Dat",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;DAT;NEUT;SG": {
-        "morpho": {
-            "Case": "Dat",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;GEN+DAT;FEM;SG": {
-        "morpho": {
-            "Case": [
-                "Gen",
-                "Dat"
-            ],
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;GEN;FEM;PL": {
-        "morpho": {
-            "Case": "Gen",
-            "Gender": "Fem",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;GEN;MASC;PL": {
-        "morpho": {
-            "Case": "Gen",
-            "Gender": "Masc",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;GEN;MASC;SG": {
-        "morpho": {
-            "Case": "Gen",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;GEN;NEUT;PL": {
-        "morpho": {
-            "Case": "Gen",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;GEN;NEUT;SG": {
-        "morpho": {
-            "Case": "Gen",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2": {
-        "morpho": {
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;ABL;FEM;SG": {
-        "morpho": {
-            "Case": "Abl",
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;ABL;MASC+FEM+NEUT;PL": {
-        "morpho": {
-            "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;ABL;MASC;SG": {
-        "morpho": {
-            "Case": "Abl",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;ABL;NEUT;SG": {
-        "morpho": {
-            "Case": "Abl",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;ACC;FEM;PL": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Fem",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;ACC;FEM;SG": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;ACC;MASC;PL": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Masc",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;ACC;MASC;SG": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;ACC;NEUT;PL": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;ACC;NEUT;SG": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;DAT;MASC+FEM+NEUT;PL": {
-        "morpho": {
-            "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;DAT;MASC;SG": {
-        "morpho": {
-            "Case": "Dat",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;DAT;NEUT;SG": {
-        "morpho": {
-            "Case": "Dat",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;GEN+DAT;FEM;SG": {
-        "morpho": {
-            "Case": [
-                "Gen",
-                "Dat"
-            ],
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;GEN;FEM;PL": {
-        "morpho": {
-            "Case": "Gen",
-            "Gender": "Fem",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;GEN;MASC;PL": {
-        "morpho": {
-            "Case": "Gen",
-            "Gender": "Masc",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;GEN;MASC;SG": {
-        "morpho": {
-            "Case": "Gen",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;GEN;NEUT;PL": {
-        "morpho": {
-            "Case": "Gen",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;GEN;NEUT;SG": {
-        "morpho": {
-            "Case": "Gen",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;NOM;FEM;PL": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Fem",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;NOM;FEM;SG": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;NOM;MASC;PL": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Masc",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;NOM;MASC;SG": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;NOM;NEUT;PL": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;NOM;NEUT;SG": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;VOC;FEM;PL": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Fem",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;VOC;FEM;SG": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;VOC;MASC;PL": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Masc",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;VOC;MASC;SG": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;VOC;NEUT;PL": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;LGSPEC2;VOC;NEUT;SG": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;NOM;FEM;PL": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Fem",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;NOM;FEM;SG": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;NOM;MASC;PL": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Masc",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;NOM;MASC;SG": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;NOM;NEUT;PL": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;NOM;NEUT;SG": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;VOC;FEM;PL": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Fem",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;VOC;FEM;SG": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;VOC;MASC;PL": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Masc",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;VOC;MASC;SG": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;VOC;NEUT;PL": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;FUT;VOC;NEUT;SG": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
     "V;V.PTCP;ACT;PRS": {
         "morpho": {
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;ABL;MASC+FEM+NEUT;PL": {
-        "morpho": {
-            "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Plur",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;ABL;MASC+FEM+NEUT;SG": {
-        "morpho": {
-            "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Sing",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;ACC;MASC+FEM;PL": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
-            "Number": "Plur",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;ACC;MASC+FEM;SG": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
-            "Number": "Sing",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;ACC;NEUT;PL": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;ACC;NEUT;SG": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;DAT;MASC+FEM+NEUT;PL": {
-        "morpho": {
-            "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Plur",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;DAT;MASC+FEM+NEUT;SG": {
-        "morpho": {
-            "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Sing",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;GEN;MASC+FEM+NEUT;PL": {
-        "morpho": {
-            "Case": "Gen",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Plur",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;GEN;MASC+FEM+NEUT;SG": {
-        "morpho": {
-            "Case": "Gen",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Sing",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;LGSPEC2": {
-        "morpho": {
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;LGSPEC2;ABL;MASC+FEM+NEUT;PL": {
-        "morpho": {
-            "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Plur",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;LGSPEC2;ABL;MASC+FEM+NEUT;SG": {
-        "morpho": {
-            "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Sing",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;LGSPEC2;ACC;MASC+FEM;PL": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
-            "Number": "Plur",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;LGSPEC2;ACC;MASC+FEM;SG": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
-            "Number": "Sing",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;LGSPEC2;ACC;NEUT;PL": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;LGSPEC2;ACC;NEUT;SG": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;LGSPEC2;DAT;MASC+FEM+NEUT;PL": {
-        "morpho": {
-            "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Plur",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;LGSPEC2;DAT;MASC+FEM+NEUT;SG": {
-        "morpho": {
-            "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Sing",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;LGSPEC2;GEN;MASC+FEM+NEUT;PL": {
-        "morpho": {
-            "Case": "Gen",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Plur",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;LGSPEC2;GEN;MASC+FEM+NEUT;SG": {
-        "morpho": {
-            "Case": "Gen",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Sing",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;LGSPEC2;NOM;MASC+FEM+NEUT;SG": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Sing",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;LGSPEC2;NOM;MASC+FEM;PL": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
-            "Number": "Plur",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;LGSPEC2;NOM;NEUT;PL": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;LGSPEC2;VOC;MASC+FEM+NEUT;SG": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Sing",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;LGSPEC2;VOC;MASC+FEM;PL": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
-            "Number": "Plur",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;LGSPEC2;VOC;NEUT;PL": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;NOM;MASC+FEM+NEUT;SG": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Sing",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;NOM;MASC+FEM;PL": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
-            "Number": "Plur",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;NOM;NEUT;PL": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;VOC;MASC+FEM+NEUT;SG": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Sing",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;VOC;MASC+FEM;PL": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
-            "Number": "Plur",
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PRS;VOC;NEUT;PL": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Neut",
-            "Number": "Plur",
             "Tense": "Pres",
             "VerbForm": "Part",
             "Voice": "Act"
@@ -5989,1112 +3002,8 @@
         },
         "upos": "VERB"
     },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;ABL;FEM;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Abl",
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;ABL;MASC+FEM+NEUT;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;ABL;MASC;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Abl",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;ABL;NEUT;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Abl",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;ACC;FEM;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Acc",
-            "Gender": "Fem",
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;ACC;FEM;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Acc",
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;ACC;MASC;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Acc",
-            "Gender": "Masc",
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;ACC;MASC;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Acc",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;ACC;NEUT;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Acc",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;ACC;NEUT;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Acc",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;DAT;MASC+FEM+NEUT;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;DAT;MASC;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Dat",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;DAT;NEUT;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Dat",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;GEN+DAT;FEM;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": [
-                "Gen",
-                "Dat"
-            ],
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;GEN;FEM;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Gen",
-            "Gender": "Fem",
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;GEN;MASC;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Gen",
-            "Gender": "Masc",
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;GEN;MASC;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Gen",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;GEN;NEUT;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Gen",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;GEN;NEUT;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Gen",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;NOM;FEM;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Nom",
-            "Gender": "Fem",
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;NOM;FEM;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Nom",
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;NOM;MASC;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Nom",
-            "Gender": "Masc",
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;NOM;MASC;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Nom",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;NOM;NEUT;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Nom",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;NOM;NEUT;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Nom",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;VOC;FEM;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Voc",
-            "Gender": "Fem",
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;VOC;FEM;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Voc",
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;VOC;MASC;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Voc",
-            "Gender": "Masc",
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;VOC;MASC;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Voc",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;VOC;NEUT;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Voc",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;ACT;PST;PFV;LGSPEC2;VOC;NEUT;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Voc",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
     "V;V.PTCP;PASS;FUT": {
         "morpho": {
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;ABL;FEM;SG": {
-        "morpho": {
-            "Case": "Abl",
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;ABL;MASC+FEM+NEUT;PL": {
-        "morpho": {
-            "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;ABL;MASC;SG": {
-        "morpho": {
-            "Case": "Abl",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;ABL;NEUT;SG": {
-        "morpho": {
-            "Case": "Abl",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;ACC;FEM;PL": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Fem",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;ACC;FEM;SG": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;ACC;MASC;PL": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Masc",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;ACC;MASC;SG": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;ACC;NEUT;PL": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;ACC;NEUT;SG": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;DAT;MASC+FEM+NEUT;PL": {
-        "morpho": {
-            "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;DAT;MASC;SG": {
-        "morpho": {
-            "Case": "Dat",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;DAT;NEUT;SG": {
-        "morpho": {
-            "Case": "Dat",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;GEN+DAT;FEM;SG": {
-        "morpho": {
-            "Case": [
-                "Gen",
-                "Dat"
-            ],
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;GEN;FEM;PL": {
-        "morpho": {
-            "Case": "Gen",
-            "Gender": "Fem",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;GEN;MASC;PL": {
-        "morpho": {
-            "Case": "Gen",
-            "Gender": "Masc",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;GEN;MASC;SG": {
-        "morpho": {
-            "Case": "Gen",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;GEN;NEUT;PL": {
-        "morpho": {
-            "Case": "Gen",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;GEN;NEUT;SG": {
-        "morpho": {
-            "Case": "Gen",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2": {
-        "morpho": {
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;ABL;FEM;SG": {
-        "morpho": {
-            "Case": "Abl",
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;ABL;MASC+FEM+NEUT;PL": {
-        "morpho": {
-            "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;ABL;MASC;SG": {
-        "morpho": {
-            "Case": "Abl",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;ABL;NEUT;SG": {
-        "morpho": {
-            "Case": "Abl",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;ACC;FEM;PL": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Fem",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;ACC;FEM;SG": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;ACC;MASC;PL": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Masc",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;ACC;MASC;SG": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;ACC;NEUT;PL": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;ACC;NEUT;SG": {
-        "morpho": {
-            "Case": "Acc",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;DAT;MASC+FEM+NEUT;PL": {
-        "morpho": {
-            "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;DAT;MASC;SG": {
-        "morpho": {
-            "Case": "Dat",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;DAT;NEUT;SG": {
-        "morpho": {
-            "Case": "Dat",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;GEN+DAT;FEM;SG": {
-        "morpho": {
-            "Case": [
-                "Gen",
-                "Dat"
-            ],
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;GEN;FEM;PL": {
-        "morpho": {
-            "Case": "Gen",
-            "Gender": "Fem",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;GEN;MASC;PL": {
-        "morpho": {
-            "Case": "Gen",
-            "Gender": "Masc",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;GEN;MASC;SG": {
-        "morpho": {
-            "Case": "Gen",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;GEN;NEUT;PL": {
-        "morpho": {
-            "Case": "Gen",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;GEN;NEUT;SG": {
-        "morpho": {
-            "Case": "Gen",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;NOM;FEM;PL": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Fem",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;NOM;FEM;SG": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;NOM;MASC;PL": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Masc",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;NOM;MASC;SG": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;NOM;NEUT;PL": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;NOM;NEUT;SG": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;VOC;FEM;PL": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Fem",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;VOC;FEM;SG": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;VOC;MASC;PL": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Masc",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;VOC;MASC;SG": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;VOC;NEUT;PL": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;LGSPEC2;VOC;NEUT;SG": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;NOM;FEM;PL": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Fem",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;NOM;FEM;SG": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;NOM;MASC;PL": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Masc",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;NOM;MASC;SG": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;NOM;NEUT;PL": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;NOM;NEUT;SG": {
-        "morpho": {
-            "Case": "Nom",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;VOC;FEM;PL": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Fem",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;VOC;FEM;SG": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;VOC;MASC;PL": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Masc",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;VOC;MASC;SG": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;VOC;NEUT;PL": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Fut",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;FUT;VOC;NEUT;SG": {
-        "morpho": {
-            "Case": "Voc",
-            "Gender": "Neut",
-            "Number": "Sing",
             "Tense": "Fut",
             "VerbForm": "Part",
             "Voice": "Pass"
@@ -7104,389 +3013,6 @@
     "V;V.PTCP;PASS;PST;PFV": {
         "morpho": {
             "Aspect": "Perf",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;ABL;FEM;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Abl",
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;ABL;MASC+FEM+NEUT;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Abl",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;ABL;MASC;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Abl",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;ABL;NEUT;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Abl",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;ACC;FEM;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Acc",
-            "Gender": "Fem",
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;ACC;FEM;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Acc",
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;ACC;MASC;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Acc",
-            "Gender": "Masc",
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;ACC;MASC;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Acc",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;ACC;NEUT;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Acc",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;ACC;NEUT;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Acc",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;DAT;MASC+FEM+NEUT;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Neut",
-                "Masc"
-            ],
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;DAT;MASC;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Dat",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;DAT;NEUT;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Dat",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;GEN+DAT;FEM;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": [
-                "Gen",
-                "Dat"
-            ],
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;GEN;FEM;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Gen",
-            "Gender": "Fem",
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;GEN;MASC;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Gen",
-            "Gender": "Masc",
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;GEN;MASC;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Gen",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;GEN;NEUT;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Gen",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;GEN;NEUT;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Gen",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;NOM;FEM;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Nom",
-            "Gender": "Fem",
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;NOM;FEM;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Nom",
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;NOM;MASC;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Nom",
-            "Gender": "Masc",
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;NOM;MASC;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Nom",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;NOM;NEUT;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Nom",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;NOM;NEUT;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Nom",
-            "Gender": "Neut",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;VOC;FEM;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Voc",
-            "Gender": "Fem",
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;VOC;FEM;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Voc",
-            "Gender": "Fem",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;VOC;MASC;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Voc",
-            "Gender": "Masc",
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;VOC;MASC;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Voc",
-            "Gender": "Masc",
-            "Number": "Sing",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;VOC;NEUT;PL": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Voc",
-            "Gender": "Neut",
-            "Number": "Plur",
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST;PFV;VOC;NEUT;SG": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Case": "Voc",
-            "Gender": "Neut",
-            "Number": "Sing",
             "Tense": "Past",
             "VerbForm": "Part",
             "Voice": "Pass"

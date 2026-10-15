@@ -1,0 +1,104 @@
+{
+    "V;IPFV;2;PRS": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Person": "2",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IPFV;2;PST": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Person": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;IPFV;3;PRS": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IPFV;3;PST": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;IPFV;PL;1;PRS": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IPFV;PL;1;PST": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;IPFV;SG;1;PRS": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IPFV;SG;1;PST": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;IRR;2;FUT": {
+        "morpho": {
+            "Mood": "Irr",
+            "Person": "2",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;IRR;3;FUT": {
+        "morpho": {
+            "Mood": "Irr",
+            "Person": "3",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;IRR;PL;1;FUT": {
+        "morpho": {
+            "Mood": "Irr",
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;IRR;SG;1;FUT": {
+        "morpho": {
+            "Mood": "Irr",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    }
+}

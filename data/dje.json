@@ -1,0 +1,20 @@
+{
+    "V;FUT": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS": {
+        "morpho": {
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PST": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    }
+}

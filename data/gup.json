@@ -1,0 +1,1527 @@
+{
+    "V;1;DU;EXCL;ARGAC3DU;PST;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Clusivity": "Ex",
+            "Definite[acc]": "Cons",
+            "Number": "Dual",
+            "Person": "1",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;DU;EXCL;ARGAC3DU;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Clusivity": "Ex",
+            "Definite[acc]": "Cons",
+            "Number": "Dual",
+            "Person": "1",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;DU;EXCL;ARGAC3PL;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Number[acc]": "Plur",
+            "Person": "1",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;DU;EXCL;ARGAC3SG;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Number[acc]": "Sing",
+            "Person": "1",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;DU;EXCL;ARGAC3SG;non{PST}": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Number[acc]": "Sing",
+            "Person": "1",
+            "Person[acc]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;1;DU;EXCL;LGSPEC01;LGSPEC06;non{PST}": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;DU;EXCL;LGSPEC01;non{PST}": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;DU;EXCL;PST;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;DU;EXCL;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;DU;INCL;ARGAC3DU;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Clusivity": "In",
+            "Definite[acc]": "Cons",
+            "Number": "Dual",
+            "Person": "1",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;DU;INCL;ARGAC3PL;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Clusivity": "In",
+            "Number": "Dual",
+            "Number[acc]": "Plur",
+            "Person": "1",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;DU;INCL;ARGAC3SG;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Clusivity": "In",
+            "Number": "Dual",
+            "Number[acc]": "Sing",
+            "Person": "1",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;DU;INCL;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Clusivity": "In",
+            "Number": "Dual",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;INCL;ARGAC3DU;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Clusivity": "In",
+            "Definite[acc]": "Cons",
+            "Person": "1",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;INCL;ARGAC3SG;LGSPEC01;REFL/RECP;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Clusivity": "In",
+            "Number[acc]": "Sing",
+            "Person": "1",
+            "Person[acc]": "3",
+            "Reflex": "yes",
+            "Tense": "Past",
+            "Voice": "Rcp"
+        },
+        "upos": "VERB"
+    },
+    "V;1;INCL;ARGAC3SG;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Clusivity": "In",
+            "Number[acc]": "Sing",
+            "Person": "1",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;INCL;ARGAC3SG;REFL/RECP;non{PST}": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number[acc]": "Sing",
+            "Person": "1",
+            "Person[acc]": "3",
+            "Reflex": "yes",
+            "Voice": "Rcp"
+        },
+        "upos": "VERB"
+    },
+    "V;1;INCL;PST;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Clusivity": "In",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;INCL;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Clusivity": "In",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;INCL;non{PST}": {
+        "morpho": {
+            "Clusivity": "In",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;ARGAC2;BEN;non{PST}": {
+        "morpho": {
+            "Case": "Ben",
+            "Number": "Plur",
+            "Person": "1",
+            "Person[acc]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;ARGAC2;LGSPEC01;LGSPEC01;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Plur",
+            "Person": "1",
+            "Person[acc]": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;ARGAC2;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Plur",
+            "Person": "1",
+            "Person[acc]": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;ARGAC2;non{PST}": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "1",
+            "Person[acc]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;ARGAC2PL;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Plur",
+            "Number[acc]": "Plur",
+            "Person": "1",
+            "Person[acc]": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;EXCL;ARGAC3SG;LGSPEC07;IRR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Mood": "Irr",
+            "Number": "Plur",
+            "Number[acc]": "Sing",
+            "Person": "1",
+            "Person[acc]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;EXCL;ARGAC3SG;non{PST}": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Number[acc]": "Sing",
+            "Person": "1",
+            "Person[acc]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;EXCL;LGSPEC01;non{PST}": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;EXCL;LGSPEC02;non{PST}": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;EXCL;PST;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;EXCL;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;INCL;ARGAC3DU;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Clusivity": "In",
+            "Definite[acc]": "Cons",
+            "Number": "Plur",
+            "Person": "1",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;INCL;ARGAC3PL;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Clusivity": "In",
+            "Number": "Plur",
+            "Number[acc]": "Plur",
+            "Person": "1",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;INCL;ARGAC3SG;LGSPEC01;LGSPEC01;REFL/RECP;IRR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Mood": "Irr",
+            "Number": "Plur",
+            "Number[acc]": "Sing",
+            "Person": "1",
+            "Person[acc]": "3",
+            "Reflex": "yes",
+            "Voice": "Rcp"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;INCL;ARGAC3SG;REFL/RECP;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Clusivity": "In",
+            "Number": "Plur",
+            "Number[acc]": "Sing",
+            "Person": "1",
+            "Person[acc]": "3",
+            "Reflex": "yes",
+            "Tense": "Past",
+            "Voice": "Rcp"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;INCL;ARGAC3SG;REFL/RECP;non{PST}": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Plur",
+            "Number[acc]": "Sing",
+            "Person": "1",
+            "Person[acc]": "3",
+            "Reflex": "yes",
+            "Voice": "Rcp"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;INCL;ARGAC3SG;non{PST}": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Plur",
+            "Number[acc]": "Sing",
+            "Person": "1",
+            "Person[acc]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;INCL;LGSPEC01;non{PST}": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Plur",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;INCL;LGSPEC04;non{PST}": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Plur",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;INCL;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Clusivity": "In",
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;INCL;non{PST}": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Plur",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;ARGAC2;COM;IMP": {
+        "morpho": {
+            "Case": "Com",
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "1",
+            "Person[acc]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;ARGAC2;COM;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Case": "Com",
+            "Number": "Sing",
+            "Person": "1",
+            "Person[acc]": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;ARGAC2;COM;REFL/RECP;non{PST}": {
+        "morpho": {
+            "Case": "Com",
+            "Number": "Sing",
+            "Person": "1",
+            "Person[acc]": "2",
+            "Reflex": "yes",
+            "Voice": "Rcp"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;ARGAC2;IRR": {
+        "morpho": {
+            "Mood": "Irr",
+            "Number": "Sing",
+            "Person": "1",
+            "Person[acc]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;ARGAC2;PST;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Number": "Sing",
+            "Person": "1",
+            "Person[acc]": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;ARGAC2;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing",
+            "Person": "1",
+            "Person[acc]": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;ARGAC2;REDUP;PST;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Number": "Sing",
+            "Person": "1",
+            "Person[acc]": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;ARGAC2;REDUP;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1",
+            "Person[acc]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;ARGAC2;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1",
+            "Person[acc]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;ARGAC2DU;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Definite[acc]": "Cons",
+            "Number": "Sing",
+            "Person": "1",
+            "Person[acc]": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;ARGAC3PL;PST;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Number": "Sing",
+            "Number[acc]": "Plur",
+            "Person": "1",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;ARGAC3PL;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[acc]": "Plur",
+            "Person": "1",
+            "Person[acc]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;ARGAC3SG;IMP": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Number[acc]": "Sing",
+            "Person": "1",
+            "Person[acc]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;ARGAC3SG;LGSPEC02;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[acc]": "Sing",
+            "Person": "1",
+            "Person[acc]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;ARGAC3SG;LGSPEC05;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[acc]": "Sing",
+            "Person": "1",
+            "Person[acc]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;ARGAC3SG;PST;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Number": "Sing",
+            "Number[acc]": "Sing",
+            "Person": "1",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;ARGAC3SG;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing",
+            "Number[acc]": "Sing",
+            "Person": "1",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;ARGAC3SG;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[acc]": "Sing",
+            "Person": "1",
+            "Person[acc]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;BEN;non{PST}": {
+        "morpho": {
+            "Case": "Ben",
+            "Number": "Sing",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;IRR": {
+        "morpho": {
+            "Mood": "Irr",
+            "Number": "Sing",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;LGSPEC03;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;LGSPEC04;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;LGSPEC05;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;REDUP;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;VERS;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;2;DU;ARGAC3DU;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Definite[acc]": "Cons",
+            "Number": "Dual",
+            "Person": "2",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;2;DU;ARGAC3PL;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Dual",
+            "Number[acc]": "Plur",
+            "Person": "2",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;2;DU;ARGAC3SG;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Dual",
+            "Number[acc]": "Sing",
+            "Person": "2",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;2;DU;LGSPEC01;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Dual",
+            "Person": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;2;DU;LGSPEC01;non{PST}": {
+        "morpho": {
+            "Number": "Dual",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;DU;LGSPEC02;non{PST}": {
+        "morpho": {
+            "Number": "Dual",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;DU;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Dual",
+            "Person": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;2;DU;REFL/RECP;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Dual",
+            "Person": "2",
+            "Reflex": "yes",
+            "Tense": "Past",
+            "Voice": "Rcp"
+        },
+        "upos": "VERB"
+    },
+    "V;2;DU;REFL/RECP;non{PST}": {
+        "morpho": {
+            "Number": "Dual",
+            "Person": "2",
+            "Reflex": "yes",
+            "Voice": "Rcp"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;ARGAC1;non{PST}": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "2",
+            "Person[acc]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;ARGAC3SG;LGSPEC02;REFL/RECP;non{PST}": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[acc]": "Sing",
+            "Person": "2",
+            "Person[acc]": "3",
+            "Reflex": "yes",
+            "Voice": "Rcp"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;ARGAC3SG;LGSPEC08;LGSPEC04;IMP": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Number[acc]": "Sing",
+            "Person": "2",
+            "Person[acc]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;ARGAC3SG;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Plur",
+            "Number[acc]": "Sing",
+            "Person": "2",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;PST;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Number": "Plur",
+            "Person": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;non{PST}": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;ARGAC1;IRR": {
+        "morpho": {
+            "Mood": "Irr",
+            "Number": "Sing",
+            "Person": "2",
+            "Person[acc]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;ARGAC1;LGSPEC03;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing",
+            "Person": "2",
+            "Person[acc]": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;ARGAC1;LGSPEC04;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing",
+            "Person": "2",
+            "Person[acc]": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;ARGAC1;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2",
+            "Person[acc]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;ARGAC3DU;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Definite[acc]": "Cons",
+            "Number": "Sing",
+            "Person": "2",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;ARGAC3PL;BEN;non{PST}": {
+        "morpho": {
+            "Case": "Ben",
+            "Number": "Sing",
+            "Number[acc]": "Plur",
+            "Person": "2",
+            "Person[acc]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;ARGAC3PL;LGSPEC03;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing",
+            "Number[acc]": "Plur",
+            "Person": "2",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;ARGAC3PL;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing",
+            "Number[acc]": "Plur",
+            "Person": "2",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;ARGAC3PL;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[acc]": "Plur",
+            "Person": "2",
+            "Person[acc]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;ARGAC3SG;IMP": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Number[acc]": "Sing",
+            "Person": "2",
+            "Person[acc]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;ARGAC3SG;LGSPEC01;IMP": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Number[acc]": "Sing",
+            "Person": "2",
+            "Person[acc]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;ARGAC3SG;LGSPEC01;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[acc]": "Sing",
+            "Person": "2",
+            "Person[acc]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;ARGAC3SG;LGSPEC03;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[acc]": "Sing",
+            "Person": "2",
+            "Person[acc]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;ARGAC3SG;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing",
+            "Number[acc]": "Sing",
+            "Person": "2",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;ARGAC3SG;VERS;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing",
+            "Number[acc]": "Sing",
+            "Person": "2",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;ARGAC3SG;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[acc]": "Sing",
+            "Person": "2",
+            "Person[acc]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;IRR": {
+        "morpho": {
+            "Mood": "Irr",
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;LGSPEC01;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;LGSPEC02;IMP": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;LGSPEC04;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;VERS;IMP": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;VERS;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;VERS;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;3;DU;ARGAC3DU;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Definite[acc]": "Cons",
+            "Number": "Dual",
+            "Person": "3",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;DU;ARGAC3DU;REDUP;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Definite[acc]": "Cons",
+            "Number": "Dual",
+            "Person": "3",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;DU;ARGAC3DU;non{PST}": {
+        "morpho": {
+            "Definite[acc]": "Cons",
+            "Number": "Dual",
+            "Person": "3",
+            "Person[acc]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;DU;ARGAC3PL;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Dual",
+            "Number[acc]": "Plur",
+            "Person": "3",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;DU;ARGAC3PL;non{PST}": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[acc]": "Plur",
+            "Person": "3",
+            "Person[acc]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;DU;ARGAC3SG;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Dual",
+            "Number[acc]": "Sing",
+            "Person": "3",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;DU;LGSPEC01;LGSPEC02;non{PST}": {
+        "morpho": {
+            "Number": "Dual",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;DU;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Dual",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;ARGAC1DU;non{PST}": {
+        "morpho": {
+            "Definite[acc]": "Cons",
+            "Number": "Plur",
+            "Person": "3",
+            "Person[acc]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;ARGAC1SG;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Plur",
+            "Number[acc]": "Sing",
+            "Person": "3",
+            "Person[acc]": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;ARGAC3DU;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Definite[acc]": "Cons",
+            "Number": "Plur",
+            "Person": "3",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;ARGAC3PL;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Plur",
+            "Number[acc]": "Plur",
+            "Person": "3",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;ARGAC3SG;LGSPEC01;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Plur",
+            "Number[acc]": "Sing",
+            "Person": "3",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;ARGAC3SG;LGSPEC04;REFL/RECP;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Plur",
+            "Number[acc]": "Sing",
+            "Person": "3",
+            "Person[acc]": "3",
+            "Reflex": "yes",
+            "Tense": "Past",
+            "Voice": "Rcp"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;ARGAC3SG;LGSPEC04;REFL/RECP;non{PST}": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[acc]": "Sing",
+            "Person": "3",
+            "Person[acc]": "3",
+            "Reflex": "yes",
+            "Voice": "Rcp"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;ARGAC3SG;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Plur",
+            "Number[acc]": "Sing",
+            "Person": "3",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;ARGAC3SG;REDUP;PST;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Number": "Plur",
+            "Number[acc]": "Sing",
+            "Person": "3",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;LGSPEC04;PST;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;PST;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;REFL/RECP;non{PST}": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Reflex": "yes",
+            "Voice": "Rcp"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;ARGAC1;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing",
+            "Person": "3",
+            "Person[acc]": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;ARGAC1;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Person[acc]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;ARGAC1PL;BEN;non{PST}": {
+        "morpho": {
+            "Case": "Ben",
+            "Number": "Sing",
+            "Number[acc]": "Plur",
+            "Person": "3",
+            "Person[acc]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;ARGAC1PL;IMP": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Number[acc]": "Plur",
+            "Person": "3",
+            "Person[acc]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;ARGAC1PL;LGSPEC03;LGSPEC07;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing",
+            "Number[acc]": "Plur",
+            "Person": "3",
+            "Person[acc]": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;ARGAC1PL;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[acc]": "Plur",
+            "Person": "3",
+            "Person[acc]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;ARGAC2;BEN;LGSPEC04;non{PST}": {
+        "morpho": {
+            "Case": "Ben",
+            "Number": "Sing",
+            "Person": "3",
+            "Person[acc]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;ARGAC2;BEN;non{PST}": {
+        "morpho": {
+            "Case": "Ben",
+            "Number": "Sing",
+            "Person": "3",
+            "Person[acc]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;ARGAC2;LGSPEC02;BEN;non{PST}": {
+        "morpho": {
+            "Case": "Ben",
+            "Number": "Sing",
+            "Person": "3",
+            "Person[acc]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;ARGAC2;LGSPEC02;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing",
+            "Person": "3",
+            "Person[acc]": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;ARGAC2;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing",
+            "Person": "3",
+            "Person[acc]": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;ARGAC2;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Person[acc]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;ARGAC2DU;LGSPEC01;IRR": {
+        "morpho": {
+            "Definite[acc]": "Cons",
+            "Mood": "Irr",
+            "Number": "Sing",
+            "Person": "3",
+            "Person[acc]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;ARGAC3PL;BEN;LGSPEC04;non{PST}": {
+        "morpho": {
+            "Case": "Ben",
+            "Number": "Sing",
+            "Number[acc]": "Plur",
+            "Person": "3",
+            "Person[acc]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;ARGAC3PL;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing",
+            "Number[acc]": "Plur",
+            "Person": "3",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;ARGAC3SG;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing",
+            "Number[acc]": "Sing",
+            "Person": "3",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;ARGAC3SG;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[acc]": "Sing",
+            "Person": "3",
+            "Person[acc]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;ARGAC3SGHUM;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender[acc]": "Masc",
+            "Number": "Sing",
+            "Number[acc]": "Sing",
+            "Person": "3",
+            "Person[acc]": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;BEN;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Case": "Ben",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;IRR": {
+        "morpho": {
+            "Mood": "Irr",
+            "Number": "Sing",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;LGSPEC01;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;LGSPEC04;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;LGSPEC05;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;PST;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;REDUP;PST;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;REDUP;PST;PFV": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;VERS;LGSPEC01;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;non{PST}": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    }
+}

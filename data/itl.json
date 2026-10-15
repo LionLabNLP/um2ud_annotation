@@ -1,0 +1,3997 @@
+{
+    "ADJ;LOC;SG": {
+        "morpho": {
+            "Case": "Loc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;PL": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;SG": {
+        "morpho": {
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;SG;COMPV": {
+        "morpho": {
+            "Case": "Cmp",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;SG;FOC": {
+        "morpho": {
+            "InfStruct": "Foc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADV": {
+        "morpho": {},
+        "upos": "ADV"
+    },
+    "ADV;FOC": {
+        "morpho": {
+            "InfStruct": "Foc"
+        },
+        "upos": "ADV"
+    },
+    "ADV;PSSD": {
+        "morpho": {
+            "Definite": "Cons"
+        },
+        "upos": "ADV"
+    },
+    "CONJ": {
+        "morpho": {},
+        "upos": "CONJ"
+    },
+    "INTJ": {
+        "morpho": {},
+        "upos": "INTJ"
+    },
+    "N": {
+        "morpho": {},
+        "upos": "NOUN"
+    },
+    "N;ABL;SG": {
+        "morpho": {
+            "Case": "Abl",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;COM;SG": {
+        "morpho": {
+            "Case": "Com",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;SG;DIM": {
+        "morpho": {
+            "Case": "Dat",
+            "Degree": "Dim",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DIM;PL;FOC": {
+        "morpho": {
+            "Degree": "Dim",
+            "InfStruct": "Foc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;DIM;PL;INS": {
+        "morpho": {
+            "Case": "Ins",
+            "Degree": "Dim",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;INS;DIM": {
+        "morpho": {
+            "Case": "Ins",
+            "Degree": "Dim"
+        },
+        "upos": "NOUN"
+    },
+    "N;INS;PL": {
+        "morpho": {
+            "Case": "Ins",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;INS;SG": {
+        "morpho": {
+            "Case": "Ins",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;INS;SG;": {
+        "morpho": {
+            "Case": "Ins",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;LOC": {
+        "morpho": {
+            "Case": "Loc"
+        },
+        "upos": "NOUN"
+    },
+    "N;LOC;DIM": {
+        "morpho": {
+            "Case": "Loc",
+            "Degree": "Dim"
+        },
+        "upos": "NOUN"
+    },
+    "N;LOC;PL": {
+        "morpho": {
+            "Case": "Loc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;LOC;SG": {
+        "morpho": {
+            "Case": "Loc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;LOC;SG;DIM;FOC": {
+        "morpho": {
+            "Case": "Loc",
+            "Degree": "Dim",
+            "InfStruct": "Foc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;LOC;SG;PSSD": {
+        "morpho": {
+            "Case": "Loc",
+            "Definite": "Cons",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;PL;DIM": {
+        "morpho": {
+            "Case": "Nom",
+            "Degree": "Dim",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;PL;PSSD": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Cons",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;SG;DAT": {
+        "morpho": {
+            "Case": "Dat,Nom",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;SG;DIM": {
+        "morpho": {
+            "Case": "Nom",
+            "Degree": "Dim",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;SG;FOC": {
+        "morpho": {
+            "Case": "Nom",
+            "InfStruct": "Foc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;SG;LOC": {
+        "morpho": {
+            "Case": "Loc,Nom",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;SG;PSSD": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Cons",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;SG;PSSD;FOC": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Cons",
+            "InfStruct": "Foc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;FOC": {
+        "morpho": {
+            "InfStruct": "Foc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;INS": {
+        "morpho": {
+            "Case": "Ins",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;LOC": {
+        "morpho": {
+            "Case": "Loc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PRIV;PL": {
+        "morpho": {
+            "Case": "Abe",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PRIV;SG": {
+        "morpho": {
+            "Case": "Abe",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;PRIV;SG;DIM": {
+        "morpho": {
+            "Case": "Abe",
+            "Degree": "Dim",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;PRP;SG": {
+        "morpho": {
+            "Case": "Prp",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSSD;DIM": {
+        "morpho": {
+            "Definite": "Cons",
+            "Degree": "Dim"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSSD;INS": {
+        "morpho": {
+            "Case": "Ins",
+            "Definite": "Cons"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;ABL": {
+        "morpho": {
+            "Case": "Abl",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;DAT": {
+        "morpho": {
+            "Case": "Dat",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;PSSD": {
+        "morpho": {
+            "Definite": "Cons",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;TRANS;PL": {
+        "morpho": {
+            "Case": "Tra",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;TRANS;SG": {
+        "morpho": {
+            "Case": "Tra",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;TRANS;SG;DIM": {
+        "morpho": {
+            "Case": "Tra",
+            "Degree": "Dim",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;VOC;PL": {
+        "morpho": {
+            "Case": "Voc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;VOC;SG": {
+        "morpho": {
+            "Case": "Voc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "NUM": {
+        "morpho": {
+            "NumType": "Card"
+        },
+        "upos": "NUM"
+    },
+    "NUM;INS;SG": {
+        "morpho": {
+            "Case": "Ins",
+            "NumType": "Card",
+            "Number": "Sing"
+        },
+        "upos": "NUM"
+    },
+    "NUM;LOC;SG": {
+        "morpho": {
+            "Case": "Loc",
+            "NumType": "Card",
+            "Number": "Sing"
+        },
+        "upos": "NUM"
+    },
+    "NUM;NOM;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "NumType": "Card",
+            "Number": "Plur"
+        },
+        "upos": "NUM"
+    },
+    "NUM;PL": {
+        "morpho": {
+            "NumType": "Card",
+            "Number": "Plur"
+        },
+        "upos": "NUM"
+    },
+    "NUM;SG": {
+        "morpho": {
+            "NumType": "Card",
+            "Number": "Sing"
+        },
+        "upos": "NUM"
+    },
+    "PART": {
+        "morpho": {},
+        "upos": "PART"
+    },
+    "PART;FOC": {
+        "morpho": {
+            "InfStruct": "Foc"
+        },
+        "upos": "PART"
+    },
+    "PART;NEG": {
+        "morpho": {
+            "Polarity": "Neg"
+        },
+        "upos": "PART"
+    },
+    "PRO;ABL;SG": {
+        "morpho": {
+            "Case": "Abl",
+            "Number": "Sing",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;CAUS": {
+        "morpho": {
+            "PronType": "Prn",
+            "Voice": "Cau"
+        },
+        "upos": "PRON"
+    },
+    "PRO;COM": {
+        "morpho": {
+            "Case": "Com",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;DAT;FOC": {
+        "morpho": {
+            "Case": "Dat",
+            "InfStruct": "Foc",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;DAT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Number": "Sing",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;DIM": {
+        "morpho": {
+            "Degree": "Dim",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;INS;SG": {
+        "morpho": {
+            "Case": "Ins",
+            "Number": "Sing",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;INS;SG;PSSD": {
+        "morpho": {
+            "Case": "Ins",
+            "Definite": "Cons",
+            "Number": "Sing",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;LOC;FOC": {
+        "morpho": {
+            "Case": "Loc",
+            "InfStruct": "Foc",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;LOC;SG": {
+        "morpho": {
+            "Case": "Loc",
+            "Number": "Sing",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;NOM;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Number": "Plur",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;NOM;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Number": "Sing",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;NOM;SG;DIM;PSSD": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Cons",
+            "Degree": "Dim",
+            "Number": "Sing",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;NOM;SG;PSSD": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Cons",
+            "Number": "Sing",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;NOM;SG;PSSD;FOC": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Cons",
+            "InfStruct": "Foc",
+            "Number": "Sing",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;NOM;SG;REFL": {
+        "morpho": {
+            "Case": "Nom",
+            "Number": "Sing",
+            "PronType": "Prn",
+            "Reflex": "yes"
+        },
+        "upos": "PRON"
+    },
+    "PRO;PART": {
+        "morpho": {
+            "PronType": "Prn"
+        },
+        "upos": "PART,PRON"
+    },
+    "PRO;PRIV;SG;PSSD": {
+        "morpho": {
+            "Case": "Abe",
+            "Definite": "Cons",
+            "Number": "Sing",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;PRP": {
+        "morpho": {
+            "Case": "Prp",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;PRP;SG": {
+        "morpho": {
+            "Case": "Prp",
+            "Number": "Sing",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;PRP;SG;PSSD": {
+        "morpho": {
+            "Case": "Prp",
+            "Definite": "Cons",
+            "Number": "Sing",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;SG;FOC": {
+        "morpho": {
+            "InfStruct": "Foc",
+            "Number": "Sing",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PROPN;ABL;SG": {
+        "morpho": {
+            "Case": "Abl",
+            "NounType": "Prop",
+            "Number": "Sing"
+        },
+        "upos": "PROPN"
+    },
+    "PROPN;DAT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "NounType": "Prop",
+            "Number": "Sing"
+        },
+        "upos": "PROPN"
+    },
+    "PROPN;LOC;SG": {
+        "morpho": {
+            "Case": "Loc",
+            "NounType": "Prop",
+            "Number": "Sing"
+        },
+        "upos": "PROPN"
+    },
+    "PROPN;LOC;SG;DIM": {
+        "morpho": {
+            "Case": "Loc",
+            "Degree": "Dim",
+            "NounType": "Prop",
+            "Number": "Sing"
+        },
+        "upos": "PROPN"
+    },
+    "PROPN;NOM;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "NounType": "Prop",
+            "Number": "Plur"
+        },
+        "upos": "PROPN"
+    },
+    "PROPN;NOM;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "NounType": "Prop",
+            "Number": "Sing"
+        },
+        "upos": "PROPN"
+    },
+    "PROPN;NOM;SG;DIM": {
+        "morpho": {
+            "Case": "Nom",
+            "Degree": "Dim",
+            "NounType": "Prop",
+            "Number": "Sing"
+        },
+        "upos": "PROPN"
+    },
+    "PROPN;NOM;SG;FOC": {
+        "morpho": {
+            "Case": "Nom",
+            "InfStruct": "Foc",
+            "NounType": "Prop",
+            "Number": "Sing"
+        },
+        "upos": "PROPN"
+    },
+    "PROPN;NOM;SG;PSSD": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Cons",
+            "NounType": "Prop",
+            "Number": "Sing"
+        },
+        "upos": "PROPN"
+    },
+    "PROPN;NOM;SG;PSSD;FOC": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Cons",
+            "InfStruct": "Foc",
+            "NounType": "Prop",
+            "Number": "Sing"
+        },
+        "upos": "PROPN"
+    },
+    "PROPN;VOC;SG": {
+        "morpho": {
+            "Case": "Voc",
+            "NounType": "Prop",
+            "Number": "Sing"
+        },
+        "upos": "PROPN"
+    },
+    "V": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V.CVB;FIN;COND;SG;1": {
+        "morpho": {
+            "Mood": "Cnd",
+            "Number": "Sing",
+            "Person": "1",
+            "VerbForm": "Conv,Fin"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;IPFV;NFIN;NEG": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Polarity": "Neg",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN": {
+        "morpho": {
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;ACTY": {
+        "morpho": {
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;ACTY;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;CAUS": {
+        "morpho": {
+            "VerbForm": "Conv",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;CAUS;FOC": {
+        "morpho": {
+            "InfStruct": "Foc",
+            "VerbForm": "Conv",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;CAUS;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "VerbForm": "Conv",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;CAUS;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "VerbForm": "Conv",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;CAUS;OPT": {
+        "morpho": {
+            "Mood": "Opt",
+            "VerbForm": "Conv",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;DIM;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Degree": "Dim",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;FOC": {
+        "morpho": {
+            "InfStruct": "Foc",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;FUT;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Tense": "Fut",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;IMP;PL;1": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Person": "1",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;IMP;PL;1;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Person": "1",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;IMP;PL;3;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Person": "3",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;IMP;SG;2": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "2",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;IMP;SG;2;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "2",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;IMP;SG;3": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "3",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;IND;PL;1": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "1",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;IPFV;FOC": {
+        "morpho": {
+            "Aspect": "Imp",
+            "InfStruct": "Foc",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;NEG": {
+        "morpho": {
+            "Polarity": "Neg",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;NEG;ACTY": {
+        "morpho": {
+            "Polarity": "Neg",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;NEG;CAUS": {
+        "morpho": {
+            "Polarity": "Neg",
+            "VerbForm": "Conv",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;NEG;FUT": {
+        "morpho": {
+            "Polarity": "Neg",
+            "Tense": "Fut",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;NEG;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Polarity": "Neg",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;NEG;OPT": {
+        "morpho": {
+            "Mood": "Opt",
+            "Polarity": "Neg",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;OPT": {
+        "morpho": {
+            "Mood": "Opt",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;OPT;ACTY;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Opt",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;OPT;NEG": {
+        "morpho": {
+            "Mood": "Opt",
+            "Polarity": "Neg",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;PRS": {
+        "morpho": {
+            "Tense": "Pres",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;RECP": {
+        "morpho": {
+            "VerbForm": "Conv",
+            "Voice": "Rcp"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;NFIN;SG;2": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;PL;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Number": "Plur",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.MSDR;FH;NFIN": {
+        "morpho": {
+            "Evident": "Fh",
+            "VerbForm": "Vnoun"
+        },
+        "upos": "VERB"
+    },
+    "V.MSDR;FH;NFIN;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Evident": "Fh",
+            "VerbForm": "Vnoun"
+        },
+        "upos": "VERB"
+    },
+    "V.MSDR;FH;NFIN;OPT": {
+        "morpho": {
+            "Evident": "Fh",
+            "Mood": "Opt",
+            "VerbForm": "Vnoun"
+        },
+        "upos": "VERB"
+    },
+    "V.MSDR;FH;NFIN;PL;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Evident": "Fh",
+            "Number": "Plur",
+            "VerbForm": "Vnoun"
+        },
+        "upos": "VERB"
+    },
+    "V.MSDR;NFIN": {
+        "morpho": {
+            "VerbForm": "Vnoun"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;COND;ARGNO1S;ARGAB3S": {
+        "morpho": {
+            "Mood": "Cnd",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "1",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;COND;ARGNO1S;ARGAB3S;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Cnd",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "1",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;COND;ARGNO3P;ARGBE3P": {
+        "morpho": {
+            "Mood": "Cnd",
+            "Number[ben]": "Plur",
+            "Number[nom]": "Plur",
+            "Person[ben]": "3",
+            "Person[nom]": "3",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;COND;ARGNO3P;ARGBE3P;PRS": {
+        "morpho": {
+            "Mood": "Cnd",
+            "Number[ben]": "Plur",
+            "Number[nom]": "Plur",
+            "Person[ben]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;COND;ARGNO3S;ARGBE3P": {
+        "morpho": {
+            "Mood": "Cnd",
+            "Number[ben]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "3",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;COND;FUT;ARGNO1S;ARGAB2S": {
+        "morpho": {
+            "Mood": "Cnd",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "2",
+            "Person[nom]": "1",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;COND;PL;3": {
+        "morpho": {
+            "Mood": "Cnd",
+            "Number": "Plur",
+            "Person": "3",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;COND;PRS;3;SG;ACTY": {
+        "morpho": {
+            "Mood": "Cnd",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;COND;PST;ARGNO3P;ARGAB3S;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Cnd",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;COND;PST;SG;3": {
+        "morpho": {
+            "Mood": "Cnd",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;COND;SG;1": {
+        "morpho": {
+            "Mood": "Cnd",
+            "Number": "Sing",
+            "Person": "1",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO1P;ARGAB2P": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Plur",
+            "Person[abs]": "2",
+            "Person[nom]": "1",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO1P;ARGAB3S": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "1",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO1P;ARGAB3S;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "1",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO1P;ARGBE3S;CAUS": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[ben]": "3",
+            "Person[nom]": "1",
+            "VerbForm": "Fin",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO1S;ARGAB2P;FOC": {
+        "morpho": {
+            "InfStruct": "Foc",
+            "Mood": "Imp",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[abs]": "2",
+            "Person[nom]": "1",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO1S;ARGAB2S": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "2",
+            "Person[nom]": "1",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO1S;ARGAB2S;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "2",
+            "Person[nom]": "1",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO1S;ARGAB3P": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "1",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO1S;ARGAB3S": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "1",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO1S;ARGAB3S;CAUS": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "1",
+            "VerbForm": "Fin",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO1S;ARGBE3S": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "1",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO2P;ARGAB1S": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "1",
+            "Person[nom]": "2",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO2P;ARGAB3P": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "2",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO2P;ARGAB3S": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "2",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO2P;ARGAB3S;CAUS": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "2",
+            "VerbForm": "Fin",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO2P;ARGAB3S;FOC": {
+        "morpho": {
+            "InfStruct": "Foc",
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "2",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO2P;ARGAB3S;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "2",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO2P;ARGBE1S;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Imp",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[ben]": "1",
+            "Person[nom]": "2",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO2S;ARGAB1S": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "1",
+            "Person[nom]": "2",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO2S;ARGAB1S;ACTY;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "1",
+            "Person[nom]": "2",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO2S;ARGAB1S;CAUS": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "1",
+            "Person[nom]": "2",
+            "VerbForm": "Fin",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO2S;ARGAB1S;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "1",
+            "Person[nom]": "2",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO2S;ARGAB1S;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "1",
+            "Person[nom]": "2",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO2S;ARGAB3P": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "2",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO2S;ARGAB3P;CAUS": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "2",
+            "VerbForm": "Fin",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO2S;ARGAB3P;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Imp",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "2",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO2S;ARGAB3S": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "2",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO2S;ARGAB3S;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "2",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO2S;ARGBE1S": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[ben]": "1",
+            "Person[nom]": "2",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO2S;ARGBE1S;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Imp",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[ben]": "1",
+            "Person[nom]": "2",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO2S;ARGBE3P": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[ben]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "2",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO2S;ARGBE3S": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "2",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO3P;ARGAB1S": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "1",
+            "Person[nom]": "3",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO3P;ARGAB1S;ACTY": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "1",
+            "Person[nom]": "3",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO3P;ARGAB3P;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Imp",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO3P;ARGAB3S": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO3P;ARGAB3S;FOC": {
+        "morpho": {
+            "InfStruct": "Foc",
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO3S;ARGAB1P": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[abs]": "1",
+            "Person[nom]": "3",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO3S;ARGAB1P;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Mood": "Imp",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[abs]": "1",
+            "Person[nom]": "3",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO3S;ARGAB2P": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[abs]": "2",
+            "Person[nom]": "3",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO3S;ARGAB3P": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO3S;ARGAB3S": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;ARGNO3S;ARGAB3S;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;FUT;ARGNO2S;ARGAB1S": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "1",
+            "Person[nom]": "2",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;PL;1": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Person": "1",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;PL;2": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Person": "2",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;PL;2;ACTY": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Person": "2",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;PL;2;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Person": "2",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;PST;ARGNO2P;ARGAB1S;CAUS;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Imp",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "1",
+            "Person[nom]": "2",
+            "Tense": "Past",
+            "VerbForm": "Fin",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;PST;ARGNO2S;ARGBE1S": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[ben]": "1",
+            "Person[nom]": "2",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;SG;1": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "1",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;SG;1;ACTY": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "1",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;SG;1;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "1",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;SG;1;IPFV;FOC": {
+        "morpho": {
+            "Aspect": "Imp",
+            "InfStruct": "Foc",
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "1",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;SG;1;PRS": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;SG;2": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "2",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;SG;2;CAUS": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "2",
+            "VerbForm": "Fin",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;SG;2;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "2",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;SG;2;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "2",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;SG;3": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "3",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IMP;SG;3;ACTY": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "3",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;ARGNO2S;ARGAB1P;PST": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[abs]": "1",
+            "Person[nom]": "2",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;ARGNO3S;ARGAB1S;FUT": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "1",
+            "Person[nom]": "3",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;ARGNO3S;ARGAB3P;PRS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;ARGNO3S;ARGBE3S;PRS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;FUT;ARGNO1P;ARGAB3P": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "1",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;FUT;ARGNO1P;ARGAB3S;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "1",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;FUT;ARGNO1S;ARGAB2S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "2",
+            "Person[nom]": "1",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;FUT;ARGNO1S;ARGAB3P": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "1",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;FUT;ARGNO1S;ARGAB3S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "1",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;FUT;ARGNO1S;ARGAB3S;CAUS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "1",
+            "Tense": "Fut",
+            "VerbForm": "Fin",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;FUT;ARGNO1S;ARGBE2P": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[ben]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[ben]": "2",
+            "Person[nom]": "1",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;FUT;ARGNO1S;ARGBE2S;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[ben]": "2",
+            "Person[nom]": "1",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;FUT;ARGNO1S;ARGBE3P": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[ben]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "1",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;FUT;ARGNO1S;ARGBE3S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "1",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;FUT;ARGNO2S;ARGAB3P": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "2",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;FUT;ARGNO2S;ARGAB3S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "2",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;FUT;ARGNO2S;ARGAB3S;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "2",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;FUT;ARGNO3P;ARGAB3S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;FUT;ARGNO3S;ARGBE2S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[ben]": "2",
+            "Person[nom]": "3",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;FUT;ARGNO3S;ARGBE3S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "3",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;FUT;ARGNO3S;ARGBE3S;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "3",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;FUT;PL;1": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;FUT;PL;1;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;FUT;SG;1": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;FUT;SG;2": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;FUT;SG;3": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;FUT;SG;3;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PL;1;FUT;IPFV;ACTY": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PL;2;PST": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "2",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PL;2;PST;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "2",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PL;3;FUT": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PL;3;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "3",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PL;3;PRS;ACTY": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PL;3;PRS;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PL;3;PST": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PL;3;PST;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;1;PL": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;2;SG": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;3;PL": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;3;SG;CAUS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO1P;ARGAB2S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "2",
+            "Person[nom]": "1",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO1P;ARGAB3S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "1",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO1P;ARGAB3S;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "1",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO1S;ARGAB2P;ACTY;CAUS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[abs]": "2",
+            "Person[nom]": "1",
+            "Tense": "Pres",
+            "VerbForm": "Fin",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO1S;ARGAB2P;FOC": {
+        "morpho": {
+            "InfStruct": "Foc",
+            "Mood": "Ind",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[abs]": "2",
+            "Person[nom]": "1",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO1S;ARGAB2S;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "2",
+            "Person[nom]": "1",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO1S;ARGAB3P": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "1",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO1S;ARGAB3S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "1",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO1S;ARGAB3S;ACTY;CAUS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "1",
+            "Tense": "Pres",
+            "VerbForm": "Fin",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO1S;ARGAB3S;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "1",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO2P;ARGAB3P": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "2",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO2S;ARGAB1S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "1",
+            "Person[nom]": "2",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO2S;ARGAB1S;ACTY": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "1",
+            "Person[nom]": "2",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO2S;ARGAB1S;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "1",
+            "Person[nom]": "2",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO2S;ARGAB3S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "2",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO2S;ARGAB3S;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "2",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO2S;ARGBE3P": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[ben]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "2",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO2S;ARGBE3S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "2",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3P;ARGAB1S;ACTY": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "1",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3P;ARGAB2S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "2",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3P;ARGAB2S;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "2",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3P;ARGAB3P": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3P;ARGAB3P;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3P;ARGAB3P;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Mood": "Ind",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3P;ARGAB3S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3P;ARGAB3S;CAUS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3P;ARGAB3S;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3P;ARGAB3S;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3P;ARGBE3S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[ben]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3P;ARGBE3S;FOC": {
+        "morpho": {
+            "InfStruct": "Foc",
+            "Mood": "Ind",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[ben]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3P;ARGBE3S;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Mood": "Ind",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[ben]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3S;ARGAB1P": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[abs]": "1",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3S;ARGAB1S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "1",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3S;ARGAB3P": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3S;ARGAB3P;CAUS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3S;ARGAB3P;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3S;ARGAB3P;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Mood": "Ind",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3S;ARGAB3S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3S;ARGAB3S;ACTY": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3S;ARGAB3S;CAUS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3S;ARGAB3S;CAUS;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3S;ARGAB3S;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3S;ARGAB3S;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3S;ARGBE2P;IPFV;FOC": {
+        "morpho": {
+            "Aspect": "Imp",
+            "InfStruct": "Foc",
+            "Mood": "Ind",
+            "Number[ben]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[ben]": "2",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3S;ARGBE3P": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[ben]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3S;ARGBE3P;CAUS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[ben]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3S;ARGBE3P;FOC": {
+        "morpho": {
+            "InfStruct": "Foc",
+            "Mood": "Ind",
+            "Number[ben]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3S;ARGBE3S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3S;ARGBE3S;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3S;ARGBE3S;IPFV;CAUS": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3S;ARGBE3S;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Mood": "Ind",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;ARGNO3S;ARGBE3S;ITER;CAUS": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Mood": "Ind",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;PL;2": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "2",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;PL;2;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "2",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;PL;3": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;PL;3;ACTY": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;PL;3;CAUS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;PL;3;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;RECP;PL;3": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin",
+            "Voice": "Rcp"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;SG;1": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;SG;1;PST;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Past,Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;SG;2": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;SG;2;CAUS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Pres",
+            "VerbForm": "Fin",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;SG;2;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;SG;3": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;SG;3;ACTY": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PRS;SG;3;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;ARGNO1P;ARGAB3P": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "1",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;ARGNO1P;ARGAB3S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "1",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;ARGNO1S;ARGAB2P": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[abs]": "2",
+            "Person[nom]": "1",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;ARGNO1S;ARGAB2S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "2",
+            "Person[nom]": "1",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;ARGNO1S;ARGAB3P": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "1",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;ARGNO1S;ARGBE2P;IPFV;FOC": {
+        "morpho": {
+            "Aspect": "Imp",
+            "InfStruct": "Foc",
+            "Mood": "Ind",
+            "Number[ben]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[ben]": "2",
+            "Person[nom]": "1",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;ARGNO1S;ARGBE3P": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[ben]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "1",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;ARGNO2S;ARGAB1S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "1",
+            "Person[nom]": "2",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;ARGNO2S;ARGAB3S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "2",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;ARGNO2S;ARGBE3S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "2",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;ARGNO3P;ARGAB1S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "1",
+            "Person[nom]": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;ARGNO3P;ARGAB2S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "2",
+            "Person[nom]": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;ARGNO3P;ARGAB3P": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;ARGNO3P;ARGAB3S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;ARGNO3P;ARGAB3S;CAUS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;ARGNO3P;ARGAB3S;FOC": {
+        "morpho": {
+            "InfStruct": "Foc",
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;ARGNO3S;ARGAB1P;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[abs]": "1",
+            "Person[nom]": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;ARGNO3S;ARGAB1S;ACTY": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "1",
+            "Person[nom]": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;ARGNO3S;ARGAB2S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "2",
+            "Person[nom]": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;ARGNO3S;ARGAB3P": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;ARGNO3S;ARGAB3S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;ARGNO3S;ARGBE3S": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;PL;1": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;PL;1;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;SG;1": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;SG;1;ACTY": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;SG;1;CAUS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Past",
+            "VerbForm": "Fin",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;SG;1;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;SG;3": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;PST;SG;3;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;SG;1;PRS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;SG;1;PST": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;SG;1;PST;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;SG;1;PST;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;SG;2;FUT": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;SG;2;PRS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;SG;2;PRS;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;SG;2;PRS;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;SG;2;PST": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;SG;2;PST;ACTY": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;SG;3;FUT;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Fut",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;SG;3;PRS;ACTY": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;SG;3;PRS;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;SG;3;PRS;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;SG;3;PRS;ITER;FUT": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Fut,Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;SG;3;PRS;RECP": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin",
+            "Voice": "Rcp"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;IND;SG;3;PST;CAUS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;PRS;ARGNO1S;ARGAB2S": {
+        "morpho": {
+            "Mood": "Opt",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "2",
+            "Person[nom]": "1",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;PRS;ARGNO1S;ARGAB3S": {
+        "morpho": {
+            "Mood": "Opt",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "1",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;PRS;ARGNO3P;ARGAB3S;CAUS": {
+        "morpho": {
+            "Mood": "Opt",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;PRS;ARGNO3S;ARGAB1S": {
+        "morpho": {
+            "Mood": "Opt",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "1",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;PRS;ARGNO3S;ARGAB3S": {
+        "morpho": {
+            "Mood": "Opt",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;PRS;ARGNO3S;ARGAB3S;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Opt",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;PRS;ARGNO3S;ARGBE3P;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Opt",
+            "Number[ben]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;PRS;ARGNO3S;ARGBE3S": {
+        "morpho": {
+            "Mood": "Opt",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;PRS;SG;1": {
+        "morpho": {
+            "Mood": "Opt",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;PRS;SG;1;ACTY;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Opt",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;PRS;SG;2": {
+        "morpho": {
+            "Mood": "Opt",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;PRS;SG;3": {
+        "morpho": {
+            "Mood": "Opt",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;PRS;SG;3;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Opt",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;PST;ARGNO1P;ARGAB2P": {
+        "morpho": {
+            "Mood": "Opt",
+            "Number[abs]": "Plur",
+            "Number[nom]": "Plur",
+            "Person[abs]": "2",
+            "Person[nom]": "1",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;PST;ARGNO1S;ARGAB3S": {
+        "morpho": {
+            "Mood": "Opt",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "1",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;PST;ARGNO1S;ARGBE3P": {
+        "morpho": {
+            "Mood": "Opt",
+            "Number[ben]": "Plur",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "1",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;PST;ARGNO1S;ARGBE3S": {
+        "morpho": {
+            "Mood": "Opt",
+            "Number[ben]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[ben]": "3",
+            "Person[nom]": "1",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;PST;ARGNO2S;ARGAB3S;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Opt",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[abs]": "3",
+            "Person[nom]": "2",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;PST;ARGNO3P;ARGAB1S": {
+        "morpho": {
+            "Mood": "Opt",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "1",
+            "Person[nom]": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;PST;ARGNO3P;ARGAB2S": {
+        "morpho": {
+            "Mood": "Opt",
+            "Number[abs]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[abs]": "2",
+            "Person[nom]": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;PST;SG;1": {
+        "morpho": {
+            "Mood": "Opt",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;PST;SG;3": {
+        "morpho": {
+            "Mood": "Opt",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;SG;1": {
+        "morpho": {
+            "Mood": "Opt",
+            "Number": "Sing",
+            "Person": "1",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;SG;1;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Mood": "Opt",
+            "Number": "Sing",
+            "Person": "1",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;SG;2": {
+        "morpho": {
+            "Mood": "Opt",
+            "Number": "Sing",
+            "Person": "2",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;SG;2;PRS": {
+        "morpho": {
+            "Mood": "Opt",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;FIN;OPT;SG;3;PRS;ITER": {
+        "morpho": {
+            "Aspect": "Iter",
+            "Mood": "Opt",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NFIN": {
+        "morpho": {
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    },
+    "V;NFIN;CAUS": {
+        "morpho": {
+            "VerbForm": "NonFin",
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    },
+    "V;NFIN;DIM;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Degree": "Dim",
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    },
+    "V;NFIN;NEG": {
+        "morpho": {
+            "Polarity": "Neg",
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    },
+    "V;NFIN;OPT": {
+        "morpho": {
+            "Mood": "Opt",
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    },
+    "V;NFIN;PURP": {
+        "morpho": {
+            "Mood": "Prp",
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    }
+}

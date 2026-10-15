@@ -22,10 +22,7 @@
     "ADJ;INDF;MASC+FEM;SG": {
         "morpho": {
             "Definite": "Ind",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "ADJ"
@@ -34,10 +31,7 @@
         "morpho": {
             "Definite": "Ind",
             "Degree": "Cmp",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "ADJ"
@@ -46,10 +40,7 @@
         "morpho": {
             "Definite": "Ind",
             "Degree": "Sup",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "ADJ"

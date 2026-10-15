@@ -1,7 +1,7 @@
 {
     "V;ARGABS1;ARGABSPL;ARGERG2;ARGERGPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Person[abs]": "1",
@@ -11,7 +11,7 @@
     },
     "V;ARGABS1;ARGABSPL;ARGERG2;ARGERGPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Person[abs]": "1",
@@ -76,7 +76,7 @@
     "V;ARGABS1;ARGABSPL;ARGERG2;ARGERGSG;ARGERGINFM;ARGERGFEM;HYP;IND": {
         "morpho": {
             "Gender[erg]": "Fem",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Person[abs]": "1",
@@ -88,7 +88,7 @@
     "V;ARGABS1;ARGABSPL;ARGERG2;ARGERGSG;ARGERGINFM;ARGERGFEM;HYP;POT": {
         "morpho": {
             "Gender[erg]": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Person[abs]": "1",
@@ -164,7 +164,7 @@
     "V;ARGABS1;ARGABSPL;ARGERG2;ARGERGSG;ARGERGINFM;ARGERGMASC;HYP;IND": {
         "morpho": {
             "Gender[erg]": "Masc",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Person[abs]": "1",
@@ -176,7 +176,7 @@
     "V;ARGABS1;ARGABSPL;ARGERG2;ARGERGSG;ARGERGINFM;ARGERGMASC;HYP;POT": {
         "morpho": {
             "Gender[erg]": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Person[abs]": "1",
@@ -251,7 +251,7 @@
     },
     "V;ARGABS1;ARGABSPL;ARGERG2;ARGERGSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Person[abs]": "1",
@@ -261,7 +261,7 @@
     },
     "V;ARGABS1;ARGABSPL;ARGERG2;ARGERGSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Person[abs]": "1",
@@ -325,7 +325,7 @@
     },
     "V;ARGABS1;ARGABSPL;ARGERG3;ARGERGPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Person[abs]": "1",
@@ -335,7 +335,7 @@
     },
     "V;ARGABS1;ARGABSPL;ARGERG3;ARGERGPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Person[abs]": "1",
@@ -346,7 +346,7 @@
     "V;ARGABS1;ARGABSPL;ARGERG3;ARGERGPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Person[abs]": "1",
@@ -410,7 +410,7 @@
     "V;ARGABS1;ARGABSPL;ARGERG3;ARGERGPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Person[abs]": "1",
@@ -517,7 +517,7 @@
     },
     "V;ARGABS1;ARGABSPL;ARGERG3;ARGERGSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Person[abs]": "1",
@@ -527,7 +527,7 @@
     },
     "V;ARGABS1;ARGABSPL;ARGERG3;ARGERGSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Person[abs]": "1",
@@ -538,7 +538,7 @@
     "V;ARGABS1;ARGABSPL;ARGERG3;ARGERGSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Person[abs]": "1",
@@ -602,7 +602,7 @@
     "V;ARGABS1;ARGABSPL;ARGERG3;ARGERGSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Person[abs]": "1",
@@ -709,7 +709,7 @@
     },
     "V;ARGABS1;ARGABSPL;ARGIO2;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Plur",
             "Person[abs]": "1",
@@ -719,7 +719,7 @@
     },
     "V;ARGABS1;ARGABSPL;ARGIO2;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Plur",
             "Person[abs]": "1",
@@ -774,7 +774,7 @@
     "V;ARGABS1;ARGABSPL;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOFEM;HYP;IND": {
         "morpho": {
             "Gender[io]": "Fem",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Sing",
             "Person[abs]": "1",
@@ -786,7 +786,7 @@
     "V;ARGABS1;ARGABSPL;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOFEM;HYP;POT": {
         "morpho": {
             "Gender[io]": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Sing",
             "Person[abs]": "1",
@@ -850,7 +850,7 @@
     "V;ARGABS1;ARGABSPL;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOMASC;HYP;IND": {
         "morpho": {
             "Gender[io]": "Masc",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Sing",
             "Person[abs]": "1",
@@ -862,7 +862,7 @@
     "V;ARGABS1;ARGABSPL;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOMASC;HYP;POT": {
         "morpho": {
             "Gender[io]": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Sing",
             "Person[abs]": "1",
@@ -925,7 +925,7 @@
     },
     "V;ARGABS1;ARGABSPL;ARGIO2;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Sing",
             "Person[abs]": "1",
@@ -935,7 +935,7 @@
     },
     "V;ARGABS1;ARGABSPL;ARGIO2;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Sing",
             "Person[abs]": "1",
@@ -989,7 +989,7 @@
     },
     "V;ARGABS1;ARGABSPL;ARGIO3;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Plur",
             "Person[abs]": "1",
@@ -999,7 +999,7 @@
     },
     "V;ARGABS1;ARGABSPL;ARGIO3;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Plur",
             "Person[abs]": "1",
@@ -1010,7 +1010,7 @@
     "V;ARGABS1;ARGABSPL;ARGIO3;ARGIOPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Plur",
             "Person[abs]": "1",
@@ -1074,7 +1074,7 @@
     "V;ARGABS1;ARGABSPL;ARGIO3;ARGIOPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Plur",
             "Person[abs]": "1",
@@ -1181,7 +1181,7 @@
     },
     "V;ARGABS1;ARGABSPL;ARGIO3;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Sing",
             "Person[abs]": "1",
@@ -1191,7 +1191,7 @@
     },
     "V;ARGABS1;ARGABSPL;ARGIO3;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Sing",
             "Person[abs]": "1",
@@ -1202,7 +1202,7 @@
     "V;ARGABS1;ARGABSPL;ARGIO3;ARGIOSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Sing",
             "Person[abs]": "1",
@@ -1266,7 +1266,7 @@
     "V;ARGABS1;ARGABSPL;ARGIO3;ARGIOSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Sing",
             "Person[abs]": "1",
@@ -1373,7 +1373,7 @@
     },
     "V;ARGABS1;ARGABSPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Person[abs]": "1"
         },
@@ -1381,7 +1381,7 @@
     },
     "V;ARGABS1;ARGABSPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Person[abs]": "1"
         },
@@ -1390,7 +1390,7 @@
     "V;ARGABS1;ARGABSPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Person[abs]": "1",
             "Polite": "Infm"
@@ -1444,7 +1444,7 @@
     "V;ARGABS1;ARGABSPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Person[abs]": "1",
             "Polite": "Infm"
@@ -1533,7 +1533,7 @@
     },
     "V;ARGABS1;ARGABSSG;ARGERG2;ARGERGPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "1",
@@ -1543,7 +1543,7 @@
     },
     "V;ARGABS1;ARGABSSG;ARGERG2;ARGERGPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "1",
@@ -1608,7 +1608,7 @@
     "V;ARGABS1;ARGABSSG;ARGERG2;ARGERGSG;ARGERGINFM;ARGERGFEM;HYP;IND": {
         "morpho": {
             "Gender[erg]": "Fem",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "1",
@@ -1620,7 +1620,7 @@
     "V;ARGABS1;ARGABSSG;ARGERG2;ARGERGSG;ARGERGINFM;ARGERGFEM;HYP;POT": {
         "morpho": {
             "Gender[erg]": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "1",
@@ -1696,7 +1696,7 @@
     "V;ARGABS1;ARGABSSG;ARGERG2;ARGERGSG;ARGERGINFM;ARGERGMASC;HYP;IND": {
         "morpho": {
             "Gender[erg]": "Masc",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "1",
@@ -1708,7 +1708,7 @@
     "V;ARGABS1;ARGABSSG;ARGERG2;ARGERGSG;ARGERGINFM;ARGERGMASC;HYP;POT": {
         "morpho": {
             "Gender[erg]": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "1",
@@ -1783,7 +1783,7 @@
     },
     "V;ARGABS1;ARGABSSG;ARGERG2;ARGERGSG;ARGERGINFM;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "1",
@@ -1806,7 +1806,7 @@
     },
     "V;ARGABS1;ARGABSSG;ARGERG2;ARGERGSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "1",
@@ -1816,7 +1816,7 @@
     },
     "V;ARGABS1;ARGABSSG;ARGERG2;ARGERGSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "1",
@@ -1880,7 +1880,7 @@
     },
     "V;ARGABS1;ARGABSSG;ARGERG3;ARGERGPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "1",
@@ -1890,7 +1890,7 @@
     },
     "V;ARGABS1;ARGABSSG;ARGERG3;ARGERGPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "1",
@@ -1901,7 +1901,7 @@
     "V;ARGABS1;ARGABSSG;ARGERG3;ARGERGPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "1",
@@ -1965,7 +1965,7 @@
     "V;ARGABS1;ARGABSSG;ARGERG3;ARGERGPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "1",
@@ -2072,7 +2072,7 @@
     },
     "V;ARGABS1;ARGABSSG;ARGERG3;ARGERGSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "1",
@@ -2082,7 +2082,7 @@
     },
     "V;ARGABS1;ARGABSSG;ARGERG3;ARGERGSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "1",
@@ -2093,7 +2093,7 @@
     "V;ARGABS1;ARGABSSG;ARGERG3;ARGERGSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "1",
@@ -2157,7 +2157,7 @@
     "V;ARGABS1;ARGABSSG;ARGERG3;ARGERGSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "1",
@@ -2264,7 +2264,7 @@
     },
     "V;ARGABS1;ARGABSSG;ARGIO2;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Plur",
             "Person[abs]": "1",
@@ -2274,7 +2274,7 @@
     },
     "V;ARGABS1;ARGABSSG;ARGIO2;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Plur",
             "Person[abs]": "1",
@@ -2329,7 +2329,7 @@
     "V;ARGABS1;ARGABSSG;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOFEM;HYP;IND": {
         "morpho": {
             "Gender[io]": "Fem",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "1",
@@ -2341,7 +2341,7 @@
     "V;ARGABS1;ARGABSSG;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOFEM;HYP;POT": {
         "morpho": {
             "Gender[io]": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "1",
@@ -2405,7 +2405,7 @@
     "V;ARGABS1;ARGABSSG;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOMASC;HYP;IND": {
         "morpho": {
             "Gender[io]": "Masc",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "1",
@@ -2417,7 +2417,7 @@
     "V;ARGABS1;ARGABSSG;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOMASC;HYP;POT": {
         "morpho": {
             "Gender[io]": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "1",
@@ -2480,7 +2480,7 @@
     },
     "V;ARGABS1;ARGABSSG;ARGIO2;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "1",
@@ -2490,7 +2490,7 @@
     },
     "V;ARGABS1;ARGABSSG;ARGIO2;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "1",
@@ -2544,7 +2544,7 @@
     },
     "V;ARGABS1;ARGABSSG;ARGIO3;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Plur",
             "Person[abs]": "1",
@@ -2554,7 +2554,7 @@
     },
     "V;ARGABS1;ARGABSSG;ARGIO3;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Plur",
             "Person[abs]": "1",
@@ -2565,7 +2565,7 @@
     "V;ARGABS1;ARGABSSG;ARGIO3;ARGIOPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Plur",
             "Person[abs]": "1",
@@ -2629,7 +2629,7 @@
     "V;ARGABS1;ARGABSSG;ARGIO3;ARGIOPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Plur",
             "Person[abs]": "1",
@@ -2736,7 +2736,7 @@
     },
     "V;ARGABS1;ARGABSSG;ARGIO3;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "1",
@@ -2746,7 +2746,7 @@
     },
     "V;ARGABS1;ARGABSSG;ARGIO3;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "1",
@@ -2757,7 +2757,7 @@
     "V;ARGABS1;ARGABSSG;ARGIO3;ARGIOSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "1",
@@ -2821,7 +2821,7 @@
     "V;ARGABS1;ARGABSSG;ARGIO3;ARGIOSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "1",
@@ -2928,7 +2928,7 @@
     },
     "V;ARGABS1;ARGABSSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Person[abs]": "1"
         },
@@ -2936,7 +2936,7 @@
     },
     "V;ARGABS1;ARGABSSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Person[abs]": "1"
         },
@@ -2945,7 +2945,7 @@
     "V;ARGABS1;ARGABSSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Person[abs]": "1",
             "Polite": "Infm"
@@ -2999,7 +2999,7 @@
     "V;ARGABS1;ARGABSSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Person[abs]": "1",
             "Polite": "Infm"
@@ -3088,11 +3088,8 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGERG1;ARGERGPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Mood": "Cnd,Ind,Pot",
+            "Number[abs]": "Plur,Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "2",
             "Person[erg]": "1"
@@ -3101,11 +3098,8 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGERG1;ARGERGPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Mood": "Cnd,Pot",
+            "Number[abs]": "Plur,Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "2",
             "Person[erg]": "1"
@@ -3115,10 +3109,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGERG1;ARGERGPL;PRS;IND": {
         "morpho": {
             "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "2",
             "Person[erg]": "1",
@@ -3129,10 +3120,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGERG1;ARGERGPL;PRS;POT": {
         "morpho": {
             "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "2",
             "Person[erg]": "1",
@@ -3143,10 +3131,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGERG1;ARGERGPL;PST;IND": {
         "morpho": {
             "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "2",
             "Person[erg]": "1",
@@ -3157,10 +3142,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGERG1;ARGERGPL;PST;POT": {
         "morpho": {
             "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "2",
             "Person[erg]": "1",
@@ -3170,11 +3152,8 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGERG1;ARGERGSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Mood": "Cnd,Ind,Pot",
+            "Number[abs]": "Plur,Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "2",
             "Person[erg]": "1"
@@ -3183,11 +3162,8 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGERG1;ARGERGSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Mood": "Cnd,Pot",
+            "Number[abs]": "Plur,Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "2",
             "Person[erg]": "1"
@@ -3197,10 +3173,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGERG1;ARGERGSG;PRS;IND": {
         "morpho": {
             "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "2",
             "Person[erg]": "1",
@@ -3211,10 +3184,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGERG1;ARGERGSG;PRS;POT": {
         "morpho": {
             "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "2",
             "Person[erg]": "1",
@@ -3225,10 +3195,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGERG1;ARGERGSG;PST;IND": {
         "morpho": {
             "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "2",
             "Person[erg]": "1",
@@ -3239,10 +3206,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGERG1;ARGERGSG;PST;POT": {
         "morpho": {
             "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "2",
             "Person[erg]": "1",
@@ -3252,11 +3216,8 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGERG3;ARGERGPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Mood": "Cnd,Ind,Pot",
+            "Number[abs]": "Plur,Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "2",
             "Person[erg]": "3"
@@ -3265,11 +3226,8 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGERG3;ARGERGPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Mood": "Cnd,Pot",
+            "Number[abs]": "Plur,Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "2",
             "Person[erg]": "3"
@@ -3279,10 +3237,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGERG3;ARGERGPL;PRS;IND": {
         "morpho": {
             "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "2",
             "Person[erg]": "3",
@@ -3293,10 +3248,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGERG3;ARGERGPL;PRS;POT": {
         "morpho": {
             "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "2",
             "Person[erg]": "3",
@@ -3307,10 +3259,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGERG3;ARGERGPL;PST;IND": {
         "morpho": {
             "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "2",
             "Person[erg]": "3",
@@ -3321,10 +3270,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGERG3;ARGERGPL;PST;POT": {
         "morpho": {
             "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "2",
             "Person[erg]": "3",
@@ -3334,11 +3280,8 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGERG3;ARGERGSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Mood": "Cnd,Ind,Pot",
+            "Number[abs]": "Plur,Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "2",
             "Person[erg]": "3"
@@ -3347,11 +3290,8 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGERG3;ARGERGSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Mood": "Cnd,Pot",
+            "Number[abs]": "Plur,Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "2",
             "Person[erg]": "3"
@@ -3361,10 +3301,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGERG3;ARGERGSG;PRS;IND": {
         "morpho": {
             "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "2",
             "Person[erg]": "3",
@@ -3375,10 +3312,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGERG3;ARGERGSG;PRS;POT": {
         "morpho": {
             "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "2",
             "Person[erg]": "3",
@@ -3389,10 +3323,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGERG3;ARGERGSG;PST;IND": {
         "morpho": {
             "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "2",
             "Person[erg]": "3",
@@ -3403,10 +3334,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGERG3;ARGERGSG;PST;POT": {
         "morpho": {
             "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "2",
             "Person[erg]": "3",
@@ -3416,11 +3344,8 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO1;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Mood": "Cnd,Ind,Pot",
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Plur",
             "Person[abs]": "2",
             "Person[io]": "1"
@@ -3429,11 +3354,8 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO1;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Mood": "Cnd,Pot",
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Plur",
             "Person[abs]": "2",
             "Person[io]": "1"
@@ -3443,10 +3365,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO1;ARGIOPL;IMP": {
         "morpho": {
             "Mood": "Imp",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Plur",
             "Person[abs]": "2",
             "Person[io]": "1"
@@ -3457,10 +3376,7 @@
         "morpho": {
             "Gender": "Fem",
             "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Plur",
             "Person[abs]": "2",
             "Person[io]": "1",
@@ -3473,10 +3389,7 @@
         "morpho": {
             "Gender": "Masc",
             "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Plur",
             "Person[abs]": "2",
             "Person[io]": "1",
@@ -3488,10 +3401,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO1;ARGIOPL;PRS;IND": {
         "morpho": {
             "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Plur",
             "Person[abs]": "2",
             "Person[io]": "1",
@@ -3502,10 +3412,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO1;ARGIOPL;PRS;POT": {
         "morpho": {
             "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Plur",
             "Person[abs]": "2",
             "Person[io]": "1",
@@ -3516,10 +3423,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO1;ARGIOPL;PST;IND": {
         "morpho": {
             "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Plur",
             "Person[abs]": "2",
             "Person[io]": "1",
@@ -3530,10 +3434,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO1;ARGIOPL;PST;POT": {
         "morpho": {
             "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Plur",
             "Person[abs]": "2",
             "Person[io]": "1",
@@ -3543,11 +3444,8 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO1;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Mood": "Cnd,Ind,Pot",
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Sing",
             "Person[abs]": "2",
             "Person[io]": "1"
@@ -3556,11 +3454,8 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO1;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Mood": "Cnd,Pot",
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Sing",
             "Person[abs]": "2",
             "Person[io]": "1"
@@ -3570,10 +3465,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO1;ARGIOSG;IMP": {
         "morpho": {
             "Mood": "Imp",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Sing",
             "Person[abs]": "2",
             "Person[io]": "1"
@@ -3583,10 +3475,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO1;ARGIOSG;PRS;IND": {
         "morpho": {
             "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Sing",
             "Person[abs]": "2",
             "Person[io]": "1",
@@ -3597,10 +3486,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO1;ARGIOSG;PRS;POT": {
         "morpho": {
             "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Sing",
             "Person[abs]": "2",
             "Person[io]": "1",
@@ -3611,10 +3497,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO1;ARGIOSG;PST;IND": {
         "morpho": {
             "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Sing",
             "Person[abs]": "2",
             "Person[io]": "1",
@@ -3625,10 +3508,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO1;ARGIOSG;PST;POT": {
         "morpho": {
             "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Sing",
             "Person[abs]": "2",
             "Person[io]": "1",
@@ -3638,11 +3518,8 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO3;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Mood": "Cnd,Ind,Pot",
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Plur",
             "Person[abs]": "2",
             "Person[io]": "3"
@@ -3651,11 +3528,8 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO3;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Mood": "Cnd,Pot",
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Plur",
             "Person[abs]": "2",
             "Person[io]": "3"
@@ -3665,10 +3539,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO3;ARGIOPL;IMP": {
         "morpho": {
             "Mood": "Imp",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Plur",
             "Person[abs]": "2",
             "Person[io]": "3"
@@ -3678,10 +3549,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO3;ARGIOPL;PRS;IND": {
         "morpho": {
             "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Plur",
             "Person[abs]": "2",
             "Person[io]": "3",
@@ -3692,10 +3560,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO3;ARGIOPL;PRS;POT": {
         "morpho": {
             "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Plur",
             "Person[abs]": "2",
             "Person[io]": "3",
@@ -3706,10 +3571,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO3;ARGIOPL;PST;IND": {
         "morpho": {
             "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Plur",
             "Person[abs]": "2",
             "Person[io]": "3",
@@ -3720,10 +3582,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO3;ARGIOPL;PST;POT": {
         "morpho": {
             "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Plur",
             "Person[abs]": "2",
             "Person[io]": "3",
@@ -3733,11 +3592,8 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO3;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Mood": "Cnd,Ind,Pot",
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Sing",
             "Person[abs]": "2",
             "Person[io]": "3"
@@ -3746,11 +3602,8 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO3;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Mood": "Cnd,Pot",
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Sing",
             "Person[abs]": "2",
             "Person[io]": "3"
@@ -3760,10 +3613,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO3;ARGIOSG;IMP": {
         "morpho": {
             "Mood": "Imp",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Sing",
             "Person[abs]": "2",
             "Person[io]": "3"
@@ -3773,10 +3623,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO3;ARGIOSG;PRS;IND": {
         "morpho": {
             "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Sing",
             "Person[abs]": "2",
             "Person[io]": "3",
@@ -3787,10 +3634,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO3;ARGIOSG;PRS;POT": {
         "morpho": {
             "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Sing",
             "Person[abs]": "2",
             "Person[io]": "3",
@@ -3801,10 +3645,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO3;ARGIOSG;PST;IND": {
         "morpho": {
             "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Sing",
             "Person[abs]": "2",
             "Person[io]": "3",
@@ -3815,10 +3656,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;ARGIO3;ARGIOSG;PST;POT": {
         "morpho": {
             "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Number[io]": "Sing",
             "Person[abs]": "2",
             "Person[io]": "3",
@@ -3828,22 +3666,16 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Mood": "Cnd,Ind,Pot",
+            "Number[abs]": "Plur,Sing",
             "Person[abs]": "2"
         },
         "upos": "VERB"
     },
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Mood": "Cnd,Pot",
+            "Number[abs]": "Plur,Sing",
             "Person[abs]": "2"
         },
         "upos": "VERB"
@@ -3851,10 +3683,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;IMP": {
         "morpho": {
             "Mood": "Imp",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Person[abs]": "2"
         },
         "upos": "VERB"
@@ -3862,10 +3691,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;PRS;IND": {
         "morpho": {
             "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Person[abs]": "2",
             "Tense": "Pres"
         },
@@ -3874,10 +3700,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;PRS;POT": {
         "morpho": {
             "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Person[abs]": "2",
             "Tense": "Pres"
         },
@@ -3886,10 +3709,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;PST;IND": {
         "morpho": {
             "Mood": "Ind",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Person[abs]": "2",
             "Tense": "Past"
         },
@@ -3898,10 +3718,7 @@
     "V;ARGABS2;ARGABSSG;ARGABS2;ARGABSPL;PST;POT": {
         "morpho": {
             "Mood": "Pot",
-            "Number[abs]": [
-                "Sing",
-                "Plur"
-            ],
+            "Number[abs]": "Plur,Sing",
             "Person[abs]": "2",
             "Tense": "Past"
         },
@@ -3909,7 +3726,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABSINFM;ARGERG1;ARGERGPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "2",
@@ -3920,7 +3737,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABSINFM;ARGERG1;ARGERGPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "2",
@@ -3979,7 +3796,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABSINFM;ARGERG1;ARGERGSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "2",
@@ -3990,7 +3807,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABSINFM;ARGERG1;ARGERGSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "2",
@@ -4049,7 +3866,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABSINFM;ARGERG3;ARGERGPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "2",
@@ -4060,7 +3877,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABSINFM;ARGERG3;ARGERGPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "2",
@@ -4119,7 +3936,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABSINFM;ARGERG3;ARGERGSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "2",
@@ -4130,7 +3947,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABSINFM;ARGERG3;ARGERGSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "2",
@@ -4189,7 +4006,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABSINFM;ARGIO1;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Plur",
             "Person[abs]": "2",
@@ -4200,7 +4017,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABSINFM;ARGIO1;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Plur",
             "Person[abs]": "2",
@@ -4270,7 +4087,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABSINFM;ARGIO1;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "2",
@@ -4281,7 +4098,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABSINFM;ARGIO1;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "2",
@@ -4351,7 +4168,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABSINFM;ARGIO3;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Plur",
             "Person[abs]": "2",
@@ -4362,7 +4179,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABSINFM;ARGIO3;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Plur",
             "Person[abs]": "2",
@@ -4432,7 +4249,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABSINFM;ARGIO3;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "2",
@@ -4443,7 +4260,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABSINFM;ARGIO3;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "2",
@@ -4513,7 +4330,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABSINFM;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Person[abs]": "2",
             "Polite[abs]": "Infm"
@@ -4522,7 +4339,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGABSINFM;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Person[abs]": "2",
             "Polite[abs]": "Infm"
@@ -4580,7 +4397,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGERG1;ARGERGPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "2",
@@ -4590,7 +4407,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGERG1;ARGERGPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "2",
@@ -4644,7 +4461,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGERG1;ARGERGSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "2",
@@ -4654,7 +4471,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGERG1;ARGERGSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "2",
@@ -4708,7 +4525,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGERG3;ARGERGPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "2",
@@ -4718,7 +4535,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGERG3;ARGERGPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "2",
@@ -4772,7 +4589,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGERG3;ARGERGSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "2",
@@ -4782,7 +4599,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGERG3;ARGERGSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "2",
@@ -4836,7 +4653,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGIO1;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Plur",
             "Person[abs]": "2",
@@ -4846,7 +4663,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGIO1;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Plur",
             "Person[abs]": "2",
@@ -4910,7 +4727,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGIO1;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "2",
@@ -4920,7 +4737,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGIO1;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "2",
@@ -4984,7 +4801,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGIO3;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Plur",
             "Person[abs]": "2",
@@ -4994,7 +4811,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGIO3;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Plur",
             "Person[abs]": "2",
@@ -5058,7 +4875,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGIO3;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "2",
@@ -5068,7 +4885,7 @@
     },
     "V;ARGABS2;ARGABSSG;ARGIO3;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "2",
@@ -5132,7 +4949,7 @@
     },
     "V;ARGABS2;ARGABSSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Person[abs]": "2"
         },
@@ -5140,7 +4957,7 @@
     },
     "V;ARGABS2;ARGABSSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Person[abs]": "2"
         },
@@ -5192,7 +5009,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGPL;ARGIO2;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -5204,7 +5021,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGPL;ARGIO2;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -5269,7 +5086,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGPL;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOFEM;HYP;IND": {
         "morpho": {
             "Gender[io]": "Fem",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -5283,7 +5100,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGPL;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOFEM;HYP;POT": {
         "morpho": {
             "Gender[io]": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -5357,7 +5174,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGPL;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOMASC;HYP;IND": {
         "morpho": {
             "Gender[io]": "Masc",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -5371,7 +5188,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGPL;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOMASC;HYP;POT": {
         "morpho": {
             "Gender[io]": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -5444,7 +5261,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGPL;ARGIO2;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -5456,7 +5273,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGPL;ARGIO2;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -5520,7 +5337,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGPL;ARGIO3;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -5532,7 +5349,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGPL;ARGIO3;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -5545,7 +5362,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGPL;ARGIO3;ARGIOPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -5619,7 +5436,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGPL;ARGIO3;ARGIOPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -5744,7 +5561,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGPL;ARGIO3;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -5756,7 +5573,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGPL;ARGIO3;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -5769,7 +5586,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGPL;ARGIO3;ARGIOSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -5843,7 +5660,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGPL;ARGIO3;ARGIOSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -5968,7 +5785,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Person[abs]": "3",
@@ -5978,7 +5795,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Person[abs]": "3",
@@ -5999,7 +5816,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Person[abs]": "3",
@@ -6063,7 +5880,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Person[abs]": "3",
@@ -6170,7 +5987,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGSG;ARGIO2;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -6182,7 +5999,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGSG;ARGIO2;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -6247,7 +6064,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGSG;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOFEM;HYP;IND": {
         "morpho": {
             "Gender[io]": "Fem",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -6261,7 +6078,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGSG;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOFEM;HYP;POT": {
         "morpho": {
             "Gender[io]": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -6335,7 +6152,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGSG;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOMASC;HYP;IND": {
         "morpho": {
             "Gender[io]": "Masc",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -6349,7 +6166,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGSG;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOMASC;HYP;POT": {
         "morpho": {
             "Gender[io]": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -6422,7 +6239,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGSG;ARGIO2;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -6434,7 +6251,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGSG;ARGIO2;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -6498,7 +6315,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGSG;ARGIO3;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -6510,7 +6327,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGSG;ARGIO3;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -6523,7 +6340,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGSG;ARGIO3;ARGIOPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -6597,7 +6414,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGSG;ARGIO3;ARGIOPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -6722,7 +6539,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGSG;ARGIO3;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -6734,7 +6551,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGSG;ARGIO3;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -6747,7 +6564,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGSG;ARGIO3;ARGIOSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -6821,7 +6638,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGSG;ARGIO3;ARGIOSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -6946,7 +6763,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Person[abs]": "3",
@@ -6956,7 +6773,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Person[abs]": "3",
@@ -6967,7 +6784,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Person[abs]": "3",
@@ -7031,7 +6848,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG1;ARGERGSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Person[abs]": "3",
@@ -7138,7 +6955,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGPL;ARGIO1;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -7150,7 +6967,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGPL;ARGIO1;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -7226,7 +7043,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGPL;ARGIO1;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -7238,7 +7055,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGPL;ARGIO1;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -7314,7 +7131,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGPL;ARGIO3;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -7326,7 +7143,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGPL;ARGIO3;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -7402,7 +7219,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGPL;ARGIO3;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -7414,7 +7231,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGPL;ARGIO3;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -7490,7 +7307,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Person[abs]": "3",
@@ -7500,7 +7317,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Person[abs]": "3",
@@ -7992,7 +7809,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGSG;ARGERGINFM;ARGIO1;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -8005,7 +7822,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGSG;ARGERGINFM;ARGIO1;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -8046,7 +7863,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGSG;ARGERGINFM;ARGIO1;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -8059,7 +7876,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGSG;ARGERGINFM;ARGIO1;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -8100,7 +7917,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGSG;ARGERGINFM;ARGIO3;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -8113,7 +7930,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGSG;ARGERGINFM;ARGIO3;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -8168,7 +7985,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGSG;ARGERGINFM;ARGIO3;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -8181,7 +7998,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGSG;ARGERGINFM;ARGIO3;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -8222,7 +8039,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGSG;ARGERGINFM;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Person[abs]": "3",
@@ -8233,7 +8050,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGSG;ARGERGINFM;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Person[abs]": "3",
@@ -8268,7 +8085,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGSG;ARGIO1;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -8280,7 +8097,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGSG;ARGIO1;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -8356,7 +8173,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGSG;ARGIO1;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -8368,7 +8185,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGSG;ARGIO1;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -8444,7 +8261,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGSG;ARGIO3;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -8456,7 +8273,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGSG;ARGIO3;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -8532,7 +8349,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGSG;ARGIO3;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -8544,7 +8361,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGSG;ARGIO3;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -8620,7 +8437,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Person[abs]": "3",
@@ -8630,7 +8447,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG2;ARGERGSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Person[abs]": "3",
@@ -8720,7 +8537,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;ARGIO1;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -8732,7 +8549,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;ARGIO1;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -8757,7 +8574,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;ARGIO1;ARGIOPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -8831,7 +8648,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;ARGIO1;ARGIOPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -8956,7 +8773,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;ARGIO1;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -8968,7 +8785,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;ARGIO1;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -8993,7 +8810,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;ARGIO1;ARGIOSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -9067,7 +8884,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;ARGIO1;ARGIOSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -9192,7 +9009,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;ARGIO2;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -9204,7 +9021,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;ARGIO2;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -9281,7 +9098,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOFEM;HYP;IND": {
         "morpho": {
             "Gender[io]": "Fem",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -9295,7 +9112,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOFEM;HYP;POT": {
         "morpho": {
             "Gender[io]": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -9383,7 +9200,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOMASC;HYP;IND": {
         "morpho": {
             "Gender[io]": "Masc",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -9397,7 +9214,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOMASC;HYP;POT": {
         "morpho": {
             "Gender[io]": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -9484,7 +9301,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;ARGIO2;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -9496,7 +9313,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;ARGIO2;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -9572,7 +9389,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;ARGIO3;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -9584,7 +9401,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;ARGIO3;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -9609,7 +9426,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;ARGIO3;ARGIOPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -9683,7 +9500,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;ARGIO3;ARGIOPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -9808,7 +9625,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;ARGIO3;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -9820,7 +9637,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;ARGIO3;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -9845,7 +9662,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;ARGIO3;ARGIOSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -9919,7 +9736,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;ARGIO3;ARGIOSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -10044,7 +9861,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Person[abs]": "3",
@@ -10054,7 +9871,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Person[abs]": "3",
@@ -10075,7 +9892,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Person[abs]": "3",
@@ -10139,7 +9956,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Plur",
             "Person[abs]": "3",
@@ -10246,7 +10063,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;ARGIO1;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -10258,7 +10075,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;ARGIO1;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -10283,7 +10100,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;ARGIO1;ARGIOPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -10357,7 +10174,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;ARGIO1;ARGIOPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -10482,7 +10299,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;ARGIO1;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -10494,7 +10311,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;ARGIO1;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -10519,7 +10336,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;ARGIO1;ARGIOSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -10593,7 +10410,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;ARGIO1;ARGIOSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -10718,7 +10535,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;ARGIO2;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -10730,7 +10547,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;ARGIO2;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -10807,7 +10624,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOFEM;HYP;IND": {
         "morpho": {
             "Gender[io]": "Fem",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -10821,7 +10638,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOFEM;HYP;POT": {
         "morpho": {
             "Gender[io]": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -10909,7 +10726,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOMASC;HYP;IND": {
         "morpho": {
             "Gender[io]": "Masc",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -10923,7 +10740,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOMASC;HYP;POT": {
         "morpho": {
             "Gender[io]": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -11010,7 +10827,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;ARGIO2;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -11022,7 +10839,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;ARGIO2;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -11098,7 +10915,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;ARGIO3;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -11110,7 +10927,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;ARGIO3;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -11135,7 +10952,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;ARGIO3;ARGIOPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -11209,7 +11026,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;ARGIO3;ARGIOPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -11334,7 +11151,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;ARGIO3;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -11346,7 +11163,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;ARGIO3;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -11371,7 +11188,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;ARGIO3;ARGIOSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -11445,7 +11262,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;ARGIO3;ARGIOSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -11570,7 +11387,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Person[abs]": "3",
@@ -11580,7 +11397,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Person[abs]": "3",
@@ -11601,7 +11418,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Person[abs]": "3",
@@ -11665,7 +11482,7 @@
     "V;ARGABS3;ARGABSPL;ARGERG3;ARGERGSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[erg]": "Sing",
             "Person[abs]": "3",
@@ -11772,7 +11589,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGIO1;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Plur",
             "Person[abs]": "3",
@@ -11782,7 +11599,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGIO1;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Plur",
             "Person[abs]": "3",
@@ -11803,7 +11620,7 @@
     "V;ARGABS3;ARGABSPL;ARGIO1;ARGIOPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Plur",
             "Person[abs]": "3",
@@ -11867,7 +11684,7 @@
     "V;ARGABS3;ARGABSPL;ARGIO1;ARGIOPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Plur",
             "Person[abs]": "3",
@@ -11974,7 +11791,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGIO1;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -11984,7 +11801,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGIO1;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -12005,7 +11822,7 @@
     "V;ARGABS3;ARGABSPL;ARGIO1;ARGIOSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -12069,7 +11886,7 @@
     "V;ARGABS3;ARGABSPL;ARGIO1;ARGIOSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -12176,7 +11993,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGIO2;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Plur",
             "Person[abs]": "3",
@@ -12186,7 +12003,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGIO2;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Plur",
             "Person[abs]": "3",
@@ -12251,7 +12068,7 @@
     "V;ARGABS3;ARGABSPL;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOFEM;HYP;IND": {
         "morpho": {
             "Gender[io]": "Fem",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -12263,7 +12080,7 @@
     "V;ARGABS3;ARGABSPL;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOFEM;HYP;POT": {
         "morpho": {
             "Gender[io]": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -12339,7 +12156,7 @@
     "V;ARGABS3;ARGABSPL;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOMASC;HYP;IND": {
         "morpho": {
             "Gender[io]": "Masc",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -12351,7 +12168,7 @@
     "V;ARGABS3;ARGABSPL;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOMASC;HYP;POT": {
         "morpho": {
             "Gender[io]": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -12426,7 +12243,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGIO2;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -12436,7 +12253,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGIO2;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -12500,7 +12317,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGIO3;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Plur",
             "Person[abs]": "3",
@@ -12510,7 +12327,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGIO3;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Plur",
             "Person[abs]": "3",
@@ -12531,7 +12348,7 @@
     "V;ARGABS3;ARGABSPL;ARGIO3;ARGIOPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Plur",
             "Person[abs]": "3",
@@ -12595,7 +12412,7 @@
     "V;ARGABS3;ARGABSPL;ARGIO3;ARGIOPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Plur",
             "Person[abs]": "3",
@@ -12702,7 +12519,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGIO3;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -12712,7 +12529,7 @@
     },
     "V;ARGABS3;ARGABSPL;ARGIO3;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -12733,7 +12550,7 @@
     "V;ARGABS3;ARGABSPL;ARGIO3;ARGIOSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -12797,7 +12614,7 @@
     "V;ARGABS3;ARGABSPL;ARGIO3;ARGIOSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -12904,7 +12721,7 @@
     },
     "V;ARGABS3;ARGABSPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Plur",
             "Person[abs]": "3"
         },
@@ -12912,7 +12729,7 @@
     },
     "V;ARGABS3;ARGABSPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Person[abs]": "3"
         },
@@ -12929,7 +12746,7 @@
     "V;ARGABS3;ARGABSPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Person[abs]": "3",
             "Polite": "Infm"
@@ -12983,7 +12800,7 @@
     "V;ARGABS3;ARGABSPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Plur",
             "Person[abs]": "3",
             "Polite": "Infm"
@@ -13072,7 +12889,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGPL;ARGIO2;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -13084,7 +12901,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGPL;ARGIO2;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -13149,7 +12966,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGPL;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOFEM;HYP;IND": {
         "morpho": {
             "Gender[io]": "Fem",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -13163,7 +12980,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGPL;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOFEM;HYP;POT": {
         "morpho": {
             "Gender[io]": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -13237,7 +13054,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGPL;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOMASC;HYP;IND": {
         "morpho": {
             "Gender[io]": "Masc",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -13251,7 +13068,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGPL;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOMASC;HYP;POT": {
         "morpho": {
             "Gender[io]": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -13324,7 +13141,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGPL;ARGIO2;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -13336,7 +13153,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGPL;ARGIO2;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -13400,7 +13217,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGPL;ARGIO3;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -13412,7 +13229,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGPL;ARGIO3;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -13425,7 +13242,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGPL;ARGIO3;ARGIOPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -13499,7 +13316,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGPL;ARGIO3;ARGIOPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -13624,7 +13441,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGPL;ARGIO3;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -13636,7 +13453,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGPL;ARGIO3;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -13649,7 +13466,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGPL;ARGIO3;ARGIOSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -13723,7 +13540,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGPL;ARGIO3;ARGIOSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -13848,7 +13665,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "3",
@@ -13858,7 +13675,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "3",
@@ -13869,7 +13686,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "3",
@@ -13933,7 +13750,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "3",
@@ -14040,7 +13857,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGSG;ARGIO2;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -14052,7 +13869,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGSG;ARGIO2;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -14117,7 +13934,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGSG;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOFEM;HYP;IND": {
         "morpho": {
             "Gender[io]": "Fem",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -14131,7 +13948,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGSG;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOFEM;HYP;POT": {
         "morpho": {
             "Gender[io]": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -14205,7 +14022,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGSG;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOMASC;HYP;IND": {
         "morpho": {
             "Gender[io]": "Masc",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -14219,7 +14036,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGSG;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOMASC;HYP;POT": {
         "morpho": {
             "Gender[io]": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -14292,7 +14109,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGSG;ARGIO2;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -14304,7 +14121,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGSG;ARGIO2;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -14368,7 +14185,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGSG;ARGIO3;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -14380,7 +14197,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGSG;ARGIO3;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -14393,7 +14210,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGSG;ARGIO3;ARGIOPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -14467,7 +14284,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGSG;ARGIO3;ARGIOPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -14592,7 +14409,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGSG;ARGIO3;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -14604,7 +14421,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGSG;ARGIO3;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -14617,7 +14434,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGSG;ARGIO3;ARGIOSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -14691,7 +14508,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGSG;ARGIO3;ARGIOSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -14816,7 +14633,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "3",
@@ -14826,7 +14643,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "3",
@@ -14837,7 +14654,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "3",
@@ -14901,7 +14718,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG1;ARGERGSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "3",
@@ -15008,7 +14825,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGPL;ARGIO1;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -15020,7 +14837,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGPL;ARGIO1;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -15096,7 +14913,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGPL;ARGIO1;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -15108,7 +14925,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGPL;ARGIO1;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -15184,7 +15001,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGPL;ARGIO3;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -15196,7 +15013,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGPL;ARGIO3;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -15272,7 +15089,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGPL;ARGIO3;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -15284,7 +15101,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGPL;ARGIO3;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -15360,7 +15177,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "3",
@@ -15370,7 +15187,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "3",
@@ -15862,7 +15679,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGSG;ARGERGINFM;ARGIO1;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -15875,7 +15692,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGSG;ARGERGINFM;ARGIO1;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -15916,7 +15733,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGSG;ARGERGINFM;ARGIO1;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -15929,7 +15746,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGSG;ARGERGINFM;ARGIO1;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -16029,7 +15846,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGSG;ARGERGINFM;ARGIO3;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -16042,7 +15859,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGSG;ARGERGINFM;ARGIO3;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -16083,7 +15900,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGSG;ARGERGINFM;ARGIO3;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -16096,7 +15913,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGSG;ARGERGINFM;ARGIO3;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -16137,7 +15954,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGSG;ARGERGINFM;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "3",
@@ -16148,7 +15965,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGSG;ARGERGINFM;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "3",
@@ -16183,7 +16000,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGSG;ARGIO1;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -16195,7 +16012,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGSG;ARGIO1;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -16271,7 +16088,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGSG;ARGIO1;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -16283,7 +16100,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGSG;ARGIO1;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -16359,7 +16176,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGSG;ARGIO3;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -16371,7 +16188,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGSG;ARGIO3;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -16447,7 +16264,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGSG;ARGIO3;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -16459,7 +16276,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGSG;ARGIO3;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -16535,7 +16352,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "3",
@@ -16545,7 +16362,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG2;ARGERGSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "3",
@@ -16609,7 +16426,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;ARGIO1;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -16621,7 +16438,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;ARGIO1;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -16646,7 +16463,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;ARGIO1;ARGIOPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -16720,7 +16537,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;ARGIO1;ARGIOPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -16845,7 +16662,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;ARGIO1;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -16857,7 +16674,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;ARGIO1;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -16882,7 +16699,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;ARGIO1;ARGIOSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -16956,7 +16773,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;ARGIO1;ARGIOSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -17081,7 +16898,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;ARGIO2;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -17093,7 +16910,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;ARGIO2;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -17170,7 +16987,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOFEM;HYP;IND": {
         "morpho": {
             "Gender[io]": "Fem",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -17184,7 +17001,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOFEM;HYP;POT": {
         "morpho": {
             "Gender[io]": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -17272,7 +17089,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOMASC;HYP;IND": {
         "morpho": {
             "Gender[io]": "Masc",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -17286,7 +17103,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOMASC;HYP;POT": {
         "morpho": {
             "Gender[io]": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -17373,7 +17190,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;ARGIO2;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -17385,7 +17202,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;ARGIO2;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -17461,7 +17278,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;ARGIO3;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -17473,7 +17290,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;ARGIO3;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -17498,7 +17315,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;ARGIO3;ARGIOPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -17572,7 +17389,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;ARGIO3;ARGIOPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Plur",
@@ -17697,7 +17514,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;ARGIO3;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -17709,7 +17526,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;ARGIO3;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -17734,7 +17551,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;ARGIO3;ARGIOSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -17808,7 +17625,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;ARGIO3;ARGIOSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Number[io]": "Sing",
@@ -17933,7 +17750,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "3",
@@ -17943,7 +17760,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "3",
@@ -17964,7 +17781,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "3",
@@ -18028,7 +17845,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Plur",
             "Person[abs]": "3",
@@ -18135,7 +17952,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;ARGIO1;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -18147,7 +17964,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;ARGIO1;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -18172,7 +17989,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;ARGIO1;ARGIOPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -18246,7 +18063,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;ARGIO1;ARGIOPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -18371,7 +18188,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;ARGIO1;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -18383,7 +18200,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;ARGIO1;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -18408,7 +18225,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;ARGIO1;ARGIOSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -18482,7 +18299,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;ARGIO1;ARGIOSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -18607,7 +18424,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;ARGIO2;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -18619,7 +18436,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;ARGIO2;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -18696,7 +18513,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOFEM;HYP;IND": {
         "morpho": {
             "Gender[io]": "Fem",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -18710,7 +18527,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOFEM;HYP;POT": {
         "morpho": {
             "Gender[io]": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -18798,7 +18615,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOMASC;HYP;IND": {
         "morpho": {
             "Gender[io]": "Masc",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -18812,7 +18629,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOMASC;HYP;POT": {
         "morpho": {
             "Gender[io]": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -18899,7 +18716,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;ARGIO2;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -18911,7 +18728,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;ARGIO2;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -18987,7 +18804,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;ARGIO3;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -18999,7 +18816,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;ARGIO3;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -19024,7 +18841,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;ARGIO3;ARGIOPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -19098,7 +18915,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;ARGIO3;ARGIOPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Plur",
@@ -19223,7 +19040,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;ARGIO3;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -19235,7 +19052,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;ARGIO3;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -19260,7 +19077,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;ARGIO3;ARGIOSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -19334,7 +19151,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;ARGIO3;ARGIOSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Number[io]": "Sing",
@@ -19459,7 +19276,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "3",
@@ -19469,7 +19286,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "3",
@@ -19490,7 +19307,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "3",
@@ -19554,7 +19371,7 @@
     "V;ARGABS3;ARGABSSG;ARGERG3;ARGERGSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "3",
@@ -19661,7 +19478,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGIO1;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Plur",
             "Person[abs]": "3",
@@ -19671,7 +19488,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGIO1;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Plur",
             "Person[abs]": "3",
@@ -19692,7 +19509,7 @@
     "V;ARGABS3;ARGABSSG;ARGIO1;ARGIOPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Plur",
             "Person[abs]": "3",
@@ -19756,7 +19573,7 @@
     "V;ARGABS3;ARGABSSG;ARGIO1;ARGIOPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Plur",
             "Person[abs]": "3",
@@ -19863,7 +19680,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGIO1;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -19873,7 +19690,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGIO1;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -19894,7 +19711,7 @@
     "V;ARGABS3;ARGABSSG;ARGIO1;ARGIOSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -19958,7 +19775,7 @@
     "V;ARGABS3;ARGABSSG;ARGIO1;ARGIOSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -20065,7 +19882,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGIO2;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Plur",
             "Person[abs]": "3",
@@ -20075,7 +19892,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGIO2;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Plur",
             "Person[abs]": "3",
@@ -20140,7 +19957,7 @@
     "V;ARGABS3;ARGABSSG;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOFEM;HYP;IND": {
         "morpho": {
             "Gender[io]": "Fem",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -20152,7 +19969,7 @@
     "V;ARGABS3;ARGABSSG;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOFEM;HYP;POT": {
         "morpho": {
             "Gender[io]": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -20228,7 +20045,7 @@
     "V;ARGABS3;ARGABSSG;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOMASC;HYP;IND": {
         "morpho": {
             "Gender[io]": "Masc",
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -20240,7 +20057,7 @@
     "V;ARGABS3;ARGABSSG;ARGIO2;ARGIOSG;ARGIOINFM;ARGIOMASC;HYP;POT": {
         "morpho": {
             "Gender[io]": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -20315,7 +20132,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGIO2;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -20325,7 +20142,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGIO2;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -20389,7 +20206,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGIO3;ARGIOPL;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Plur",
             "Person[abs]": "3",
@@ -20399,7 +20216,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGIO3;ARGIOPL;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Plur",
             "Person[abs]": "3",
@@ -20420,7 +20237,7 @@
     "V;ARGABS3;ARGABSSG;ARGIO3;ARGIOPL;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Plur",
             "Person[abs]": "3",
@@ -20484,7 +20301,7 @@
     "V;ARGABS3;ARGABSSG;ARGIO3;ARGIOPL;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Plur",
             "Person[abs]": "3",
@@ -20591,7 +20408,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGIO3;ARGIOSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -20601,7 +20418,7 @@
     },
     "V;ARGABS3;ARGABSSG;ARGIO3;ARGIOSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -20622,7 +20439,7 @@
     "V;ARGABS3;ARGABSSG;ARGIO3;ARGIOSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -20686,7 +20503,7 @@
     "V;ARGABS3;ARGABSSG;ARGIO3;ARGIOSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Number[io]": "Sing",
             "Person[abs]": "3",
@@ -20793,7 +20610,7 @@
     },
     "V;ARGABS3;ARGABSSG;HYP;IND": {
         "morpho": {
-            "Mood": "Ind",
+            "Mood": "Cnd,Ind,Pot",
             "Number[abs]": "Sing",
             "Person[abs]": "3"
         },
@@ -20801,7 +20618,7 @@
     },
     "V;ARGABS3;ARGABSSG;HYP;POT": {
         "morpho": {
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Person[abs]": "3"
         },
@@ -20818,7 +20635,7 @@
     "V;ARGABS3;ARGABSSG;INFM;FEM;HYP;POT": {
         "morpho": {
             "Gender": "Fem",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Person[abs]": "3",
             "Polite": "Infm"
@@ -20872,7 +20689,7 @@
     "V;ARGABS3;ARGABSSG;INFM;MASC;HYP;POT": {
         "morpho": {
             "Gender": "Masc",
-            "Mood": "Pot",
+            "Mood": "Cnd,Pot",
             "Number[abs]": "Sing",
             "Person[abs]": "3",
             "Polite": "Infm"

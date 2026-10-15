@@ -1,18 +1,4 @@
 {
-    "ADJ;;COM;PL": {
-        "morpho": {
-            "Case": "Com",
-            "Number": "Plur"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;;INS;PL": {
-        "morpho": {
-            "Case": "Ins",
-            "Number": "Plur"
-        },
-        "upos": "ADJ"
-    },
     "ADJ;ACC;PL": {
         "morpho": {
             "Case": "Acc",
@@ -117,20 +103,14 @@
     },
     "ADJ;AT+ABL;PL": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Plur"
         },
         "upos": "ADJ"
     },
     "ADJ;AT+ABL;PL;PSS1P": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Plur",
             "Number[psor]": "Plur",
             "Person[psor]": "1"
@@ -139,10 +119,7 @@
     },
     "ADJ;AT+ABL;PL;PSS1S": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Plur",
             "Number[psor]": "Sing",
             "Person[psor]": "1"
@@ -151,10 +128,7 @@
     },
     "ADJ;AT+ABL;PL;PSS2P": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Plur",
             "Number[psor]": "Plur",
             "Person[psor]": "2"
@@ -163,10 +137,7 @@
     },
     "ADJ;AT+ABL;PL;PSS2S": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Plur",
             "Number[psor]": "Sing",
             "Person[psor]": "2"
@@ -175,10 +146,7 @@
     },
     "ADJ;AT+ABL;PL;PSS3": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Plur",
             "Person[psor]": "3"
         },
@@ -186,20 +154,14 @@
     },
     "ADJ;AT+ABL;SG": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Sing"
         },
         "upos": "ADJ"
     },
     "ADJ;AT+ABL;SG;PSS1P": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Sing",
             "Number[psor]": "Plur",
             "Person[psor]": "1"
@@ -208,10 +170,7 @@
     },
     "ADJ;AT+ABL;SG;PSS1S": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "1"
@@ -220,10 +179,7 @@
     },
     "ADJ;AT+ABL;SG;PSS2P": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Sing",
             "Number[psor]": "Plur",
             "Person[psor]": "2"
@@ -232,10 +188,7 @@
     },
     "ADJ;AT+ABL;SG;PSS2S": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "2"
@@ -244,10 +197,7 @@
     },
     "ADJ;AT+ABL;SG;PSS3": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Sing",
             "Person[psor]": "3"
         },
@@ -255,20 +205,14 @@
     },
     "ADJ;AT+ALL;PL": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Plur"
         },
         "upos": "ADJ"
     },
     "ADJ;AT+ALL;PL;PSS1P": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Plur",
             "Number[psor]": "Plur",
             "Person[psor]": "1"
@@ -277,10 +221,7 @@
     },
     "ADJ;AT+ALL;PL;PSS1S": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Plur",
             "Number[psor]": "Sing",
             "Person[psor]": "1"
@@ -289,10 +230,7 @@
     },
     "ADJ;AT+ALL;PL;PSS2P": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Plur",
             "Number[psor]": "Plur",
             "Person[psor]": "2"
@@ -301,10 +239,7 @@
     },
     "ADJ;AT+ALL;PL;PSS2S": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Plur",
             "Number[psor]": "Sing",
             "Person[psor]": "2"
@@ -313,10 +248,7 @@
     },
     "ADJ;AT+ALL;PL;PSS3": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Plur",
             "Person[psor]": "3"
         },
@@ -324,20 +256,14 @@
     },
     "ADJ;AT+ALL;SG": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Sing"
         },
         "upos": "ADJ"
     },
     "ADJ;AT+ALL;SG;PSS1P": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Sing",
             "Number[psor]": "Plur",
             "Person[psor]": "1"
@@ -346,10 +272,7 @@
     },
     "ADJ;AT+ALL;SG;PSS1S": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "1"
@@ -358,10 +281,7 @@
     },
     "ADJ;AT+ALL;SG;PSS2P": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Sing",
             "Number[psor]": "Plur",
             "Person[psor]": "2"
@@ -370,10 +290,7 @@
     },
     "ADJ;AT+ALL;SG;PSS2S": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "2"
@@ -382,10 +299,7 @@
     },
     "ADJ;AT+ALL;SG;PSS3": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Sing",
             "Person[psor]": "3"
         },
@@ -393,20 +307,14 @@
     },
     "ADJ;AT+ESS;PL": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Plur"
         },
         "upos": "ADJ"
     },
     "ADJ;AT+ESS;PL;PSS1P": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Plur",
             "Number[psor]": "Plur",
             "Person[psor]": "1"
@@ -415,10 +323,7 @@
     },
     "ADJ;AT+ESS;PL;PSS1S": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Plur",
             "Number[psor]": "Sing",
             "Person[psor]": "1"
@@ -427,10 +332,7 @@
     },
     "ADJ;AT+ESS;PL;PSS2P": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Plur",
             "Number[psor]": "Plur",
             "Person[psor]": "2"
@@ -439,10 +341,7 @@
     },
     "ADJ;AT+ESS;PL;PSS2S": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Plur",
             "Number[psor]": "Sing",
             "Person[psor]": "2"
@@ -451,10 +350,7 @@
     },
     "ADJ;AT+ESS;PL;PSS3": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Plur",
             "Person[psor]": "3"
         },
@@ -462,20 +358,14 @@
     },
     "ADJ;AT+ESS;SG": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Sing"
         },
         "upos": "ADJ"
     },
     "ADJ;AT+ESS;SG;PSS1P": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Sing",
             "Number[psor]": "Plur",
             "Person[psor]": "1"
@@ -484,10 +374,7 @@
     },
     "ADJ;AT+ESS;SG;PSS1S": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "1"
@@ -496,10 +383,7 @@
     },
     "ADJ;AT+ESS;SG;PSS2P": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Sing",
             "Number[psor]": "Plur",
             "Person[psor]": "2"
@@ -508,10 +392,7 @@
     },
     "ADJ;AT+ESS;SG;PSS2S": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "2"
@@ -520,10 +401,7 @@
     },
     "ADJ;AT+ESS;SG;PSS3": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Sing",
             "Person[psor]": "3"
         },
@@ -786,20 +664,14 @@
     },
     "ADJ;IN+ABL;PL": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Plur"
         },
         "upos": "ADJ"
     },
     "ADJ;IN+ABL;PL;PSS1P": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Plur",
             "Number[psor]": "Plur",
             "Person[psor]": "1"
@@ -808,10 +680,7 @@
     },
     "ADJ;IN+ABL;PL;PSS1S": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Plur",
             "Number[psor]": "Sing",
             "Person[psor]": "1"
@@ -820,10 +689,7 @@
     },
     "ADJ;IN+ABL;PL;PSS2P": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Plur",
             "Number[psor]": "Plur",
             "Person[psor]": "2"
@@ -832,10 +698,7 @@
     },
     "ADJ;IN+ABL;PL;PSS2S": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Plur",
             "Number[psor]": "Sing",
             "Person[psor]": "2"
@@ -844,10 +707,7 @@
     },
     "ADJ;IN+ABL;PL;PSS3": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Plur",
             "Person[psor]": "3"
         },
@@ -855,20 +715,14 @@
     },
     "ADJ;IN+ABL;SG": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Sing"
         },
         "upos": "ADJ"
     },
     "ADJ;IN+ABL;SG;PSS1P": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Sing",
             "Number[psor]": "Plur",
             "Person[psor]": "1"
@@ -877,10 +731,7 @@
     },
     "ADJ;IN+ABL;SG;PSS1S": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "1"
@@ -889,10 +740,7 @@
     },
     "ADJ;IN+ABL;SG;PSS2P": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Sing",
             "Number[psor]": "Plur",
             "Person[psor]": "2"
@@ -901,10 +749,7 @@
     },
     "ADJ;IN+ABL;SG;PSS2S": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "2"
@@ -913,10 +758,7 @@
     },
     "ADJ;IN+ABL;SG;PSS3": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Sing",
             "Person[psor]": "3"
         },
@@ -924,20 +766,14 @@
     },
     "ADJ;IN+ALL;PL": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Plur"
         },
         "upos": "ADJ"
     },
     "ADJ;IN+ALL;PL;PSS1P": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Plur",
             "Number[psor]": "Plur",
             "Person[psor]": "1"
@@ -946,10 +782,7 @@
     },
     "ADJ;IN+ALL;PL;PSS1S": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Plur",
             "Number[psor]": "Sing",
             "Person[psor]": "1"
@@ -958,10 +791,7 @@
     },
     "ADJ;IN+ALL;PL;PSS2P": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Plur",
             "Number[psor]": "Plur",
             "Person[psor]": "2"
@@ -970,10 +800,7 @@
     },
     "ADJ;IN+ALL;PL;PSS2S": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Plur",
             "Number[psor]": "Sing",
             "Person[psor]": "2"
@@ -982,10 +809,7 @@
     },
     "ADJ;IN+ALL;PL;PSS3": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Plur",
             "Person[psor]": "3"
         },
@@ -993,20 +817,14 @@
     },
     "ADJ;IN+ALL;SG": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Sing"
         },
         "upos": "ADJ"
     },
     "ADJ;IN+ALL;SG;PSS1P": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Sing",
             "Number[psor]": "Plur",
             "Person[psor]": "1"
@@ -1015,10 +833,7 @@
     },
     "ADJ;IN+ALL;SG;PSS1S": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "1"
@@ -1027,10 +842,7 @@
     },
     "ADJ;IN+ALL;SG;PSS2P": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Sing",
             "Number[psor]": "Plur",
             "Person[psor]": "2"
@@ -1039,10 +851,7 @@
     },
     "ADJ;IN+ALL;SG;PSS2S": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "2"
@@ -1051,10 +860,7 @@
     },
     "ADJ;IN+ALL;SG;PSS3": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Sing",
             "Person[psor]": "3"
         },
@@ -1268,142 +1074,6 @@
         "morpho": {
             "Case": "Nom",
             "Number": "Sing"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;NOM;SG;PSS1P": {
-        "morpho": {
-            "Case": "Nom",
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "1"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;NOM;SG;PSS1S": {
-        "morpho": {
-            "Case": "Nom",
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "1"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;NOM;SG;PSS2P": {
-        "morpho": {
-            "Case": "Nom",
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "2"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;NOM;SG;PSS2S": {
-        "morpho": {
-            "Case": "Nom",
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "2"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;NOM;SG;PSS3": {
-        "morpho": {
-            "Case": "Nom",
-            "Number": "Sing",
-            "Person[psor]": "3"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;PL;AT+ABL": {
-        "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
-            "Number": "Plur"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;PL;AT+ALL": {
-        "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
-            "Number": "Plur"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;PL;AT+ESS": {
-        "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
-            "Number": "Plur"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;PL;FRML": {
-        "morpho": {
-            "Case": "Ess",
-            "Number": "Plur"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;PL;GEN": {
-        "morpho": {
-            "Case": "Gen",
-            "Number": "Plur"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;PL;IN+ABL": {
-        "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
-            "Number": "Plur"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;PL;IN+ALL": {
-        "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
-            "Number": "Plur"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;PL;IN+ESS": {
-        "morpho": {
-            "Case": "Ine",
-            "Number": "Plur"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;PL;PRIV": {
-        "morpho": {
-            "Case": "Abe",
-            "Number": "Plur"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;PL;PRT": {
-        "morpho": {
-            "Case": "Par",
-            "Number": "Plur"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;PL;TRANS": {
-        "morpho": {
-            "Case": "Tra",
-            "Number": "Plur"
         },
         "upos": "ADJ"
     },
@@ -1645,98 +1315,6 @@
         },
         "upos": "ADJ"
     },
-    "ADJ;SG;AT+ABL": {
-        "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
-            "Number": "Sing"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;SG;AT+ALL": {
-        "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
-            "Number": "Sing"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;SG;AT+ESS": {
-        "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
-            "Number": "Sing"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;SG;FRML": {
-        "morpho": {
-            "Case": "Ess",
-            "Number": "Sing"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;SG;GEN": {
-        "morpho": {
-            "Case": "Gen",
-            "Number": "Sing"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;SG;IN+ABL": {
-        "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
-            "Number": "Sing"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;SG;IN+ALL": {
-        "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
-            "Number": "Sing"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;SG;IN+ESS": {
-        "morpho": {
-            "Case": "Ine",
-            "Number": "Sing"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;SG;PRIV": {
-        "morpho": {
-            "Case": "Abe",
-            "Number": "Sing"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;SG;PRT": {
-        "morpho": {
-            "Case": "Par",
-            "Number": "Sing"
-        },
-        "upos": "ADJ"
-    },
-    "ADJ;SG;TRANS": {
-        "morpho": {
-            "Case": "Tra",
-            "Number": "Sing"
-        },
-        "upos": "ADJ"
-    },
     "ADJ;TRANS;PL": {
         "morpho": {
             "Case": "Tra",
@@ -1838,20 +1416,6 @@
             "Person[psor]": "3"
         },
         "upos": "ADJ"
-    },
-    "N;;COM;PL": {
-        "morpho": {
-            "Case": "Com",
-            "Number": "Plur"
-        },
-        "upos": "NOUN"
-    },
-    "N;;INS;PL": {
-        "morpho": {
-            "Case": "Ins",
-            "Number": "Plur"
-        },
-        "upos": "NOUN"
     },
     "N;ACC;PL": {
         "morpho": {
@@ -1957,20 +1521,14 @@
     },
     "N;AT+ABL;PL": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Plur"
         },
         "upos": "NOUN"
     },
     "N;AT+ABL;PL;PSS1P": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Plur",
             "Number[psor]": "Plur",
             "Person[psor]": "1"
@@ -1979,10 +1537,7 @@
     },
     "N;AT+ABL;PL;PSS1S": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Plur",
             "Number[psor]": "Sing",
             "Person[psor]": "1"
@@ -1991,10 +1546,7 @@
     },
     "N;AT+ABL;PL;PSS2P": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Plur",
             "Number[psor]": "Plur",
             "Person[psor]": "2"
@@ -2003,10 +1555,7 @@
     },
     "N;AT+ABL;PL;PSS2S": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Plur",
             "Number[psor]": "Sing",
             "Person[psor]": "2"
@@ -2015,20 +1564,14 @@
     },
     "N;AT+ABL;SG": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Sing"
         },
         "upos": "NOUN"
     },
     "N;AT+ABL;SG;PSS1P": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Sing",
             "Number[psor]": "Plur",
             "Person[psor]": "1"
@@ -2037,10 +1580,7 @@
     },
     "N;AT+ABL;SG;PSS1S": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "1"
@@ -2049,10 +1589,7 @@
     },
     "N;AT+ABL;SG;PSS2P": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Sing",
             "Number[psor]": "Plur",
             "Person[psor]": "2"
@@ -2061,10 +1598,7 @@
     },
     "N;AT+ABL;SG;PSS2S": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "2"
@@ -2073,20 +1607,14 @@
     },
     "N;AT+ALL;PL": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Plur"
         },
         "upos": "NOUN"
     },
     "N;AT+ALL;PL;PSS1P": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Plur",
             "Number[psor]": "Plur",
             "Person[psor]": "1"
@@ -2095,10 +1623,7 @@
     },
     "N;AT+ALL;PL;PSS1S": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Plur",
             "Number[psor]": "Sing",
             "Person[psor]": "1"
@@ -2107,10 +1632,7 @@
     },
     "N;AT+ALL;PL;PSS2P": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Plur",
             "Number[psor]": "Plur",
             "Person[psor]": "2"
@@ -2119,10 +1641,7 @@
     },
     "N;AT+ALL;PL;PSS2S": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Plur",
             "Number[psor]": "Sing",
             "Person[psor]": "2"
@@ -2131,20 +1650,14 @@
     },
     "N;AT+ALL;SG": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Sing"
         },
         "upos": "NOUN"
     },
     "N;AT+ALL;SG;PSS1P": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Sing",
             "Number[psor]": "Plur",
             "Person[psor]": "1"
@@ -2153,10 +1666,7 @@
     },
     "N;AT+ALL;SG;PSS1S": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "1"
@@ -2165,10 +1675,7 @@
     },
     "N;AT+ALL;SG;PSS2P": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Sing",
             "Number[psor]": "Plur",
             "Person[psor]": "2"
@@ -2177,10 +1684,7 @@
     },
     "N;AT+ALL;SG;PSS2S": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "2"
@@ -2189,20 +1693,14 @@
     },
     "N;AT+ESS;PL": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Plur"
         },
         "upos": "NOUN"
     },
     "N;AT+ESS;PL;PSS1P": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Plur",
             "Number[psor]": "Plur",
             "Person[psor]": "1"
@@ -2211,10 +1709,7 @@
     },
     "N;AT+ESS;PL;PSS1S": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Plur",
             "Number[psor]": "Sing",
             "Person[psor]": "1"
@@ -2223,10 +1718,7 @@
     },
     "N;AT+ESS;PL;PSS2P": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Plur",
             "Number[psor]": "Plur",
             "Person[psor]": "2"
@@ -2235,10 +1727,7 @@
     },
     "N;AT+ESS;PL;PSS2S": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Plur",
             "Number[psor]": "Sing",
             "Person[psor]": "2"
@@ -2247,20 +1736,14 @@
     },
     "N;AT+ESS;SG": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Sing"
         },
         "upos": "NOUN"
     },
     "N;AT+ESS;SG;PSS1P": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Sing",
             "Number[psor]": "Plur",
             "Person[psor]": "1"
@@ -2269,10 +1752,7 @@
     },
     "N;AT+ESS;SG;PSS1S": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "1"
@@ -2281,10 +1761,7 @@
     },
     "N;AT+ESS;SG;PSS2P": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Sing",
             "Number[psor]": "Plur",
             "Person[psor]": "2"
@@ -2293,10 +1770,7 @@
     },
     "N;AT+ESS;SG;PSS2S": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "2"
@@ -2536,20 +2010,14 @@
     },
     "N;IN+ABL;PL": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Plur"
         },
         "upos": "NOUN"
     },
     "N;IN+ABL;PL;PSS1P": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Plur",
             "Number[psor]": "Plur",
             "Person[psor]": "1"
@@ -2558,10 +2026,7 @@
     },
     "N;IN+ABL;PL;PSS1S": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Plur",
             "Number[psor]": "Sing",
             "Person[psor]": "1"
@@ -2570,10 +2035,7 @@
     },
     "N;IN+ABL;PL;PSS2P": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Plur",
             "Number[psor]": "Plur",
             "Person[psor]": "2"
@@ -2582,10 +2044,7 @@
     },
     "N;IN+ABL;PL;PSS2S": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Plur",
             "Number[psor]": "Sing",
             "Person[psor]": "2"
@@ -2594,20 +2053,14 @@
     },
     "N;IN+ABL;SG": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Sing"
         },
         "upos": "NOUN"
     },
     "N;IN+ABL;SG;PSS1P": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Sing",
             "Number[psor]": "Plur",
             "Person[psor]": "1"
@@ -2616,10 +2069,7 @@
     },
     "N;IN+ABL;SG;PSS1S": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "1"
@@ -2628,10 +2078,7 @@
     },
     "N;IN+ABL;SG;PSS2P": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Sing",
             "Number[psor]": "Plur",
             "Person[psor]": "2"
@@ -2640,10 +2087,7 @@
     },
     "N;IN+ABL;SG;PSS2S": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "2"
@@ -2652,20 +2096,14 @@
     },
     "N;IN+ALL;PL": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Plur"
         },
         "upos": "NOUN"
     },
     "N;IN+ALL;PL;PSS1P": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Plur",
             "Number[psor]": "Plur",
             "Person[psor]": "1"
@@ -2674,10 +2112,7 @@
     },
     "N;IN+ALL;PL;PSS1S": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Plur",
             "Number[psor]": "Sing",
             "Person[psor]": "1"
@@ -2686,10 +2121,7 @@
     },
     "N;IN+ALL;PL;PSS2P": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Plur",
             "Number[psor]": "Plur",
             "Person[psor]": "2"
@@ -2698,10 +2130,7 @@
     },
     "N;IN+ALL;PL;PSS2S": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Plur",
             "Number[psor]": "Sing",
             "Person[psor]": "2"
@@ -2710,10 +2139,7 @@
     },
     "N;IN+ALL;PL;PSS3": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Plur",
             "Person[psor]": "3"
         },
@@ -2721,20 +2147,14 @@
     },
     "N;IN+ALL;SG": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Sing"
         },
         "upos": "NOUN"
     },
     "N;IN+ALL;SG;PSS1P": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Sing",
             "Number[psor]": "Plur",
             "Person[psor]": "1"
@@ -2743,10 +2163,7 @@
     },
     "N;IN+ALL;SG;PSS1S": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "1"
@@ -2755,10 +2172,7 @@
     },
     "N;IN+ALL;SG;PSS2P": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Sing",
             "Number[psor]": "Plur",
             "Person[psor]": "2"
@@ -2767,10 +2181,7 @@
     },
     "N;IN+ALL;SG;PSS2S": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "2"
@@ -2779,10 +2190,7 @@
     },
     "N;IN+ALL;SG;PSS3": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Sing",
             "Person[psor]": "3"
         },
@@ -3001,142 +2409,6 @@
         },
         "upos": "NOUN"
     },
-    "N;NOM;SG;PSS1P": {
-        "morpho": {
-            "Case": "Nom",
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "1"
-        },
-        "upos": "NOUN"
-    },
-    "N;NOM;SG;PSS1S": {
-        "morpho": {
-            "Case": "Nom",
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "1"
-        },
-        "upos": "NOUN"
-    },
-    "N;NOM;SG;PSS2P": {
-        "morpho": {
-            "Case": "Nom",
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "2"
-        },
-        "upos": "NOUN"
-    },
-    "N;NOM;SG;PSS2S": {
-        "morpho": {
-            "Case": "Nom",
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "2"
-        },
-        "upos": "NOUN"
-    },
-    "N;NOM;SG;PSS3": {
-        "morpho": {
-            "Case": "Nom",
-            "Number": "Sing",
-            "Person[psor]": "3"
-        },
-        "upos": "NOUN"
-    },
-    "N;PL;AT+ABL": {
-        "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
-            "Number": "Plur"
-        },
-        "upos": "NOUN"
-    },
-    "N;PL;AT+ALL": {
-        "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
-            "Number": "Plur"
-        },
-        "upos": "NOUN"
-    },
-    "N;PL;AT+ESS": {
-        "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
-            "Number": "Plur"
-        },
-        "upos": "NOUN"
-    },
-    "N;PL;FRML": {
-        "morpho": {
-            "Case": "Ess",
-            "Number": "Plur"
-        },
-        "upos": "NOUN"
-    },
-    "N;PL;GEN": {
-        "morpho": {
-            "Case": "Gen",
-            "Number": "Plur"
-        },
-        "upos": "NOUN"
-    },
-    "N;PL;IN+ABL": {
-        "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
-            "Number": "Plur"
-        },
-        "upos": "NOUN"
-    },
-    "N;PL;IN+ALL": {
-        "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
-            "Number": "Plur"
-        },
-        "upos": "NOUN"
-    },
-    "N;PL;IN+ESS": {
-        "morpho": {
-            "Case": "Ine",
-            "Number": "Plur"
-        },
-        "upos": "NOUN"
-    },
-    "N;PL;PRIV": {
-        "morpho": {
-            "Case": "Abe",
-            "Number": "Plur"
-        },
-        "upos": "NOUN"
-    },
-    "N;PL;PRT": {
-        "morpho": {
-            "Case": "Par",
-            "Number": "Plur"
-        },
-        "upos": "NOUN"
-    },
-    "N;PL;TRANS": {
-        "morpho": {
-            "Case": "Tra",
-            "Number": "Plur"
-        },
-        "upos": "NOUN"
-    },
     "N;PRIV;PL": {
         "morpho": {
             "Case": "Abe",
@@ -3351,657 +2623,6 @@
         },
         "upos": "NOUN"
     },
-    "N;SG;AT+ABL": {
-        "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
-            "Number": "Sing"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;AT+ABL;PSS1P": {
-        "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "1"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;AT+ABL;PSS1S": {
-        "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "1"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;AT+ABL;PSS2P": {
-        "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "2"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;AT+ABL;PSS2S": {
-        "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "2"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;AT+ABL;PSS3": {
-        "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
-            "Number": "Sing",
-            "Person[psor]": "3"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;AT+ALL": {
-        "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
-            "Number": "Sing"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;AT+ALL;PSS1P": {
-        "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "1"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;AT+ALL;PSS1S": {
-        "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "1"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;AT+ALL;PSS2P": {
-        "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "2"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;AT+ALL;PSS2S": {
-        "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "2"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;AT+ALL;PSS3": {
-        "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
-            "Number": "Sing",
-            "Person[psor]": "3"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;AT+ESS": {
-        "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
-            "Number": "Sing"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;AT+ESS;PSS1P": {
-        "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "1"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;AT+ESS;PSS1S": {
-        "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "1"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;AT+ESS;PSS2P": {
-        "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "2"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;AT+ESS;PSS2S": {
-        "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "2"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;AT+ESS;PSS3": {
-        "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
-            "Number": "Sing",
-            "Person[psor]": "3"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;FRML": {
-        "morpho": {
-            "Case": "Ess",
-            "Number": "Sing"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;FRML;PSS1P": {
-        "morpho": {
-            "Case": "Ess",
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "1"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;FRML;PSS1S": {
-        "morpho": {
-            "Case": "Ess",
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "1"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;FRML;PSS2P": {
-        "morpho": {
-            "Case": "Ess",
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "2"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;FRML;PSS2S": {
-        "morpho": {
-            "Case": "Ess",
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "2"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;FRML;PSS3": {
-        "morpho": {
-            "Case": "Ess",
-            "Number": "Sing",
-            "Person[psor]": "3"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;GEN": {
-        "morpho": {
-            "Case": "Gen",
-            "Number": "Sing"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;GEN;PSS1P": {
-        "morpho": {
-            "Case": "Gen",
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "1"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;GEN;PSS1S": {
-        "morpho": {
-            "Case": "Gen",
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "1"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;GEN;PSS2P": {
-        "morpho": {
-            "Case": "Gen",
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "2"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;GEN;PSS2S": {
-        "morpho": {
-            "Case": "Gen",
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "2"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;GEN;PSS3": {
-        "morpho": {
-            "Case": "Gen",
-            "Number": "Sing",
-            "Person[psor]": "3"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;IN+ABL": {
-        "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
-            "Number": "Sing"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;IN+ABL;PSS1P": {
-        "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "1"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;IN+ABL;PSS1S": {
-        "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "1"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;IN+ABL;PSS2P": {
-        "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "2"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;IN+ABL;PSS2S": {
-        "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "2"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;IN+ABL;PSS3": {
-        "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
-            "Number": "Sing",
-            "Person[psor]": "3"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;IN+ALL": {
-        "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
-            "Number": "Sing"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;IN+ALL;PSS1P": {
-        "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "1"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;IN+ALL;PSS1S": {
-        "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "1"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;IN+ALL;PSS2P": {
-        "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "2"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;IN+ALL;PSS2S": {
-        "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "2"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;IN+ALL;PSS3": {
-        "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
-            "Number": "Sing",
-            "Person[psor]": "3"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;IN+ESS": {
-        "morpho": {
-            "Case": "Ine",
-            "Number": "Sing"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;IN+ESS;PSS1P": {
-        "morpho": {
-            "Case": "Ine",
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "1"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;IN+ESS;PSS1S": {
-        "morpho": {
-            "Case": "Ine",
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "1"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;IN+ESS;PSS2P": {
-        "morpho": {
-            "Case": "Ine",
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "2"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;IN+ESS;PSS2S": {
-        "morpho": {
-            "Case": "Ine",
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "2"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;IN+ESS;PSS3": {
-        "morpho": {
-            "Case": "Ine",
-            "Number": "Sing",
-            "Person[psor]": "3"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;PRIV": {
-        "morpho": {
-            "Case": "Abe",
-            "Number": "Sing"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;PRIV;PSS1P": {
-        "morpho": {
-            "Case": "Abe",
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "1"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;PRIV;PSS1S": {
-        "morpho": {
-            "Case": "Abe",
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "1"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;PRIV;PSS2P": {
-        "morpho": {
-            "Case": "Abe",
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "2"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;PRIV;PSS2S": {
-        "morpho": {
-            "Case": "Abe",
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "2"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;PRIV;PSS3": {
-        "morpho": {
-            "Case": "Abe",
-            "Number": "Sing",
-            "Person[psor]": "3"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;PRT": {
-        "morpho": {
-            "Case": "Par",
-            "Number": "Sing"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;PRT;PSS1P": {
-        "morpho": {
-            "Case": "Par",
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "1"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;PRT;PSS1S": {
-        "morpho": {
-            "Case": "Par",
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "1"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;PRT;PSS2P": {
-        "morpho": {
-            "Case": "Par",
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "2"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;PRT;PSS2S": {
-        "morpho": {
-            "Case": "Par",
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "2"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;PRT;PSS3": {
-        "morpho": {
-            "Case": "Par",
-            "Number": "Sing",
-            "Person[psor]": "3"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;TRANS": {
-        "morpho": {
-            "Case": "Tra",
-            "Number": "Sing"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;TRANS;PSS1P": {
-        "morpho": {
-            "Case": "Tra",
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "1"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;TRANS;PSS1S": {
-        "morpho": {
-            "Case": "Tra",
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "1"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;TRANS;PSS2P": {
-        "morpho": {
-            "Case": "Tra",
-            "Number": "Sing",
-            "Number[psor]": "Plur",
-            "Person[psor]": "2"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;TRANS;PSS2S": {
-        "morpho": {
-            "Case": "Tra",
-            "Number": "Sing",
-            "Number[psor]": "Sing",
-            "Person[psor]": "2"
-        },
-        "upos": "NOUN"
-    },
-    "N;SG;TRANS;PSS3": {
-        "morpho": {
-            "Case": "Tra",
-            "Number": "Sing",
-            "Person[psor]": "3"
-        },
-        "upos": "NOUN"
-    },
     "N;TRANS;PL": {
         "morpho": {
             "Case": "Tra",
@@ -4087,426 +2708,5 @@
             "Person[psor]": "2"
         },
         "upos": "NOUN"
-    },
-    "V;ACT;POS;IND;PST;1;PL": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "1",
-            "Polarity": "Pos",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;POS;IND;PST;1;SG": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "1",
-            "Polarity": "Pos",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;POS;IND;PST;2;PL": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "2",
-            "Polarity": "Pos",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;POS;IND;PST;2;SG": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "2",
-            "Polarity": "Pos",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;POS;IND;PST;3;PL": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "3",
-            "Polarity": "Pos",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;POS;IND;PST;3;SG": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "3",
-            "Polarity": "Pos",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;PRS;POS;COND;1;PL": {
-        "morpho": {
-            "Mood": "Cnd",
-            "Number": "Plur",
-            "Person": "1",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;PRS;POS;COND;1;SG": {
-        "morpho": {
-            "Mood": "Cnd",
-            "Number": "Sing",
-            "Person": "1",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;PRS;POS;COND;2;PL": {
-        "morpho": {
-            "Mood": "Cnd",
-            "Number": "Plur",
-            "Person": "2",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;PRS;POS;COND;2;SG": {
-        "morpho": {
-            "Mood": "Cnd",
-            "Number": "Sing",
-            "Person": "2",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;PRS;POS;COND;3;PL": {
-        "morpho": {
-            "Mood": "Cnd",
-            "Number": "Plur",
-            "Person": "3",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;PRS;POS;COND;3;SG": {
-        "morpho": {
-            "Mood": "Cnd",
-            "Number": "Sing",
-            "Person": "3",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;PRS;POS;IMP;1;PL": {
-        "morpho": {
-            "Mood": "Imp",
-            "Number": "Plur",
-            "Person": "1",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;PRS;POS;IMP;2;PL": {
-        "morpho": {
-            "Mood": "Imp",
-            "Number": "Plur",
-            "Person": "2",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;PRS;POS;IMP;2;SG": {
-        "morpho": {
-            "Mood": "Imp",
-            "Number": "Sing",
-            "Person": "2",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;PRS;POS;IMP;3;PL": {
-        "morpho": {
-            "Mood": "Imp",
-            "Number": "Plur",
-            "Person": "3",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;PRS;POS;IMP;3;SG": {
-        "morpho": {
-            "Mood": "Imp",
-            "Number": "Sing",
-            "Person": "3",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;PRS;POS;IND;1;PL": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "1",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;PRS;POS;IND;1;SG": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "1",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;PRS;POS;IND;2;PL": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "2",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;PRS;POS;IND;2;SG": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "2",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;PRS;POS;IND;3;PL": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Plur",
-            "Person": "3",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;PRS;POS;IND;3;SG": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "3",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;PRS;POS;POT;1;PL": {
-        "morpho": {
-            "Mood": "Pot",
-            "Number": "Plur",
-            "Person": "1",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;PRS;POS;POT;1;SG": {
-        "morpho": {
-            "Mood": "Pot",
-            "Number": "Sing",
-            "Person": "1",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;PRS;POS;POT;2;PL": {
-        "morpho": {
-            "Mood": "Pot",
-            "Number": "Plur",
-            "Person": "2",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;PRS;POS;POT;2;SG": {
-        "morpho": {
-            "Mood": "Pot",
-            "Number": "Sing",
-            "Person": "2",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;PRS;POS;POT;3;PL": {
-        "morpho": {
-            "Mood": "Pot",
-            "Number": "Plur",
-            "Person": "3",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;PRS;POS;POT;3;SG": {
-        "morpho": {
-            "Mood": "Pot",
-            "Number": "Sing",
-            "Person": "3",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;PRS;V.PTCP": {
-        "morpho": {
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;PST;POS;IND;3;SG": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "3",
-            "Polarity": "Pos",
-            "Tense": "Past",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;ACT;V.PTCP;PST": {
-        "morpho": {
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Act"
-        },
-        "upos": "VERB"
-    },
-    "V;NFIN": {
-        "morpho": {
-            "VerbForm": "NonFin"
-        },
-        "upos": "VERB"
-    },
-    "V;POS;IND;PASS;PST": {
-        "morpho": {
-            "Mood": "Ind",
-            "Polarity": "Pos",
-            "Tense": "Past",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;PRS;NFIN": {
-        "morpho": {
-            "Tense": "Pres",
-            "VerbForm": "NonFin"
-        },
-        "upos": "VERB"
-    },
-    "V;PRS;POS;IND;PASS": {
-        "morpho": {
-            "Mood": "Ind",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;PRS;POS;PASS;COND": {
-        "morpho": {
-            "Mood": "Cnd",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;PRS;POS;PASS;IMP": {
-        "morpho": {
-            "Mood": "Imp",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;PRS;POS;PASS;POT": {
-        "morpho": {
-            "Mood": "Pot",
-            "Polarity": "Pos",
-            "Tense": "Pres",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;PRS;V.PTCP;PASS": {
-        "morpho": {
-            "Tense": "Pres",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "V;V.PTCP;PASS;PST": {
-        "morpho": {
-            "Tense": "Past",
-            "VerbForm": "Part",
-            "Voice": "Pass"
-        },
-        "upos": "VERB"
-    },
-    "nan": {}
+    }
 }

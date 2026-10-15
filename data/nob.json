@@ -1,0 +1,533 @@
+{
+    "ADJ;CMPR;SG": {
+        "morpho": {
+            "Degree": "Cmp",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DEF;PL": {
+        "morpho": {
+            "Definite": "Def",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DEF;SG": {
+        "morpho": {
+            "Definite": "Def",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DEF;SG+PL": {
+        "morpho": {
+            "Definite": "Def",
+            "Number": "Plur,Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;FEM;SG": {
+        "morpho": {
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;INDF;PL": {
+        "morpho": {
+            "Definite": "Ind",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;INDF;SG": {
+        "morpho": {
+            "Definite": "Ind",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;MASC+FEM;SG": {
+        "morpho": {
+            "Gender": "Fem,Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NEUT;INDF;SG": {
+        "morpho": {
+            "Definite": "Ind",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NEUT;SG": {
+        "morpho": {
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;PL": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;SG+PL": {
+        "morpho": {
+            "Number": "Plur,Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;SPRL;DEF;SG": {
+        "morpho": {
+            "Definite": "Def",
+            "Degree": "Sup",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;SPRL;INDF;SG": {
+        "morpho": {
+            "Definite": "Ind",
+            "Degree": "Sup",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;SPRL;SG": {
+        "morpho": {
+            "Degree": "Sup",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "N;DEF;PL": {
+        "morpho": {
+            "Definite": "Def",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;DEF;SG": {
+        "morpho": {
+            "Definite": "Def",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DEF;SG+PL": {
+        "morpho": {
+            "Definite": "Def",
+            "Number": "Plur,Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+MASC+NEUT;DEF;PL": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem,Masc,Neut",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+MASC+NEUT;DEF;SG": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem,Masc,Neut",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+MASC+NEUT;INDF;PL": {
+        "morpho": {
+            "Definite": "Ind",
+            "Gender": "Fem,Masc,Neut",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+MASC+NEUT;SG": {
+        "morpho": {
+            "Gender": "Fem,Masc,Neut",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+MASC;DEF;PL": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem,Masc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+MASC;DEF;SG": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem,Masc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+MASC;INDF;PL": {
+        "morpho": {
+            "Definite": "Ind",
+            "Gender": "Fem,Masc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM+MASC;SG": {
+        "morpho": {
+            "Gender": "Fem,Masc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;DEF;PL": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;DEF;SG": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;INDF;PL": {
+        "morpho": {
+            "Definite": "Ind",
+            "Gender": "Fem",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;SG": {
+        "morpho": {
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;INDF;PL": {
+        "morpho": {
+            "Definite": "Ind",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;INDF;SG": {
+        "morpho": {
+            "Definite": "Ind",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+FEM+MASC;DEF;PL": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem,Masc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+FEM+MASC;DEF;SG": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem,Masc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+FEM+MASC;INDF;PL": {
+        "morpho": {
+            "Definite": "Ind",
+            "Gender": "Fem,Masc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+FEM+MASC;SG": {
+        "morpho": {
+            "Gender": "Fem,Masc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+FEM+NEUT;DEF;PL": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem,Masc,Neut",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+FEM+NEUT;DEF;SG": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem,Masc,Neut",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+FEM+NEUT;INDF;PL": {
+        "morpho": {
+            "Definite": "Ind",
+            "Gender": "Fem,Masc,Neut",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+FEM+NEUT;SG": {
+        "morpho": {
+            "Gender": "Fem,Masc,Neut",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+FEM;DEF;PL": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem,Masc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+FEM;DEF;SG": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem,Masc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+FEM;INDF;PL": {
+        "morpho": {
+            "Definite": "Ind",
+            "Gender": "Fem,Masc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+FEM;SG": {
+        "morpho": {
+            "Gender": "Fem,Masc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+NEUT;DEF;PL": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc,Neut",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+NEUT;DEF;SG": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc,Neut",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+NEUT;INDF;PL": {
+        "morpho": {
+            "Definite": "Ind",
+            "Gender": "Masc,Neut",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC+NEUT;SG": {
+        "morpho": {
+            "Gender": "Masc,Neut",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;DEF;PL": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;DEF;SG": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;INDF;PL": {
+        "morpho": {
+            "Definite": "Ind",
+            "Gender": "Masc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;PL": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;SG": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT+MASC;DEF;PL": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc,Neut",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT+MASC;DEF;SG": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc,Neut",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT+MASC;INDF;PL": {
+        "morpho": {
+            "Definite": "Ind",
+            "Gender": "Masc,Neut",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT+MASC;SG": {
+        "morpho": {
+            "Gender": "Masc,Neut",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT;DEF;PL": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Neut",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT;DEF;SG": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT;INDF;PL": {
+        "morpho": {
+            "Definite": "Ind",
+            "Gender": "Neut",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT;PL": {
+        "morpho": {
+            "Gender": "Neut",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT;SG": {
+        "morpho": {
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG": {
+        "morpho": {
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "V.MSDR": {
+        "morpho": {
+            "VerbForm": "Vnoun"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;PRS": {
+        "morpho": {
+            "Tense": "Pres",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;PST": {
+        "morpho": {
+            "Tense": "Past",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP": {
+        "morpho": {
+            "Mood": "Imp"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;PASS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;PRS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;PST": {
+        "morpho": {
+            "Mood": "Ind",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;V.PTCP;PRS": {
+        "morpho": {
+            "Tense": "Pres",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    }
+}

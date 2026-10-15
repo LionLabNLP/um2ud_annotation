@@ -239,10 +239,7 @@
     },
     "V.PTCP;IPFV;PROG;PST;FEM;SG": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Prog"
-            ],
+            "Aspect": "Imp,Prog",
             "Gender": "Fem",
             "Number": "Sing",
             "Tense": "Past",
@@ -252,10 +249,7 @@
     },
     "V.PTCP;IPFV;PROG;PST;MASC;SG": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Prog"
-            ],
+            "Aspect": "Imp,Prog",
             "Gender": "Masc",
             "Number": "Sing",
             "Tense": "Past",
@@ -265,10 +259,7 @@
     },
     "V.PTCP;IPFV;PROG;PST;NEUT;SG": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Prog"
-            ],
+            "Aspect": "Imp,Prog",
             "Gender": "Neut",
             "Number": "Sing",
             "Tense": "Past",
@@ -278,10 +269,7 @@
     },
     "V.PTCP;IPFV;PROG;PST;PL": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Prog"
-            ],
+            "Aspect": "Imp,Prog",
             "Number": "Plur",
             "Tense": "Past",
             "VerbForm": "Part"
@@ -338,10 +326,7 @@
     },
     "V.PTCP;PFV;PROG;PST;FEM;SG": {
         "morpho": {
-            "Aspect": [
-                "Prog",
-                "Perf"
-            ],
+            "Aspect": "Perf,Prog",
             "Gender": "Fem",
             "Number": "Sing",
             "Tense": "Past",
@@ -351,10 +336,7 @@
     },
     "V.PTCP;PFV;PROG;PST;MASC;SG": {
         "morpho": {
-            "Aspect": [
-                "Prog",
-                "Perf"
-            ],
+            "Aspect": "Perf,Prog",
             "Gender": "Masc",
             "Number": "Sing",
             "Tense": "Past",
@@ -364,10 +346,7 @@
     },
     "V.PTCP;PFV;PROG;PST;NEUT;SG": {
         "morpho": {
-            "Aspect": [
-                "Prog",
-                "Perf"
-            ],
+            "Aspect": "Perf,Prog",
             "Gender": "Neut",
             "Number": "Sing",
             "Tense": "Past",
@@ -377,10 +356,7 @@
     },
     "V.PTCP;PFV;PROG;PST;PL": {
         "morpho": {
-            "Aspect": [
-                "Prog",
-                "Perf"
-            ],
+            "Aspect": "Perf,Prog",
             "Number": "Plur",
             "Tense": "Past",
             "VerbForm": "Part"
@@ -553,10 +529,7 @@
     },
     "V;IPFV;PROG;PST;1;PL": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Prog"
-            ],
+            "Aspect": "Imp,Prog",
             "Number": "Plur",
             "Person": "1",
             "Tense": "Past"
@@ -565,10 +538,7 @@
     },
     "V;IPFV;PROG;PST;1;SG": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Prog"
-            ],
+            "Aspect": "Imp,Prog",
             "Number": "Sing",
             "Person": "1",
             "Tense": "Past"
@@ -577,10 +547,7 @@
     },
     "V;IPFV;PROG;PST;2;PL": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Prog"
-            ],
+            "Aspect": "Imp,Prog",
             "Number": "Plur",
             "Person": "2",
             "Tense": "Past"
@@ -589,10 +556,7 @@
     },
     "V;IPFV;PROG;PST;2;SG": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Prog"
-            ],
+            "Aspect": "Imp,Prog",
             "Number": "Sing",
             "Person": "2",
             "Tense": "Past"
@@ -601,10 +565,7 @@
     },
     "V;IPFV;PROG;PST;3;PL": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Prog"
-            ],
+            "Aspect": "Imp,Prog",
             "Number": "Plur",
             "Person": "3",
             "Tense": "Past"
@@ -613,10 +574,7 @@
     },
     "V;IPFV;PROG;PST;3;SG": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Prog"
-            ],
+            "Aspect": "Imp,Prog",
             "Number": "Sing",
             "Person": "3",
             "Tense": "Past"
@@ -751,10 +709,7 @@
     },
     "V;PFV;PROG;PST;1;PL": {
         "morpho": {
-            "Aspect": [
-                "Prog",
-                "Perf"
-            ],
+            "Aspect": "Perf,Prog",
             "Number": "Plur",
             "Person": "1",
             "Tense": "Past"
@@ -763,10 +718,7 @@
     },
     "V;PFV;PROG;PST;1;SG": {
         "morpho": {
-            "Aspect": [
-                "Prog",
-                "Perf"
-            ],
+            "Aspect": "Perf,Prog",
             "Number": "Sing",
             "Person": "1",
             "Tense": "Past"
@@ -775,10 +727,7 @@
     },
     "V;PFV;PROG;PST;2;PL": {
         "morpho": {
-            "Aspect": [
-                "Prog",
-                "Perf"
-            ],
+            "Aspect": "Perf,Prog",
             "Number": "Plur",
             "Person": "2",
             "Tense": "Past"
@@ -787,10 +736,7 @@
     },
     "V;PFV;PROG;PST;2;SG": {
         "morpho": {
-            "Aspect": [
-                "Prog",
-                "Perf"
-            ],
+            "Aspect": "Perf,Prog",
             "Number": "Sing",
             "Person": "2",
             "Tense": "Past"
@@ -799,10 +745,7 @@
     },
     "V;PFV;PROG;PST;3;PL": {
         "morpho": {
-            "Aspect": [
-                "Prog",
-                "Perf"
-            ],
+            "Aspect": "Perf,Prog",
             "Number": "Plur",
             "Person": "3",
             "Tense": "Past"
@@ -811,10 +754,7 @@
     },
     "V;PFV;PROG;PST;3;SG": {
         "morpho": {
-            "Aspect": [
-                "Prog",
-                "Perf"
-            ],
+            "Aspect": "Perf,Prog",
             "Number": "Sing",
             "Person": "3",
             "Tense": "Past"

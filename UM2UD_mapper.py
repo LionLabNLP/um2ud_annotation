@@ -1,6 +1,8 @@
-# dan https://github.com/dan-zeman/interset/blob/master/lib/Lingua/Interset/Tagset/MUL/Unimorph.pm
+# Zeman https://github.com/dan-zeman/interset/blob/master/lib/Lingua/Interset/Tagset/MUL/Unimorph.pm
 
+import itertools
 import re
+from functools import lru_cache
 from typing import Optional
 
 shortened_vals = dict(sorted({
@@ -55,32 +57,42 @@ UM2UD_values = dict(sorted({
     "ABS":   {"Case": "Abs"},   # Absolutive
     "ACC":   {"Case": "Acc"},   # Accusative
     "ALL":   {"Case": "All"},   # Allative
-    "AT":    {"Case": "Ade"},   # adessive dan
-    "APPRX": {},                # dan
+    "AT":    {"Case": "Ade"},   # adessive Zeman
+    "APPRX": {},                # approximative; Zeman, ail, krl, lud, olo, vep: no UD correspondence, kept as UM:APPRX
     "BEN":   {"Case": "Ben"},   # benefactive
-    "BYWAY": {"Case": "Ess"},   # dan
+    "BYWAY": {"Case": "Ess"},   # Zeman
     "COM":   {"Case": "Com"},   # Comitative
     "COMPV": {"Case": "Cmp"},   # comparative
     "DAT":   {"Case": "Dat"},   # Dative
     "ERG":   {"Case": "Erg"},   # Ergative
     "EQTV":  {"Case": "Equ"},   # equative, UM: EQTV exclusive to nouns (adj have eqt)
-    "ESS":   {"Case": "Loc"},   # UM essive = UD locative while UM formal = ud essive, according to dan
-    "FRML":  {"Case": "Ess"},   # dan
+    "ESS":   {"Case": "Loc"},   # UM essive = UD locative while UM formal = ud essive, according to Zeman
+    "FRML":  {"Case": "Ess"},   # Zeman
     "GEN":   {"Case": "Gen"},   # Genitive
     "INS":   {"Case": "Ins"},   # Instrumental
-    "IN":    {"Case": "Ine"},   # inessive dan
+    "IN":    {"Case": "Ine"},   # inessive Zeman
     "IN+ESS":{"Case": "Ine"},   # apparently same as IN+ESS according to UM docs; not in UM docs, but found in UM data
+    # the other location-case compounds: each is ONE case, not an ambiguity; checked against
+    # UD Case=X tokens' rows in the fi/hu/et/se UM files (~90-98% of tokens carry exactly this tag)
+    "IN+ABL":{"Case": "Ela"},   # elative
+    "IN+ALL":{"Case": "Ill"},   # illative
+    "AT+ESS":{"Case": "Ade"},   # adessive
+    "AT+ABL":{"Case": "Abl"},   # ablative (outer)
+    "AT+ALL":{"Case": "All"},   # allative
+    "ON+ESS":{"Case": "Sup"},   # superessive
+    "ON+ABL":{"Case": "Del"},   # delative
+    "ON+ALL":{"Case": "Sbl"},   # sublative
     "LOC":   {"Case": "Loc"},   # not in UM docs, but found in UM data
     "NOM":   {"Case": "Nom"},   # Nominative
-    "ON":    {"Case": "Sup"},   # dan
-    "OBL":   {},                # only used in gujarati and only in conjuntion with voc as OBL+VOC (voc also only appears as obl+voc); not in UM docs, but found in UM data
+    "ON":    {"Case": "Sup"},   # Zeman
+    "OBL":   {"Case": "Acc"},   # gujarati oblique, only as OBL+VOC; the treebank marks oblique nouns Case=Acc (chosen, 2026-10)
     "PRIV":  {"Case": "Abe"},   # abessive / caritive / privative (UD) vs privative (UM)
     "PRP":   {"Case": "Prp"},   # purposive
     "PRT":   {"Case": "Par"},   # partitive
-    "PROPR": {"Case": "Com"},   # proprietive, dan, not in UM data
-    "REL":   {"Case": "Rel"},   # dan
+    "PROPR": {"Case": "Com"},   # proprietive, Zeman, not in UM data
+    "REL":   {"Case": "Rel"},   # Zeman
     "SUB":   {"Case": "Sub"},   # Sublative (UM: Under)
-    "TERM":  {"Case": "Ter"},   # terminative dan
+    "TERM":  {"Case": "Ter"},   # terminative Zeman
     "TRANS": {"Case": "Tra"},   # translative
     "PROL":  {"Case": "Tra"},   # prolative/translative
     "VOC":   {"Case": "Voc"},   # Vocative
@@ -102,6 +114,9 @@ UM2UD_values = dict(sorted({
     "EQT":  {"Degree": "Equ"},  # Equative
     "SPRL": {"Degree": "Sup"},  # also used as superlative tag in UM with SUP(?) in afrikaans
     "SUP":  {"Degree": "Sup"},  # not in UM docs, but found in UM data
+    # ell tags superlatives SPRL;AB (one reading, not two): UD Greek tokens of these forms are Degree=Sup, 16 of 17 (2026-10)
+    "SPRL+AB": {"Degree": "Sup"},
+    "AB+SPRL": {"Degree": "Sup"},
 
    # DEIXIS
     "MED":  {"Deixis": "Med"},   # Medial, not in UM data
@@ -125,26 +140,27 @@ UM2UD_values = dict(sorted({
     "TOP": {"InfStruct": "Top"},  # Topic
 
     # INTERROGATIVITY
-    "DECL": {},  # dan
+    "DECL": {},  # Zeman; NOT Mood=Ind: tur has every IND and INFR row twice, with and without DECL, and DECL also occurs on IMP and mood-less rows; kor DECL never co-occurs with a mood; UD has no interrogativity feature (2026-10)
 
     # MOOD
     "ADM":   {"Mood": "Adm"},   # admirative
-    "AUPRP": {"Mood": "PRP"},   # Australian Purposive, dan, not in UM data
+    "AUPRP": {"Mood": "PRP"},   # Australian Purposive, Zeman, not in UM data
     "COND":  {"Mood": "Cnd"},   # Conditional
-    "DED":   {},                # Deductive, dan, Yakut
-    "DEB":   {"Mood": "nec"},   # Debitive, dan, not in UM data
-    "INFR":  {},                # not in UM docs, but found in UM data
+    "HYP":   {"Mood": "Cnd,Pot"},  # basque hypothetical (earlier note: neither conditional nor potential); UD Basque tokens of these forms: 84% Cnd, 16% Pot, so both readings (2026-10)
+    "DED":   {},                # Deductive, Zeman, Yakut
+    "DEB":   {"Mood": "nec"},   # Debitive, Zeman, not in UM data
+    "INFR":  {"Evident": "Nfh"},  # inferential, tur -mis; UD Turkish tokens of INFR forms: 86% Evident=Nfh, 0% of the rest (form match; 2026-10)
     "IMP":   {"Mood": "Imp"},   # Imperative-Jussive
     "IND":   {"Mood": "Ind"},   # Indicative
     "INT":   {"Mood": "Int"},   # UM has its own "interrogativity" feature with only INT and DECL(arative) as values
-    "INTEN": {"Mood": "Des"},   # dan
+    "INTEN": {"Mood": "Des"},   # Zeman
     "IRR":   {"Mood": "Irr"},   # didnt occur but is in um docs
     "OBLIG": {"Mood": "Nec"},   # both have "must" meaning
     "OPT":   {"Mood": "Opt"},   # Optative-Desiderative
     "PERM":  {"Mood": "Perm"},  # Permissive
     "POT":   {"Mood": "Pot"},   # Potential
     "PURP":  {"Mood": "Prp"},   # didnt occur but is in um docs
-    "REAL":  {"Mood": "Ind"},   # Realis, dan, not in UM data
+    "REAL":  {"Mood": "Ind"},   # Realis, Zeman, not in UM data
     "SBJV":  {"Mood": "Sub"},   # Subjunctive
     "SIM":   {},                # Simulative
     "QUOT":  {"Mood": "Qot"},   # is evident in UM, but is mood in UD (specifically for estonian)
@@ -172,7 +188,7 @@ UM2UD_values = dict(sorted({
     "3":    {"Person": "3"},    # Third person
     "4":    {"Person": "4"},    # hungarian PSS UM
     "AUTO": {"Person": "0"},    # irish impersonal/autonomous form, person=0 according to UD treebank readme; not in UM docs, but found in UM data
-    "IMPRS":{"Person": "0"},      # Impersonal, dan, not in UM data
+    "IMPRS":{"Person": "0"},    # Impersonal, Zeman, not in UM data
 
     # "INF": "Informal", # used as basuqe person, how does UD handle this?
     # ud doesnt have obviative
@@ -186,12 +202,12 @@ UM2UD_values = dict(sorted({
     "FORM": {"Polite": "Form"},  # Formal
     "HUMB": {"Polite": "Humb"},  # Speaker Humbling
     "INFM": {"Polite": "Infm"},  # Informal
-    "POL":  {"Polite": "Form"},  # dan
+    "POL":  {"Polite": "Form"},  # Zeman
 
     # STYLE
-    "COL":   {"Style": "Coll"}, # dan; og politeness
+    "COL":   {"Style": "Coll"}, # Zeman; og politeness
     "LIT":   {"Style": "Lit"},  # Literary
-    "FOREG": {"Style": "Form"}, # dan
+    "FOREG": {"Style": "Form"}, # Zeman
 
     # SUBCAT
     "INTR": {"SubCat": "Intr"},  # Intransitive
@@ -200,6 +216,7 @@ UM2UD_values = dict(sorted({
     # TENSE
     "FUT": {"Tense": "Fut"},   # Future
     "PRS": {"Tense": "Pres"},  # Present
+    "NPST": {"Tense": "Pres"}, # yakut non-past; UD Yakut tokens of these forms: 98% Tense=Pres (2026-10 check)
     "PST": {"Tense": "Past"},  # Past
 
     # UPOS
@@ -212,19 +229,17 @@ UM2UD_values = dict(sorted({
     "ART":      {"upos": "DET",
                  "PronType": "Art"},  # Article, Afrikaans
     "AUX":      {"upos": "AUX"},      # Auxiliary, only Xibe has AUX
-    "CONJ":     {"upos": "CONJ"},     # Conjunction, dan, strictly not UD (CCONJ vs SCONJ)
-    "CLF":      {"upos": "NOUN",      # Classifier, dan, not in UM data
+    "CONJ":     {"upos": "CONJ"},     # Conjunction, Zeman, strictly not UD (CCONJ vs SCONJ)
+    "CLF":      {"upos": "NOUN",      # Classifier, Zeman, not in UM data
                  "NounType": "Class"},
-    "COMP":     {"upos": "CONJ",      # Complementizer, dan, not in UM data
-                 "ConjType": "Sub"},
     "DET":      {"upos": "DET",
-                 "PronType": "Prn"},  # Determiner, prontype according to dan; chukchi, karelian, xibe
+                 "PronType": "Prn"},  # Determiner, prontype according to Zeman; chukchi, karelian, xibe
     "INTJ":     {"upos": "INTJ"},     # Interjection
     "N":        {"upos": "NOUN"},     # Noun
     "NUM":      {"upos": "NUM",       # Numeral
                  "NumType": "Card"},
     "PART":     {"upos": "PART"},     # Particle
-    "PRO":      {"upos": "PRON",      # Pronoun, dan,not in UM docs, but found in UM data
+    "PRO":      {"upos": "PRON",      # Pronoun, Zeman,not in UM docs, but found in UM data
                  "PronType": "Prn"},
     "PROPN":    {"upos": "PROPN",     # Proper Noun
                  "NounType": "Prop"},
@@ -233,38 +248,41 @@ UM2UD_values = dict(sorted({
                  "VerbForm": "Part"},
     "V.CVB":    {"upos": "VERB",      # Converb (Verbal Adverb)
                  "VerbForm": "Conv"},
-    "V.MSDR":   {"upos": "VERB",      # dan
+    "V.MSDR":   {"upos": "VERB",      # Zeman
                  "VerbForm": "Vnoun"},
     "V.NFIN":   {"upos": "VERB",      # not in UM docs, but found in UM data
                  "VerbForm": "NonFin"},
     "PRE":      {"upos": "ADP"},      # preposition, used in livvi, veps; not in UM docs, but found in UM data
 
     # (VALENCY)
-    "REFL": {"Reflex": "yes"},  # dan
-    "DITR": {"SubCat": "Tran"}, # Ditransitive, dan, not in UM data
+    "REFL": {"Reflex": "yes"},  # Zeman
+    "DITR": {"SubCat": "Tran"}, # Ditransitive, Zeman, not in UM data
 
     # VERBFORM
+    "BASE":   {"Degree": "Pos"},       # synthetic: unimorph.py's positive-degree code (UD2UM Degree=Pos, "POS" on ADJ/ADV)
+    "SUPI":   {"VerbForm": "Sup"},     # supine; synthetic, UM has no supine tag (SUP is taken by Degree)
     "FIN":    {"VerbForm": "Fin"},     # Finite
     "NFIN":   {"VerbForm": "NonFin"},  # found in ud data but isnt in ud verbform docs; pr inf?
     # double check w ud
     "INF":    {"VerbForm": "Inf"},                    # not in UM docs, but found in UM data
     "PTCP":   {"upos": "VERB", "VerbForm": "Part"},   # not in UM docs, but found in UM data
-    "CVB":    {"VerbForm": "Conv"},                   # dan; not in UM docs, but found in UM data
-    "MSDR":   {"VerbForm": "Vnoun"},                  # dan; bare form of V.MSDR, e.g. "V;MSDR" combination
-    "COP":    {"VerbForm": "Cop"},                    # dan; kmr (Kurmanji) copula
-    "DIM":    {"Degree": "Dim"},                      # dan; diminutive, itl (Itelmen)
-    "ALN":    {"Poss": "Yes"},                        # dan; alienable possession, evn (Evenki)
-    "PSS":    {"Poss": "Yes"},                        # dan; bare possessive marker (distinct from the
+    "CVB":    {"VerbForm": "Conv"},                   # Zeman; not in UM docs, but found in UM data
+    "MSDR":   {"VerbForm": "Vnoun"},                  # Zeman; bare form of V.MSDR, e.g. "V;MSDR" combination
+    "COP":    {"VerbForm": "Cop"},                    # Zeman; kmr (Kurmanji) copula
+    "DIM":    {"Degree": "Dim"},                      # Zeman; diminutive, itl (Itelmen)
+    "PSSD":   {"Definite": "Cons"},                   # heb possessed noun = construct state; UD Hebrew nouns of PSSD forms: 88% Definite=Cons vs 24% of the rest (2026-10)
+    "ALN":    {"Poss": "Yes"},                        # Zeman; alienable possession, evn (Evenki)
+    "PSS":    {"Poss": "Yes"},                        # Zeman; bare possessive marker (distinct from the
                                                        # PSS1S/PSS3PM/... argument-marking compounds --
-                                                       # see parse_ufeat_value's ARG/PSS branch), ket (Ket)
-    "INCH":   {"Aspect": "Inch"},                     # dan; inchoative, ail (Aikanã)
-    "PRON":   {"upos": "PRON"},                       # dan; hsi (Xasi/Caiapo)
+                                                       # see parse_ufeat_value's ARG/PSS branch), ket (Ket), hun (the "-é" forms: no possessor given)
+    "INCH":   {"Aspect": "Inch"},                     # Zeman; inchoative, ail (Aikanã)
+    "PRON":   {"upos": "PRON"},                       # Zeman; hsi (Xasi/Caiapo)
 
     # VOICE
     "ACT":   {"Voice": "Act"},    # Active
     "AGFOC": {"Voice": "AgFoc"},  # Agent Focus
     "ANTIP": {"Voice": "Antip"},  # Antipassive
-    "APPL":  {},                  # None map according to dan, conflict in ind.pickle; ud data: {"Voice": "Appl"}, # valency to voice
+    "APPL":  {"Voice": "Appl"},   # applicative; only ind has it in UM (UD Indonesian has no Voice=Appl, other treebanks do)
     "BFOC":  {"Voice": "Bfoc"},   # from UM docs
     "CAUS":  {"Voice": "Cau"},    # valency to voice
     "DIR":   {"Voice": "Dir"},    # from docs
@@ -286,198 +304,20 @@ for cls in (f"Bantu{i+1}" for i in range(23)):
 
 
 def _primary_feat(ud_feats: dict) -> str:
-    """The single UD feature name a compound UM2UD_values entry is "about",
-    for a flat tag/value -> feature-name lookup: the first non-"upos" key
-    when there is one (upos is usually already known independently, e.g.
-    from the UD token itself, so it's the least useful feature to pick out
-    of a compound tag like "V.PTCP" -> {"upos": "VERB", "VerbForm": "Part"}),
-    else "upos" itself for a upos-only tag."""
+    """The UD feature a UM2UD_values entry is about: its first non-upos key ("V.PTCP" -> VerbForm),
+    else "upos" for a upos-only tag."""
     return next((f for f in ud_feats if f != "upos"), next(iter(ud_feats)))
 
 
-# Bare UM tag/value -> its primary UD feature name, e.g. val2feat["PL"] ==
-# "Number". Built from UM2UD_values only, not shortened_vals: those short
-# 1-2 letter codes (e.g. "F", "P", "S") are only unambiguous in the
-# argument-marking/possession context parse_ufeat_value already restricts
-# them to -- as flat, context-free entries here they'd collide with
-# unrelated tags.
+# Bare UM tag -> its primary UD feature, e.g. val2feat["PL"] == "Number". Built from UM2UD_values
+# only: the 1-2 letter codes of shortened_vals are only unambiguous in argument/possessor context.
 val2feat = {tag: _primary_feat(ud_feats) for tag, ud_feats in UM2UD_values.items() if ud_feats}
 feat2val: dict = {}
 for _val, _feat in val2feat.items():
     feat2val.setdefault(_feat, []).append(_val)
 
 
-# blacklist/missing/unk_values values are UniMorph tags this file has no UD
-# mapping for, each keyed to its UM tagset category (e.g. "Tense", "Mood")
-# rather than a UD feature -- that's the one piece of information a value
-# with no UD equivalent still has, and any consumer that wants to keep such
-# values distinguishable (instead of lumping them into a shared "unknown"
-# bucket) needs it; this was previously scattered across comment-only
-# section headers (not machine-readable) until multiblimp-sva-dt needed it
-# structurally and this became the shared place for it.
-
-blacklist = {
-    "ARBEB1P": "Argument_Marking",  # Chukchi
-    "ARBEB1S": "Argument_Marking",  # Chukchi
-}
-
-missing = {
-    # These are mentioned in the UM docs but are missing from the actual UM data
-    # We also dont have a UD match for any of them
-    #
-    # CAUTION: that's not verified per-entry -- a 2026-09 scan of every real
-    # per-language UM lexicon file (resources/unimorph/<lang>/<lang> in the
-    # multiblimp-sva-dt project) found 14 of these values *do* occur for
-    # real (ACTY, SEMEL, TEL, INTER, REF1, VIS, DRCT, INFER, RPRT, LKLY,
-    # HOD, IMMED, RCT, RMT -- moved to unk_values below, where each has its
-    # own occurrence/rationale comment). This dict is also documentation
-    # only -- unlike blacklist/unk_values, nothing here is actually
-    # consulted by map_um_value_to_ud, so an entry staying here has no
-    # effect on parsing either way; that scan only checked entries a
-    # separate project's own tagset copy already had a value for, so the
-    # remaining entries below are simply unverified, not confirmed absent.
-    "ACCMP":      "Aktionsart",  # Accomplishment
-    "ACH":        "Aktionsart",  # Achievement
-    "ATEL":       "Aktionsart",  # Atelic
-    "DYN":        "Aktionsart",  # Dynamic
-    "PCT":        "Aktionsart",  # Punctual
-
-    "NHUM":       "Animacy",  # Non-human
-
-    "AVR":        "Case",  # Aversive
-    "PROPR":      "Case",  # Proprietive
-
-    # Local Case
-    "ANTE":       "Case",  # Near, in front of (Pl)
-    "APUD":       "Case",  # Next to (Pl)
-    "CIRC":       "Case",  # Near (Pl)
-    "ONHR":       "Case",  # On (horizontal) (Pl)
-    "ONVR":       "Case",  # On (vertical) (Pl)
-    "POST":       "Case",  # Behind (Pl)
-    "PROXM":      "Case",  # Proximate (Dst)
-    "REM":        "Case",  # Distal (Dst)
-    "VERS":       "Case",  # Versative (Asp)
-
-    "RL":         "Degree",  # Relative (for superlatives)
-
-    "NSPEC":      "Definite",  # Non-Specific #?? definite spec
-
-    "ABV":        "Deixis",  # Above
-    "BEL":        "Deixis",  # Below
-    "EVEN":       "Deixis",  # Even
-    "NOREF":      "Deixis",  # No Reference Point, Distal
-    "NVIS":       "Deixis",  # Invisible
-    "PHOR":       "Deixis",  # Phoric, situated in discourse
-    "REF2":       "Deixis",  # Second Person Reference Point
-
-    "ASSUM":      "Evidentiality",  # Assumed
-    "AUD":        "Evidentiality",  # Auditory
-    "HRSY":       "Evidentiality",  # Hearsay
-    "NVSEN":      "Evidentiality",  # Non-visual sensory
-    "SEN":        "Evidentiality",  # Sensory
-    "VISU":       "Evidentiality",  # Visual
-
-    "NAKH1-8":    "NounClass",  # Nakh-Daghestanian Noun Classes -- NounClass,
-                                 # not Gender, matching the real UD feature
-                                 # Bantu1-23 above already use
-
-    "AUNPRP":     "Mood",  # Australian Non-Purposive
-
-    "OBV":        "Person",  # Obviative
-    "PRX":        "Person",  # Proximate
-
-    # Politeness -- "Polite" is UD's actual feature name (see e.g. ELEV
-    # above), not UniMorph's own "Politeness" category name
-    "AVOID":      "Polite",  # Avoidance style
-    "HIGH":       "Polite",  # High status
-    "LOW":        "Polite",  # Low status
-    "STELV":      "Polite",  # Elevated status ("status elevated")
-    "STSUPR":     "Polite",  # Supreme status ("status supreme")
-    "MPOL":       "Polite",  # Medium Polite
-
-    # Switch_Reference -- UD has no switch-reference feature at all, so this
-    # entire category always maps to {} regardless of which member occurs.
-    # SS/DS/SIMMA confirmed real (see unk_values below); the rest are
-    # UniMorph schema members not confirmed in this project's real data.
-    "SSADV":      "Switch_Reference",  # Same Subject Adverbial
-    "DSADV":      "Switch_Reference",  # Different Subject Adverbial
-    "OR":         "Switch_Reference",  # Open Reference
-    "SEQMA":      "Switch_Reference",  # Sequential Medial
-    "LOG":        "Switch_Reference",  # Logophoric
-
-    "1DAY":       "Tense",  # Within 1 day
-
-    "ACFOC":      "Voice",  # Accompanier Focus
-    "CFOC":       "Voice",  # Conveyed Focus
-}
-
-unk_values = {
-    # found in UM data but couldnt find an appropriate UD match
-    # also includes any conjunction (v1+v2)
-    "NPST":      "Tense",  # yakut tense
-    "HYP":       "Mood",   # basque mood, (≠conditional, ≠potential)
-    "(non)NOM":  "Case",   # pashto negated case
-    "(NON)NOM":  "Case",
-    "non{NOM}":  "Case",   # old french negated case; fro (145 rows)
-    "NON{NOM}":  "Case",   # map_um_value_to_ud upper()s the whole string
-                           # before this check, so only the uppercase form
-                           # is ever actually matched there -- both kept,
-                           # same as (non)NOM/(NON)NOM above, since other
-                           # consumers (e.g. multiblimp.unimorph.feature_for)
-                           # don't uppercase first.
-    "not{NOM}":  "Case",   # old french negated case; fro (227 rows)
-    "NOT{NOM}":  "Case",
-    "nonNOM":    "Case",   # multiblimp.unimorph.ufeats2dict strips "{"/"}"
-    "NONNOM":    "Case",   # before this check, so the brace-free (and, via
-    "notNOM":    "Case",   # its own final .upper() fallback branch, all-
-    "NOTNOM":    "Case",   # caps) spellings need entries here too.
-
-    # The following 14 were in `missing` above (wrongly, per that dict's
-    # "missing from the actual UM data" comment) until a 2026-09 scan of
-    # every real per-language UM lexicon file in multiblimp-sva-dt found
-    # them all occurring for real; manually checked against dan's Interset
-    # UM<->UD mapping (see this file's own top-of-file attribution) for a UD
-    # equivalent, none found, moved here as confirmed genuinely unmapped.
-    "INTER":  "Case",           # Local Case, "among"/interessive; aym (15520 rows), que (9600) -- dan
-    "RCT":    "Tense",          # "recent"; zul (7254) -- dan, but could be RecPast (Khoekhoe?)
-    "RMT":    "Tense",          # "remote"; zul (5004), frr (516), evn (6), ail (4) -- dan
-    "HOD":    "Tense",          # "hodiernal (today)"; sna (606) -- dan
-    "IMMED":  "Tense",          # "immediate"; hai (480) -- dan
-    "SEMEL":  "Aktionsart",     # "semelfactive"; evn (282) -- dan
-    "TEL":    "Aktionsart",     # "telic"; ail (225) -- dan
-    "DRCT":   "Evidentiality",  # "direct"; hai (320) -- dan, but could be like Fh?
-    "INFER":  "Evidentiality",  # "inferred"; kca (56) -- dan
-    "ACTY":   "Aktionsart",     # "activity"; itl (39) -- dan
-    "RPRT":   "Evidentiality",  # "reported"; ail (6) -- dan
-    "LKLY":   "Mood",           # "likely"; mag (4) -- dan
-    "REF1":   "Deixis",         # "first person reference point"; mag (1) -- dan, but could be DeixisRef:1? cf. Pomak, Wolof
-    "VIS":    "Deixis",         # "visible"; ail (1) -- dan
-
-    # Switch_Reference: UD has no switch-reference feature at all, so this
-    # always maps to {} -- see the `missing` dict above for the rest of the
-    # schema's members (SSADV/DSADV/OR/SEQMA/LOG), not confirmed in real
-    # per-language data unlike these three.
-    "SS":     "Switch_Reference",  # pei (1680) -- dan
-    "DS":     "Switch_Reference",  # ail (126) -- dan
-    "SIMMA":  "Switch_Reference",  # ail (183) -- dan
-
-    # These 8 were already keys in UM2UD_values itself, mapped to {} (i.e.
-    # already correctly excluded from val2feat) -- but ufeats2dict's own
-    # unguarded fallback branches (the "." and "+" multi-value splits) did a
-    # raw val2feat[...] index with no fallback for exactly this case, so any
-    # of these crashed instead of degrading gracefully (found via Gujarati's
-    # "OBL", real data: "N;FEM;OBL+VOC;PL" etc). Moved here, same as the
-    # rest of this dict, purely so they get a real category bucket instead
-    # of "UNK" once the crash was fixed.
-    "OBL":    "Case",             # gujarati, only ever as "OBL+VOC"
-    "APPRX":  "Case",             # dan; ail, krl, lud, olo, vep
-    "STAT":   "Aktionsart",       # stative; ail, ckt, evn, xty
-    "DECL":   "Interrogativity",  # dan; kor, mag, tur
-    "DED":    "Mood",             # Deductive, dan, Yakut (sah)
-    "INFR":   "Mood",             # not in UM docs, but found in UM data; tur
-    "SIM":    "Mood",             # Simulative; ail
-    "APPL":   "Voice",            # dan, conflict in ind.pickle; ind
-}
+from .UM_gaps import blacklist, missing, unk_values   # the UM tags with no UD mapping, see UM_gaps.py
 
 fix_typos = {
     "V.CV":    "V.CVB",   # korean
@@ -485,12 +325,60 @@ fix_typos = {
     "MASV":    "MASC",    # irish
     "SUBJ":    "SBJV",    # portugese
     "V.PCTP":  "V.PTCP",  # slovenian
+    "PCTP":    "PTCP",    # bare form of V.PCTP; not in the current data
+    "CV":      "CVB",     # bare form of V.CV (korean); not in the current data
     "PRES":    "PRS",     # basque, sanskrit, yiddish
     "PAST":    "PST",     # basque
     "ARBAB1S": "ARGAB1S", # chukchi
     "ARBAB3S": "ARGAB3S", # chukchi
     "AJD":     "ADJ",     # typo, xcl (Classical Armenian)
 }
+
+
+# "any value but X" (pashto (non)NOM, old french non{NOM}, hsi non{NOM/ACC}, gup non{PST}): UD has no
+# negated values. Recognised once the negated values resolve to a feature, so this covers any feature.
+NEGATION_PATTERN = re.compile(r"^(?:\(NON\)|NON|NOT)\{?([^{}]+?)\}?$")
+NEGATION_PREFIX = "non"
+NEGATION_SEP = "|"   # canonical code: "nonNOM", "nonNOM|ACC"
+
+
+def parse_negation(val):
+    """The (typo-fixed) UM values a negated `val` excludes, e.g. "not{NOM}" -> ["NOM"],
+    "non{NOM/ACC}" -> ["NOM", "ACC"]; None if `val` is not a negation (a value that resolves to
+    no feature is not accepted either)."""
+    val = val.strip().upper()
+    if val in UM2UD_values or val in shortened_vals:
+        return None
+    match = NEGATION_PATTERN.match(val)
+    if not match:
+        return None
+    inner = [fix_typos.get(v, v) for v in re.split(r"[/+,|]", match.group(1)) if v]
+    if not inner or any(val2feat.get(v) is None and unk_values.get(v) is None for v in inner):
+        return None
+    return inner
+
+
+def negation_feature(val):
+    """The feature of the values a negated `val` excludes (`parse_negation`), else None."""
+    inner = parse_negation(val)
+    return None if inner is None else (val2feat.get(inner[0]) or unk_values.get(inner[0]))
+
+
+def negation_code(inner):
+    """Canonical code for a negation of the UM values `inner`: "nonNOM", "nonNOM|ACC"."""
+    return NEGATION_PREFIX + NEGATION_SEP.join(inner)
+
+
+# UM "POS" is polarity on verbs but the positive degree on adjectives/adverbs (swe, lit, ind)
+VERBAL_FEATURES = {"VerbForm", "Tense", "Mood", "Aspect", "Person", "Voice", "Evidentiality", "Evident",
+                   "Interrogativity", "Polite"}
+
+
+def pos_is_degree(upos, features) -> bool:
+    """True if UM "POS" in a row of this upos with these UM features (feature names) is Degree=Pos."""
+    return upos in ("ADJ", "ADV") and not any(
+        f.partition("[")[0] in VERBAL_FEATURES and not f.endswith("[psor]") for f in features)
+
 
 def parse_complex_um_value(complx_ufeat, lookup_spaces, ufeat_type=None):
     # handles ARG marking and PSS marking
@@ -515,61 +403,141 @@ def parse_complex_um_value(complx_ufeat, lookup_spaces, ufeat_type=None):
             for feat, val in parsed}
 
 
-def parse_ufeat_value(ufeat): #input is ONE ufeat subvalue (arg/pssd ok, but no disj/conj)
+def _notice(message, log_file=None):
+    """Print `message`, or append it to the txt file `log_file` if given."""
+    if log_file:
+        with open(log_file, "a", encoding="utf-8") as f:
+            f.write(message + "\n")
+    else:
+        print(message)
+
+
+def _gap_category(val):
+    return blacklist.get(val) or unk_values.get(val) or missing.get(val) or ("Language_Specific" if LGSPEC_PATTERN.fullmatch(val.upper()) else None)
+
+
+def parse_ufeat_value(ufeat, warn_unknown=True, warn_known_gaps=True, log_file=None, unmapped=None):
+    # input is ONE ufeat subvalue (arg/pssd ok, but no disj/conj); `unmapped`: a list that collects
+    # {"tag", "status", ...} records for what could not be mapped
     primary_space = (shortened_vals if ufeat in shortened_vals else UM2UD_values)
     parsed = dict()
     # special case for complex strings used in argument marking/possession
     # Argument marking: ARGNO2S -> {'Number[nom]': 'Sing', 'Person[nom]': '2'}
     # Possession: PSS1S -> {'Number[psor]': 'Sing', 'Person[psor]': '1'}
-    if ufeat.startswith("ARG") or ufeat.startswith("PSS"):
+    if ufeat in primary_space and ufeat.startswith(("ARG", "PSS")):
+        # an exact entry wins over the argument/possessor decomposition (PSSD is not PSS + D)
+        parsed = dict(primary_space[ufeat])
+    elif ufeat.startswith("ARG") or ufeat.startswith("PSS"):
         parsed = parse_complex_um_value(ufeat, [shortened_vals, UM2UD_values],
                                          re.match(r"(ARG|PSS)", ufeat).group(1))
         if (not parsed) and (ufeat in primary_space):
-            # A bare tag that happens to start with "ARG"/"PSS" but has no
-            # person/number sub-codes to extract (e.g. "PSS" alone, Ket's
-            # generic possessive marker, vs. "PSS1S") isn't actually a
-            # complex argument-marking compound -- fall back to a plain
-            # lookup instead of reporting no mapping just because the
-            # complex parse found nothing to decompose.
-            parsed = safe_dict_update(parsed, primary_space[ufeat])
+            # a bare "PSS" (Ket's generic possessive) has no person/number to decompose: plain lookup
+            parsed = dict(primary_space[ufeat])
     elif ufeat in primary_space:
         # simples case_ add the corresponding UD morpho annotation
         # NOM -> {"Case": "Nom"}
-        parsed = safe_dict_update(parsed, primary_space[ufeat])
+        parsed = dict(primary_space[ufeat])
 
+    elif is_known_gap(ufeat):
+        if unmapped is not None:
+            unmapped.append({"tag": ufeat, "status": "known_gap", "category": _gap_category(ufeat)})
+        if warn_known_gaps:
+            _notice(f"Note: known gap, no UD mapping: {ufeat}", log_file)
     else:
-        print("Warning: Unknown Unimorph value", ufeat)
+        if unmapped is not None:
+            unmapped.append({"tag": ufeat, "status": "unknown", "category": None})
+        if warn_unknown:
+            _notice(f"Warning: Unknown Unimorph value {ufeat}", log_file)
     return parsed
 
 
-def safe_dict_update(dict1, dict2, is_disjunction=False):
-    # dict1 is main dict, add dict2
-    for k, v in dict2.items():
-        if k not in dict1:
-            # no conflict
-            dict1[k] = v
-        elif dict[k]==v or v=="NonFin": # let more specific verbform override generic nonfin
-            continue
-        elif is_disjunction:
-            # 2+ values are given as a disjunction; e.g. MASC/FEM -> Fem,Masc
-            dict1[k]= ",".join(sorted(dict1[k].split(",")+[v]))
+# A feature's value is kept as a set of alternatives; an alternative is a frozenset of values that
+# hold together: {Plur, Sing} for SG+PL (both), {Fem} and {Masc} for MASC/FEM (either).
+def _alternatives(val):
+    return {frozenset([v]) for v in (val.split(",") if isinstance(val, str) else [val])}
+
+
+def add_readings(readings, new):
+    """Add the {feature: value} dict `new` to `readings` ({feature: set of alternatives}); a comma
+    value ("Cnd,Pot") is two alternatives. Alternatives of different tags (HYP;POT) or of a
+    disjunction (MASC/FEM) are added side by side."""
+    for feat, val in new.items():
+        readings.setdefault(feat, set()).update(_alternatives(val))
+    return readings
+
+
+def conjoin_readings(parts):
+    """Combine {feature: alternatives} dicts that hold together (SG+PL): on a feature several parts
+    state, every alternative of one is joined with every alternative of the next."""
+    out = {}
+    for part in parts:
+        for feat, alts in part.items():
+            out[feat] = set(alts) if feat not in out else {a | b for a in out[feat] for b in alts}
+    return out
+
+
+def render_readings(feat, alts, keep_conjunctions=False):
+    """The output value of a feature: sorted "A,B" (either). With keep_conjunctions, values that hold
+    together are joined with "+" and "," separates the alternatives: "Plur+Sing", "Fem,Masc"."""
+    if feat == "VerbForm" and len(set().union(*alts)) > 1:
+        alts = {a - {"NonFin"} for a in alts} - {frozenset()}   # let more specific verbform override generic nonfin
+    if not keep_conjunctions:
+        return ",".join(sorted(set().union(*alts)))
+    return ",".join("+".join(sorted(a)) for a in sorted(alts, key=lambda a: sorted(a)))
+
+
+def _piece_readings(ufeat, **kwargs):
+    """{feature: alternatives} of one ";"-piece. "/" and "," bind tighter than "+": "ON/AT+ABL" is
+    ON+ABL or AT+ABL, each looked up as a known compound tag if there is one."""
+    groups = [[alt.strip() for alt in re.split(r"[/,]", group) if alt.strip()] for group in ufeat.split("+")]
+    result = {}
+    for combo in itertools.product(*groups):
+        name = "+".join(combo)
+        if len(combo) > 1 and name in UM2UD_values:
+            parts = [{feat: _alternatives(val) for feat, val in UM2UD_values[name].items()}]
         else:
-            # conflict: 2+ values want to populate the same feature -> create set
-            if type(dict1.get(k))!=set:
-                dict1[k] = {dict1[k]}
-            dict1.get(k).add(v)
-    return dict1
+            parts = [{feat: _alternatives(val) for feat, val in parse_ufeat_value(part, **kwargs).items()}
+                     for part in combo]
+        for feat, alts in conjoin_readings(parts).items():
+            result.setdefault(feat, set()).update(alts)
+    return result
 
 
-# UniMorph's numbered "language-specific" placeholder tags (LGSPEC1,
-# LGSPEC01, ...) -- what one of these means is different in every language
-# that uses it, so there's no single {UD_feat: UD_val} to map it to; named
-# here (rather than left inline in map_um_value_to_ud below) so a consumer
-# that wants to recognize these tags for its own purposes -- e.g. to keep
-# them as a distinct "known, language-specific, deliberately unmapped"
-# bucket instead of conflating them with genuinely unrecognized input --
-# can import this instead of re-deriving or hardcoding the pattern.
-LGSPEC_PATTERN = re.compile(r".?LGSPEC\d+")
+# UniMorph's numbered language-specific placeholder tags (LGSPEC1, LGSPEC01, ...): their meaning
+# differs per language, so by default they are stripped (see LGSPEC_UD for the mapped ones).
+LGSPEC_PATTERN = re.compile(r"L(?:GSPEC|SGSPEC|GSEPC|GSPEPC)\d*(?:\([^)]*\))?")   # also the typos found in the data, a bare LGSPEC, and ckb's "LGSPEC4(DA)"
+
+
+# LGSPEC tags with a UD meaning, used by map_um_value_to_ud(..., lang=): {language: {tag as written in
+# the data: {UD feature: UD value}}}. The value replaces the other tags' value for that feature (sah
+# PST;LGSPEC1 is NearPast, not Past). Meaning: the language's UniMorph README; evidence: UD tokens of
+# the forms that carry the tag (details in LGSPECs.md).
+LGSPEC_UD = {
+    # afr: README "Diminutive form for nouns and proper nouns" (inkpot -> inkpotjie, N;SG;LGSPEC3).
+    #   UD: Degree=Dim on 75% of 16 matched tokens (koekies, knoppie, kaartjies). Small sample.
+    #   README "Predicative inflection (base form) for adjective" / "Attributive inflection for
+    #   adjective" (LGSPEC1 / LGSPEC2). Raw UD 2.18 (AfriBooms ADJ tokens): AdjType=Pred on 96% of
+    #   392 tokens of LGSPEC1 forms, AdjType=Attr on 99.6% of 2,070 of LGSPEC2 forms. AdjType has
+    #   no UM tag of its own.
+    "afr": {"LGSPEC1": {"AdjType": "Pred"}, "LGSPEC2": {"AdjType": "Attr"}, "LGSPEC3": {"Degree": "Dim"}},
+    # kat: README "Adverbial case" (-ad forms of nouns/adjectives). The Georgian UD table has no
+    #   Case=Adv; the adverbial is annotated Ess: 100% of 141 matched tokens.
+    "kat": {"LGSPEC1": {"Case": "Ess"}},
+    # got: README "Strong (indefinite) / Weak (definite) inflection for adjective". Raw UD 2.18
+    #   (PROIEL ADJ tokens): Strength=Strong on 100% of 813 tokens of LGSPEC01 forms, Strength=Weak
+    #   on 92% of 203 of LGSPEC02 forms. Strength has no UM tag of its own.
+    "got": {"LGSPEC01": {"Strength": "Strong"}, "LGSPEC02": {"Strength": "Weak"}},
+    # hye: README "resultative" (V.PTCP;LGSPEC01, -ac forms). UD: Aspect=Perf on 93% of 246 matched
+    #   tokens (VerbForm=Part 94%, already given by V.PTCP).
+    "hye": {"LGSPEC01": {"Aspect": "Perf"}},
+    # sah: README "PST;LGSPEC1: definite past tense (assertive past, recent past)" and
+    #   "PST;LGSPEC2: indefinite past tense (non-assertive past)". UD: NearPast on 100% of 25 matched
+    #   tokens; PastPerf on 89% of 9 (small samples; LGSPEC2 is the weaker match for its README text).
+    "sah": {"LGSPEC1": {"Tense": "NearPast"}, "LGSPEC2": {"Tense": "PastPerf"}},
+}
+# UD features only the LGSPEC mappings produce (no UM2UD_values entry); a consumer that keeps the
+# features of UM2UD_values should keep these too
+LGSPEC_UD_FEATURES = {feat for tags in LGSPEC_UD.values() for ud in tags.values() for feat in ud}
 
 
 def um_tag_upos(tag: str) -> Optional[str]:
@@ -581,83 +549,113 @@ def um_tag_upos(tag: str) -> Optional[str]:
 
 
 def feature_for(val: str) -> Optional[str]:
-    """The UM tagset feature category for a bare UM value, whether or not it
-    has a real UD mapping: val2feat's own entry if it has one; else its
-    category from blacklist/unk_values if this package knows the value is
-    real but has deliberately chosen not to map it; else the
-    LGSPEC-placeholder category; else None (genuinely unrecognized).
-    Normalizes known typos first (fix_typos), same as map_um_value_to_ud.
-
-    This is the single entry point for "what feature bucket does this UM
-    value belong to" -- a consumer that only cares about values with an
-    actual UD mapping should use val2feat directly instead, but one that
-    wants every acknowledged-real value to resolve to *something* (so e.g.
-    Basque's HYP mood stays distinguishable from genuinely-unrecognized
-    input, instead of both collapsing into the same fallback) needs this.
-    """
+    """The UM feature category of a bare UM value, mapped or not: val2feat's entry, else its category
+    in unk_values/blacklist, else "Language_Specific" for an LGSPEC tag, else None (unrecognized).
+    Known typos are fixed first, as in map_um_value_to_ud."""
     val = fix_typos.get(val, val)
     if val in val2feat:
         return val2feat[val]
-    if LGSPEC_PATTERN.match(val.upper()):
+    if LGSPEC_PATTERN.fullmatch(val.upper()):
         return "Language_Specific"
     if val in blacklist:
         return blacklist[val]
     if val in unk_values:
         return unk_values[val]
-    return None
+    return negation_feature(val)
 
 
-def map_um_value_to_ud(ufeat_raw):
+def is_known_gap(val: str) -> bool:
+    """True for a UM value this package knows and deliberately leaves unmapped: blacklist, unk_values,
+    missing, LGSPEC placeholders and negations (a gap, as opposed to a value it has never seen)."""
+    val = fix_typos.get(val, val)
+    return (val in blacklist or val in unk_values or val in missing
+            or LGSPEC_PATTERN.fullmatch(val.upper()) is not None or negation_feature(val) is not None)
+
+
+def map_um_value_to_ud(ufeat_raw, warn_unknown=True, warn_known_gaps=True, return_unmapped=False,
+                       keep_conjunctions=False, log_file=None, lang=None):
+    """A UniMorph feature string as {"morpho": {UD feature: value}, "upos": upos or None}.
+
+    Several values for one feature come back as one sorted "A,B" value (either). With
+    `keep_conjunctions`, values UniMorph joins with "+" are kept apart from alternatives: SG+PL is
+    "Plur+Sing", MASC/FEM is "Fem,Masc" ("," separates alternatives). Separate tags of one feature
+    (HYP;POT) are always alternatives.
+
+    `warn_unknown` prints values this package has never seen; `warn_known_gaps` prints a note for
+    the known, deliberately unmapped ones (blacklist, unk_values, missing, negations; LGSPEC
+    placeholders are stripped first and never noted). `log_file` appends these messages to a txt
+    file instead of printing them. `return_unmapped` adds an "unmapped" list to the result with
+    one record per tag that has no UD value: {"tag", "status": unknown | known_gap | negation,
+    "category"} (negations also list the excluded UM values).
+
+    `lang` (UniMorph language code) applies that language's entries of `LGSPEC_UD`: its mapped
+    LGSPEC tags give their UD value, replacing the other tags' value for that feature. Without
+    `lang`, and for LGSPEC tags without an entry, they are stripped."""
     ufeat_string = str(ufeat_raw)
     if ufeat_string=="nan":  # this happens for eg eng.segmentations entries
         return {}
-    mapped_morpho = dict()
-    ufeat_string = LGSPEC_PATTERN.sub("", ufeat_string.upper()  # we dont handle LGSPEC
-                          ).replace(":", ";")
+    readings = dict()
+    unmapped = []
+    ufeat_string = ufeat_string.upper().replace(":", ";")
+    lgspec_ud = LGSPEC_UD.get(lang, {}) if lang else {}
+    lgspec_values = {feat: val for tag in LGSPEC_PATTERN.findall(ufeat_string)
+                     for feat, val in lgspec_ud.get(tag, {}).items()}
+    ufeat_string = LGSPEC_PATTERN.sub("", ufeat_string)   # unmapped LGSPEC tags are dropped
+    kwargs = dict(warn_unknown=warn_unknown, warn_known_gaps=warn_known_gaps, log_file=log_file, unmapped=unmapped)
     for ufeat in ufeat_string.split(";"): # normal split
         ufeat = ufeat.strip() # rm trailing whitespaces 
         ufeat = fix_typos.get(ufeat, ufeat)
-        if (ufeat in blacklist) or (ufeat in ("", "-")) or (ufeat in unk_values): # skip: dont know what to map these to
+        if ufeat in ("", "-"):
             continue
-        # first: check if: / or , or +, i.e. non-atomic value
-        # (disjunction/conjunction). "," is a second disjunction marker
-        # alongside "/" (not a conjunction like "+") -- this codebase's own
-        # output convention for a resolved multi-value already agrees:
-        # safe_dict_update's is_disjunction branch joins with "," (e.g.
-        # "Fem,Masc"), so an input value like Person's syncretic "1,2,3"
-        # (ambiguous among all three, not simultaneously all three) gets
-        # the same disjunction treatment as "1/2/3" would, instead of
-        # falling through as one unrecognized atomic string and silently
-        # losing the feature (previously: "Warning: Unknown Unimorph
-        # value 1,2,3").
-        if not re.findall(r"\+|/|,", ufeat):
-            # normal case, atomic UM ufeat value, e.g. "NOM"
-            mapped_morpho = safe_dict_update(mapped_morpho,
-                                             parse_ufeat_value(ufeat))
-        else:
-            # do partial parse
-            if "+" in ufeat and re.findall(r"/|,", ufeat): # highly complex
-                continue # skip: we cant model conjucntions, also order of operations is unclear here
-            elif "+" in ufeat: # conjunction
-                if ufeat in UM2UD_values: # very few conjunctions have one atomic UD counterpart
-                    mapped_morpho = safe_dict_update(mapped_morpho,
-                                                     UM2UD_values[ufeat])
-                else:
-                    for subval in ufeat.split("+"):
-                        # slight chance that all components point to the same UD value
-                        # otherwise, we cannot model conjunctions
-                        mapped_morpho = safe_dict_update(mapped_morpho,
-                                                         parse_ufeat_value(subval))
-            else: # disjunction (these, we can model in UD)
-                for subval in re.split(r"/|,", ufeat):
-                    mapped_morpho = safe_dict_update(mapped_morpho,
-                                                     parse_ufeat_value(subval),
-                                                     is_disjunction=True)
+        excluded = parse_negation(ufeat)
+        if (ufeat in blacklist) or (ufeat in unk_values) or excluded is not None:
+            # skip: dont know what to map these to
+            if excluded is not None:
+                unmapped.append({"tag": ufeat, "status": "negation", "category": negation_feature(ufeat), "excluded": excluded})
+            else:
+                unmapped.append({"tag": ufeat, "status": "known_gap", "category": _gap_category(ufeat)})
+            if warn_known_gaps:
+                _notice(f"Note: known gap, no UD mapping: {ufeat}", log_file)
+            continue
+        for feat, alts in _piece_readings(ufeat, **kwargs).items():
+            readings.setdefault(feat, set()).update(alts)
 
-    out_format = {k: (v if type(v)!=set else (tuple(v) if len(v)>1 else v.pop())) 
-                  for k,v in sorted(mapped_morpho.items())}
-    out_format = {"morpho": {k: v for k, v in out_format.items() if k!="upos"},
-                  "upos": out_format.get("upos", None)}
+    for feat, val in lgspec_values.items():
+        readings[feat] = {frozenset([val])}
+    out_format = {k: render_readings(k, v, keep_conjunctions) for k, v in sorted(readings.items())}
+    if out_format.get("Polarity") == "Pos" and pos_is_degree(
+            out_format.get("upos"), [f for f in out_format if f not in ("upos", "Polarity")]):
+        del out_format["Polarity"]
+        out_format.setdefault("Degree", "Pos")
+    result = {"morpho": {k: v for k, v in out_format.items() if k!="upos"},
+              "upos": out_format.get("upos", None)}
+    if return_unmapped:
+        result["unmapped"] = list({tuple(sorted((k, str(v)) for k, v in r.items())): r for r in unmapped}.values())
+    return result
 
-    return out_format
 
+
+# Vocabulary for readers of raw UniMorph feature strings (exported for consumers)
+UM2UD = UM2UD_values            # UM tag -> its {UD feature: UD value} dict (UM2UD["V.PTCP"] == {"upos": "VERB", "VerbForm": "Part"})
+SHORTENED_UM_VALS = shortened_vals
+COMPOUND_TAGS = {tag for tag in UM2UD_values if "+" in tag}   # "+" tags known as one value; any other "+" is an ambiguity
+
+# Raw UM upos codes, checked before feature_for(): several are also values of other features
+# (DET/ART/PRO as PronType, PROPN as NounType, NUM as NumType).
+UPOS_VALUES = {
+    "N", "PROPN", "ADJ", "PRO", "CLF", "ART", "DET", "V", "ADV", "AUX",
+    "ADP", "CONJ", "NUM", "PART", "INTJ", "AJD", "PRE", "ADJ.CVB",
+    "PRON",
+}
+
+
+@lru_cache(maxsize=None)
+def cached_map_um_value_to_ud(val: str):
+    """map_um_value_to_ud, cached (its ARG*/PSS* parsing scans the whole vocabulary per call).
+    Repeated readings are collapsed: comma values come back as sorted unique readings."""
+    mapped = map_um_value_to_ud(val)
+    morpho = {
+        feat: ",".join(sorted(set(v.split(",")))) if isinstance(v, str) and "," in v else v
+        for feat, v in mapped["morpho"].items()
+    }
+    return {**mapped, "morpho": morpho}

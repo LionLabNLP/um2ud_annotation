@@ -1,0 +1,5166 @@
+{
+    "V;IMP;NEG;2;DU;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Mood": "Imp",
+            "Number": "Dual",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;NEG;2;DU;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Mood": "Imp",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;NEG;2;DU;ARG1;ARGSG;TR": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;NEG;2;DU;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Mood": "Imp",
+            "Number": "Dual",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;NEG;2;DU;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;NEG;2;DU;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;NEG;2;DU;INTR": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Dual",
+            "Person": "2",
+            "Polarity": "Neg",
+            "SubCat": "Intr"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;NEG;2;DU;REFL": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Dual",
+            "Person": "2",
+            "Polarity": "Neg",
+            "Reflex": "yes"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;NEG;2;PL;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;NEG;2;PL;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;NEG;2;PL;ARG1;ARGSG;TR": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;NEG;2;PL;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;NEG;2;PL;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;NEG;2;PL;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;NEG;2;PL;INTR": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Person": "2",
+            "Polarity": "Neg",
+            "SubCat": "Intr"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;NEG;2;PL;REFL": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Person": "2",
+            "Polarity": "Neg",
+            "Reflex": "yes"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;NEG;2;SG;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;NEG;2;SG;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;NEG;2;SG;ARG1;ARGSG;TR": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;NEG;2;SG;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;NEG;2;SG;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;NEG;2;SG;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;NEG;2;SG;INTR": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "2",
+            "Polarity": "Neg",
+            "SubCat": "Intr"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;NEG;2;SG;REFL": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "2",
+            "Polarity": "Neg",
+            "Reflex": "yes"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;POS;2;DU;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Mood": "Imp",
+            "Number": "Dual",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;POS;2;DU;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Mood": "Imp",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;POS;2;DU;ARG1;ARGSG;TR": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;POS;2;DU;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Mood": "Imp",
+            "Number": "Dual",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;POS;2;DU;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;POS;2;DU;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;POS;2;DU;INTR": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Dual",
+            "Person": "2",
+            "Polarity": "Pos",
+            "SubCat": "Intr"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;POS;2;DU;REFL": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Dual",
+            "Person": "2",
+            "Polarity": "Pos",
+            "Reflex": "yes"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;POS;2;PL;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;POS;2;PL;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;POS;2;PL;ARG1;ARGSG;TR": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;POS;2;PL;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;POS;2;PL;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;POS;2;PL;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;POS;2;PL;INTR": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Person": "2",
+            "Polarity": "Pos",
+            "SubCat": "Intr"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;POS;2;PL;REFL": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Person": "2",
+            "Polarity": "Pos",
+            "Reflex": "yes"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;POS;2;SG;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;POS;2;SG;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;POS;2;SG;ARG1;ARGSG;TR": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;POS;2;SG;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;POS;2;SG;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;POS;2;SG;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;POS;2;SG;INTR": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "2",
+            "Polarity": "Pos",
+            "SubCat": "Intr"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;POS;2;SG;REFL": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "2",
+            "Polarity": "Pos",
+            "Reflex": "yes"
+        },
+        "upos": "VERB"
+    },
+    "V;NFIN;POS;INTR": {
+        "morpho": {
+            "Polarity": "Pos",
+            "SubCat": "Intr",
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    },
+    "V;NFIN;POS;TR": {
+        "morpho": {
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;EXCL;DU;ARG2;ARGDU;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;EXCL;DU;ARG2;ARGPL;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;EXCL;DU;ARG2;ARGSG;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;EXCL;DU;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;EXCL;DU;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;EXCL;DU;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;EXCL;DU;INTR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Person": "1",
+            "Polarity": "Neg",
+            "SubCat": "Intr",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;EXCL;DU;REFL": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Person": "1",
+            "Polarity": "Neg",
+            "Reflex": "yes",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;EXCL;PL;ARG2;ARGDU;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;EXCL;PL;ARG2;ARGPL;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;EXCL;PL;ARG2;ARGSG;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;EXCL;PL;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;EXCL;PL;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;EXCL;PL;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;EXCL;PL;INTR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Person": "1",
+            "Polarity": "Neg",
+            "SubCat": "Intr",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;EXCL;PL;REFL": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Person": "1",
+            "Polarity": "Neg",
+            "Reflex": "yes",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;INCL;DU;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;INCL;DU;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;INCL;DU;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;INCL;DU;INTR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Dual",
+            "Person": "1",
+            "Polarity": "Neg",
+            "SubCat": "Intr",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;INCL;DU;REFL": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Dual",
+            "Person": "1",
+            "Polarity": "Neg",
+            "Reflex": "yes",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;INCL;PL;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;INCL;PL;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;INCL;PL;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;INCL;PL;INTR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Plur",
+            "Person": "1",
+            "Polarity": "Neg",
+            "SubCat": "Intr",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;INCL;PL;REFL": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Plur",
+            "Person": "1",
+            "Polarity": "Neg",
+            "Reflex": "yes",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;SG;ARG2;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;SG;ARG2;ARGPL;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;SG;ARG2;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;SG;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;SG;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;SG;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;SG;INTR": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1",
+            "Polarity": "Neg",
+            "SubCat": "Intr",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;1;SG;REFL": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1",
+            "Polarity": "Neg",
+            "Reflex": "yes",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;2;DU;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;2;DU;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;2;DU;ARG1;ARGSG;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;2;DU;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;2;DU;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;2;DU;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;2;DU;INTR": {
+        "morpho": {
+            "Number": "Dual",
+            "Person": "2",
+            "Polarity": "Neg",
+            "SubCat": "Intr",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;2;DU;REFL": {
+        "morpho": {
+            "Number": "Dual",
+            "Person": "2",
+            "Polarity": "Neg",
+            "Reflex": "yes",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;2;PL;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;2;PL;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;2;PL;ARG1;ARGSG;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;2;PL;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;2;PL;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;2;PL;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;2;PL;INTR": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "2",
+            "Polarity": "Neg",
+            "SubCat": "Intr",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;2;PL;REFL": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "2",
+            "Polarity": "Neg",
+            "Reflex": "yes",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;2;SG;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;2;SG;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;2;SG;ARG1;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;2;SG;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;2;SG;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;2;SG;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;2;SG;INTR": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2",
+            "Polarity": "Neg",
+            "SubCat": "Intr",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;2;SG;REFL": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2",
+            "Polarity": "Neg",
+            "Reflex": "yes",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;DU;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;DU;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;DU;ARG1;ARGINCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "In",
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;DU;ARG1;ARGINCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "In",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;DU;ARG1;ARGSG;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;DU;ARG2;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;DU;ARG2;ARGPL;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;DU;ARG2;ARGSG;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;DU;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;DU;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;DU;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;DU;INTR": {
+        "morpho": {
+            "Number": "Dual",
+            "Person": "3",
+            "Polarity": "Neg",
+            "SubCat": "Intr",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;DU;REFL": {
+        "morpho": {
+            "Number": "Dual",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Reflex": "yes",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;PL;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;PL;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;PL;ARG1;ARGINCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "In",
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;PL;ARG1;ARGINCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "In",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;PL;ARG1;ARGSG;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;PL;ARG2;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;PL;ARG2;ARGPL;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;PL;ARG2;ARGSG;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;PL;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;PL;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;PL;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;PL;INTR": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "SubCat": "Intr",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;PL;REFL": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Reflex": "yes",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;SG;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;SG;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;SG;ARG1;ARGINCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "In",
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;SG;ARG1;ARGINCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "In",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;SG;ARG1;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;SG;ARG2;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;SG;ARG2;ARGPL;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;SG;ARG2;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;SG;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;SG;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;SG;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;SG;INTR": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Polarity": "Neg",
+            "SubCat": "Intr",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;NEG;3;SG;REFL": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Reflex": "yes",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;EXCL;DU;ARG2;ARGDU;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;EXCL;DU;ARG2;ARGPL;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;EXCL;DU;ARG2;ARGSG;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;EXCL;DU;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;EXCL;DU;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;EXCL;DU;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;EXCL;DU;INTR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Person": "1",
+            "Polarity": "Pos",
+            "SubCat": "Intr",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;EXCL;DU;REFL": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Person": "1",
+            "Polarity": "Pos",
+            "Reflex": "yes",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;EXCL;PL;ARG2;ARGDU;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;EXCL;PL;ARG2;ARGPL;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;EXCL;PL;ARG2;ARGSG;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;EXCL;PL;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;EXCL;PL;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;EXCL;PL;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;EXCL;PL;INTR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Person": "1",
+            "Polarity": "Pos",
+            "SubCat": "Intr",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;EXCL;PL;REFL": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Person": "1",
+            "Polarity": "Pos",
+            "Reflex": "yes",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;INCL;DU;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;INCL;DU;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;INCL;DU;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;INCL;DU;INTR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Dual",
+            "Person": "1",
+            "Polarity": "Pos",
+            "SubCat": "Intr",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;INCL;DU;REFL": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Dual",
+            "Person": "1",
+            "Polarity": "Pos",
+            "Reflex": "yes",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;INCL;PL;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;INCL;PL;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;INCL;PL;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;INCL;PL;INTR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Plur",
+            "Person": "1",
+            "Polarity": "Pos",
+            "SubCat": "Intr",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;INCL;PL;REFL": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Plur",
+            "Person": "1",
+            "Polarity": "Pos",
+            "Reflex": "yes",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;SG;ARG2;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;SG;ARG2;ARGPL;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;SG;ARG2;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;SG;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;SG;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;SG;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;SG;INTR": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1",
+            "Polarity": "Pos",
+            "SubCat": "Intr",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;1;SG;REFL": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1",
+            "Polarity": "Pos",
+            "Reflex": "yes",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;2;DU;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;2;DU;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;2;DU;ARG1;ARGSG;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;2;DU;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;2;DU;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;2;DU;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;2;DU;INTR": {
+        "morpho": {
+            "Number": "Dual",
+            "Person": "2",
+            "Polarity": "Pos",
+            "SubCat": "Intr",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;2;DU;REFL": {
+        "morpho": {
+            "Number": "Dual",
+            "Person": "2",
+            "Polarity": "Pos",
+            "Reflex": "yes",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;2;PL;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;2;PL;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;2;PL;ARG1;ARGSG;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;2;PL;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;2;PL;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;2;PL;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;2;PL;INTR": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "2",
+            "Polarity": "Pos",
+            "SubCat": "Intr",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;2;PL;REFL": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "2",
+            "Polarity": "Pos",
+            "Reflex": "yes",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;2;SG;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;2;SG;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;2;SG;ARG1;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;2;SG;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;2;SG;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;2;SG;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;2;SG;INTR": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2",
+            "Polarity": "Pos",
+            "SubCat": "Intr",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;2;SG;REFL": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2",
+            "Polarity": "Pos",
+            "Reflex": "yes",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;DU;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;DU;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;DU;ARG1;ARGINCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "In",
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;DU;ARG1;ARGINCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "In",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;DU;ARG1;ARGSG;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;DU;ARG2;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;DU;ARG2;ARGPL;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;DU;ARG2;ARGSG;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;DU;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;DU;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;DU;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;DU;INTR": {
+        "morpho": {
+            "Number": "Dual",
+            "Person": "3",
+            "Polarity": "Pos",
+            "SubCat": "Intr",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;DU;REFL": {
+        "morpho": {
+            "Number": "Dual",
+            "Person": "3",
+            "Polarity": "Pos",
+            "Reflex": "yes",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;PL;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;PL;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;PL;ARG1;ARGINCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "In",
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;PL;ARG1;ARGINCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "In",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;PL;ARG1;ARGSG;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;PL;ARG2;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;PL;ARG2;ARGPL;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;PL;ARG2;ARGSG;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;PL;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;PL;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;PL;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;PL;INTR": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Pos",
+            "SubCat": "Intr",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;PL;REFL": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Pos",
+            "Reflex": "yes",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;SG;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;SG;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;SG;ARG1;ARGINCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "In",
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;SG;ARG1;ARGINCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "In",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;SG;ARG1;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;SG;ARG2;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;SG;ARG2;ARGPL;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;SG;ARG2;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;SG;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;SG;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;SG;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;SG;INTR": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Polarity": "Pos",
+            "SubCat": "Intr",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;POS;3;SG;REFL": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Polarity": "Pos",
+            "Reflex": "yes",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;EXCL;DU;ARG2;ARGDU;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;EXCL;DU;ARG2;ARGPL;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;EXCL;DU;ARG2;ARGSG;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;EXCL;DU;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;EXCL;DU;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;EXCL;DU;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;EXCL;DU;INTR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Person": "1",
+            "Polarity": "Neg",
+            "SubCat": "Intr",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;EXCL;DU;REFL": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Person": "1",
+            "Polarity": "Neg",
+            "Reflex": "yes",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;EXCL;PL;ARG2;ARGDU;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;EXCL;PL;ARG2;ARGPL;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;EXCL;PL;ARG2;ARGSG;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;EXCL;PL;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;EXCL;PL;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;EXCL;PL;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;EXCL;PL;INTR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Person": "1",
+            "Polarity": "Neg",
+            "SubCat": "Intr",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;EXCL;PL;REFL": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Person": "1",
+            "Polarity": "Neg",
+            "Reflex": "yes",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;INCL;DU;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;INCL;DU;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;INCL;DU;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;INCL;DU;INTR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Dual",
+            "Person": "1",
+            "Polarity": "Neg",
+            "SubCat": "Intr",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;INCL;DU;REFL": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Dual",
+            "Person": "1",
+            "Polarity": "Neg",
+            "Reflex": "yes",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;INCL;PL;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;INCL;PL;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;INCL;PL;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;INCL;PL;INTR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Plur",
+            "Person": "1",
+            "Polarity": "Neg",
+            "SubCat": "Intr",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;INCL;PL;REFL": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Plur",
+            "Person": "1",
+            "Polarity": "Neg",
+            "Reflex": "yes",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;SG;ARG2;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;SG;ARG2;ARGPL;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;SG;ARG2;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;SG;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;SG;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;SG;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;SG;INTR": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1",
+            "Polarity": "Neg",
+            "SubCat": "Intr",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;1;SG;REFL": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1",
+            "Polarity": "Neg",
+            "Reflex": "yes",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;2;DU;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;2;DU;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;2;DU;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;2;DU;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;2;DU;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;2;DU;INTR": {
+        "morpho": {
+            "Number": "Dual",
+            "Person": "2",
+            "Polarity": "Neg",
+            "SubCat": "Intr",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;2;DU;REFL": {
+        "morpho": {
+            "Number": "Dual",
+            "Person": "2",
+            "Polarity": "Neg",
+            "Reflex": "yes",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;2;PL;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;2;PL;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;2;PL;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;2;PL;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;2;PL;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;2;PL;INTR": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "2",
+            "Polarity": "Neg",
+            "SubCat": "Intr",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;2;PL;REFL": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "2",
+            "Polarity": "Neg",
+            "Reflex": "yes",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;2;SG;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;2;SG;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;2;SG;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;2;SG;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;2;SG;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;2;SG;INTR": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2",
+            "Polarity": "Neg",
+            "SubCat": "Intr",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;2;SG;REFL": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2",
+            "Polarity": "Neg",
+            "Reflex": "yes",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;DU;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;DU;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;DU;ARG1;ARGINCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "In",
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;DU;ARG1;ARGINCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "In",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;DU;ARG1;ARGSG;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;DU;ARG2;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;DU;ARG2;ARGPL;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;DU;ARG2;ARGSG;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;DU;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;DU;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;DU;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;DU;INTR": {
+        "morpho": {
+            "Number": "Dual",
+            "Person": "3",
+            "Polarity": "Neg",
+            "SubCat": "Intr",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;DU;REFL": {
+        "morpho": {
+            "Number": "Dual",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Reflex": "yes",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;PL;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;PL;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;PL;ARG1;ARGINCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "In",
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;PL;ARG1;ARGINCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "In",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;PL;ARG1;ARGSG;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;PL;ARG2;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;PL;ARG2;ARGPL;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;PL;ARG2;ARGSG;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;PL;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;PL;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;PL;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;PL;INTR": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "SubCat": "Intr",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;PL;REFL": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Reflex": "yes",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;SG;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;SG;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;SG;ARG1;ARGINCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "In",
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;SG;ARG1;ARGINCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "In",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;SG;ARG1;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;SG;ARG2;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;SG;ARG2;ARGPL;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;SG;ARG2;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;SG;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;SG;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;SG;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Neg",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;SG;INTR": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Polarity": "Neg",
+            "SubCat": "Intr",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;NEG;3;SG;REFL": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Reflex": "yes",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;EXCL;DU;ARG2;ARGDU;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;EXCL;DU;ARG2;ARGPL;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;EXCL;DU;ARG2;ARGSG;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;EXCL;DU;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;EXCL;DU;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;EXCL;DU;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;EXCL;DU;INTR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Person": "1",
+            "Polarity": "Pos",
+            "SubCat": "Intr",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;EXCL;DU;REFL": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Dual",
+            "Person": "1",
+            "Polarity": "Pos",
+            "Reflex": "yes",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;EXCL;PL;ARG2;ARGDU;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;EXCL;PL;ARG2;ARGPL;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;EXCL;PL;ARG2;ARGSG;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;EXCL;PL;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;EXCL;PL;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;EXCL;PL;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;EXCL;PL;INTR": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Person": "1",
+            "Polarity": "Pos",
+            "SubCat": "Intr",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;EXCL;PL;REFL": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Person": "1",
+            "Polarity": "Pos",
+            "Reflex": "yes",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;INCL;DU;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;INCL;DU;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;INCL;DU;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;INCL;DU;INTR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Dual",
+            "Person": "1",
+            "Polarity": "Pos",
+            "SubCat": "Intr",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;INCL;DU;REFL": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Dual",
+            "Person": "1",
+            "Polarity": "Pos",
+            "Reflex": "yes",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;INCL;PL;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;INCL;PL;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;INCL;PL;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;INCL;PL;INTR": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Plur",
+            "Person": "1",
+            "Polarity": "Pos",
+            "SubCat": "Intr",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;INCL;PL;REFL": {
+        "morpho": {
+            "Clusivity": "In",
+            "Number": "Plur",
+            "Person": "1",
+            "Polarity": "Pos",
+            "Reflex": "yes",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;SG;ARG2;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;SG;ARG2;ARGPL;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;SG;ARG2;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;SG;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;SG;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;SG;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;SG;INTR": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1",
+            "Polarity": "Pos",
+            "SubCat": "Intr",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;1;SG;REFL": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1",
+            "Polarity": "Pos",
+            "Reflex": "yes",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;2;DU;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;2;DU;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;2;DU;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;2;DU;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;2;DU;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;2;DU;INTR": {
+        "morpho": {
+            "Number": "Dual",
+            "Person": "2",
+            "Polarity": "Pos",
+            "SubCat": "Intr",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;2;DU;REFL": {
+        "morpho": {
+            "Number": "Dual",
+            "Person": "2",
+            "Polarity": "Pos",
+            "Reflex": "yes",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;2;PL;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;2;PL;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;2;PL;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;2;PL;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;2;PL;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;2;PL;INTR": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "2",
+            "Polarity": "Pos",
+            "SubCat": "Intr",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;2;PL;REFL": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "2",
+            "Polarity": "Pos",
+            "Reflex": "yes",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;2;SG;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;2;SG;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;2;SG;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;2;SG;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;2;SG;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;2;SG;INTR": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2",
+            "Polarity": "Pos",
+            "SubCat": "Intr",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;2;SG;REFL": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2",
+            "Polarity": "Pos",
+            "Reflex": "yes",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;DU;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;DU;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;DU;ARG1;ARGINCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "In",
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;DU;ARG1;ARGINCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "In",
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;DU;ARG1;ARGSG;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;DU;ARG2;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;DU;ARG2;ARGPL;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;DU;ARG2;ARGSG;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;DU;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Dual",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;DU;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;DU;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Dual",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;DU;INTR": {
+        "morpho": {
+            "Number": "Dual",
+            "Person": "3",
+            "Polarity": "Pos",
+            "SubCat": "Intr",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;DU;REFL": {
+        "morpho": {
+            "Number": "Dual",
+            "Person": "3",
+            "Polarity": "Pos",
+            "Reflex": "yes",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;PL;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;PL;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;PL;ARG1;ARGINCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "In",
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;PL;ARG1;ARGINCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "In",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;PL;ARG1;ARGSG;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;PL;ARG2;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;PL;ARG2;ARGPL;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;PL;ARG2;ARGSG;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;PL;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Plur",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;PL;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;PL;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;PL;INTR": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Pos",
+            "SubCat": "Intr",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;PL;REFL": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Pos",
+            "Reflex": "yes",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;SG;ARG1;ARGEXCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;SG;ARG1;ARGEXCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "Ex",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;SG;ARG1;ARGINCL;ARGDU;TR": {
+        "morpho": {
+            "Clusivity[psor]": "In",
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;SG;ARG1;ARGINCL;ARGPL;TR": {
+        "morpho": {
+            "Clusivity[psor]": "In",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;SG;ARG1;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "1",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;SG;ARG2;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;SG;ARG2;ARGPL;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;SG;ARG2;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "2",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;SG;ARG3;ARGDU;TR": {
+        "morpho": {
+            "Definite[psor]": "Cons",
+            "Number": "Sing",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;SG;ARG3;ARGPL;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;SG;ARG3;ARGSG;TR": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3",
+            "Polarity": "Pos",
+            "SubCat": "Tran",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;SG;INTR": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Polarity": "Pos",
+            "SubCat": "Intr",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;POS;3;SG;REFL": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Polarity": "Pos",
+            "Reflex": "yes",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    }
+}

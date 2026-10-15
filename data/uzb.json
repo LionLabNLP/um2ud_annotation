@@ -1124,10 +1124,7 @@
     },
     "V;PRF+PROG;COND;PL;1;PRS": {
         "morpho": {
-            "Aspect": [
-                "Prog",
-                "Perf"
-            ],
+            "Aspect": "Perf,Prog",
             "Mood": "Cnd",
             "Number": "Plur",
             "Person": "1",
@@ -1137,10 +1134,7 @@
     },
     "V;PRF+PROG;COND;PL;2;PRS": {
         "morpho": {
-            "Aspect": [
-                "Prog",
-                "Perf"
-            ],
+            "Aspect": "Perf,Prog",
             "Mood": "Cnd",
             "Number": "Plur",
             "Person": "2",
@@ -1150,10 +1144,7 @@
     },
     "V;PRF+PROG;COND;PL;3;PRS": {
         "morpho": {
-            "Aspect": [
-                "Prog",
-                "Perf"
-            ],
+            "Aspect": "Perf,Prog",
             "Mood": "Cnd",
             "Number": "Plur",
             "Person": "3",
@@ -1163,10 +1154,7 @@
     },
     "V;PRF+PROG;COND;SG;1;PRS": {
         "morpho": {
-            "Aspect": [
-                "Prog",
-                "Perf"
-            ],
+            "Aspect": "Perf,Prog",
             "Mood": "Cnd",
             "Number": "Sing",
             "Person": "1",
@@ -1176,10 +1164,7 @@
     },
     "V;PRF+PROG;COND;SG;2;INFM;PRS": {
         "morpho": {
-            "Aspect": [
-                "Prog",
-                "Perf"
-            ],
+            "Aspect": "Perf,Prog",
             "Mood": "Cnd",
             "Number": "Sing",
             "Person": "2",
@@ -1190,10 +1175,7 @@
     },
     "V;PRF+PROG;COND;SG;3;PRS": {
         "morpho": {
-            "Aspect": [
-                "Prog",
-                "Perf"
-            ],
+            "Aspect": "Perf,Prog",
             "Mood": "Cnd",
             "Number": "Sing",
             "Person": "3",
@@ -1203,10 +1185,7 @@
     },
     "V;PRF+PROG;FRML;COND;SG;2;PRS": {
         "morpho": {
-            "Aspect": [
-                "Prog",
-                "Perf"
-            ],
+            "Aspect": "Perf,Prog",
             "Case": "Ess",
             "Mood": "Cnd",
             "Number": "Sing",

@@ -1,0 +1,14 @@
+{
+    "V;ACT": {
+        "morpho": {
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V;PASS": {
+        "morpho": {
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    }
+}

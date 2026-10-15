@@ -1,0 +1,2196 @@
+{
+    "ADJ;ABS": {
+        "morpho": {
+            "Case": "Abs"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DUR": {
+        "morpho": {
+            "Aspect": "Dur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;LOC": {
+        "morpho": {
+            "Case": "Loc"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;LOC+APPRX": {
+        "morpho": {
+            "Case": "Loc"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;LOC+APPRX;TOP": {
+        "morpho": {
+            "Case": "Loc",
+            "InfStruct": "Top"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;PST": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;PURP": {
+        "morpho": {
+            "Mood": "Prp"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;SIMMA": {
+        "morpho": {},
+        "upos": "ADJ"
+    },
+    "ADJ;TOP": {
+        "morpho": {
+            "InfStruct": "Top"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;TOP;CF;SIMMA": {
+        "morpho": {
+            "InfStruct": "Top"
+        },
+        "upos": "ADJ"
+    },
+    "AUX": {
+        "morpho": {},
+        "upos": "AUX"
+    },
+    "AUX;APPRX;TOP": {
+        "morpho": {
+            "InfStruct": "Top"
+        },
+        "upos": "AUX"
+    },
+    "AUX;DS": {
+        "morpho": {},
+        "upos": "AUX"
+    },
+    "AUX;DUR": {
+        "morpho": {
+            "Aspect": "Dur"
+        },
+        "upos": "AUX"
+    },
+    "AUX;ITER": {
+        "morpho": {
+            "Aspect": "Iter"
+        },
+        "upos": "AUX"
+    },
+    "AUX;PFV;MED": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Deixis": "Med"
+        },
+        "upos": "AUX"
+    },
+    "AUX;PROG": {
+        "morpho": {
+            "Aspect": "Prog"
+        },
+        "upos": "AUX"
+    },
+    "AUX;PROG;RPRT": {
+        "morpho": {
+            "Aspect": "Prog"
+        },
+        "upos": "AUX"
+    },
+    "AUX;TEL": {
+        "morpho": {},
+        "upos": "AUX"
+    },
+    "AUX;TEL;INF": {
+        "morpho": {
+            "VerbForm": "Inf"
+        },
+        "upos": "AUX"
+    },
+    "N;1;FUT": {
+        "morpho": {
+            "Person": "1",
+            "Tense": "Fut"
+        },
+        "upos": "NOUN"
+    },
+    "N;3;FUT": {
+        "morpho": {
+            "Person": "3",
+            "Tense": "Fut"
+        },
+        "upos": "NOUN"
+    },
+    "N;ABS": {
+        "morpho": {
+            "Case": "Abs"
+        },
+        "upos": "NOUN"
+    },
+    "N;ALL": {
+        "morpho": {
+            "Case": "All"
+        },
+        "upos": "NOUN"
+    },
+    "N;APPRX": {
+        "morpho": {},
+        "upos": "NOUN"
+    },
+    "N;APPRX;TOP": {
+        "morpho": {
+            "InfStruct": "Top"
+        },
+        "upos": "NOUN"
+    },
+    "N;COM": {
+        "morpho": {
+            "Case": "Com"
+        },
+        "upos": "NOUN"
+    },
+    "N;COM;DU": {
+        "morpho": {
+            "Case": "Com",
+            "Number": "Dual"
+        },
+        "upos": "NOUN"
+    },
+    "N;COM;TOP": {
+        "morpho": {
+            "Case": "Com",
+            "InfStruct": "Top"
+        },
+        "upos": "NOUN"
+    },
+    "N;COND;3;FUT": {
+        "morpho": {
+            "Mood": "Cnd",
+            "Person": "3",
+            "Tense": "Fut"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT": {
+        "morpho": {
+            "Case": "Dat"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;DIR": {
+        "morpho": {
+            "Voice": "Dir"
+        },
+        "upos": "NOUN"
+    },
+    "N;DS": {
+        "morpho": {},
+        "upos": "NOUN"
+    },
+    "N;DUR;PFV;MED": {
+        "morpho": {
+            "Aspect": "Dur,Perf",
+            "Deixis": "Med"
+        },
+        "upos": "NOUN"
+    },
+    "N;DUR;VOC": {
+        "morpho": {
+            "Aspect": "Dur",
+            "Case": "Voc"
+        },
+        "upos": "NOUN"
+    },
+    "N;ERG": {
+        "morpho": {
+            "Case": "Erg"
+        },
+        "upos": "NOUN"
+    },
+    "N;EXCL": {
+        "morpho": {
+            "Clusivity": "Ex"
+        },
+        "upos": "NOUN"
+    },
+    "N;FOC": {
+        "morpho": {
+            "InfStruct": "Foc"
+        },
+        "upos": "NOUN"
+    },
+    "N;FUT": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "NOUN"
+    },
+    "N;HAB": {
+        "morpho": {
+            "Aspect": "Hab"
+        },
+        "upos": "NOUN"
+    },
+    "N;HAB;INF": {
+        "morpho": {
+            "Aspect": "Hab",
+            "VerbForm": "Inf"
+        },
+        "upos": "NOUN"
+    },
+    "N;HAB;SIMMA": {
+        "morpho": {
+            "Aspect": "Hab"
+        },
+        "upos": "NOUN"
+    },
+    "N;HAB;TOP": {
+        "morpho": {
+            "Aspect": "Hab",
+            "InfStruct": "Top"
+        },
+        "upos": "NOUN"
+    },
+    "N;IMP;NEG": {
+        "morpho": {
+            "Mood": "Imp",
+            "Polarity": "Neg"
+        },
+        "upos": "NOUN"
+    },
+    "N;INS": {
+        "morpho": {
+            "Case": "Ins"
+        },
+        "upos": "NOUN"
+    },
+    "N;IRR": {
+        "morpho": {
+            "Mood": "Irr"
+        },
+        "upos": "NOUN"
+    },
+    "N;ITER": {
+        "morpho": {
+            "Aspect": "Iter"
+        },
+        "upos": "NOUN"
+    },
+    "N;LOC": {
+        "morpho": {
+            "Case": "Loc"
+        },
+        "upos": "NOUN"
+    },
+    "N;LOC+APPRX": {
+        "morpho": {
+            "Case": "Loc"
+        },
+        "upos": "NOUN"
+    },
+    "N;LOC;PST": {
+        "morpho": {
+            "Case": "Loc",
+            "Tense": "Past"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEG": {
+        "morpho": {
+            "Polarity": "Neg"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM": {
+        "morpho": {
+            "Case": "Nom"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;INT;non{PRS}": {
+        "morpho": {
+            "Case": "Nom",
+            "Mood": "Int"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;SIMMA": {
+        "morpho": {
+            "Case": "Nom"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;TOP": {
+        "morpho": {
+            "Case": "Nom",
+            "InfStruct": "Top"
+        },
+        "upos": "NOUN"
+    },
+    "N;PFV;MED": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Deixis": "Med"
+        },
+        "upos": "NOUN"
+    },
+    "N;PFV;NOM": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Case": "Nom"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PRF": {
+        "morpho": {
+            "Aspect": "Perf"
+        },
+        "upos": "NOUN"
+    },
+    "N;PROG": {
+        "morpho": {
+            "Aspect": "Prog"
+        },
+        "upos": "NOUN"
+    },
+    "N;PROG;DS": {
+        "morpho": {
+            "Aspect": "Prog"
+        },
+        "upos": "NOUN"
+    },
+    "N;PROG;LOC+APPRX": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Case": "Loc"
+        },
+        "upos": "NOUN"
+    },
+    "N;PROG;SIMMA": {
+        "morpho": {
+            "Aspect": "Prog"
+        },
+        "upos": "NOUN"
+    },
+    "N;PROG;TOP;DS": {
+        "morpho": {
+            "Aspect": "Prog",
+            "InfStruct": "Top"
+        },
+        "upos": "NOUN"
+    },
+    "N;PST": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "NOUN"
+    },
+    "N;PURP": {
+        "morpho": {
+            "Mood": "Prp"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;2": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;3;PST": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "NOUN"
+    },
+    "N;SIMMA": {
+        "morpho": {},
+        "upos": "NOUN"
+    },
+    "N;STAT;HAB": {
+        "morpho": {
+            "Aspect": "Hab"
+        },
+        "upos": "NOUN"
+    },
+    "N;STAT;IMP": {
+        "morpho": {
+            "Mood": "Imp"
+        },
+        "upos": "NOUN"
+    },
+    "N;STAT;PL": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;STAT;PROG;TOP": {
+        "morpho": {
+            "Aspect": "Prog",
+            "InfStruct": "Top"
+        },
+        "upos": "NOUN"
+    },
+    "N;SUB": {
+        "morpho": {
+            "Case": "Sub"
+        },
+        "upos": "NOUN"
+    },
+    "N;TEL": {
+        "morpho": {},
+        "upos": "NOUN"
+    },
+    "N;TEL;FUT": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "NOUN"
+    },
+    "N;TEL;PFV": {
+        "morpho": {
+            "Aspect": "Perf"
+        },
+        "upos": "NOUN"
+    },
+    "N;TOP": {
+        "morpho": {
+            "InfStruct": "Top"
+        },
+        "upos": "NOUN"
+    },
+    "N;TOP;SG;3": {
+        "morpho": {
+            "InfStruct": "Top",
+            "Number": "Sing",
+            "Person": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;TOP;SIMMA": {
+        "morpho": {
+            "InfStruct": "Top"
+        },
+        "upos": "NOUN"
+    },
+    "N;VOC": {
+        "morpho": {
+            "Case": "Voc"
+        },
+        "upos": "NOUN"
+    },
+    "V;1;FUT": {
+        "morpho": {
+            "Person": "1",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;1;NEG;FUT": {
+        "morpho": {
+            "Person": "1",
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SIMMA;FUT": {
+        "morpho": {
+            "Person": "1",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;2+3;FUT": {
+        "morpho": {
+            "Person": "2,3",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;2+3;SIMMA;FUT": {
+        "morpho": {
+            "Person": "2,3",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;3;FUT": {
+        "morpho": {
+            "Person": "3",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;ABS": {
+        "morpho": {
+            "Case": "Abs"
+        },
+        "upos": "VERB"
+    },
+    "V;ABS;1;FUT": {
+        "morpho": {
+            "Case": "Abs",
+            "Person": "1",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;ABS;INTR": {
+        "morpho": {
+            "Case": "Abs",
+            "SubCat": "Intr"
+        },
+        "upos": "VERB"
+    },
+    "V;ABS;PL": {
+        "morpho": {
+            "Case": "Abs",
+            "Number": "Plur"
+        },
+        "upos": "VERB"
+    },
+    "V;ABS;PST": {
+        "morpho": {
+            "Case": "Abs",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;ABS;SG;3": {
+        "morpho": {
+            "Case": "Abs",
+            "Number": "Sing",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;ABS;SIMMA": {
+        "morpho": {
+            "Case": "Abs"
+        },
+        "upos": "VERB"
+    },
+    "V;ABS;TOP": {
+        "morpho": {
+            "Case": "Abs",
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;AC3P": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;ALL": {
+        "morpho": {
+            "Case": "All"
+        },
+        "upos": "VERB"
+    },
+    "V;APPRX": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;APPRX;TOP": {
+        "morpho": {
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;APPRX;TOP;DS": {
+        "morpho": {
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;CF": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;COM": {
+        "morpho": {
+            "Case": "Com"
+        },
+        "upos": "VERB"
+    },
+    "V;COM;TOP": {
+        "morpho": {
+            "Case": "Com",
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;COND": {
+        "morpho": {
+            "Mood": "Cnd"
+        },
+        "upos": "VERB"
+    },
+    "V;COND;1;FUT": {
+        "morpho": {
+            "Mood": "Cnd",
+            "Person": "1",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;COND;3;FUT": {
+        "morpho": {
+            "Mood": "Cnd",
+            "Person": "3",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;DAT": {
+        "morpho": {
+            "Case": "Dat"
+        },
+        "upos": "VERB"
+    },
+    "V;DEO": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;DS": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;DS;PST": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;DU;1": {
+        "morpho": {
+            "Number": "Dual",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;DUR": {
+        "morpho": {
+            "Aspect": "Dur"
+        },
+        "upos": "VERB"
+    },
+    "V;DUR;ABS": {
+        "morpho": {
+            "Aspect": "Dur",
+            "Case": "Abs"
+        },
+        "upos": "VERB"
+    },
+    "V;DUR;ABS;PST": {
+        "morpho": {
+            "Aspect": "Dur",
+            "Case": "Abs",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;DUR;COM": {
+        "morpho": {
+            "Aspect": "Dur",
+            "Case": "Com"
+        },
+        "upos": "VERB"
+    },
+    "V;DUR;IMP": {
+        "morpho": {
+            "Aspect": "Dur",
+            "Mood": "Imp"
+        },
+        "upos": "VERB"
+    },
+    "V;DUR;IMP;EXCL": {
+        "morpho": {
+            "Aspect": "Dur",
+            "Clusivity": "Ex",
+            "Mood": "Imp"
+        },
+        "upos": "VERB"
+    },
+    "V;DUR;IPFV;MED": {
+        "morpho": {
+            "Aspect": "Dur,Imp",
+            "Deixis": "Med"
+        },
+        "upos": "VERB"
+    },
+    "V;DUR;IPFV;MED;TOP": {
+        "morpho": {
+            "Aspect": "Dur,Imp",
+            "Deixis": "Med",
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;DUR;OBLIG": {
+        "morpho": {
+            "Aspect": "Dur",
+            "Mood": "Nec"
+        },
+        "upos": "VERB"
+    },
+    "V;DUR;PFV;ABS;MED": {
+        "morpho": {
+            "Aspect": "Dur,Perf",
+            "Case": "Abs",
+            "Deixis": "Med"
+        },
+        "upos": "VERB"
+    },
+    "V;DUR;PFV;MED": {
+        "morpho": {
+            "Aspect": "Dur,Perf",
+            "Deixis": "Med"
+        },
+        "upos": "VERB"
+    },
+    "V;DUR;PFV;MED;SIMMA": {
+        "morpho": {
+            "Aspect": "Dur,Perf",
+            "Deixis": "Med"
+        },
+        "upos": "VERB"
+    },
+    "V;DUR;PFV;MED;TOP": {
+        "morpho": {
+            "Aspect": "Dur,Perf",
+            "Deixis": "Med",
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;DUR;PL": {
+        "morpho": {
+            "Aspect": "Dur",
+            "Number": "Plur"
+        },
+        "upos": "VERB"
+    },
+    "V;DUR;PROG;DS": {
+        "morpho": {
+            "Aspect": "Dur,Prog"
+        },
+        "upos": "VERB"
+    },
+    "V;DUR;PROG;SIMMA": {
+        "morpho": {
+            "Aspect": "Dur,Prog"
+        },
+        "upos": "VERB"
+    },
+    "V;DUR;PST": {
+        "morpho": {
+            "Aspect": "Dur",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;DUR;SIM": {
+        "morpho": {
+            "Aspect": "Dur"
+        },
+        "upos": "VERB"
+    },
+    "V;DUR;SIMMA": {
+        "morpho": {
+            "Aspect": "Dur"
+        },
+        "upos": "VERB"
+    },
+    "V;DUR;TOP": {
+        "morpho": {
+            "Aspect": "Dur",
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;DUR;TOP;IMP": {
+        "morpho": {
+            "Aspect": "Dur",
+            "InfStruct": "Top",
+            "Mood": "Imp"
+        },
+        "upos": "VERB"
+    },
+    "V;DUR;TOP;OBLIG": {
+        "morpho": {
+            "Aspect": "Dur",
+            "InfStruct": "Top",
+            "Mood": "Nec"
+        },
+        "upos": "VERB"
+    },
+    "V;DUR;TOP;PST": {
+        "morpho": {
+            "Aspect": "Dur",
+            "InfStruct": "Top",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;ERG": {
+        "morpho": {
+            "Case": "Erg"
+        },
+        "upos": "VERB"
+    },
+    "V;ERG;INF": {
+        "morpho": {
+            "Case": "Erg",
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;EXCL": {
+        "morpho": {
+            "Clusivity": "Ex"
+        },
+        "upos": "VERB"
+    },
+    "V;FOC": {
+        "morpho": {
+            "InfStruct": "Foc"
+        },
+        "upos": "VERB"
+    },
+    "V;FUT": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;HAB": {
+        "morpho": {
+            "Aspect": "Hab"
+        },
+        "upos": "VERB"
+    },
+    "V;HAB;INF": {
+        "morpho": {
+            "Aspect": "Hab",
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;HAB;INT;non{PRS}": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Mood": "Int"
+        },
+        "upos": "VERB"
+    },
+    "V;HAB;LOC": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Case": "Loc"
+        },
+        "upos": "VERB"
+    },
+    "V;HAB;NEG": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Polarity": "Neg"
+        },
+        "upos": "VERB"
+    },
+    "V;HAB;SIMMA": {
+        "morpho": {
+            "Aspect": "Hab"
+        },
+        "upos": "VERB"
+    },
+    "V;HAB;TOP": {
+        "morpho": {
+            "Aspect": "Hab",
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP": {
+        "morpho": {
+            "Mood": "Imp"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;EXCL;FUT": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Mood": "Imp",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;FUT": {
+        "morpho": {
+            "Mood": "Imp",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;INTR": {
+        "morpho": {
+            "Mood": "Imp",
+            "SubCat": "Intr"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;NEG": {
+        "morpho": {
+            "Mood": "Imp",
+            "Polarity": "Neg"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;PL": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Plur"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;RMT": {
+        "morpho": {
+            "Mood": "Imp"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;SIMMA;FUT": {
+        "morpho": {
+            "Mood": "Imp",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;INCH": {
+        "morpho": {
+            "Aspect": "Inch"
+        },
+        "upos": "VERB"
+    },
+    "V;INCH;1;FUT": {
+        "morpho": {
+            "Aspect": "Inch",
+            "Person": "1",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;INCH;NFIN;FUT": {
+        "morpho": {
+            "Aspect": "Inch",
+            "Tense": "Fut",
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    },
+    "V;INF": {
+        "morpho": {
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;INS": {
+        "morpho": {
+            "Case": "Ins"
+        },
+        "upos": "VERB"
+    },
+    "V;INT": {
+        "morpho": {
+            "Mood": "Int"
+        },
+        "upos": "VERB"
+    },
+    "V;INT;1;FUT": {
+        "morpho": {
+            "Mood": "Int",
+            "Person": "1",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;INT;DS;non{PRS}": {
+        "morpho": {
+            "Mood": "Int"
+        },
+        "upos": "VERB"
+    },
+    "V;INT;non{PRS}": {
+        "morpho": {
+            "Mood": "Int"
+        },
+        "upos": "VERB"
+    },
+    "V;INTR": {
+        "morpho": {
+            "SubCat": "Intr"
+        },
+        "upos": "VERB"
+    },
+    "V;IPFV;MED": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Deixis": "Med"
+        },
+        "upos": "VERB"
+    },
+    "V;IPFV;MED;INF": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Deixis": "Med",
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;IPFV;MED;PST": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Deixis": "Med",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;IPFV;MED;TOP": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Deixis": "Med",
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;IRR": {
+        "morpho": {
+            "Mood": "Irr"
+        },
+        "upos": "VERB"
+    },
+    "V;IRR;SIMMA": {
+        "morpho": {
+            "Mood": "Irr"
+        },
+        "upos": "VERB"
+    },
+    "V;ITER": {
+        "morpho": {
+            "Aspect": "Iter"
+        },
+        "upos": "VERB"
+    },
+    "V;ITER;APPRX": {
+        "morpho": {
+            "Aspect": "Iter"
+        },
+        "upos": "VERB"
+    },
+    "V;ITER;SIMMA": {
+        "morpho": {
+            "Aspect": "Iter"
+        },
+        "upos": "VERB"
+    },
+    "V;LOC": {
+        "morpho": {
+            "Case": "Loc"
+        },
+        "upos": "VERB"
+    },
+    "V;LOC+APPRX": {
+        "morpho": {
+            "Case": "Loc"
+        },
+        "upos": "VERB"
+    },
+    "V;LOC+APPRX;TOP": {
+        "morpho": {
+            "Case": "Loc",
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;LOC;CF": {
+        "morpho": {
+            "Case": "Loc"
+        },
+        "upos": "VERB"
+    },
+    "V;LOC;SIMMA": {
+        "morpho": {
+            "Case": "Loc"
+        },
+        "upos": "VERB"
+    },
+    "V;MED": {
+        "morpho": {
+            "Deixis": "Med"
+        },
+        "upos": "VERB"
+    },
+    "V;MED;INF": {
+        "morpho": {
+            "Deixis": "Med",
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;MED;SIMMA": {
+        "morpho": {
+            "Deixis": "Med"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG": {
+        "morpho": {
+            "Polarity": "Neg"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;DS": {
+        "morpho": {
+            "Polarity": "Neg"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;PST": {
+        "morpho": {
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NFIN;FUT": {
+        "morpho": {
+            "Tense": "Fut",
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    },
+    "V;NFIN;PURP": {
+        "morpho": {
+            "Mood": "Prp",
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    },
+    "V;NOM": {
+        "morpho": {
+            "Case": "Nom"
+        },
+        "upos": "VERB"
+    },
+    "V;NOM;TOP": {
+        "morpho": {
+            "Case": "Nom",
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;PFV": {
+        "morpho": {
+            "Aspect": "Perf"
+        },
+        "upos": "VERB"
+    },
+    "V;PFV;ABS": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Case": "Abs"
+        },
+        "upos": "VERB"
+    },
+    "V;PFV;ABS;MED": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Case": "Abs",
+            "Deixis": "Med"
+        },
+        "upos": "VERB"
+    },
+    "V;PFV;COM;MED": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Case": "Com",
+            "Deixis": "Med"
+        },
+        "upos": "VERB"
+    },
+    "V;PFV;INF": {
+        "morpho": {
+            "Aspect": "Perf",
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;PFV;LOC+APPRX;MED": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Case": "Loc",
+            "Deixis": "Med"
+        },
+        "upos": "VERB"
+    },
+    "V;PFV;MED": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Deixis": "Med"
+        },
+        "upos": "VERB"
+    },
+    "V;PFV;MED;DS": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Deixis": "Med"
+        },
+        "upos": "VERB"
+    },
+    "V;PFV;MED;DS;PST": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Deixis": "Med",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PFV;MED;INF": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Deixis": "Med",
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;PFV;MED;PL": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Deixis": "Med",
+            "Number": "Plur"
+        },
+        "upos": "VERB"
+    },
+    "V;PFV;MED;POT": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Deixis": "Med",
+            "Mood": "Pot"
+        },
+        "upos": "VERB"
+    },
+    "V;PFV;MED;PST": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Deixis": "Med",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PFV;MED;SIMMA": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Deixis": "Med"
+        },
+        "upos": "VERB"
+    },
+    "V;PFV;MED;TOP": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Deixis": "Med",
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;PFV;MED;TOP;INTR": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Deixis": "Med",
+            "InfStruct": "Top",
+            "SubCat": "Intr"
+        },
+        "upos": "VERB"
+    },
+    "V;PFV;PST": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PFV;SUB;MED": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Case": "Sub",
+            "Deixis": "Med"
+        },
+        "upos": "VERB"
+    },
+    "V;PFV;TOP": {
+        "morpho": {
+            "Aspect": "Perf",
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;PL": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "VERB"
+    },
+    "V;PL;PST": {
+        "morpho": {
+            "Number": "Plur",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PL;SIMMA": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "VERB"
+    },
+    "V;POT": {
+        "morpho": {
+            "Mood": "Pot"
+        },
+        "upos": "VERB"
+    },
+    "V;PRF": {
+        "morpho": {
+            "Aspect": "Perf"
+        },
+        "upos": "VERB"
+    },
+    "V;PRF;1;FUT": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Person": "1",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;PRF;INF": {
+        "morpho": {
+            "Aspect": "Perf",
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;PRF;NEG": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Polarity": "Neg"
+        },
+        "upos": "VERB"
+    },
+    "V;PRF;PST": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PRF;PST;INTR": {
+        "morpho": {
+            "Aspect": "Perf",
+            "SubCat": "Intr",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PRF;SIMMA": {
+        "morpho": {
+            "Aspect": "Perf"
+        },
+        "upos": "VERB"
+    },
+    "V;PRF;TOP": {
+        "morpho": {
+            "Aspect": "Perf",
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;PRF;TOP;INF": {
+        "morpho": {
+            "Aspect": "Perf",
+            "InfStruct": "Top",
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;PRF;TOP;PL": {
+        "morpho": {
+            "Aspect": "Perf",
+            "InfStruct": "Top",
+            "Number": "Plur"
+        },
+        "upos": "VERB"
+    },
+    "V;PRF;TOP;PST": {
+        "morpho": {
+            "Aspect": "Perf",
+            "InfStruct": "Top",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG": {
+        "morpho": {
+            "Aspect": "Prog"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;1;FUT": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Person": "1",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;2+3;FUT": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Person": "2,3",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;ABS": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Case": "Abs"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;ABS;SIMMA": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Case": "Abs"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;APPRX": {
+        "morpho": {
+            "Aspect": "Prog"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;CF": {
+        "morpho": {
+            "Aspect": "Prog"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;CF;SIMMA": {
+        "morpho": {
+            "Aspect": "Prog"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;DS": {
+        "morpho": {
+            "Aspect": "Prog"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;DS;PST": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;INF": {
+        "morpho": {
+            "Aspect": "Prog",
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;INTR": {
+        "morpho": {
+            "Aspect": "Prog",
+            "SubCat": "Intr"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;IRR": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Mood": "Irr"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;MED": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Deixis": "Med"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;NFIN;FUT": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Fut",
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;NFIN;TOP;FUT": {
+        "morpho": {
+            "Aspect": "Prog",
+            "InfStruct": "Top",
+            "Tense": "Fut",
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;PL": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Number": "Plur"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;PST": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;RPRT": {
+        "morpho": {
+            "Aspect": "Prog"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;SIMMA": {
+        "morpho": {
+            "Aspect": "Prog"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;SUB": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Case": "Sub"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;TOP": {
+        "morpho": {
+            "Aspect": "Prog",
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;TOP;DS": {
+        "morpho": {
+            "Aspect": "Prog",
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;TOP;SIMMA": {
+        "morpho": {
+            "Aspect": "Prog",
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;PST": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PURP": {
+        "morpho": {
+            "Mood": "Prp"
+        },
+        "upos": "VERB"
+    },
+    "V;PURP;FUT+IMMED": {
+        "morpho": {
+            "Mood": "Prp",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;PURP;SIMMA": {
+        "morpho": {
+            "Mood": "Prp"
+        },
+        "upos": "VERB"
+    },
+    "V;RPRT": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;RPRT;SIMMA": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;SG;2": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;SG;3": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;SIMMA": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;SIMMA;FUT": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;STAT": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;STAT;1;FUT": {
+        "morpho": {
+            "Person": "1",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;STAT;2+3;FUT": {
+        "morpho": {
+            "Person": "2,3",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;STAT;CF": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;STAT;DAT;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Number": "Plur"
+        },
+        "upos": "VERB"
+    },
+    "V;STAT;DEO": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;STAT;DS": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;STAT;FUT": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;STAT;HAB": {
+        "morpho": {
+            "Aspect": "Hab"
+        },
+        "upos": "VERB"
+    },
+    "V;STAT;IMP;FUT": {
+        "morpho": {
+            "Mood": "Imp",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;STAT;IPFV;MED;RPRT;DS": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Deixis": "Med"
+        },
+        "upos": "VERB"
+    },
+    "V;STAT;IRR": {
+        "morpho": {
+            "Mood": "Irr"
+        },
+        "upos": "VERB"
+    },
+    "V;STAT;ITER": {
+        "morpho": {
+            "Aspect": "Iter"
+        },
+        "upos": "VERB"
+    },
+    "V;STAT;NFIN;FUT": {
+        "morpho": {
+            "Tense": "Fut",
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    },
+    "V;STAT;PFV;MED": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Deixis": "Med"
+        },
+        "upos": "VERB"
+    },
+    "V;STAT;PFV;MED;TOP": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Deixis": "Med",
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;STAT;PL;PST": {
+        "morpho": {
+            "Number": "Plur",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;STAT;PRF": {
+        "morpho": {
+            "Aspect": "Perf"
+        },
+        "upos": "VERB"
+    },
+    "V;STAT;PROG;PL": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Number": "Plur"
+        },
+        "upos": "VERB"
+    },
+    "V;STAT;PST": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;STAT;PURP": {
+        "morpho": {
+            "Mood": "Prp"
+        },
+        "upos": "VERB"
+    },
+    "V;STAT;TOP": {
+        "morpho": {
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;STAT;TOP;DS": {
+        "morpho": {
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;STAT;TOP;PL": {
+        "morpho": {
+            "InfStruct": "Top",
+            "Number": "Plur"
+        },
+        "upos": "VERB"
+    },
+    "V;STAT;TOP;PST": {
+        "morpho": {
+            "InfStruct": "Top",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;SUB": {
+        "morpho": {
+            "Case": "Sub"
+        },
+        "upos": "VERB"
+    },
+    "V;SUB;3;FUT": {
+        "morpho": {
+            "Case": "Sub",
+            "Person": "3",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;TEL;1;FUT": {
+        "morpho": {
+            "Person": "1",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;2+3;FUT": {
+        "morpho": {
+            "Person": "2,3",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;3;FUT": {
+        "morpho": {
+            "Person": "3",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;APPRX;TOP": {
+        "morpho": {
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;APPRX;TOP;DS": {
+        "morpho": {
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;DS": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;TEL;FUT": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;IMP": {
+        "morpho": {
+            "Mood": "Imp"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;IMP;FUT": {
+        "morpho": {
+            "Mood": "Imp",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;INCH;1;FUT": {
+        "morpho": {
+            "Aspect": "Inch",
+            "Person": "1",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;INTR": {
+        "morpho": {
+            "SubCat": "Intr"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;IPFV;MED": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Deixis": "Med"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;IPFV;MED;1;FUT": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Deixis": "Med",
+            "Person": "1",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;IPFV;MED;3;FUT": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Deixis": "Med",
+            "Person": "3",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;IPFV;MED;PURP": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Deixis": "Med",
+            "Mood": "Prp"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;LOC": {
+        "morpho": {
+            "Case": "Loc"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;LOC+APPRX": {
+        "morpho": {
+            "Case": "Loc"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;PFV": {
+        "morpho": {
+            "Aspect": "Perf"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;PFV;MED": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Deixis": "Med"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;PFV;MED;PURP": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Deixis": "Med",
+            "Mood": "Prp"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;PFV;MED;TOP": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Deixis": "Med",
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;PFV;SIMMA": {
+        "morpho": {
+            "Aspect": "Perf"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;PL": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;PRF;SIMMA": {
+        "morpho": {
+            "Aspect": "Perf"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;PROG": {
+        "morpho": {
+            "Aspect": "Prog"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;PROG;DS": {
+        "morpho": {
+            "Aspect": "Prog"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;PROG;SIMMA": {
+        "morpho": {
+            "Aspect": "Prog"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;PROG;TOP;DS": {
+        "morpho": {
+            "Aspect": "Prog",
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;PURP": {
+        "morpho": {
+            "Mood": "Prp"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;PURP;SIMMA": {
+        "morpho": {
+            "Mood": "Prp"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;SIMMA": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;TEL;SUB": {
+        "morpho": {
+            "Case": "Sub"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;SUB;SIMMA": {
+        "morpho": {
+            "Case": "Sub"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;TOP": {
+        "morpho": {
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;TOP;DS": {
+        "morpho": {
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;TOP;INTR": {
+        "morpho": {
+            "InfStruct": "Top",
+            "SubCat": "Intr"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;TOP;PL": {
+        "morpho": {
+            "InfStruct": "Top",
+            "Number": "Plur"
+        },
+        "upos": "VERB"
+    },
+    "V;TEL;TOP;SIMMA": {
+        "morpho": {
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;TOP": {
+        "morpho": {
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;TOP;1;FUT": {
+        "morpho": {
+            "InfStruct": "Top",
+            "Person": "1",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;TOP;DS": {
+        "morpho": {
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;TOP;DS;PST": {
+        "morpho": {
+            "InfStruct": "Top",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;TOP;FUT": {
+        "morpho": {
+            "InfStruct": "Top",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;TOP;INF": {
+        "morpho": {
+            "InfStruct": "Top",
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;TOP;INTR": {
+        "morpho": {
+            "InfStruct": "Top",
+            "SubCat": "Intr"
+        },
+        "upos": "VERB"
+    },
+    "V;TOP;PL": {
+        "morpho": {
+            "InfStruct": "Top",
+            "Number": "Plur"
+        },
+        "upos": "VERB"
+    },
+    "V;TOP;PST": {
+        "morpho": {
+            "InfStruct": "Top",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;TOP;PURP": {
+        "morpho": {
+            "InfStruct": "Top",
+            "Mood": "Prp"
+        },
+        "upos": "VERB"
+    },
+    "V;TOP;SIMMA": {
+        "morpho": {
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    },
+    "V;TOP;SIMMA;INTR": {
+        "morpho": {
+            "InfStruct": "Top",
+            "SubCat": "Intr"
+        },
+        "upos": "VERB"
+    },
+    "V;VIS;TOP": {
+        "morpho": {
+            "InfStruct": "Top"
+        },
+        "upos": "VERB"
+    }
+}

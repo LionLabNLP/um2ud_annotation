@@ -15,14 +15,14 @@
     },
     "N;PL;PSSD": {
         "morpho": {
-            "Definite[psor]": "Cons",
+            "Definite": "Cons",
             "Number": "Plur"
         },
         "upos": "NOUN"
     },
     "N;PL;PSSD;PSS1P": {
         "morpho": {
-            "Definite[psor]": "Cons",
+            "Definite": "Cons",
             "Number": "Plur",
             "Number[psor]": "Plur",
             "Person[psor]": "1"
@@ -31,7 +31,7 @@
     },
     "N;PL;PSSD;PSS1S": {
         "morpho": {
-            "Definite[psor]": "Cons",
+            "Definite": "Cons",
             "Number": "Plur",
             "Number[psor]": "Sing",
             "Person[psor]": "1"
@@ -40,7 +40,7 @@
     },
     "N;PL;PSSD;PSS2P;FEM": {
         "morpho": {
-            "Definite[psor]": "Cons",
+            "Definite": "Cons",
             "Gender": "Fem",
             "Number": "Plur",
             "Number[psor]": "Plur",
@@ -50,7 +50,7 @@
     },
     "N;PL;PSSD;PSS2P;MASC": {
         "morpho": {
-            "Definite[psor]": "Cons",
+            "Definite": "Cons",
             "Gender": "Masc",
             "Number": "Plur",
             "Number[psor]": "Plur",
@@ -60,7 +60,7 @@
     },
     "N;PL;PSSD;PSS2S;FEM": {
         "morpho": {
-            "Definite[psor]": "Cons",
+            "Definite": "Cons",
             "Gender": "Fem",
             "Number": "Plur",
             "Number[psor]": "Sing",
@@ -70,7 +70,7 @@
     },
     "N;PL;PSSD;PSS2S;MASC": {
         "morpho": {
-            "Definite[psor]": "Cons",
+            "Definite": "Cons",
             "Gender": "Masc",
             "Number": "Plur",
             "Number[psor]": "Sing",
@@ -80,7 +80,7 @@
     },
     "N;PL;PSSD;PSS3P;FEM": {
         "morpho": {
-            "Definite[psor]": "Cons",
+            "Definite": "Cons",
             "Gender": "Fem",
             "Number": "Plur",
             "Number[psor]": "Plur",
@@ -90,7 +90,7 @@
     },
     "N;PL;PSSD;PSS3P;MASC": {
         "morpho": {
-            "Definite[psor]": "Cons",
+            "Definite": "Cons",
             "Gender": "Masc",
             "Number": "Plur",
             "Number[psor]": "Plur",
@@ -100,7 +100,7 @@
     },
     "N;PL;PSSD;PSS3S;FEM": {
         "morpho": {
-            "Definite[psor]": "Cons",
+            "Definite": "Cons",
             "Gender": "Fem",
             "Number": "Plur",
             "Number[psor]": "Sing",
@@ -110,7 +110,7 @@
     },
     "N;PL;PSSD;PSS3S;MASC": {
         "morpho": {
-            "Definite[psor]": "Cons",
+            "Definite": "Cons",
             "Gender": "Masc",
             "Number": "Plur",
             "Number[psor]": "Sing",
@@ -134,14 +134,14 @@
     },
     "N;SG;PSSD": {
         "morpho": {
-            "Definite[psor]": "Cons",
+            "Definite": "Cons",
             "Number": "Sing"
         },
         "upos": "NOUN"
     },
     "N;SG;PSSD;PSS1P": {
         "morpho": {
-            "Definite[psor]": "Cons",
+            "Definite": "Cons",
             "Number": "Sing",
             "Number[psor]": "Plur",
             "Person[psor]": "1"
@@ -150,7 +150,7 @@
     },
     "N;SG;PSSD;PSS1S": {
         "morpho": {
-            "Definite[psor]": "Cons",
+            "Definite": "Cons",
             "Number": "Sing",
             "Number[psor]": "Sing",
             "Person[psor]": "1"
@@ -159,7 +159,7 @@
     },
     "N;SG;PSSD;PSS2P;FEM": {
         "morpho": {
-            "Definite[psor]": "Cons",
+            "Definite": "Cons",
             "Gender": "Fem",
             "Number": "Sing",
             "Number[psor]": "Plur",
@@ -169,7 +169,7 @@
     },
     "N;SG;PSSD;PSS2P;MASC": {
         "morpho": {
-            "Definite[psor]": "Cons",
+            "Definite": "Cons",
             "Gender": "Masc",
             "Number": "Sing",
             "Number[psor]": "Plur",
@@ -179,7 +179,7 @@
     },
     "N;SG;PSSD;PSS2S;FEM": {
         "morpho": {
-            "Definite[psor]": "Cons",
+            "Definite": "Cons",
             "Gender": "Fem",
             "Number": "Sing",
             "Number[psor]": "Sing",
@@ -189,7 +189,7 @@
     },
     "N;SG;PSSD;PSS2S;MASC": {
         "morpho": {
-            "Definite[psor]": "Cons",
+            "Definite": "Cons",
             "Gender": "Masc",
             "Number": "Sing",
             "Number[psor]": "Sing",
@@ -199,7 +199,7 @@
     },
     "N;SG;PSSD;PSS3P;FEM": {
         "morpho": {
-            "Definite[psor]": "Cons",
+            "Definite": "Cons",
             "Gender": "Fem",
             "Number": "Sing",
             "Number[psor]": "Plur",
@@ -209,7 +209,7 @@
     },
     "N;SG;PSSD;PSS3P;MASC": {
         "morpho": {
-            "Definite[psor]": "Cons",
+            "Definite": "Cons",
             "Gender": "Masc",
             "Number": "Sing",
             "Number[psor]": "Plur",
@@ -219,7 +219,7 @@
     },
     "N;SG;PSSD;PSS3S;FEM": {
         "morpho": {
-            "Definite[psor]": "Cons",
+            "Definite": "Cons",
             "Gender": "Fem",
             "Number": "Sing",
             "Number[psor]": "Sing",
@@ -229,7 +229,7 @@
     },
     "N;SG;PSSD;PSS3S;MASC": {
         "morpho": {
-            "Definite[psor]": "Cons",
+            "Definite": "Cons",
             "Gender": "Masc",
             "Number": "Sing",
             "Number[psor]": "Sing",

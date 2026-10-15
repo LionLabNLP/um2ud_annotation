@@ -1,8 +1,4 @@
 {
-    "-": {
-        "morpho": {},
-        "upos": null
-    },
     "ADJ": {
         "morpho": {},
         "upos": "ADJ"
@@ -87,15 +83,12 @@
     },
     "V;NFIN;IMP+SBJV": {
         "morpho": {
-            "Mood": [
-                "Imp",
-                "Sub"
-            ],
+            "Mood": "Imp,Sub",
             "VerbForm": "NonFin"
         },
         "upos": "VERB"
     },
-    "V;PRS;3;IND;IND;PL": {
+    "V;PRS;3;IND;PL": {
         "morpho": {
             "Mood": "Ind",
             "Number": "Plur",
@@ -104,17 +97,9 @@
         },
         "upos": "VERB"
     },
-    "V;PRS;3;IND;IND;SG": {
+    "V;PRS;3;IND;SG": {
         "morpho": {
             "Mood": "Ind",
-            "Number": "Sing",
-            "Person": "3",
-            "Tense": "Pres"
-        },
-        "upos": "VERB"
-    },
-    "V;PRS;3;SG": {
-        "morpho": {
             "Number": "Sing",
             "Person": "3",
             "Tense": "Pres"
@@ -140,6 +125,5 @@
             "VerbForm": "Part"
         },
         "upos": "VERB"
-    },
-    "nan": {}
+    }
 }

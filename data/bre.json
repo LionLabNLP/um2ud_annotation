@@ -876,10 +876,7 @@
     },
     "V;FIN;IND;PST;IPFV;HAB;0": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Hab"
-            ],
+            "Aspect": "Hab,Imp",
             "Mood": "Ind",
             "Person": "0",
             "Tense": "Past",
@@ -889,10 +886,7 @@
     },
     "V;FIN;IND;PST;IPFV;HAB;1;PL": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Hab"
-            ],
+            "Aspect": "Hab,Imp",
             "Mood": "Ind",
             "Number": "Plur",
             "Person": "1",
@@ -903,10 +897,7 @@
     },
     "V;FIN;IND;PST;IPFV;HAB;1;SG": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Hab"
-            ],
+            "Aspect": "Hab,Imp",
             "Mood": "Ind",
             "Number": "Sing",
             "Person": "1",
@@ -917,10 +908,7 @@
     },
     "V;FIN;IND;PST;IPFV;HAB;2;PL": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Hab"
-            ],
+            "Aspect": "Hab,Imp",
             "Mood": "Ind",
             "Number": "Plur",
             "Person": "2",
@@ -931,10 +919,7 @@
     },
     "V;FIN;IND;PST;IPFV;HAB;2;SG": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Hab"
-            ],
+            "Aspect": "Hab,Imp",
             "Mood": "Ind",
             "Number": "Sing",
             "Person": "2",
@@ -945,10 +930,7 @@
     },
     "V;FIN;IND;PST;IPFV;HAB;3;PL": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Hab"
-            ],
+            "Aspect": "Hab,Imp",
             "Mood": "Ind",
             "Number": "Plur",
             "Person": "3",
@@ -959,10 +941,7 @@
     },
     "V;FIN;IND;PST;IPFV;HAB;3;SG": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Hab"
-            ],
+            "Aspect": "Hab,Imp",
             "Mood": "Ind",
             "Number": "Sing",
             "Person": "3",
@@ -973,10 +952,7 @@
     },
     "V;FIN;IND;PST;IPFV;HAB;3;SG;FEM": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Hab"
-            ],
+            "Aspect": "Hab,Imp",
             "Gender": "Fem",
             "Mood": "Ind",
             "Number": "Sing",
@@ -988,10 +964,7 @@
     },
     "V;FIN;IND;PST;IPFV;HAB;3;SG;MASC": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Hab"
-            ],
+            "Aspect": "Hab,Imp",
             "Gender": "Masc",
             "Mood": "Ind",
             "Number": "Sing",
@@ -1003,10 +976,7 @@
     },
     "V;FIN;IND;PST;IPFV;PROG;0": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Prog"
-            ],
+            "Aspect": "Imp,Prog",
             "Mood": "Ind",
             "Person": "0",
             "Tense": "Past",
@@ -1016,10 +986,7 @@
     },
     "V;FIN;IND;PST;IPFV;PROG;1;PL": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Prog"
-            ],
+            "Aspect": "Imp,Prog",
             "Mood": "Ind",
             "Number": "Plur",
             "Person": "1",
@@ -1030,10 +997,7 @@
     },
     "V;FIN;IND;PST;IPFV;PROG;1;SG": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Prog"
-            ],
+            "Aspect": "Imp,Prog",
             "Mood": "Ind",
             "Number": "Sing",
             "Person": "1",
@@ -1044,10 +1008,7 @@
     },
     "V;FIN;IND;PST;IPFV;PROG;2;PL": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Prog"
-            ],
+            "Aspect": "Imp,Prog",
             "Mood": "Ind",
             "Number": "Plur",
             "Person": "2",
@@ -1058,10 +1019,7 @@
     },
     "V;FIN;IND;PST;IPFV;PROG;2;SG": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Prog"
-            ],
+            "Aspect": "Imp,Prog",
             "Mood": "Ind",
             "Number": "Sing",
             "Person": "2",
@@ -1072,10 +1030,7 @@
     },
     "V;FIN;IND;PST;IPFV;PROG;3;PL": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Prog"
-            ],
+            "Aspect": "Imp,Prog",
             "Mood": "Ind",
             "Number": "Plur",
             "Person": "3",
@@ -1086,10 +1041,7 @@
     },
     "V;FIN;IND;PST;IPFV;PROG;3;SG": {
         "morpho": {
-            "Aspect": [
-                "Imp",
-                "Prog"
-            ],
+            "Aspect": "Imp,Prog",
             "Mood": "Ind",
             "Number": "Sing",
             "Person": "3",

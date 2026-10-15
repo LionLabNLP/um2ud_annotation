@@ -15,10 +15,7 @@
     },
     "ADJ;MASC+FEM;SG": {
         "morpho": {
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "ADJ"
@@ -45,20 +42,14 @@
     },
     "N;FEM+MASC;PL": {
         "morpho": {
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur"
         },
         "upos": "NOUN"
     },
     "N;FEM+MASC;SG": {
         "morpho": {
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -79,20 +70,14 @@
     },
     "N;MASC+FEM;PL": {
         "morpho": {
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur"
         },
         "upos": "NOUN"
     },
     "N;MASC+FEM;SG": {
         "morpho": {
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -125,10 +110,7 @@
             "Person": "1",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;ACC;PRO;1;SG": {
         "morpho": {
@@ -137,10 +119,7 @@
             "Person": "1",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;ACC;PRO;2;PL": {
         "morpho": {
@@ -149,10 +128,7 @@
             "Person": "2",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;ACC;PRO;2;SG": {
         "morpho": {
@@ -161,10 +137,7 @@
             "Person": "2",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;ACC;PRO;3;PL": {
         "morpho": {
@@ -173,10 +146,7 @@
             "Person": "3",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;ACC;PRO;3;SG": {
         "morpho": {
@@ -185,10 +155,7 @@
             "Person": "3",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;COND;1;PL": {
         "morpho": {
@@ -255,10 +222,7 @@
             "Person": "1",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;DAT;PRO;1;SG": {
         "morpho": {
@@ -267,10 +231,7 @@
             "Person": "1",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;DAT;PRO;2;PL": {
         "morpho": {
@@ -279,10 +240,7 @@
             "Person": "2",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;DAT;PRO;2;SG": {
         "morpho": {
@@ -291,10 +249,7 @@
             "Person": "2",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;DAT;PRO;3;PL": {
         "morpho": {
@@ -303,10 +258,7 @@
             "Person": "3",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;DAT;PRO;3;SG": {
         "morpho": {
@@ -315,10 +267,7 @@
             "Person": "3",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;1;PL;ACC;PRO;1;PL": {
         "morpho": {
@@ -328,80 +277,47 @@
             "Person": "1",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;1;PL;ACC;PRO;2;PL": {
         "morpho": {
             "Case": "Acc",
             "Mood": "Imp",
             "Number": "Plur",
-            "Person": [
-                "2",
-                "1"
-            ],
+            "Person": "1,2",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;1;PL;ACC;PRO;2;SG": {
         "morpho": {
             "Case": "Acc",
             "Mood": "Imp",
-            "Number": [
-                "Plur",
-                "Sing"
-            ],
-            "Person": [
-                "2",
-                "1"
-            ],
+            "Number": "Plur,Sing",
+            "Person": "1,2",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;1;PL;ACC;PRO;3;PL": {
         "morpho": {
             "Case": "Acc",
             "Mood": "Imp",
             "Number": "Plur",
-            "Person": [
-                "3",
-                "1"
-            ],
+            "Person": "1,3",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;1;PL;ACC;PRO;3;SG": {
         "morpho": {
             "Case": "Acc",
             "Mood": "Imp",
-            "Number": [
-                "Plur",
-                "Sing"
-            ],
-            "Person": [
-                "3",
-                "1"
-            ],
+            "Number": "Plur,Sing",
+            "Person": "1,3",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;1;PL;DAT;PRO;1;PL": {
         "morpho": {
@@ -411,413 +327,245 @@
             "Person": "1",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;1;PL;DAT;PRO;2;PL": {
         "morpho": {
             "Case": "Dat",
             "Mood": "Imp",
             "Number": "Plur",
-            "Person": [
-                "2",
-                "1"
-            ],
+            "Person": "1,2",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;1;PL;DAT;PRO;2;SG": {
         "morpho": {
             "Case": "Dat",
             "Mood": "Imp",
-            "Number": [
-                "Plur",
-                "Sing"
-            ],
-            "Person": [
-                "2",
-                "1"
-            ],
+            "Number": "Plur,Sing",
+            "Person": "1,2",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;1;PL;DAT;PRO;3;PL": {
         "morpho": {
             "Case": "Dat",
             "Mood": "Imp",
             "Number": "Plur",
-            "Person": [
-                "3",
-                "1"
-            ],
+            "Person": "1,3",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;1;PL;DAT;PRO;3;SG": {
         "morpho": {
             "Case": "Dat",
             "Mood": "Imp",
-            "Number": [
-                "Plur",
-                "Sing"
-            ],
-            "Person": [
-                "3",
-                "1"
-            ],
+            "Number": "Plur,Sing",
+            "Person": "1,3",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;FORM;2;PL;ACC;PRO;1;PL": {
         "morpho": {
             "Case": "Acc",
             "Mood": "Imp",
             "Number": "Plur",
-            "Person": [
-                "2",
-                "1"
-            ],
+            "Person": "1,2",
             "Polite": "Form",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;FORM;2;PL;ACC;PRO;1;SG": {
         "morpho": {
             "Case": "Acc",
             "Mood": "Imp",
-            "Number": [
-                "Plur",
-                "Sing"
-            ],
-            "Person": [
-                "2",
-                "1"
-            ],
+            "Number": "Plur,Sing",
+            "Person": "1,2",
             "Polite": "Form",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;FORM;2;PL;ACC;PRO;3;PL": {
         "morpho": {
             "Case": "Acc",
             "Mood": "Imp",
             "Number": "Plur",
-            "Person": [
-                "3",
-                "2"
-            ],
+            "Person": "2,3",
             "Polite": "Form",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;FORM;2;PL;ACC;PRO;3;SG": {
         "morpho": {
             "Case": "Acc",
             "Mood": "Imp",
-            "Number": [
-                "Plur",
-                "Sing"
-            ],
-            "Person": [
-                "3",
-                "2"
-            ],
+            "Number": "Plur,Sing",
+            "Person": "2,3",
             "Polite": "Form",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;FORM;2;PL;DAT;PRO;1;PL": {
         "morpho": {
             "Case": "Dat",
             "Mood": "Imp",
             "Number": "Plur",
-            "Person": [
-                "2",
-                "1"
-            ],
+            "Person": "1,2",
             "Polite": "Form",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;FORM;2;PL;DAT;PRO;1;SG": {
         "morpho": {
             "Case": "Dat",
             "Mood": "Imp",
-            "Number": [
-                "Plur",
-                "Sing"
-            ],
-            "Person": [
-                "2",
-                "1"
-            ],
+            "Number": "Plur,Sing",
+            "Person": "1,2",
             "Polite": "Form",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;FORM;2;PL;DAT;PRO;3;PL": {
         "morpho": {
             "Case": "Dat",
             "Mood": "Imp",
             "Number": "Plur",
-            "Person": [
-                "3",
-                "2"
-            ],
+            "Person": "2,3",
             "Polite": "Form",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;FORM;2;PL;DAT;PRO;3;SG": {
         "morpho": {
             "Case": "Dat",
             "Mood": "Imp",
-            "Number": [
-                "Plur",
-                "Sing"
-            ],
-            "Person": [
-                "3",
-                "2"
-            ],
+            "Number": "Plur,Sing",
+            "Person": "2,3",
             "Polite": "Form",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;FORM;2;SG;ACC;PRO;1;PL": {
         "morpho": {
             "Case": "Acc",
             "Mood": "Imp",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
-            "Person": [
-                "2",
-                "1"
-            ],
+            "Number": "Plur,Sing",
+            "Person": "1,2",
             "Polite": "Form",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;FORM;2;SG;ACC;PRO;1;SG": {
         "morpho": {
             "Case": "Acc",
             "Mood": "Imp",
             "Number": "Sing",
-            "Person": [
-                "2",
-                "1"
-            ],
+            "Person": "1,2",
             "Polite": "Form",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;FORM;2;SG;ACC;PRO;3;PL": {
         "morpho": {
             "Case": "Acc",
             "Mood": "Imp",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
-            "Person": [
-                "3",
-                "2"
-            ],
+            "Number": "Plur,Sing",
+            "Person": "2,3",
             "Polite": "Form",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;FORM;2;SG;ACC;PRO;3;SG": {
         "morpho": {
             "Case": "Acc",
             "Mood": "Imp",
             "Number": "Sing",
-            "Person": [
-                "3",
-                "2"
-            ],
+            "Person": "2,3",
             "Polite": "Form",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;FORM;2;SG;DAT;PRO;1;PL": {
         "morpho": {
             "Case": "Dat",
             "Mood": "Imp",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
-            "Person": [
-                "2",
-                "1"
-            ],
+            "Number": "Plur,Sing",
+            "Person": "1,2",
             "Polite": "Form",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;FORM;2;SG;DAT;PRO;1;SG": {
         "morpho": {
             "Case": "Dat",
             "Mood": "Imp",
             "Number": "Sing",
-            "Person": [
-                "2",
-                "1"
-            ],
+            "Person": "1,2",
             "Polite": "Form",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;FORM;2;SG;DAT;PRO;3;PL": {
         "morpho": {
             "Case": "Dat",
             "Mood": "Imp",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
-            "Person": [
-                "3",
-                "2"
-            ],
+            "Number": "Plur,Sing",
+            "Person": "2,3",
             "Polite": "Form",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;FORM;2;SG;DAT;PRO;3;SG": {
         "morpho": {
             "Case": "Dat",
             "Mood": "Imp",
             "Number": "Sing",
-            "Person": [
-                "3",
-                "2"
-            ],
+            "Person": "2,3",
             "Polite": "Form",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;INFM;2;PL;ACC;PRO;1;PL": {
         "morpho": {
             "Case": "Acc",
             "Mood": "Imp",
             "Number": "Plur",
-            "Person": [
-                "2",
-                "1"
-            ],
+            "Person": "1,2",
             "Polite": "Infm",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;INFM;2;PL;ACC;PRO;1;SG": {
         "morpho": {
             "Case": "Acc",
             "Mood": "Imp",
-            "Number": [
-                "Plur",
-                "Sing"
-            ],
-            "Person": [
-                "2",
-                "1"
-            ],
+            "Number": "Plur,Sing",
+            "Person": "1,2",
             "Polite": "Infm",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;INFM;2;PL;ACC;PRO;2;PL": {
         "morpho": {
@@ -828,84 +576,51 @@
             "Polite": "Infm",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;INFM;2;PL;ACC;PRO;3;PL": {
         "morpho": {
             "Case": "Acc",
             "Mood": "Imp",
             "Number": "Plur",
-            "Person": [
-                "3",
-                "2"
-            ],
+            "Person": "2,3",
             "Polite": "Infm",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;INFM;2;PL;ACC;PRO;3;SG": {
         "morpho": {
             "Case": "Acc",
             "Mood": "Imp",
-            "Number": [
-                "Plur",
-                "Sing"
-            ],
-            "Person": [
-                "3",
-                "2"
-            ],
+            "Number": "Plur,Sing",
+            "Person": "2,3",
             "Polite": "Infm",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;INFM;2;PL;DAT;PRO;1;PL": {
         "morpho": {
             "Case": "Dat",
             "Mood": "Imp",
             "Number": "Plur",
-            "Person": [
-                "2",
-                "1"
-            ],
+            "Person": "1,2",
             "Polite": "Infm",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;INFM;2;PL;DAT;PRO;1;SG": {
         "morpho": {
             "Case": "Dat",
             "Mood": "Imp",
-            "Number": [
-                "Plur",
-                "Sing"
-            ],
-            "Person": [
-                "2",
-                "1"
-            ],
+            "Number": "Plur,Sing",
+            "Person": "1,2",
             "Polite": "Infm",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;INFM;2;PL;DAT;PRO;2;PL": {
         "morpho": {
@@ -916,84 +631,51 @@
             "Polite": "Infm",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;INFM;2;PL;DAT;PRO;3;PL": {
         "morpho": {
             "Case": "Dat",
             "Mood": "Imp",
             "Number": "Plur",
-            "Person": [
-                "3",
-                "2"
-            ],
+            "Person": "2,3",
             "Polite": "Infm",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;INFM;2;PL;DAT;PRO;3;SG": {
         "morpho": {
             "Case": "Dat",
             "Mood": "Imp",
-            "Number": [
-                "Plur",
-                "Sing"
-            ],
-            "Person": [
-                "3",
-                "2"
-            ],
+            "Number": "Plur,Sing",
+            "Person": "2,3",
             "Polite": "Infm",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;INFM;2;SG;ACC;PRO;1;PL": {
         "morpho": {
             "Case": "Acc",
             "Mood": "Imp",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
-            "Person": [
-                "2",
-                "1"
-            ],
+            "Number": "Plur,Sing",
+            "Person": "1,2",
             "Polite": "Infm",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;INFM;2;SG;ACC;PRO;1;SG": {
         "morpho": {
             "Case": "Acc",
             "Mood": "Imp",
             "Number": "Sing",
-            "Person": [
-                "2",
-                "1"
-            ],
+            "Person": "1,2",
             "Polite": "Infm",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;INFM;2;SG;ACC;PRO;2;SG": {
         "morpho": {
@@ -1004,84 +686,51 @@
             "Polite": "Infm",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;INFM;2;SG;ACC;PRO;3;PL": {
         "morpho": {
             "Case": "Acc",
             "Mood": "Imp",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
-            "Person": [
-                "3",
-                "2"
-            ],
+            "Number": "Plur,Sing",
+            "Person": "2,3",
             "Polite": "Infm",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;INFM;2;SG;ACC;PRO;3;SG": {
         "morpho": {
             "Case": "Acc",
             "Mood": "Imp",
             "Number": "Sing",
-            "Person": [
-                "3",
-                "2"
-            ],
+            "Person": "2,3",
             "Polite": "Infm",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;INFM;2;SG;DAT;PRO;1;PL": {
         "morpho": {
             "Case": "Dat",
             "Mood": "Imp",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
-            "Person": [
-                "2",
-                "1"
-            ],
+            "Number": "Plur,Sing",
+            "Person": "1,2",
             "Polite": "Infm",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;INFM;2;SG;DAT;PRO;1;SG": {
         "morpho": {
             "Case": "Dat",
             "Mood": "Imp",
             "Number": "Sing",
-            "Person": [
-                "2",
-                "1"
-            ],
+            "Person": "1,2",
             "Polite": "Infm",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;INFM;2;SG;DAT;PRO;2;SG": {
         "morpho": {
@@ -1092,47 +741,29 @@
             "Polite": "Infm",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;INFM;2;SG;DAT;PRO;3;PL": {
         "morpho": {
             "Case": "Dat",
             "Mood": "Imp",
-            "Number": [
-                "Sing",
-                "Plur"
-            ],
-            "Person": [
-                "3",
-                "2"
-            ],
+            "Number": "Plur,Sing",
+            "Person": "2,3",
             "Polite": "Infm",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IMP;INFM;2;SG;DAT;PRO;3;SG": {
         "morpho": {
             "Case": "Dat",
             "Mood": "Imp",
             "Number": "Sing",
-            "Person": [
-                "3",
-                "2"
-            ],
+            "Person": "2,3",
             "Polite": "Infm",
             "PronType": "Prn"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;IND;FUT;1;PL": {
         "morpho": {
@@ -1788,10 +1419,7 @@
             "Tense": "Pres",
             "VerbForm": "Conv"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;V.CVB;PRS;ACC;PRO;1;SG": {
         "morpho": {
@@ -1802,10 +1430,7 @@
             "Tense": "Pres",
             "VerbForm": "Conv"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;V.CVB;PRS;ACC;PRO;2;PL": {
         "morpho": {
@@ -1816,10 +1441,7 @@
             "Tense": "Pres",
             "VerbForm": "Conv"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;V.CVB;PRS;ACC;PRO;2;SG": {
         "morpho": {
@@ -1830,10 +1452,7 @@
             "Tense": "Pres",
             "VerbForm": "Conv"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;V.CVB;PRS;ACC;PRO;3;PL": {
         "morpho": {
@@ -1844,10 +1463,7 @@
             "Tense": "Pres",
             "VerbForm": "Conv"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;V.CVB;PRS;ACC;PRO;3;SG": {
         "morpho": {
@@ -1858,10 +1474,7 @@
             "Tense": "Pres",
             "VerbForm": "Conv"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;V.CVB;PRS;DAT;PRO;1;PL": {
         "morpho": {
@@ -1872,10 +1485,7 @@
             "Tense": "Pres",
             "VerbForm": "Conv"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;V.CVB;PRS;DAT;PRO;1;SG": {
         "morpho": {
@@ -1886,10 +1496,7 @@
             "Tense": "Pres",
             "VerbForm": "Conv"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;V.CVB;PRS;DAT;PRO;2;PL": {
         "morpho": {
@@ -1900,10 +1507,7 @@
             "Tense": "Pres",
             "VerbForm": "Conv"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;V.CVB;PRS;DAT;PRO;2;SG": {
         "morpho": {
@@ -1914,10 +1518,7 @@
             "Tense": "Pres",
             "VerbForm": "Conv"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;V.CVB;PRS;DAT;PRO;3;PL": {
         "morpho": {
@@ -1928,10 +1529,7 @@
             "Tense": "Pres",
             "VerbForm": "Conv"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;V.CVB;PRS;DAT;PRO;3;SG": {
         "morpho": {
@@ -1942,10 +1540,7 @@
             "Tense": "Pres",
             "VerbForm": "Conv"
         },
-        "upos": [
-            "PRON",
-            "VERB"
-        ]
+        "upos": "PRON,VERB"
     },
     "V;V.PTCP;PST;FEM;PL": {
         "morpho": {

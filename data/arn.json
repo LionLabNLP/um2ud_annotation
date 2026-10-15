@@ -1,0 +1,218 @@
+{
+    "V;1;DU;COND": {
+        "morpho": {
+            "Mood": "Cnd",
+            "Number": "Dual",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;DU;REAL": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Dual",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;DU;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Dual",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;COND": {
+        "morpho": {
+            "Mood": "Cnd",
+            "Number": "Plur",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;REAL": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Plur",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;COND": {
+        "morpho": {
+            "Mood": "Cnd",
+            "Number": "Sing",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;REAL": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Sing",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;2;DU;COND": {
+        "morpho": {
+            "Mood": "Cnd",
+            "Number": "Dual",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;DU;REAL": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Dual",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;DU;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Dual",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;COND": {
+        "morpho": {
+            "Mood": "Cnd",
+            "Number": "Plur",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;REAL": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Plur",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;COND": {
+        "morpho": {
+            "Mood": "Cnd",
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;REAL": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;3;DU;COND": {
+        "morpho": {
+            "Mood": "Cnd",
+            "Number": "Dual",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;DU;REAL": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Dual",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;DU;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Dual",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;COND": {
+        "morpho": {
+            "Mood": "Cnd",
+            "Number": "Plur",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;REAL": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Plur",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;COND": {
+        "morpho": {
+            "Mood": "Cnd",
+            "Number": "Sing",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;REAL": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Sing",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    }
+}

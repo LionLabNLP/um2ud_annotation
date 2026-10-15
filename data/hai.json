@@ -1,0 +1,1454 @@
+{
+    "V;3;PL;DRCT;PST": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;DRCT;PST;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;DUR": {
+        "morpho": {
+            "Aspect": "Dur",
+            "Number": "Plur",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;FUT;LGSPEC6": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;FUT;REFL;INT": {
+        "morpho": {
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Reflex": "yes",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;IMMED;FUT": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;IMMED;PRS": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;INT;FUT;LGSPEC8": {
+        "morpho": {
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;INT;FUT;REMT": {
+        "morpho": {
+            "Deixis": "Remt",
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;INT;LGSPEC8;PRS": {
+        "morpho": {
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;INT;MED;FUT": {
+        "morpho": {
+            "Deixis": "Med",
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;INT;PROX;FUT": {
+        "morpho": {
+            "Deixis": "Prox",
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;INT;PRS;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;INT;PST": {
+        "morpho": {
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;INT;PST;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;IRR;PRS": {
+        "morpho": {
+            "Mood": "Irr",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;LGSPEC1;IMMED;PRS": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;LGSPEC1;INT;FUT": {
+        "morpho": {
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;LGSPEC1;INT;PRS": {
+        "morpho": {
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;LGSPEC1;INT;PST": {
+        "morpho": {
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;LGSPEC1;INT;PST;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;LGSPEC1;LGSPEC8;PRS": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;LGSPEC2;FUT": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;LGSPEC2;PRS": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;LGSPEC2;PST": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;LGSPEC2;PST;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;LGSPEC2;REL": {
+        "morpho": {
+            "Case": "Rel",
+            "Number": "Plur",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;LGSPEC4;PST": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;LGSPEC4;PST;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;LGSPEC5;PST": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;LGSPEC6": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;LGSPEC7": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;LGSPEC8;FUT": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;LGSPEC8;PRS": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;LGSPEC9;MED;FUT": {
+        "morpho": {
+            "Deixis": "Med",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;MED;FUT": {
+        "morpho": {
+            "Deixis": "Med",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;PROX;FUT": {
+        "morpho": {
+            "Deixis": "Prox",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;PRS;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;PRS;HAB;LGSPEC6": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;PST;LGSPEC6": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;REFL": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Reflex": "yes"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;REL": {
+        "morpho": {
+            "Case": "Rel",
+            "Number": "Plur",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;REL;FUT": {
+        "morpho": {
+            "Case": "Rel",
+            "Number": "Plur",
+            "Person": "3",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;REL;LGSPEC3": {
+        "morpho": {
+            "Case": "Rel",
+            "Number": "Plur",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;DRCT;PST": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;DRCT;PST;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;DUR": {
+        "morpho": {
+            "Aspect": "Dur"
+        },
+        "upos": "VERB"
+    },
+    "V;FUT;LGSPEC6": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;FUT;REFL;INT": {
+        "morpho": {
+            "Mood": "Int",
+            "Reflex": "yes",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;IMMED;FUT": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;IMMED;PRS": {
+        "morpho": {
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;INT;FUT;LGSPEC8": {
+        "morpho": {
+            "Mood": "Int",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;INT;FUT;REMT": {
+        "morpho": {
+            "Deixis": "Remt",
+            "Mood": "Int",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;INT;LGSPEC8;PRS": {
+        "morpho": {
+            "Mood": "Int",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;INT;MED;FUT": {
+        "morpho": {
+            "Deixis": "Med",
+            "Mood": "Int",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;INT;PROX;FUT": {
+        "morpho": {
+            "Deixis": "Prox",
+            "Mood": "Int",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;INT;PRS;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Mood": "Int",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;INT;PST": {
+        "morpho": {
+            "Mood": "Int",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;INT;PST;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Mood": "Int",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;IRR;PRS": {
+        "morpho": {
+            "Mood": "Irr",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;LGSPEC1;IMMED;PRS": {
+        "morpho": {
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;LGSPEC1;INT;FUT": {
+        "morpho": {
+            "Mood": "Int",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;LGSPEC1;INT;PRS": {
+        "morpho": {
+            "Mood": "Int",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;LGSPEC1;INT;PST": {
+        "morpho": {
+            "Mood": "Int",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;LGSPEC1;INT;PST;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Mood": "Int",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;LGSPEC1;LGSPEC8;PRS": {
+        "morpho": {
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;LGSPEC2;FUT": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;LGSPEC2;PRS": {
+        "morpho": {
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;LGSPEC2;PST": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;LGSPEC2;PST;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;LGSPEC2;REL": {
+        "morpho": {
+            "Case": "Rel"
+        },
+        "upos": "VERB"
+    },
+    "V;LGSPEC4;PST": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;LGSPEC4;PST;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;LGSPEC5;PST": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;LGSPEC6": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;LGSPEC7": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;LGSPEC8;FUT": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;LGSPEC8;PRS": {
+        "morpho": {
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;LGSPEC9;MED;FUT": {
+        "morpho": {
+            "Deixis": "Med",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;MED;FUT": {
+        "morpho": {
+            "Deixis": "Med",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;DRCT;PST": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;DRCT;PST;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;DUR": {
+        "morpho": {
+            "Aspect": "Dur",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;FUT;LGSPEC6": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;FUT;REFL;INT": {
+        "morpho": {
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Reflex": "yes",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;IMMED;FUT": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;IMMED;PRS": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;INT;FUT;LGSPEC8": {
+        "morpho": {
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;INT;FUT;REMT": {
+        "morpho": {
+            "Deixis": "Remt",
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;INT;LGSPEC8;PRS": {
+        "morpho": {
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;INT;MED;FUT": {
+        "morpho": {
+            "Deixis": "Med",
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;INT;PROX;FUT": {
+        "morpho": {
+            "Deixis": "Prox",
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;INT;PRS;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;INT;PST": {
+        "morpho": {
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;INT;PST;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;IRR;PRS": {
+        "morpho": {
+            "Mood": "Irr",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;LGSPEC1;IMMED;PRS": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;LGSPEC1;INT;FUT": {
+        "morpho": {
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;LGSPEC1;INT;PRS": {
+        "morpho": {
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;LGSPEC1;INT;PST": {
+        "morpho": {
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;LGSPEC1;INT;PST;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Mood": "Int",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;LGSPEC1;LGSPEC8;PRS": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;LGSPEC2;FUT": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;LGSPEC2;PRS": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;LGSPEC2;PST": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;LGSPEC2;PST;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;LGSPEC2;REL": {
+        "morpho": {
+            "Case": "Rel",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;LGSPEC4;PST": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;LGSPEC4;PST;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;LGSPEC5;PST": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;LGSPEC6": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;LGSPEC7": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;LGSPEC8;FUT": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;LGSPEC8;PRS": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;LGSPEC9;MED;FUT": {
+        "morpho": {
+            "Deixis": "Med",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;MED;FUT": {
+        "morpho": {
+            "Deixis": "Med",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;PROX;FUT": {
+        "morpho": {
+            "Deixis": "Prox",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;PRS;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;PRS;HAB;LGSPEC6": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;PST;LGSPEC6": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;REFL": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Reflex": "yes"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;REL": {
+        "morpho": {
+            "Case": "Rel",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;REL;FUT": {
+        "morpho": {
+            "Case": "Rel",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;3;PL;REL;LGSPEC3": {
+        "morpho": {
+            "Case": "Rel",
+            "Number": "Plur",
+            "Person": "3",
+            "Polarity": "Neg"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;DRCT;PST": {
+        "morpho": {
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;DRCT;PST;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;DUR": {
+        "morpho": {
+            "Aspect": "Dur",
+            "Polarity": "Neg"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;FUT;LGSPEC6": {
+        "morpho": {
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;FUT;REFL;INT": {
+        "morpho": {
+            "Mood": "Int",
+            "Polarity": "Neg",
+            "Reflex": "yes",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;IMMED;FUT": {
+        "morpho": {
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;IMMED;PRS": {
+        "morpho": {
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;INT;FUT;LGSPEC8": {
+        "morpho": {
+            "Mood": "Int",
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;INT;FUT;REMT": {
+        "morpho": {
+            "Deixis": "Remt",
+            "Mood": "Int",
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;INT;LGSPEC8;PRS": {
+        "morpho": {
+            "Mood": "Int",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;INT;MED;FUT": {
+        "morpho": {
+            "Deixis": "Med",
+            "Mood": "Int",
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;INT;PROX;FUT": {
+        "morpho": {
+            "Deixis": "Prox",
+            "Mood": "Int",
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;INT;PRS;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Mood": "Int",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;INT;PST": {
+        "morpho": {
+            "Mood": "Int",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;INT;PST;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Mood": "Int",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;IRR;PRS": {
+        "morpho": {
+            "Mood": "Irr",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;LGSPEC1;IMMED;PRS": {
+        "morpho": {
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;LGSPEC1;INT;FUT": {
+        "morpho": {
+            "Mood": "Int",
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;LGSPEC1;INT;PRS": {
+        "morpho": {
+            "Mood": "Int",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;LGSPEC1;INT;PST": {
+        "morpho": {
+            "Mood": "Int",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;LGSPEC1;INT;PST;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Mood": "Int",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;LGSPEC1;LGSPEC8;PRS": {
+        "morpho": {
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;LGSPEC2;FUT": {
+        "morpho": {
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;LGSPEC2;PRS": {
+        "morpho": {
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;LGSPEC2;PST": {
+        "morpho": {
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;LGSPEC2;PST;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;LGSPEC2;REL": {
+        "morpho": {
+            "Case": "Rel",
+            "Polarity": "Neg"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;LGSPEC4;PST": {
+        "morpho": {
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;LGSPEC4;PST;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;LGSPEC5;PST": {
+        "morpho": {
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;LGSPEC6": {
+        "morpho": {
+            "Polarity": "Neg"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;LGSPEC7": {
+        "morpho": {
+            "Polarity": "Neg"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;LGSPEC8;FUT": {
+        "morpho": {
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;LGSPEC8;PRS": {
+        "morpho": {
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;MED;FUT": {
+        "morpho": {
+            "Deixis": "Med",
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;PL;IMP": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Polarity": "Neg"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;PROX;FUT": {
+        "morpho": {
+            "Deixis": "Prox",
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;PRS;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;PRS;HAB;LGSPEC6": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;PST;LGSPEC6": {
+        "morpho": {
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;REFL": {
+        "morpho": {
+            "Polarity": "Neg",
+            "Reflex": "yes"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;REL": {
+        "morpho": {
+            "Case": "Rel",
+            "Polarity": "Neg"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;REL;FUT": {
+        "morpho": {
+            "Case": "Rel",
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;REL;LGSPEC3": {
+        "morpho": {
+            "Case": "Rel",
+            "Polarity": "Neg"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;SG;IMP": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Polarity": "Neg"
+        },
+        "upos": "VERB"
+    },
+    "V;PL;IMP": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Plur"
+        },
+        "upos": "VERB"
+    },
+    "V;PROX;FUT": {
+        "morpho": {
+            "Deixis": "Prox",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;HAB": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;HAB;LGSPEC6": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;LGSPEC6": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;REFL": {
+        "morpho": {
+            "Reflex": "yes"
+        },
+        "upos": "VERB"
+    },
+    "V;REL": {
+        "morpho": {
+            "Case": "Rel"
+        },
+        "upos": "VERB"
+    },
+    "V;REL;FUT": {
+        "morpho": {
+            "Case": "Rel",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;REL;LGSPEC3": {
+        "morpho": {
+            "Case": "Rel"
+        },
+        "upos": "VERB"
+    },
+    "V;SG;IMP": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing"
+        },
+        "upos": "VERB"
+    }
+}

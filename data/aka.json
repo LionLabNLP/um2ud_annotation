@@ -1,0 +1,302 @@
+{
+    "V;HAB+PRF;NEG;PRS": {
+        "morpho": {
+            "Aspect": "Hab,Perf",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;HAB+PRF;NEG;PST": {
+        "morpho": {
+            "Aspect": "Hab,Perf",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;HAB+PRF;PRS": {
+        "morpho": {
+            "Aspect": "Hab,Perf",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;HAB+PRF;PST": {
+        "morpho": {
+            "Aspect": "Hab,Perf",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;HAB+PROG;NEG;PRS": {
+        "morpho": {
+            "Aspect": "Hab,Prog",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;HAB+PROG;NEG;PST": {
+        "morpho": {
+            "Aspect": "Hab,Prog",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;HAB+PROG;PRS": {
+        "morpho": {
+            "Aspect": "Hab,Prog",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;HAB+PROG;PST": {
+        "morpho": {
+            "Aspect": "Hab,Prog",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;HAB;FUT": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;HAB;NEG;FUT": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;HAB;NEG;PRS": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;HAB;NEG;PST": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;HAB;PRS": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;HAB;PST": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;NEG;PRS": {
+        "morpho": {
+            "Mood": "Imp",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;PRS": {
+        "morpho": {
+            "Mood": "Imp",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;PRS;LGSPEC1": {
+        "morpho": {
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;PST+IMMED": {
+        "morpho": {
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;PST;LGSPEC1": {
+        "morpho": {
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NFIN": {
+        "morpho": {
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    },
+    "V;PRF;NEG;PRS+IMMED": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRF;NEG;PRS;LGSPEC1": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRF;NEG;PST+IMMED": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PRF;NEG;PST;LGSPEC1": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PRF;PRS+IMMED": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRF;PRS;LGSPEC1": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRF;PST+IMMED": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PRF;PST;LGSPEC1": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;NEG;PRS+IMMED": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;NEG;PRS;LGSPEC1": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;NEG;PST+IMMED": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;NEG;PST;LGSPEC1": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;PRS+IMMED": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;PRS;LGSPEC1": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;PST+IMMED": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PROG;PST;LGSPEC1": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;LGSPEC1": {
+        "morpho": {
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PST+IMMED": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;LGSPEC1": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;NEG;PRS": {
+        "morpho": {
+            "Mood": "Sub",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;SBJV;PRS": {
+        "morpho": {
+            "Mood": "Sub",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    }
+}
