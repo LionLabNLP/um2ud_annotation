@@ -232,6 +232,7 @@ UM2UD_values = dict(sorted({
     "CONJ":     {"upos": "CONJ"},     # Conjunction, Zeman, strictly not UD (CCONJ vs SCONJ)
     "CLF":      {"upos": "NOUN",      # Classifier, Zeman, not in UM data
                  "NounType": "Class"},
+    "COMP":     {"upos": "SCONJ"},    # Complementizer, not in UM data (modified from just CONJ)
     "DET":      {"upos": "DET",
                  "PronType": "Prn"},  # Determiner, prontype according to Zeman; chukchi, karelian, xibe
     "INTJ":     {"upos": "INTJ"},     # Interjection
@@ -255,7 +256,7 @@ UM2UD_values = dict(sorted({
     "PRE":      {"upos": "ADP"},      # preposition, used in livvi, veps; not in UM docs, but found in UM data
 
     # (VALENCY)
-    "REFL": {"Reflex": "yes"},  # Zeman
+    "REFL": {"Reflex": "Yes"},  # Zeman
     "DITR": {"SubCat": "Tran"}, # Ditransitive, Zeman, not in UM data
 
     # VERBFORM
