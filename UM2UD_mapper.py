@@ -548,7 +548,7 @@ def safe_dict_update(dict1, dict2, is_disjunction=False):
         if k not in dict1:
             # no conflict
             dict1[k] = v
-        elif dict[k]==v or v=="NonFin": # let more specific verbform override generic nonfin
+        elif dict1[k]==v or v=="NonFin": # let more specific verbform override generic nonfin
             continue
         elif is_disjunction:
             # 2+ values are given as a disjunction; e.g. MASC/FEM -> Fem,Masc
