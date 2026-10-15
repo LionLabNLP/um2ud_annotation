@@ -1,0 +1,1762 @@
+{
+    "ADJ;1;PL": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "1"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;1;SG": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;2;PL": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "2"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;2;SG": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;BANTU1": {
+        "morpho": {
+            "NounClass": "Bantu1"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;BANTU10": {
+        "morpho": {
+            "NounClass": "Bantu10"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;BANTU11": {
+        "morpho": {
+            "NounClass": "Bantu11"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;BANTU14": {
+        "morpho": {
+            "NounClass": "Bantu14"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;BANTU15": {
+        "morpho": {
+            "NounClass": "Bantu15"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;BANTU17": {
+        "morpho": {
+            "NounClass": "Bantu17"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;BANTU2": {
+        "morpho": {
+            "NounClass": "Bantu2"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;BANTU3": {
+        "morpho": {
+            "NounClass": "Bantu3"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;BANTU4": {
+        "morpho": {
+            "NounClass": "Bantu4"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;BANTU5": {
+        "morpho": {
+            "NounClass": "Bantu5"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;BANTU6": {
+        "morpho": {
+            "NounClass": "Bantu6"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;BANTU7": {
+        "morpho": {
+            "NounClass": "Bantu7"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;BANTU8": {
+        "morpho": {
+            "NounClass": "Bantu8"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;BANTU9": {
+        "morpho": {
+            "NounClass": "Bantu9"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;LGSPEC1;1;PL": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "1"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;LGSPEC1;1;SG": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;LGSPEC1;2;PL": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "2"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;LGSPEC1;2;SG": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;LGSPEC1;BANTU1": {
+        "morpho": {
+            "NounClass": "Bantu1"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;LGSPEC1;BANTU10": {
+        "morpho": {
+            "NounClass": "Bantu10"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;LGSPEC1;BANTU11": {
+        "morpho": {
+            "NounClass": "Bantu11"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;LGSPEC1;BANTU14": {
+        "morpho": {
+            "NounClass": "Bantu14"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;LGSPEC1;BANTU15": {
+        "morpho": {
+            "NounClass": "Bantu15"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;LGSPEC1;BANTU17": {
+        "morpho": {
+            "NounClass": "Bantu17"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;LGSPEC1;BANTU2": {
+        "morpho": {
+            "NounClass": "Bantu2"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;LGSPEC1;BANTU3": {
+        "morpho": {
+            "NounClass": "Bantu3"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;LGSPEC1;BANTU4": {
+        "morpho": {
+            "NounClass": "Bantu4"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;LGSPEC1;BANTU5": {
+        "morpho": {
+            "NounClass": "Bantu5"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;LGSPEC1;BANTU6": {
+        "morpho": {
+            "NounClass": "Bantu6"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;LGSPEC1;BANTU7": {
+        "morpho": {
+            "NounClass": "Bantu7"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;LGSPEC1;BANTU8": {
+        "morpho": {
+            "NounClass": "Bantu8"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;LGSPEC1;BANTU9": {
+        "morpho": {
+            "NounClass": "Bantu9"
+        },
+        "upos": "ADJ"
+    },
+    "N;PL": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;LGSPEC1": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;LGSPEC1;PSSB1": {
+        "morpho": {
+            "Number": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;LGSPEC1;PSSB10": {
+        "morpho": {
+            "Number": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;LGSPEC1;PSSB11": {
+        "morpho": {
+            "Number": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;LGSPEC1;PSSB14": {
+        "morpho": {
+            "Number": "Plur",
+            "Person[psor]": "4"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;LGSPEC1;PSSB15": {
+        "morpho": {
+            "Number": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;LGSPEC1;PSSB17": {
+        "morpho": {
+            "Number": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;LGSPEC1;PSSB2": {
+        "morpho": {
+            "Number": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;LGSPEC1;PSSB3": {
+        "morpho": {
+            "Number": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;LGSPEC1;PSSB4": {
+        "morpho": {
+            "Number": "Plur",
+            "Person[psor]": "4"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;LGSPEC1;PSSB5": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;LGSPEC1;PSSB6": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;LGSPEC1;PSSB7": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;LGSPEC1;PSSB8": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;LGSPEC1;PSSB9": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;LGSPEC2": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;LOC": {
+        "morpho": {
+            "Case": "Loc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;PSSB1": {
+        "morpho": {
+            "Number": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;PSSB10": {
+        "morpho": {
+            "Number": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;PSSB11": {
+        "morpho": {
+            "Number": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;PSSB14": {
+        "morpho": {
+            "Number": "Plur",
+            "Person[psor]": "4"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;PSSB15": {
+        "morpho": {
+            "Number": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;PSSB17": {
+        "morpho": {
+            "Number": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;PSSB2": {
+        "morpho": {
+            "Number": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;PSSB3": {
+        "morpho": {
+            "Number": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;PSSB4": {
+        "morpho": {
+            "Number": "Plur",
+            "Person[psor]": "4"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;PSSB5": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;PSSB6": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;PSSB7": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;PSSB8": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;PSSB9": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG": {
+        "morpho": {
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;LGSPEC1": {
+        "morpho": {
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;LGSPEC1;PSSB1": {
+        "morpho": {
+            "Number": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;LGSPEC1;PSSB10": {
+        "morpho": {
+            "Number": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;LGSPEC1;PSSB11": {
+        "morpho": {
+            "Number": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;LGSPEC1;PSSB14": {
+        "morpho": {
+            "Number": "Sing",
+            "Person[psor]": "4"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;LGSPEC1;PSSB15": {
+        "morpho": {
+            "Number": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;LGSPEC1;PSSB17": {
+        "morpho": {
+            "Number": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;LGSPEC1;PSSB2": {
+        "morpho": {
+            "Number": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;LGSPEC1;PSSB3": {
+        "morpho": {
+            "Number": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;LGSPEC1;PSSB4": {
+        "morpho": {
+            "Number": "Sing",
+            "Person[psor]": "4"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;LGSPEC1;PSSB5": {
+        "morpho": {
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;LGSPEC1;PSSB6": {
+        "morpho": {
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;LGSPEC1;PSSB7": {
+        "morpho": {
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;LGSPEC1;PSSB8": {
+        "morpho": {
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;LGSPEC1;PSSB9": {
+        "morpho": {
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;LGSPEC2": {
+        "morpho": {
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;LOC": {
+        "morpho": {
+            "Case": "Loc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;PSSB1": {
+        "morpho": {
+            "Number": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;PSSB10": {
+        "morpho": {
+            "Number": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;PSSB11": {
+        "morpho": {
+            "Number": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;PSSB14": {
+        "morpho": {
+            "Number": "Sing",
+            "Person[psor]": "4"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;PSSB15": {
+        "morpho": {
+            "Number": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;PSSB17": {
+        "morpho": {
+            "Number": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;PSSB2": {
+        "morpho": {
+            "Number": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;PSSB3": {
+        "morpho": {
+            "Number": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;PSSB4": {
+        "morpho": {
+            "Number": "Sing",
+            "Person[psor]": "4"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;PSSB5": {
+        "morpho": {
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;PSSB6": {
+        "morpho": {
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;PSSB7": {
+        "morpho": {
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;PSSB8": {
+        "morpho": {
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;PSSB9": {
+        "morpho": {
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "V;1;PL;FUT": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;PRS": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;RCT;PST": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;RCT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;RMT;PST": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;RMT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Number": "Plur",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Plur",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;V.PTCP": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "1",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;FUT": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;PRS": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;RCT;PST": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;RCT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;RMT;PST": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;RMT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Sing",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;V.PTCP": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;FUT": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "2",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;PRS": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "2",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;RCT;PST": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;RCT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Number": "Plur",
+            "Person": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;RMT;PST": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;RMT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Number": "Plur",
+            "Person": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Plur",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;V.PTCP": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "2",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;FUT": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;PRS": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;RCT;PST": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;RCT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;RMT;PST": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;RMT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;V.PTCP": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU10;FUT": {
+        "morpho": {
+            "NounClass": "Bantu10",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU10;PRS": {
+        "morpho": {
+            "NounClass": "Bantu10",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU10;RCT;PST": {
+        "morpho": {
+            "NounClass": "Bantu10",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU10;RCT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu10",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU10;RMT;PST": {
+        "morpho": {
+            "NounClass": "Bantu10",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU10;RMT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu10",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU10;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "NounClass": "Bantu10"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU10;V.PTCP": {
+        "morpho": {
+            "NounClass": "Bantu10",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU11;FUT": {
+        "morpho": {
+            "NounClass": "Bantu11",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU11;PRS": {
+        "morpho": {
+            "NounClass": "Bantu11",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU11;RCT;PST": {
+        "morpho": {
+            "NounClass": "Bantu11",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU11;RCT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu11",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU11;RMT;PST": {
+        "morpho": {
+            "NounClass": "Bantu11",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU11;RMT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu11",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU11;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "NounClass": "Bantu11"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU11;V.PTCP": {
+        "morpho": {
+            "NounClass": "Bantu11",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU14;FUT": {
+        "morpho": {
+            "NounClass": "Bantu14",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU14;PRS": {
+        "morpho": {
+            "NounClass": "Bantu14",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU14;RCT;PST": {
+        "morpho": {
+            "NounClass": "Bantu14",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU14;RCT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu14",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU14;RMT;PST": {
+        "morpho": {
+            "NounClass": "Bantu14",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU14;RMT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu14",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU14;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "NounClass": "Bantu14"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU14;V.PTCP": {
+        "morpho": {
+            "NounClass": "Bantu14",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU15;FUT": {
+        "morpho": {
+            "NounClass": "Bantu15",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU15;PRS": {
+        "morpho": {
+            "NounClass": "Bantu15",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU15;RCT;PST": {
+        "morpho": {
+            "NounClass": "Bantu15",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU15;RCT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu15",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU15;RMT;PST": {
+        "morpho": {
+            "NounClass": "Bantu15",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU15;RMT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu15",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU15;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "NounClass": "Bantu15"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU15;V.PTCP": {
+        "morpho": {
+            "NounClass": "Bantu15",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU17;FUT": {
+        "morpho": {
+            "NounClass": "Bantu17",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU17;PRS": {
+        "morpho": {
+            "NounClass": "Bantu17",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU17;RCT;PST": {
+        "morpho": {
+            "NounClass": "Bantu17",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU17;RCT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu17",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU17;RMT;PST": {
+        "morpho": {
+            "NounClass": "Bantu17",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU17;RMT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu17",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU17;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "NounClass": "Bantu17"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU17;V.PTCP": {
+        "morpho": {
+            "NounClass": "Bantu17",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU1;FUT": {
+        "morpho": {
+            "NounClass": "Bantu1",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU1;PRS": {
+        "morpho": {
+            "NounClass": "Bantu1",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU1;RCT;PST": {
+        "morpho": {
+            "NounClass": "Bantu1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU1;RCT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU1;RMT;PST": {
+        "morpho": {
+            "NounClass": "Bantu1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU1;RMT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU1;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "NounClass": "Bantu1"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU1;V.PTCP": {
+        "morpho": {
+            "NounClass": "Bantu1",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU2;FUT": {
+        "morpho": {
+            "NounClass": "Bantu2",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU2;PRS": {
+        "morpho": {
+            "NounClass": "Bantu2",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU2;RCT;PST": {
+        "morpho": {
+            "NounClass": "Bantu2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU2;RCT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU2;RMT;PST": {
+        "morpho": {
+            "NounClass": "Bantu2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU2;RMT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU2;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "NounClass": "Bantu2"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU2;V.PTCP": {
+        "morpho": {
+            "NounClass": "Bantu2",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU3;FUT": {
+        "morpho": {
+            "NounClass": "Bantu3",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU3;PRS": {
+        "morpho": {
+            "NounClass": "Bantu3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU3;RCT;PST": {
+        "morpho": {
+            "NounClass": "Bantu3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU3;RCT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU3;RMT;PST": {
+        "morpho": {
+            "NounClass": "Bantu3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU3;RMT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU3;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "NounClass": "Bantu3"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU3;V.PTCP": {
+        "morpho": {
+            "NounClass": "Bantu3",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU4;FUT": {
+        "morpho": {
+            "NounClass": "Bantu4",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU4;PRS": {
+        "morpho": {
+            "NounClass": "Bantu4",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU4;RCT;PST": {
+        "morpho": {
+            "NounClass": "Bantu4",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU4;RCT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu4",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU4;RMT;PST": {
+        "morpho": {
+            "NounClass": "Bantu4",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU4;RMT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu4",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU4;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "NounClass": "Bantu4"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU4;V.PTCP": {
+        "morpho": {
+            "NounClass": "Bantu4",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU5;FUT": {
+        "morpho": {
+            "NounClass": "Bantu5",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU5;PRS": {
+        "morpho": {
+            "NounClass": "Bantu5",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU5;RCT;PST": {
+        "morpho": {
+            "NounClass": "Bantu5",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU5;RCT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu5",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU5;RMT;PST": {
+        "morpho": {
+            "NounClass": "Bantu5",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU5;RMT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu5",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU5;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "NounClass": "Bantu5"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU5;V.PTCP": {
+        "morpho": {
+            "NounClass": "Bantu5",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU6;FUT": {
+        "morpho": {
+            "NounClass": "Bantu6",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU6;PRS": {
+        "morpho": {
+            "NounClass": "Bantu6",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU6;RCT;PST": {
+        "morpho": {
+            "NounClass": "Bantu6",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU6;RCT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu6",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU6;RMT;PST": {
+        "morpho": {
+            "NounClass": "Bantu6",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU6;RMT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu6",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU6;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "NounClass": "Bantu6"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU6;V.PTCP": {
+        "morpho": {
+            "NounClass": "Bantu6",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU7;FUT": {
+        "morpho": {
+            "NounClass": "Bantu7",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU7;PRS": {
+        "morpho": {
+            "NounClass": "Bantu7",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU7;RCT;PST": {
+        "morpho": {
+            "NounClass": "Bantu7",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU7;RCT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu7",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU7;RMT;PST": {
+        "morpho": {
+            "NounClass": "Bantu7",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU7;RMT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu7",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU7;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "NounClass": "Bantu7"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU7;V.PTCP": {
+        "morpho": {
+            "NounClass": "Bantu7",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU8;FUT": {
+        "morpho": {
+            "NounClass": "Bantu8",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU8;PRS": {
+        "morpho": {
+            "NounClass": "Bantu8",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU8;RCT;PST": {
+        "morpho": {
+            "NounClass": "Bantu8",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU8;RCT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu8",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU8;RMT;PST": {
+        "morpho": {
+            "NounClass": "Bantu8",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU8;RMT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu8",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU8;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "NounClass": "Bantu8"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU8;V.PTCP": {
+        "morpho": {
+            "NounClass": "Bantu8",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU9;FUT": {
+        "morpho": {
+            "NounClass": "Bantu9",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU9;PRS": {
+        "morpho": {
+            "NounClass": "Bantu9",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU9;RCT;PST": {
+        "morpho": {
+            "NounClass": "Bantu9",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU9;RCT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu9",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU9;RMT;PST": {
+        "morpho": {
+            "NounClass": "Bantu9",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU9;RMT;PST;PROG": {
+        "morpho": {
+            "Aspect": "Prog",
+            "NounClass": "Bantu9",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU9;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "NounClass": "Bantu9"
+        },
+        "upos": "VERB"
+    },
+    "V;BANTU9;V.PTCP": {
+        "morpho": {
+            "NounClass": "Bantu9",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;2;PL": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;2;PL;LGSPEC3": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;2;SG": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;2;SG;LGSPEC3": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;NFIN": {
+        "morpho": {
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    }
+}

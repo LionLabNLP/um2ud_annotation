@@ -5,10 +5,7 @@
     },
     "N;1;PL;MASC+FEM": {
         "morpho": {
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur",
             "Person": "1"
         },
@@ -24,10 +21,7 @@
     },
     "N;2;PL;MASC+FEM": {
         "morpho": {
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur",
             "Person": "2"
         },
@@ -43,10 +37,7 @@
     },
     "N;3;PL;MASC+FEM": {
         "morpho": {
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur",
             "Person": "3"
         },
@@ -70,10 +61,7 @@
     },
     "V;FIN;1;PL;MASC+FEM": {
         "morpho": {
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur",
             "Person": "1",
             "VerbForm": "Fin"
@@ -91,10 +79,7 @@
     },
     "V;FIN;2;PL;MASC+FEM": {
         "morpho": {
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur",
             "Person": "2",
             "VerbForm": "Fin"
@@ -112,10 +97,7 @@
     },
     "V;FIN;3;PL;MASC+FEM": {
         "morpho": {
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur",
             "Person": "3",
             "VerbForm": "Fin"

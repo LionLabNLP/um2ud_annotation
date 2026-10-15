@@ -54,10 +54,7 @@
     },
     "ADJ;NOM+VOC;SG;FEM": {
         "morpho": {
-            "Case": [
-                "Voc",
-                "Nom"
-            ],
+            "Case": "Nom,Voc",
             "Gender": "Fem",
             "Number": "Sing"
         },
@@ -84,12 +81,9 @@
         },
         "upos": "ADJ"
     },
-    "ADJ;VOC+GEN;SG;MASV": {
+    "ADJ;VOC+GEN;SG;MASC": {
         "morpho": {
-            "Case": [
-                "Gen",
-                "Voc"
-            ],
+            "Case": "Gen,Voc",
             "Gender": "Masc",
             "Number": "Sing"
         },

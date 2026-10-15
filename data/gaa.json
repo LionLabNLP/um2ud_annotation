@@ -1,0 +1,66 @@
+{
+    "V;HAB;FUT": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;HAB;NEG;FUT": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Polarity": "Neg",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;HAB;NEG;PRS": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;HAB;NEG;PST": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Polarity": "Neg",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;HAB;PRS": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;HAB;PST": {
+        "morpho": {
+            "Aspect": "Hab",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NEG;PRS": {
+        "morpho": {
+            "Polarity": "Neg",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;NFIN": {
+        "morpho": {
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS": {
+        "morpho": {
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    }
+}

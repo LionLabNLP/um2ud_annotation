@@ -1,0 +1,58 @@
+{
+    "N;ALL;PL": {
+        "morpho": {
+            "Case": "All",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;IN+ALL;PL": {
+        "morpho": {
+            "Case": "Ill",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;IN+ALL;SG": {
+        "morpho": {
+            "Case": "Ill",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;NOM;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;PRT;PL": {
+        "morpho": {
+            "Case": "Par",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PRT;SG": {
+        "morpho": {
+            "Case": "Par",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    }
+}

@@ -47,7 +47,7 @@
             "Case": "Abl",
             "Number": "Plur",
             "Number[psor]": "Plur,Sing",
-            "Person[psor]": "3,3"
+            "Person[psor]": "3"
         },
         "upos": "NOUN"
     },
@@ -153,7 +153,7 @@
             "Case": "Acc",
             "Number": "Plur",
             "Number[psor]": "Plur,Sing",
-            "Person[psor]": "3,3"
+            "Person[psor]": "3"
         },
         "upos": "NOUN"
     },
@@ -259,7 +259,7 @@
             "Case": "Com",
             "Number": "Plur",
             "Number[psor]": "Plur,Sing",
-            "Person[psor]": "3,3"
+            "Person[psor]": "3"
         },
         "upos": "NOUN"
     },
@@ -372,7 +372,7 @@
             "Case": "Cmp",
             "Number": "Plur",
             "Number[psor]": "Plur,Sing",
-            "Person[psor]": "3,3"
+            "Person[psor]": "3"
         },
         "upos": "NOUN"
     },
@@ -485,7 +485,7 @@
             "Case": "Dat",
             "Number": "Plur",
             "Number[psor]": "Plur,Sing",
-            "Person[psor]": "3,3"
+            "Person[psor]": "3"
         },
         "upos": "NOUN"
     },
@@ -555,7 +555,7 @@
             "Case": "Dat",
             "Number": "Sing",
             "Number[psor]": "Plur,Sing",
-            "Person[psor]": "3,3"
+            "Person[psor]": "3"
         },
         "upos": "NOUN"
     },
@@ -623,7 +623,7 @@
             "Case": "Ins",
             "Number": "Plur",
             "Number[psor]": "Plur,Sing",
-            "Person[psor]": "3,3"
+            "Person[psor]": "3"
         },
         "upos": "NOUN"
     },
@@ -736,7 +736,7 @@
             "Case": "Nom",
             "Number": "Plur",
             "Number[psor]": "Plur,Sing",
-            "Person[psor]": "3,3"
+            "Person[psor]": "3"
         },
         "upos": "NOUN"
     },
@@ -849,7 +849,7 @@
             "Case": "Par",
             "Number": "Plur",
             "Number[psor]": "Plur,Sing",
-            "Person[psor]": "3,3"
+            "Person[psor]": "3"
         },
         "upos": "NOUN"
     },
@@ -1254,42 +1254,48 @@
     "V;NPST;1;PL": {
         "morpho": {
             "Number": "Plur",
-            "Person": "1"
+            "Person": "1",
+            "Tense": "Pres"
         },
         "upos": "VERB"
     },
     "V;NPST;1;SG": {
         "morpho": {
             "Number": "Sing",
-            "Person": "1"
+            "Person": "1",
+            "Tense": "Pres"
         },
         "upos": "VERB"
     },
     "V;NPST;2;PL": {
         "morpho": {
             "Number": "Plur",
-            "Person": "2"
+            "Person": "2",
+            "Tense": "Pres"
         },
         "upos": "VERB"
     },
     "V;NPST;2;SG": {
         "morpho": {
             "Number": "Sing",
-            "Person": "2"
+            "Person": "2",
+            "Tense": "Pres"
         },
         "upos": "VERB"
     },
     "V;NPST;3;PL": {
         "morpho": {
             "Number": "Plur",
-            "Person": "3"
+            "Person": "3",
+            "Tense": "Pres"
         },
         "upos": "VERB"
     },
     "V;NPST;3;SG": {
         "morpho": {
             "Number": "Sing",
-            "Person": "3"
+            "Person": "3",
+            "Tense": "Pres"
         },
         "upos": "VERB"
     },
@@ -1297,7 +1303,8 @@
         "morpho": {
             "Number": "Plur",
             "Person": "1",
-            "Polarity": "Neg"
+            "Polarity": "Neg",
+            "Tense": "Pres"
         },
         "upos": "VERB"
     },
@@ -1305,7 +1312,8 @@
         "morpho": {
             "Number": "Sing",
             "Person": "1",
-            "Polarity": "Neg"
+            "Polarity": "Neg",
+            "Tense": "Pres"
         },
         "upos": "VERB"
     },
@@ -1313,7 +1321,8 @@
         "morpho": {
             "Number": "Plur",
             "Person": "2",
-            "Polarity": "Neg"
+            "Polarity": "Neg",
+            "Tense": "Pres"
         },
         "upos": "VERB"
     },
@@ -1321,7 +1330,8 @@
         "morpho": {
             "Number": "Sing",
             "Person": "2",
-            "Polarity": "Neg"
+            "Polarity": "Neg",
+            "Tense": "Pres"
         },
         "upos": "VERB"
     },
@@ -1329,7 +1339,8 @@
         "morpho": {
             "Number": "Plur",
             "Person": "3",
-            "Polarity": "Neg"
+            "Polarity": "Neg",
+            "Tense": "Pres"
         },
         "upos": "VERB"
     },
@@ -1337,7 +1348,8 @@
         "morpho": {
             "Number": "Sing",
             "Person": "3",
-            "Polarity": "Neg"
+            "Polarity": "Neg",
+            "Tense": "Pres"
         },
         "upos": "VERB"
     },

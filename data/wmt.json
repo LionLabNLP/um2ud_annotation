@@ -1,0 +1,850 @@
+{
+    "V.CVB;PST;LGSPEC01;LGSPEC07": {
+        "morpho": {
+            "Tense": "Past",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;PST;LGSPEC02;LGSPEC05": {
+        "morpho": {
+            "Tense": "Past",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;PST;LGSPEC02;LGSPEC06": {
+        "morpho": {
+            "Tense": "Past",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;PST;LGSPEC02;LGSPEC07": {
+        "morpho": {
+            "Tense": "Past",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;PST;LGSPEC02;LGSPEC08": {
+        "morpho": {
+            "Tense": "Past",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;PST;LGSPEC02;LGSPEC09": {
+        "morpho": {
+            "Tense": "Past",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;PST;LGSPEC03;LGSPEC05": {
+        "morpho": {
+            "Tense": "Past",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;PST;LGSPEC03;LGSPEC06": {
+        "morpho": {
+            "Tense": "Past",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;PST;LGSPEC03;LGSPEC07": {
+        "morpho": {
+            "Tense": "Past",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;PST;LGSPEC03;LGSPEC08": {
+        "morpho": {
+            "Tense": "Past",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;PST;LGSPEC03;LGSPEC09": {
+        "morpho": {
+            "Tense": "Past",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;PST;LGSPEC04;LGSPEC05": {
+        "morpho": {
+            "Tense": "Past",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;PST;LGSPEC04;LGSPEC06": {
+        "morpho": {
+            "Tense": "Past",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;PST;LGSPEC04;LGSPEC07": {
+        "morpho": {
+            "Tense": "Past",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;PST;LGSPEC04;LGSPEC08": {
+        "morpho": {
+            "Tense": "Past",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V.CVB;PST;LGSPEC11;LGSPEC09": {
+        "morpho": {
+            "Tense": "Past",
+            "VerbForm": "Conv"
+        },
+        "upos": "VERB"
+    },
+    "V;FUT;LGSPEC01;LGSPEC07": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;FUT;LGSPEC02;LGSPEC05": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;FUT;LGSPEC02;LGSPEC06": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;FUT;LGSPEC02;LGSPEC07": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;FUT;LGSPEC02;LGSPEC08": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;FUT;LGSPEC02;LGSPEC09": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;FUT;LGSPEC03;LGSPEC05": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;FUT;LGSPEC03;LGSPEC06": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;FUT;LGSPEC03;LGSPEC07": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;FUT;LGSPEC03;LGSPEC08": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;FUT;LGSPEC03;LGSPEC09": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;FUT;LGSPEC04;LGSPEC05": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;FUT;LGSPEC04;LGSPEC06": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;FUT;LGSPEC04;LGSPEC07": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;FUT;LGSPEC04;LGSPEC08": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;FUT;LGSPEC11;LGSPEC09": {
+        "morpho": {
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;LGSPEC01;LGSPEC07": {
+        "morpho": {
+            "Mood": "Imp"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;LGSPEC02;LGSPEC05": {
+        "morpho": {
+            "Mood": "Imp"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;LGSPEC02;LGSPEC06": {
+        "morpho": {
+            "Mood": "Imp"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;LGSPEC02;LGSPEC07": {
+        "morpho": {
+            "Mood": "Imp"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;LGSPEC02;LGSPEC08": {
+        "morpho": {
+            "Mood": "Imp"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;LGSPEC02;LGSPEC09": {
+        "morpho": {
+            "Mood": "Imp"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;LGSPEC03;LGSPEC05": {
+        "morpho": {
+            "Mood": "Imp"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;LGSPEC03;LGSPEC06": {
+        "morpho": {
+            "Mood": "Imp"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;LGSPEC03;LGSPEC07": {
+        "morpho": {
+            "Mood": "Imp"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;LGSPEC03;LGSPEC08": {
+        "morpho": {
+            "Mood": "Imp"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;LGSPEC03;LGSPEC09": {
+        "morpho": {
+            "Mood": "Imp"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;LGSPEC04;LGSPEC05": {
+        "morpho": {
+            "Mood": "Imp"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;LGSPEC04;LGSPEC06": {
+        "morpho": {
+            "Mood": "Imp"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;LGSPEC04;LGSPEC07": {
+        "morpho": {
+            "Mood": "Imp"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;LGSPEC04;LGSPEC08": {
+        "morpho": {
+            "Mood": "Imp"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;LGSPEC11;LGSPEC09": {
+        "morpho": {
+            "Mood": "Imp"
+        },
+        "upos": "VERB"
+    },
+    "V;INF;LGSPEC01;LGSPEC07": {
+        "morpho": {
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;INF;LGSPEC02;LGSPEC05": {
+        "morpho": {
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;INF;LGSPEC02;LGSPEC06": {
+        "morpho": {
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;INF;LGSPEC02;LGSPEC07": {
+        "morpho": {
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;INF;LGSPEC02;LGSPEC08": {
+        "morpho": {
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;INF;LGSPEC02;LGSPEC09": {
+        "morpho": {
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;INF;LGSPEC03;LGSPEC05": {
+        "morpho": {
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;INF;LGSPEC03;LGSPEC06": {
+        "morpho": {
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;INF;LGSPEC03;LGSPEC07": {
+        "morpho": {
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;INF;LGSPEC03;LGSPEC08": {
+        "morpho": {
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;INF;LGSPEC03;LGSPEC09": {
+        "morpho": {
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;INF;LGSPEC04;LGSPEC05": {
+        "morpho": {
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;INF;LGSPEC04;LGSPEC06": {
+        "morpho": {
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;INF;LGSPEC04;LGSPEC07": {
+        "morpho": {
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;INF;LGSPEC04;LGSPEC08": {
+        "morpho": {
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;INF;LGSPEC11;LGSPEC09": {
+        "morpho": {
+            "VerbForm": "Inf"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;3;SG;LGSPEC01;LGSPEC07": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;3;SG;LGSPEC02;LGSPEC05": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;3;SG;LGSPEC02;LGSPEC06": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;3;SG;LGSPEC02;LGSPEC07": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;3;SG;LGSPEC02;LGSPEC08": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;3;SG;LGSPEC02;LGSPEC09": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;3;SG;LGSPEC03;LGSPEC05": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;3;SG;LGSPEC03;LGSPEC06": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;3;SG;LGSPEC03;LGSPEC07": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;3;SG;LGSPEC03;LGSPEC08": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;3;SG;LGSPEC03;LGSPEC09": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;3;SG;LGSPEC04;LGSPEC05": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;3;SG;LGSPEC04;LGSPEC06": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;3;SG;LGSPEC04;LGSPEC07": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;3;SG;LGSPEC04;LGSPEC08": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;3;SG;LGSPEC11;LGSPEC09": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;PROG;LGSPEC01;LGSPEC07": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;PROG;LGSPEC02;LGSPEC05": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;PROG;LGSPEC02;LGSPEC06": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;PROG;LGSPEC02;LGSPEC07": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;PROG;LGSPEC02;LGSPEC08": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;PROG;LGSPEC02;LGSPEC09": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;PROG;LGSPEC03;LGSPEC05": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;PROG;LGSPEC03;LGSPEC06": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;PROG;LGSPEC03;LGSPEC07": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;PROG;LGSPEC03;LGSPEC08": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;PROG;LGSPEC03;LGSPEC09": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;PROG;LGSPEC04;LGSPEC05": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;PROG;LGSPEC04;LGSPEC06": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;PROG;LGSPEC04;LGSPEC07": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;PROG;LGSPEC04;LGSPEC08": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRS;PROG;LGSPEC11;LGSPEC09": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;LGSPEC01;LGSPEC07": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;LGSPEC02;LGSPEC05": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;LGSPEC02;LGSPEC06": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;LGSPEC02;LGSPEC07": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;LGSPEC02;LGSPEC08": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;LGSPEC02;LGSPEC09": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;LGSPEC03;LGSPEC05": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;LGSPEC03;LGSPEC06": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;LGSPEC03;LGSPEC07": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;LGSPEC03;LGSPEC08": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;LGSPEC03;LGSPEC09": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;LGSPEC04;LGSPEC05": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;LGSPEC04;LGSPEC06": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;LGSPEC04;LGSPEC07": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;LGSPEC04;LGSPEC08": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;LGSPEC11;LGSPEC09": {
+        "morpho": {
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;PROG;LGSPEC01;LGSPEC07": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;PROG;LGSPEC02;LGSPEC05": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;PROG;LGSPEC02;LGSPEC06": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;PROG;LGSPEC02;LGSPEC07": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;PROG;LGSPEC02;LGSPEC08": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;PROG;LGSPEC02;LGSPEC09": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;PROG;LGSPEC03;LGSPEC05": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;PROG;LGSPEC03;LGSPEC06": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;PROG;LGSPEC03;LGSPEC07": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;PROG;LGSPEC03;LGSPEC08": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;PROG;LGSPEC03;LGSPEC09": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;PROG;LGSPEC04;LGSPEC05": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;PROG;LGSPEC04;LGSPEC06": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;PROG;LGSPEC04;LGSPEC07": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;PROG;LGSPEC04;LGSPEC08": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;PROG;LGSPEC11;LGSPEC09": {
+        "morpho": {
+            "Aspect": "Prog",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    }
+}

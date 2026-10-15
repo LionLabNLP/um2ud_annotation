@@ -13,7 +13,7 @@
             "Case": "Acc",
             "Gender": "Fem",
             "Number": "Plur",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -40,7 +40,7 @@
             "Case": "Acc",
             "Gender": "Masc",
             "Number": "Plur",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -67,7 +67,7 @@
             "Case": "Acc",
             "Gender": "Fem",
             "Number": "Sing",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -94,7 +94,7 @@
             "Case": "Acc",
             "Gender": "Masc",
             "Number": "Sing",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -121,7 +121,7 @@
             "Case": "Dat",
             "Gender": "Fem",
             "Number": "Plur",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -148,7 +148,7 @@
             "Case": "Dat",
             "Gender": "Masc",
             "Number": "Plur",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -175,7 +175,7 @@
             "Case": "Dat",
             "Gender": "Fem",
             "Number": "Sing",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -202,7 +202,7 @@
             "Case": "Dat",
             "Gender": "Masc",
             "Number": "Sing",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -229,7 +229,7 @@
             "Case": "Gen",
             "Gender": "Fem",
             "Number": "Plur",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -256,7 +256,7 @@
             "Case": "Gen",
             "Gender": "Masc",
             "Number": "Plur",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -283,7 +283,7 @@
             "Case": "Gen",
             "Gender": "Fem",
             "Number": "Sing",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -310,7 +310,7 @@
             "Case": "Gen",
             "Gender": "Masc",
             "Number": "Sing",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -337,7 +337,7 @@
             "Case": "Ins",
             "Gender": "Fem",
             "Number": "Plur",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -364,7 +364,7 @@
             "Case": "Ins",
             "Gender": "Masc",
             "Number": "Plur",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -391,7 +391,7 @@
             "Case": "Ins",
             "Gender": "Fem",
             "Number": "Sing",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -418,7 +418,7 @@
             "Case": "Ins",
             "Gender": "Masc",
             "Number": "Sing",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -445,7 +445,7 @@
             "Case": "Loc",
             "Gender": "Fem",
             "Number": "Plur",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -472,7 +472,7 @@
             "Case": "Loc",
             "Gender": "Masc",
             "Number": "Plur",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -499,7 +499,7 @@
             "Case": "Loc",
             "Gender": "Fem",
             "Number": "Sing",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -526,7 +526,7 @@
             "Case": "Loc",
             "Gender": "Masc",
             "Number": "Sing",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -553,7 +553,7 @@
             "Case": "Nom",
             "Gender": "Fem",
             "Number": "Plur",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -580,7 +580,7 @@
             "Case": "Nom",
             "Gender": "Masc",
             "Number": "Plur",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -607,7 +607,7 @@
             "Case": "Nom",
             "Gender": "Fem",
             "Number": "Sing",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -634,7 +634,7 @@
             "Case": "Nom",
             "Gender": "Masc",
             "Number": "Sing",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -652,7 +652,7 @@
             "Case": "Voc",
             "Gender": "Fem",
             "Number": "Plur",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -661,7 +661,7 @@
             "Case": "Voc",
             "Gender": "Masc",
             "Number": "Plur",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -670,7 +670,7 @@
             "Case": "Voc",
             "Gender": "Fem",
             "Number": "Sing",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -679,7 +679,7 @@
             "Case": "Voc",
             "Gender": "Masc",
             "Number": "Sing",
-            "Polarity": "Pos"
+            "Degree": "Pos"
         },
         "upos": "ADJ"
     },
@@ -1097,20 +1097,14 @@
             "VerbForm": "Part",
             "Voice": "Act"
         },
-        "upos": [
-            "ADV",
-            "VERB"
-        ]
+        "upos": "ADV,VERB"
     },
     "V;V.PTCP;ADV;LGSPEC2;ACT": {
         "morpho": {
             "VerbForm": "Part",
             "Voice": "Act"
         },
-        "upos": [
-            "ADV",
-            "VERB"
-        ]
+        "upos": "ADV,VERB"
     },
     "V;V.PTCP;ADV;PRS;ACT": {
         "morpho": {
@@ -1118,10 +1112,7 @@
             "VerbForm": "Part",
             "Voice": "Act"
         },
-        "upos": [
-            "ADV",
-            "VERB"
-        ]
+        "upos": "ADV,VERB"
     },
     "V;V.PTCP;ADV;PST;ACT": {
         "morpho": {
@@ -1129,10 +1120,7 @@
             "VerbForm": "Part",
             "Voice": "Act"
         },
-        "upos": [
-            "ADV",
-            "VERB"
-        ]
+        "upos": "ADV,VERB"
     },
     "V;V.PTCP;ADV;PST;FREQ;ACT": {
         "morpho": {
@@ -1141,10 +1129,7 @@
             "VerbForm": "Part",
             "Voice": "Act"
         },
-        "upos": [
-            "ADV",
-            "VERB"
-        ]
+        "upos": "ADV,VERB"
     },
     "V;V.PTCP;FUT;ACT": {
         "morpho": {

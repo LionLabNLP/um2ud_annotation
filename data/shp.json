@@ -1,0 +1,42 @@
+{
+    "N": {
+        "morpho": {},
+        "upos": "NOUN"
+    },
+    "N;ABS": {
+        "morpho": {
+            "Case": "Abs"
+        },
+        "upos": "NOUN"
+    },
+    "N;COM": {
+        "morpho": {
+            "Case": "Com"
+        },
+        "upos": "NOUN"
+    },
+    "N;DAT": {
+        "morpho": {
+            "Case": "Dat"
+        },
+        "upos": "NOUN"
+    },
+    "N;ER": {
+        "morpho": {
+            "Case": "Erg"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN": {
+        "morpho": {
+            "Case": "Gen"
+        },
+        "upos": "NOUN"
+    },
+    "N;INS": {
+        "morpho": {
+            "Case": "Ins"
+        },
+        "upos": "NOUN"
+    }
+}

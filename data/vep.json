@@ -1,4 +1,8 @@
 {
+    "": {
+        "morpho": {},
+        "upos": null
+    },
     "ADJ;ACC;PL": {
         "morpho": {
             "Case": "Acc",
@@ -27,60 +31,42 @@
     },
     "ADJ;AT+ABL;PL": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Plur"
         },
         "upos": "ADJ"
     },
     "ADJ;AT+ABL;SG": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Sing"
         },
         "upos": "ADJ"
     },
     "ADJ;AT+ALL;PL": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Plur"
         },
         "upos": "ADJ"
     },
     "ADJ;AT+ALL;SG": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Sing"
         },
         "upos": "ADJ"
     },
     "ADJ;AT+ESS;PL": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Plur"
         },
         "upos": "ADJ"
     },
     "ADJ;AT+ESS;SG": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Sing"
         },
         "upos": "ADJ"
@@ -129,40 +115,28 @@
     },
     "ADJ;IN+ABL;PL": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Plur"
         },
         "upos": "ADJ"
     },
     "ADJ;IN+ABL;SG": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Sing"
         },
         "upos": "ADJ"
     },
     "ADJ;IN+ALL;PL": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Plur"
         },
         "upos": "ADJ"
     },
     "ADJ;IN+ALL;SG": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Sing"
         },
         "upos": "ADJ"
@@ -197,24 +171,26 @@
     },
     "ADJ;ON/AT+ABL;PL": {
         "morpho": {
+            "Case": "Abl,Del",
             "Number": "Plur"
         },
         "upos": "ADJ"
     },
     "ADJ;ON/AT+ABL;SG": {
         "morpho": {
+            "Case": "Abl,Del",
             "Number": "Sing"
         },
         "upos": "ADJ"
     },
-    "ADJ;PRIV ;PL": {
+    "ADJ;PRIV;PL": {
         "morpho": {
             "Case": "Abe",
             "Number": "Plur"
         },
         "upos": "ADJ"
     },
-    "ADJ;PRIV ;SG": {
+    "ADJ;PRIV;SG": {
         "morpho": {
             "Case": "Abe",
             "Number": "Sing"
@@ -319,60 +295,42 @@
     },
     "N;AT+ABL;PL": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Plur"
         },
         "upos": "NOUN"
     },
     "N;AT+ABL;SG": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Sing"
         },
         "upos": "NOUN"
     },
     "N;AT+ALL;PL": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Plur"
         },
         "upos": "NOUN"
     },
     "N;AT+ALL;SG": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Sing"
         },
         "upos": "NOUN"
     },
     "N;AT+ESS;PL": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Plur"
         },
         "upos": "NOUN"
     },
     "N;AT+ESS;SG": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -421,40 +379,28 @@
     },
     "N;IN+ABL;PL": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Plur"
         },
         "upos": "NOUN"
     },
     "N;IN+ABL;SG": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Sing"
         },
         "upos": "NOUN"
     },
     "N;IN+ALL;PL": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Plur"
         },
         "upos": "NOUN"
     },
     "N;IN+ALL;SG": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -489,24 +435,26 @@
     },
     "N;ON/AT+ABL;PL": {
         "morpho": {
+            "Case": "Abl,Del",
             "Number": "Plur"
         },
         "upos": "NOUN"
     },
     "N;ON/AT+ABL;SG": {
         "morpho": {
+            "Case": "Abl,Del",
             "Number": "Sing"
         },
         "upos": "NOUN"
     },
-    "N;PRIV ;PL": {
+    "N;PRIV;PL": {
         "morpho": {
             "Case": "Abe",
             "Number": "Plur"
         },
         "upos": "NOUN"
     },
-    "N;PRIV ;SG": {
+    "N;PRIV;SG": {
         "morpho": {
             "Case": "Abe",
             "Number": "Sing"
@@ -615,10 +563,7 @@
     },
     "NUM;AT+ABL;PL": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "NumType": "Card",
             "Number": "Plur"
         },
@@ -626,10 +571,7 @@
     },
     "NUM;AT+ABL;SG": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "NumType": "Card",
             "Number": "Sing"
         },
@@ -637,10 +579,7 @@
     },
     "NUM;AT+ALL;PL": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "NumType": "Card",
             "Number": "Plur"
         },
@@ -648,10 +587,7 @@
     },
     "NUM;AT+ALL;SG": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "NumType": "Card",
             "Number": "Sing"
         },
@@ -659,10 +595,7 @@
     },
     "NUM;AT+ESS;PL": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "NumType": "Card",
             "Number": "Plur"
         },
@@ -670,10 +603,7 @@
     },
     "NUM;AT+ESS;SG": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "NumType": "Card",
             "Number": "Sing"
         },
@@ -729,10 +659,7 @@
     },
     "NUM;IN+ABL;PL": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "NumType": "Card",
             "Number": "Plur"
         },
@@ -740,10 +667,7 @@
     },
     "NUM;IN+ABL;SG": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "NumType": "Card",
             "Number": "Sing"
         },
@@ -751,10 +675,7 @@
     },
     "NUM;IN+ALL;PL": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "NumType": "Card",
             "Number": "Plur"
         },
@@ -762,10 +683,7 @@
     },
     "NUM;IN+ALL;SG": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "NumType": "Card",
             "Number": "Sing"
         },
@@ -805,6 +723,7 @@
     },
     "NUM;ON/AT+ABL;PL": {
         "morpho": {
+            "Case": "Abl,Del",
             "NumType": "Card",
             "Number": "Plur"
         },
@@ -812,12 +731,13 @@
     },
     "NUM;ON/AT+ABL;SG": {
         "morpho": {
+            "Case": "Abl,Del",
             "NumType": "Card",
             "Number": "Sing"
         },
         "upos": "NUM"
     },
-    "NUM;PRIV ;PL": {
+    "NUM;PRIV;PL": {
         "morpho": {
             "Case": "Abe",
             "NumType": "Card",
@@ -825,7 +745,7 @@
         },
         "upos": "NUM"
     },
-    "NUM;PRIV ;SG": {
+    "NUM;PRIV;SG": {
         "morpho": {
             "Case": "Abe",
             "NumType": "Card",
@@ -941,60 +861,42 @@
     },
     "PRE;AT+ABL;PL": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Plur"
         },
         "upos": "ADP"
     },
     "PRE;AT+ABL;SG": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Sing"
         },
         "upos": "ADP"
     },
     "PRE;AT+ALL;PL": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Plur"
         },
         "upos": "ADP"
     },
     "PRE;AT+ALL;SG": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Sing"
         },
         "upos": "ADP"
     },
     "PRE;AT+ESS;PL": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Plur"
         },
         "upos": "ADP"
     },
     "PRE;AT+ESS;SG": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Sing"
         },
         "upos": "ADP"
@@ -1043,40 +945,28 @@
     },
     "PRE;IN+ABL;PL": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Plur"
         },
         "upos": "ADP"
     },
     "PRE;IN+ABL;SG": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Sing"
         },
         "upos": "ADP"
     },
     "PRE;IN+ALL;PL": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Plur"
         },
         "upos": "ADP"
     },
     "PRE;IN+ALL;SG": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Sing"
         },
         "upos": "ADP"
@@ -1111,24 +1001,26 @@
     },
     "PRE;ON/AT+ABL;PL": {
         "morpho": {
+            "Case": "Abl,Del",
             "Number": "Plur"
         },
         "upos": "ADP"
     },
     "PRE;ON/AT+ABL;SG": {
         "morpho": {
+            "Case": "Abl,Del",
             "Number": "Sing"
         },
         "upos": "ADP"
     },
-    "PRE;PRIV ;PL": {
+    "PRE;PRIV;PL": {
         "morpho": {
             "Case": "Abe",
             "Number": "Plur"
         },
         "upos": "ADP"
     },
-    "PRE;PRIV ;SG": {
+    "PRE;PRIV;SG": {
         "morpho": {
             "Case": "Abe",
             "Number": "Sing"
@@ -1237,10 +1129,7 @@
     },
     "PRO;AT+ABL;PL": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Plur",
             "PronType": "Prn"
         },
@@ -1248,10 +1137,7 @@
     },
     "PRO;AT+ABL;SG": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Sing",
             "PronType": "Prn"
         },
@@ -1259,10 +1145,7 @@
     },
     "PRO;AT+ALL;PL": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Plur",
             "PronType": "Prn"
         },
@@ -1270,10 +1153,7 @@
     },
     "PRO;AT+ALL;SG": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Sing",
             "PronType": "Prn"
         },
@@ -1281,10 +1161,7 @@
     },
     "PRO;AT+ESS;PL": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Plur",
             "PronType": "Prn"
         },
@@ -1292,10 +1169,7 @@
     },
     "PRO;AT+ESS;SG": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Sing",
             "PronType": "Prn"
         },
@@ -1351,10 +1225,7 @@
     },
     "PRO;IN+ABL;PL": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Plur",
             "PronType": "Prn"
         },
@@ -1362,10 +1233,7 @@
     },
     "PRO;IN+ABL;SG": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Sing",
             "PronType": "Prn"
         },
@@ -1373,10 +1241,7 @@
     },
     "PRO;IN+ALL;PL": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Plur",
             "PronType": "Prn"
         },
@@ -1384,10 +1249,7 @@
     },
     "PRO;IN+ALL;SG": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Sing",
             "PronType": "Prn"
         },
@@ -1427,6 +1289,7 @@
     },
     "PRO;ON/AT+ABL;PL": {
         "morpho": {
+            "Case": "Abl,Del",
             "Number": "Plur",
             "PronType": "Prn"
         },
@@ -1434,12 +1297,13 @@
     },
     "PRO;ON/AT+ABL;SG": {
         "morpho": {
+            "Case": "Abl,Del",
             "Number": "Sing",
             "PronType": "Prn"
         },
         "upos": "PRON"
     },
-    "PRO;PRIV ;PL": {
+    "PRO;PRIV;PL": {
         "morpho": {
             "Case": "Abe",
             "Number": "Plur",
@@ -1447,7 +1311,7 @@
         },
         "upos": "PRON"
     },
-    "PRO;PRIV ;SG": {
+    "PRO;PRIV;SG": {
         "morpho": {
             "Case": "Abe",
             "Number": "Sing",
@@ -1567,10 +1431,7 @@
     },
     "PROPN;AT+ABL;PL": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "NounType": "Prop",
             "Number": "Plur"
         },
@@ -1578,10 +1439,7 @@
     },
     "PROPN;AT+ABL;SG": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1589,10 +1447,7 @@
     },
     "PROPN;AT+ALL;PL": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "NounType": "Prop",
             "Number": "Plur"
         },
@@ -1600,10 +1455,7 @@
     },
     "PROPN;AT+ALL;SG": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1611,10 +1463,7 @@
     },
     "PROPN;AT+ESS;PL": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "NounType": "Prop",
             "Number": "Plur"
         },
@@ -1622,10 +1471,7 @@
     },
     "PROPN;AT+ESS;SG": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1681,10 +1527,7 @@
     },
     "PROPN;IN+ABL;PL": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "NounType": "Prop",
             "Number": "Plur"
         },
@@ -1692,10 +1535,7 @@
     },
     "PROPN;IN+ABL;SG": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1703,10 +1543,7 @@
     },
     "PROPN;IN+ALL;PL": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "NounType": "Prop",
             "Number": "Plur"
         },
@@ -1714,10 +1551,7 @@
     },
     "PROPN;IN+ALL;SG": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "NounType": "Prop",
             "Number": "Sing"
         },
@@ -1757,6 +1591,7 @@
     },
     "PROPN;ON/AT+ABL;PL": {
         "morpho": {
+            "Case": "Abl,Del",
             "NounType": "Prop",
             "Number": "Plur"
         },
@@ -1764,12 +1599,13 @@
     },
     "PROPN;ON/AT+ABL;SG": {
         "morpho": {
+            "Case": "Abl,Del",
             "NounType": "Prop",
             "Number": "Sing"
         },
         "upos": "PROPN"
     },
-    "PROPN;PRIV ;PL": {
+    "PROPN;PRIV;PL": {
         "morpho": {
             "Case": "Abe",
             "NounType": "Prop",
@@ -1777,7 +1613,7 @@
         },
         "upos": "PROPN"
     },
-    "PROPN;PRIV ;SG": {
+    "PROPN;PRIV;SG": {
         "morpho": {
             "Case": "Abe",
             "NounType": "Prop",
@@ -3758,6 +3594,5 @@
             "Voice": "Act"
         },
         "upos": "VERB"
-    },
-    "nan": {}
+    }
 }

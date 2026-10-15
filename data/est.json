@@ -15,60 +15,42 @@
     },
     "N;AT+ABL;PL": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Plur"
         },
         "upos": "NOUN"
     },
     "N;AT+ABL;SG": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ade"
-            ],
+            "Case": "Abl",
             "Number": "Sing"
         },
         "upos": "NOUN"
     },
     "N;AT+ALL;PL": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Plur"
         },
         "upos": "NOUN"
     },
     "N;AT+ALL;SG": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ade"
-            ],
+            "Case": "All",
             "Number": "Sing"
         },
         "upos": "NOUN"
     },
     "N;AT+ESS;PL": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Plur"
         },
         "upos": "NOUN"
     },
     "N;AT+ESS;SG": {
         "morpho": {
-            "Case": [
-                "Loc",
-                "Ade"
-            ],
+            "Case": "Ade",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -117,40 +99,28 @@
     },
     "N;IN+ABL;PL": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Plur"
         },
         "upos": "NOUN"
     },
     "N;IN+ABL;SG": {
         "morpho": {
-            "Case": [
-                "Abl",
-                "Ine"
-            ],
+            "Case": "Ela",
             "Number": "Sing"
         },
         "upos": "NOUN"
     },
     "N;IN+ALL;PL": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Plur"
         },
         "upos": "NOUN"
     },
     "N;IN+ALL;SG": {
         "morpho": {
-            "Case": [
-                "All",
-                "Ine"
-            ],
+            "Case": "Ill",
             "Number": "Sing"
         },
         "upos": "NOUN"

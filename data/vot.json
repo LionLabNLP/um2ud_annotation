@@ -1,0 +1,184 @@
+{
+    "N;PL;AT+ABL": {
+        "morpho": {
+            "Case": "Abl",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;AT+ALL": {
+        "morpho": {
+            "Case": "All",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;AT+ESS": {
+        "morpho": {
+            "Case": "Ade",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;COM": {
+        "morpho": {
+            "Case": "Com",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;ESS": {
+        "morpho": {
+            "Case": "Loc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;GEN": {
+        "morpho": {
+            "Case": "Gen",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;IN+ABL": {
+        "morpho": {
+            "Case": "Ela",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;IN+ALL": {
+        "morpho": {
+            "Case": "Ill",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;IN+ESS": {
+        "morpho": {
+            "Case": "Ine",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;NOM": {
+        "morpho": {
+            "Case": "Nom",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;PRT": {
+        "morpho": {
+            "Case": "Par",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;TERM": {
+        "morpho": {
+            "Case": "Ter",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;TRANS": {
+        "morpho": {
+            "Case": "Tra",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;AT+ABL": {
+        "morpho": {
+            "Case": "Abl",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;AT+ALL": {
+        "morpho": {
+            "Case": "All",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;AT+ESS": {
+        "morpho": {
+            "Case": "Ade",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;COM": {
+        "morpho": {
+            "Case": "Com",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;ESS": {
+        "morpho": {
+            "Case": "Loc",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;GEN": {
+        "morpho": {
+            "Case": "Gen",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;IN+ABL": {
+        "morpho": {
+            "Case": "Ela",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;IN+ALL": {
+        "morpho": {
+            "Case": "Ill",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;IN+ESS": {
+        "morpho": {
+            "Case": "Ine",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;NOM": {
+        "morpho": {
+            "Case": "Nom",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;PRT": {
+        "morpho": {
+            "Case": "Par",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;TERM": {
+        "morpho": {
+            "Case": "Ter",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;TRANS": {
+        "morpho": {
+            "Case": "Tra",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    }
+}

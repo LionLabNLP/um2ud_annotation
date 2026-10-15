@@ -1,0 +1,713 @@
+{
+    "N": {
+        "morpho": {},
+        "upos": "NOUN"
+    },
+    "N;ABL": {
+        "morpho": {
+            "Case": "Abl"
+        },
+        "upos": "NOUN"
+    },
+    "N;ABL;PL": {
+        "morpho": {
+            "Case": "Abl",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;ABL;PL;PSS1I": {
+        "morpho": {
+            "Case": "Abl",
+            "Number": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;ABL;PL;PSS1PE": {
+        "morpho": {
+            "Case": "Abl",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;ABL;PL;PSS1S": {
+        "morpho": {
+            "Case": "Abl",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;ABL;PL;PSS2": {
+        "morpho": {
+            "Case": "Abl",
+            "Number": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;ABL;PL;PSS3F": {
+        "morpho": {
+            "Case": "Abl",
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;ABL;PL;PSS3M": {
+        "morpho": {
+            "Case": "Abl",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;ABL;PSS1I": {
+        "morpho": {
+            "Case": "Abl",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;ABL;PSS1PE": {
+        "morpho": {
+            "Case": "Abl",
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;ABL;PSS1S": {
+        "morpho": {
+            "Case": "Abl",
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;ABL;PSS2": {
+        "morpho": {
+            "Case": "Abl",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;ABL;PSS3F": {
+        "morpho": {
+            "Case": "Abl",
+            "Gender[psor]": "Fem",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;ABL;PSS3M": {
+        "morpho": {
+            "Case": "Abl",
+            "Gender[psor]": "Masc",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;ALL": {
+        "morpho": {
+            "Case": "All"
+        },
+        "upos": "NOUN"
+    },
+    "N;ALL;PL": {
+        "morpho": {
+            "Case": "All",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;ALL;PL;PSS1I": {
+        "morpho": {
+            "Case": "All",
+            "Number": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;ALL;PL;PSS1PE": {
+        "morpho": {
+            "Case": "All",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;ALL;PL;PSS1S": {
+        "morpho": {
+            "Case": "All",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;ALL;PL;PSS2": {
+        "morpho": {
+            "Case": "All",
+            "Number": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;ALL;PL;PSS3F": {
+        "morpho": {
+            "Case": "All",
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;ALL;PL;PSS3M": {
+        "morpho": {
+            "Case": "All",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;ALL;PSS1I": {
+        "morpho": {
+            "Case": "All",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;ALL;PSS1PE": {
+        "morpho": {
+            "Case": "All",
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;ALL;PSS1S": {
+        "morpho": {
+            "Case": "All",
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;ALL;PSS2": {
+        "morpho": {
+            "Case": "All",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;ALL;PSS3F": {
+        "morpho": {
+            "Case": "All",
+            "Gender[psor]": "Fem",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;ALL;PSS3M": {
+        "morpho": {
+            "Case": "All",
+            "Gender[psor]": "Masc",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;ESS": {
+        "morpho": {
+            "Case": "Loc"
+        },
+        "upos": "NOUN"
+    },
+    "N;ESS;PL": {
+        "morpho": {
+            "Case": "Loc",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;ESS;PL;PSS1I": {
+        "morpho": {
+            "Case": "Loc",
+            "Number": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;ESS;PL;PSS1PE": {
+        "morpho": {
+            "Case": "Loc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;ESS;PL;PSS1S": {
+        "morpho": {
+            "Case": "Loc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;ESS;PL;PSS2": {
+        "morpho": {
+            "Case": "Loc",
+            "Number": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;ESS;PL;PSS3F": {
+        "morpho": {
+            "Case": "Loc",
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;ESS;PL;PSS3M": {
+        "morpho": {
+            "Case": "Loc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;ESS;PSS1I": {
+        "morpho": {
+            "Case": "Loc",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;ESS;PSS1PE": {
+        "morpho": {
+            "Case": "Loc",
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;ESS;PSS1S": {
+        "morpho": {
+            "Case": "Loc",
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;ESS;PSS2": {
+        "morpho": {
+            "Case": "Loc",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;ESS;PSS3F": {
+        "morpho": {
+            "Case": "Loc",
+            "Gender[psor]": "Fem",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;ESS;PSS3M": {
+        "morpho": {
+            "Case": "Loc",
+            "Gender[psor]": "Masc",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;PSS1I": {
+        "morpho": {
+            "Number": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;PSS1PE": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;PSS1S": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;PSS2": {
+        "morpho": {
+            "Number": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;PSS3F": {
+        "morpho": {
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;PSS3M": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS1I": {
+        "morpho": {
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS1PE": {
+        "morpho": {
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS1S": {
+        "morpho": {
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS2": {
+        "morpho": {
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS3F": {
+        "morpho": {
+            "Gender[psor]": "Fem",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS3M": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "V;NFIN": {
+        "morpho": {
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO1PE;FIN;IRR": {
+        "morpho": {
+            "Mood": "Irr",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO1PE;FIN;REAL": {
+        "morpho": {
+            "Mood": "Ind",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO1PE;PFV;FIN;IRR;LGSPEC1": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Mood": "Irr",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO1PE;PFV;FIN;IRR;LGSPEC2": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Mood": "Irr",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO1PE;PFV;FIN;REAL;LGSPEC1": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Mood": "Ind",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO1PE;PFV;FIN;REAL;LGSPEC2": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Mood": "Ind",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO1PI;FIN;IRR": {
+        "morpho": {
+            "Mood": "Irr",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO1PI;FIN;REAL": {
+        "morpho": {
+            "Mood": "Ind",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO1PI;PFV;FIN;IRR;LGSPEC1": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Mood": "Irr",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO1PI;PFV;FIN;IRR;LGSPEC2": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Mood": "Irr",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO1PI;PFV;FIN;REAL;LGSPEC1": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Mood": "Ind",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO1PI;PFV;FIN;REAL;LGSPEC2": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Mood": "Ind",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO1S;FIN;IRR": {
+        "morpho": {
+            "Mood": "Irr",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO1S;FIN;REAL": {
+        "morpho": {
+            "Mood": "Ind",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO1S;PFV;FIN;IRR;LGSPEC1": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Mood": "Irr",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO1S;PFV;FIN;IRR;LGSPEC2": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Mood": "Irr",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO1S;PFV;FIN;REAL;LGSPEC1": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Mood": "Ind",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO1S;PFV;FIN;REAL;LGSPEC2": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Mood": "Ind",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO2;FIN;IRR": {
+        "morpho": {
+            "Mood": "Irr",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO2;FIN;REAL": {
+        "morpho": {
+            "Mood": "Ind",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO2;PFV;FIN;IRR;LGSPEC1": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Mood": "Irr",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO2;PFV;FIN;IRR;LGSPEC2": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Mood": "Irr",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO2;PFV;FIN;REAL;LGSPEC1": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Mood": "Ind",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO2;PFV;FIN;REAL;LGSPEC2": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Mood": "Ind",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO3F;FIN;IRR": {
+        "morpho": {
+            "Mood": "Irr",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO3F;FIN;REAL": {
+        "morpho": {
+            "Mood": "Ind",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO3F;PFV;FIN;IRR;LGSPEC1": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Mood": "Irr",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO3F;PFV;FIN;IRR;LGSPEC2": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Mood": "Irr",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO3F;PFV;FIN;REAL;LGSPEC1": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Mood": "Ind",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO3F;PFV;FIN;REAL;LGSPEC2": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Mood": "Ind",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO3M;FIN;IRR": {
+        "morpho": {
+            "Mood": "Irr",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO3M;FIN;REAL": {
+        "morpho": {
+            "Mood": "Ind",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO3M;PFV;FIN;IRR;LGSPEC1": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Mood": "Irr",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO3M;PFV;FIN;IRR;LGSPEC2": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Mood": "Irr",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO3M;PFV;FIN;REAL;LGSPEC1": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Mood": "Ind",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    },
+    "V;NO3M;PFV;FIN;REAL;LGSPEC2": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Mood": "Ind",
+            "VerbForm": "Fin"
+        },
+        "upos": "VERB"
+    }
+}

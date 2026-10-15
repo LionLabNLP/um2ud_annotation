@@ -18,10 +18,7 @@
     },
     "ADJ;ACC;PL;FEM;SPRL;AB": {
         "morpho": {
-            "Case": [
-                "Acc",
-                "Abs"
-            ],
+            "Case": "Abs,Acc",
             "Degree": "Sup",
             "Gender": "Fem",
             "Number": "Plur"
@@ -47,10 +44,7 @@
     },
     "ADJ;ACC;PL;MASC;SPRL;AB": {
         "morpho": {
-            "Case": [
-                "Acc",
-                "Abs"
-            ],
+            "Case": "Abs,Acc",
             "Degree": "Sup",
             "Gender": "Masc",
             "Number": "Plur"
@@ -76,10 +70,7 @@
     },
     "ADJ;ACC;PL;NEUT;SPRL;AB": {
         "morpho": {
-            "Case": [
-                "Acc",
-                "Abs"
-            ],
+            "Case": "Abs,Acc",
             "Degree": "Sup",
             "Gender": "Neut",
             "Number": "Plur"
@@ -105,10 +96,7 @@
     },
     "ADJ;ACC;SG;FEM;SPRL;AB": {
         "morpho": {
-            "Case": [
-                "Acc",
-                "Abs"
-            ],
+            "Case": "Abs,Acc",
             "Degree": "Sup",
             "Gender": "Fem",
             "Number": "Sing"
@@ -134,10 +122,7 @@
     },
     "ADJ;ACC;SG;MASC;SPRL;AB": {
         "morpho": {
-            "Case": [
-                "Acc",
-                "Abs"
-            ],
+            "Case": "Abs,Acc",
             "Degree": "Sup",
             "Gender": "Masc",
             "Number": "Sing"
@@ -163,10 +148,7 @@
     },
     "ADJ;ACC;SG;NEUT;SPRL;AB": {
         "morpho": {
-            "Case": [
-                "Acc",
-                "Abs"
-            ],
+            "Case": "Abs,Acc",
             "Degree": "Sup",
             "Gender": "Neut",
             "Number": "Sing"
@@ -192,10 +174,7 @@
     },
     "ADJ;GEN;PL;FEM;SPRL;AB": {
         "morpho": {
-            "Case": [
-                "Gen",
-                "Abs"
-            ],
+            "Case": "Abs,Gen",
             "Degree": "Sup",
             "Gender": "Fem",
             "Number": "Plur"
@@ -221,10 +200,7 @@
     },
     "ADJ;GEN;PL;MASC;SPRL;AB": {
         "morpho": {
-            "Case": [
-                "Gen",
-                "Abs"
-            ],
+            "Case": "Abs,Gen",
             "Degree": "Sup",
             "Gender": "Masc",
             "Number": "Plur"
@@ -250,10 +226,7 @@
     },
     "ADJ;GEN;PL;NEUT;SPRL;AB": {
         "morpho": {
-            "Case": [
-                "Gen",
-                "Abs"
-            ],
+            "Case": "Abs,Gen",
             "Degree": "Sup",
             "Gender": "Neut",
             "Number": "Plur"
@@ -279,10 +252,7 @@
     },
     "ADJ;GEN;SG;FEM;SPRL;AB": {
         "morpho": {
-            "Case": [
-                "Gen",
-                "Abs"
-            ],
+            "Case": "Abs,Gen",
             "Degree": "Sup",
             "Gender": "Fem",
             "Number": "Sing"
@@ -308,10 +278,7 @@
     },
     "ADJ;GEN;SG;MASC;SPRL;AB": {
         "morpho": {
-            "Case": [
-                "Gen",
-                "Abs"
-            ],
+            "Case": "Abs,Gen",
             "Degree": "Sup",
             "Gender": "Masc",
             "Number": "Sing"
@@ -337,10 +304,7 @@
     },
     "ADJ;GEN;SG;NEUT;SPRL;AB": {
         "morpho": {
-            "Case": [
-                "Gen",
-                "Abs"
-            ],
+            "Case": "Abs,Gen",
             "Degree": "Sup",
             "Gender": "Neut",
             "Number": "Sing"
@@ -366,10 +330,7 @@
     },
     "ADJ;NOM;PL;FEM;SPRL;AB": {
         "morpho": {
-            "Case": [
-                "Abs",
-                "Nom"
-            ],
+            "Case": "Abs,Nom",
             "Degree": "Sup",
             "Gender": "Fem",
             "Number": "Plur"
@@ -395,10 +356,7 @@
     },
     "ADJ;NOM;PL;MASC;SPRL;AB": {
         "morpho": {
-            "Case": [
-                "Abs",
-                "Nom"
-            ],
+            "Case": "Abs,Nom",
             "Degree": "Sup",
             "Gender": "Masc",
             "Number": "Plur"
@@ -424,10 +382,7 @@
     },
     "ADJ;NOM;PL;NEUT;SPRL;AB": {
         "morpho": {
-            "Case": [
-                "Abs",
-                "Nom"
-            ],
+            "Case": "Abs,Nom",
             "Degree": "Sup",
             "Gender": "Neut",
             "Number": "Plur"
@@ -453,10 +408,7 @@
     },
     "ADJ;NOM;SG;FEM;SPRL;AB": {
         "morpho": {
-            "Case": [
-                "Abs",
-                "Nom"
-            ],
+            "Case": "Abs,Nom",
             "Degree": "Sup",
             "Gender": "Fem",
             "Number": "Sing"
@@ -482,10 +434,7 @@
     },
     "ADJ;NOM;SG;MASC;SPRL;AB": {
         "morpho": {
-            "Case": [
-                "Abs",
-                "Nom"
-            ],
+            "Case": "Abs,Nom",
             "Degree": "Sup",
             "Gender": "Masc",
             "Number": "Sing"
@@ -511,10 +460,7 @@
     },
     "ADJ;NOM;SG;NEUT;SPRL;AB": {
         "morpho": {
-            "Case": [
-                "Abs",
-                "Nom"
-            ],
+            "Case": "Abs,Nom",
             "Degree": "Sup",
             "Gender": "Neut",
             "Number": "Sing"
@@ -540,10 +486,7 @@
     },
     "ADJ;VOC;PL;FEM;SPRL;AB": {
         "morpho": {
-            "Case": [
-                "Abs",
-                "Voc"
-            ],
+            "Case": "Abs,Voc",
             "Degree": "Sup",
             "Gender": "Fem",
             "Number": "Plur"
@@ -569,10 +512,7 @@
     },
     "ADJ;VOC;PL;MASC;SPRL;AB": {
         "morpho": {
-            "Case": [
-                "Abs",
-                "Voc"
-            ],
+            "Case": "Abs,Voc",
             "Degree": "Sup",
             "Gender": "Masc",
             "Number": "Plur"
@@ -598,10 +538,7 @@
     },
     "ADJ;VOC;PL;NEUT;SPRL;AB": {
         "morpho": {
-            "Case": [
-                "Abs",
-                "Voc"
-            ],
+            "Case": "Abs,Voc",
             "Degree": "Sup",
             "Gender": "Neut",
             "Number": "Plur"
@@ -627,10 +564,7 @@
     },
     "ADJ;VOC;SG;FEM;SPRL;AB": {
         "morpho": {
-            "Case": [
-                "Abs",
-                "Voc"
-            ],
+            "Case": "Abs,Voc",
             "Degree": "Sup",
             "Gender": "Fem",
             "Number": "Sing"
@@ -656,10 +590,7 @@
     },
     "ADJ;VOC;SG;MASC;SPRL;AB": {
         "morpho": {
-            "Case": [
-                "Abs",
-                "Voc"
-            ],
+            "Case": "Abs,Voc",
             "Degree": "Sup",
             "Gender": "Masc",
             "Number": "Sing"
@@ -685,10 +616,7 @@
     },
     "ADJ;VOC;SG;NEUT;SPRL;AB": {
         "morpho": {
-            "Case": [
-                "Abs",
-                "Voc"
-            ],
+            "Case": "Abs,Voc",
             "Degree": "Sup",
             "Gender": "Neut",
             "Number": "Sing"

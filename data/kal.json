@@ -1,0 +1,114 @@
+{
+    "N;PL;ABL": {
+        "morpho": {
+            "Case": "Abl",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;ABS": {
+        "morpho": {
+            "Case": "Abs",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;ALL": {
+        "morpho": {
+            "Case": "All",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;AT": {
+        "morpho": {
+            "Case": "Ade",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;EQTV": {
+        "morpho": {
+            "Case": "Equ",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;ERG": {
+        "morpho": {
+            "Case": "Erg",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;INS": {
+        "morpho": {
+            "Case": "Ins",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL;PROL": {
+        "morpho": {
+            "Case": "Tra",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;ABL": {
+        "morpho": {
+            "Case": "Abl",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;ABS": {
+        "morpho": {
+            "Case": "Abs",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;ALL": {
+        "morpho": {
+            "Case": "All",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;AT": {
+        "morpho": {
+            "Case": "Ade",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;EQTV": {
+        "morpho": {
+            "Case": "Equ",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;ERG": {
+        "morpho": {
+            "Case": "Erg",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;INS": {
+        "morpho": {
+            "Case": "Ins",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG;PROL": {
+        "morpho": {
+            "Case": "Tra",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    }
+}

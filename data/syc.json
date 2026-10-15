@@ -1,0 +1,3762 @@
+{
+    "ADJ": {
+        "morpho": {},
+        "upos": "ADJ"
+    },
+    "ADJ;ABS;PL;FEM": {
+        "morpho": {
+            "Case": "Abs",
+            "Gender": "Fem",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ABS;PL;MASC": {
+        "morpho": {
+            "Case": "Abs",
+            "Gender": "Masc",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ABS;SG;FEM": {
+        "morpho": {
+            "Case": "Abs",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ABS;SG;MASC": {
+        "morpho": {
+            "Case": "Abs",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DEF;PL": {
+        "morpho": {
+            "Definite": "Def",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DEF;PL;FEM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DEF;PL;MASC": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DEF;SG": {
+        "morpho": {
+            "Definite": "Def",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DEF;SG;FEM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DEF;SG;MASC": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;FEM;DEF;PL;PSS1S": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;FEM;DEF;PL;PSS2PM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;FEM;DEF;PL;PSS2SM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;FEM;DEF;PL;PSS3SF": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;FEM;DEF;PL;PSS3SM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;FEM;DEF;SG;PSS1P": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;FEM;DEF;SG;PSS1S": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;FEM;DEF;SG;PSS2SF": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;FEM;DEF;SG;PSS2SM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;FEM;DEF;SG;PSS3PM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;FEM;DEF;SG;PSS3SM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;INDF;PL": {
+        "morpho": {
+            "Definite": "Ind",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;INDF;SG": {
+        "morpho": {
+            "Definite": "Ind",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;MASC;DEF;PL;PSS1P": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;MASC;DEF;PL;PSS1S": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;MASC;DEF;PL;PSS2PM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;MASC;DEF;PL;PSS2SF": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;MASC;DEF;PL;PSS2SM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;MASC;DEF;PL;PSS3PM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;MASC;DEF;PL;PSS3SF": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;MASC;DEF;PL;PSS3SM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;MASC;DEF;SG;PSS1P": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;MASC;DEF;SG;PSS1S": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;MASC;DEF;SG;PSS2PM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;MASC;DEF;SG;PSS2SM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;MASC;DEF;SG;PSS3PM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;MASC;DEF;SG;PSS3SF": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;MASC;DEF;SG;PSS3SM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;MASC;INDF;PL;PSS1P": {
+        "morpho": {
+            "Definite": "Ind",
+            "Gender": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;PL": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;PSS3SF": {
+        "morpho": {
+            "Gender[psor]": "Fem",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;PSSD;PL": {
+        "morpho": {
+            "Definite": "Cons",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;PSSD;PL;FEM": {
+        "morpho": {
+            "Definite": "Cons",
+            "Gender": "Fem",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;PSSD;PL;MASC": {
+        "morpho": {
+            "Definite": "Cons",
+            "Gender": "Masc",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;PSSD;SG": {
+        "morpho": {
+            "Definite": "Cons",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;PSSD;SG;FEM": {
+        "morpho": {
+            "Definite": "Cons",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;PSSD;SG;MASC": {
+        "morpho": {
+            "Definite": "Cons",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;SG": {
+        "morpho": {
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADV": {
+        "morpho": {},
+        "upos": "ADV"
+    },
+    "ADV;PSS1P": {
+        "morpho": {
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "ADV"
+    },
+    "ADV;PSS1S": {
+        "morpho": {
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "ADV"
+    },
+    "ADV;PSS2SM": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "ADV"
+    },
+    "ADV;PSS3PM": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "ADV"
+    },
+    "ADV;PSS3SF": {
+        "morpho": {
+            "Gender[psor]": "Fem",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "ADV"
+    },
+    "ADV;PSS3SM": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "ADV"
+    },
+    "N": {
+        "morpho": {},
+        "upos": "NOUN"
+    },
+    "N;ABS;PL": {
+        "morpho": {
+            "Case": "Abs",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;ABS;SG": {
+        "morpho": {
+            "Case": "Abs",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;DEF": {
+        "morpho": {
+            "Definite": "Def"
+        },
+        "upos": "NOUN"
+    },
+    "N;DEF;PL": {
+        "morpho": {
+            "Definite": "Def",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;DEF;PSS3PM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender[psor]": "Masc",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;DEF;PSS3SF": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender[psor]": "Fem",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;DEF;PSS3SM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender[psor]": "Masc",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;DEF;SG": {
+        "morpho": {
+            "Definite": "Def",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;DEF;PL;PSS1P": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;DEF;PL;PSS1S": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;DEF;PL;PSS2PM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;DEF;PL;PSS2SF": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;DEF;PL;PSS2SM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;DEF;PL;PSS3PF": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;DEF;PL;PSS3PM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;DEF;PL;PSS3SF": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;DEF;PL;PSS3SM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;DEF;PSS3SM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Gender[psor]": "Masc",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;DEF;SG;PSS1P": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;DEF;SG;PSS1S": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;DEF;SG;PSS2PF": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;DEF;SG;PSS2PM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;DEF;SG;PSS2SF": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;DEF;SG;PSS2SM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;DEF;SG;PSS3PF": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;DEF;SG;PSS3PM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;DEF;SG;PSS3SF": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;DEF;SG;PSS3SM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;PL;PSS3SM": {
+        "morpho": {
+            "Gender": "Fem",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;FEM;PSSD;PL;PSS1S": {
+        "morpho": {
+            "Definite": "Cons",
+            "Gender": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;INDF": {
+        "morpho": {
+            "Definite": "Ind"
+        },
+        "upos": "NOUN"
+    },
+    "N;INDF;PL": {
+        "morpho": {
+            "Definite": "Ind",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;INDF;PSS1S": {
+        "morpho": {
+            "Definite": "Ind",
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;INDF;PSS3PF": {
+        "morpho": {
+            "Definite": "Ind",
+            "Gender[psor]": "Fem",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;INDF;PSS3SM": {
+        "morpho": {
+            "Definite": "Ind",
+            "Gender[psor]": "Masc",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;INDF;SG": {
+        "morpho": {
+            "Definite": "Ind",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;DEF;PL;PSS1P": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;DEF;PL;PSS1S": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;DEF;PL;PSS2PF": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;DEF;PL;PSS2PM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;DEF;PL;PSS2SF": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;DEF;PL;PSS2SM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;DEF;PL;PSS3PF": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;DEF;PL;PSS3PM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;DEF;PL;PSS3SF": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;DEF;PL;PSS3SM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;DEF;SG;PSS1P": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;DEF;SG;PSS1S": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;DEF;SG;PSS2PF": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;DEF;SG;PSS2PM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;DEF;SG;PSS2SF": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;DEF;SG;PSS2SM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;DEF;SG;PSS3PF": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;DEF;SG;PSS3PM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;DEF;SG;PSS3SF": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;DEF;SG;PSS3SM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;PL;PSS3SM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;PSSD;PL;PSS1P": {
+        "morpho": {
+            "Definite": "Cons",
+            "Gender": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;PSSD;PL;PSS3PF": {
+        "morpho": {
+            "Definite": "Cons",
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;PSSD;PL;PSS3PM": {
+        "morpho": {
+            "Definite": "Cons",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;PSSD;PL;PSS3SF": {
+        "morpho": {
+            "Definite": "Cons",
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;PSSD;PL;PSS3SM": {
+        "morpho": {
+            "Definite": "Cons",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;MASC;SG;PSS1S": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT;DEF;PL;PSS2SM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Neut",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT;DEF;PL;PSS3PM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Neut",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT;DEF;PL;PSS3SM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Neut",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT;DEF;SG;PSS1P": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Neut",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT;DEF;SG;PSS1S": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Neut",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT;DEF;SG;PSS2PM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Neut",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT;DEF;SG;PSS2SM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Neut",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT;DEF;SG;PSS3SF": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Neut",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;NEUT;DEF;SG;PSS3SM": {
+        "morpho": {
+            "Definite": "Def",
+            "Gender": "Neut",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;PL": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS1P": {
+        "morpho": {
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS1P;PL": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS1P;SG": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS1S": {
+        "morpho": {
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS1S;PL": {
+        "morpho": {
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS1S;SG": {
+        "morpho": {
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS2PF;PL": {
+        "morpho": {
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS2PF;SG": {
+        "morpho": {
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS2PM": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "Number[psor]": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS2PM;PL": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS2PM;SG": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS2SF;PL": {
+        "morpho": {
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS2SF;SG": {
+        "morpho": {
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS2SM": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS2SM;PL": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS2SM;SG": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS3PF": {
+        "morpho": {
+            "Gender[psor]": "Fem",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS3PF;PL": {
+        "morpho": {
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS3PF;SG": {
+        "morpho": {
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS3PM": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS3PM;PL": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS3PM;SG": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS3SF": {
+        "morpho": {
+            "Gender[psor]": "Fem",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS3SF;PL": {
+        "morpho": {
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS3SF;SG": {
+        "morpho": {
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS3SM": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS3SM;PL": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSS3SM;SG": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSSD;PL": {
+        "morpho": {
+            "Definite": "Cons",
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;PSSD;SG": {
+        "morpho": {
+            "Definite": "Cons",
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG": {
+        "morpho": {
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "NUM": {
+        "morpho": {
+            "NumType": "Card"
+        },
+        "upos": "NUM"
+    },
+    "NUM;DEF": {
+        "morpho": {
+            "Definite": "Def",
+            "NumType": "Card"
+        },
+        "upos": "NUM"
+    },
+    "NUM;DEF;PL": {
+        "morpho": {
+            "Definite": "Def",
+            "NumType": "Card",
+            "Number": "Plur"
+        },
+        "upos": "NUM"
+    },
+    "NUM;DEF;SG": {
+        "morpho": {
+            "Definite": "Def",
+            "NumType": "Card",
+            "Number": "Sing"
+        },
+        "upos": "NUM"
+    },
+    "NUM;FEM;PSS3PF": {
+        "morpho": {
+            "Gender": "Fem",
+            "Gender[psor]": "Fem",
+            "NumType": "Card",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NUM"
+    },
+    "NUM;FEM;PSS3SM": {
+        "morpho": {
+            "Gender": "Fem",
+            "Gender[psor]": "Masc",
+            "NumType": "Card",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NUM"
+    },
+    "NUM;INDF": {
+        "morpho": {
+            "Definite": "Ind",
+            "NumType": "Card"
+        },
+        "upos": "NUM"
+    },
+    "NUM;INDF;PL": {
+        "morpho": {
+            "Definite": "Ind",
+            "NumType": "Card",
+            "Number": "Plur"
+        },
+        "upos": "NUM"
+    },
+    "NUM;INDF;SG": {
+        "morpho": {
+            "Definite": "Ind",
+            "NumType": "Card",
+            "Number": "Sing"
+        },
+        "upos": "NUM"
+    },
+    "NUM;MASC;PSS2PM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "NumType": "Card",
+            "Number[psor]": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "NUM"
+    },
+    "NUM;MASC;PSS3PM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "NumType": "Card",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NUM"
+    },
+    "NUM;MASC;PSS3SM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "NumType": "Card",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NUM"
+    },
+    "NUM;PL": {
+        "morpho": {
+            "NumType": "Card",
+            "Number": "Plur"
+        },
+        "upos": "NUM"
+    },
+    "PART": {
+        "morpho": {},
+        "upos": "PART"
+    },
+    "PART;MASC;PSS1P": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "PART"
+    },
+    "PART;MASC;PSS2PM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number[psor]": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "PART"
+    },
+    "PART;MASC;PSS3PF": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "PART"
+    },
+    "PART;MASC;PSS3PM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "PART"
+    },
+    "PART;MASC;PSS3SF": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "PART"
+    },
+    "PART;MASC;PSS3SM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "PART"
+    },
+    "PART;PSS1P": {
+        "morpho": {
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "PART"
+    },
+    "PART;PSS1S": {
+        "morpho": {
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "PART"
+    },
+    "PART;PSS2PF": {
+        "morpho": {
+            "Gender[psor]": "Fem",
+            "Number[psor]": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "PART"
+    },
+    "PART;PSS2PM": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "Number[psor]": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "PART"
+    },
+    "PART;PSS2SF": {
+        "morpho": {
+            "Gender[psor]": "Fem",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "PART"
+    },
+    "PART;PSS2SM": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "PART"
+    },
+    "PART;PSS3PF": {
+        "morpho": {
+            "Gender[psor]": "Fem",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "PART"
+    },
+    "PART;PSS3PM": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "PART"
+    },
+    "PART;PSS3SF": {
+        "morpho": {
+            "Gender[psor]": "Fem",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "PART"
+    },
+    "PART;PSS3SM": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "PART"
+    },
+    "PART;SG": {
+        "morpho": {
+            "Number": "Sing"
+        },
+        "upos": "PART"
+    },
+    "PRO": {
+        "morpho": {
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;PL": {
+        "morpho": {
+            "Number": "Plur",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;PL;1": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "1",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;PL;2": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "2",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;PL;3": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;SG": {
+        "morpho": {
+            "Number": "Sing",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;SG;1": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;SG;2": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PRO;SG;3": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "PROPN": {
+        "morpho": {
+            "NounType": "Prop"
+        },
+        "upos": "PROPN"
+    },
+    "PROPN;PSS3SM": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "NounType": "Prop",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "PROPN"
+    },
+    "V.PTCP;1;PL;ACT": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "1",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;1;PL;MASC;ACT;PSS1P": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "1",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;1;PL;MASC;ACT;PSS2PM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "2",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;1;PL;MASC;ACT;PSS3PM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "3",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;1;PL;MASC;PASS;PSS1P": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "1",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;1;PL;MASC;PASS;PSS2PM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "2",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;1;PL;PASS": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "1",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;1;SG;ACT": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;1;SG;FEM;ACT;PSS1S": {
+        "morpho": {
+            "Gender": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "1",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;1;SG;FEM;ACT;PSS2SF": {
+        "morpho": {
+            "Gender": "Fem",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "2",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;1;SG;FEM;PASS;PSS2SF": {
+        "morpho": {
+            "Gender": "Fem",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "2",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;1;SG;MASC;ACT;PSS1S": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "1",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;1;SG;MASC;ACT;PSS1SM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "1",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;1;SG;MASC;ACT;PSS2SF": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "2",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;1;SG;MASC;ACT;PSS2SM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "2",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;1;SG;MASC;PASS;PSS1P": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "1",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;1;SG;MASC;PASS;PSS2SM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "2",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;1;SG;PASS": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;2;PL;ACT": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "2",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;2;PL;MASC;ACT;PSS1P": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;2;PL;MASC;ACT;PSS1S": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "1",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;2;PL;MASC;ACT;PSS2PM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "2",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;2;PL;MASC;ACT;PSS3PM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "3",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;2;PL;MASC;PASS;PSS1P": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;2;PL;MASC;PASS;PSS2PM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "2",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;2;PL;PASS": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "2",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;2;SG;ACT": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;2;SG;FEM;ACT;PSS2SF": {
+        "morpho": {
+            "Gender": "Fem",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "2",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;2;SG;FEM;PASS;PSS2SF": {
+        "morpho": {
+            "Gender": "Fem",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "2",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;2;SG;MASC;ACT;PSS1P": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;2;SG;MASC;ACT;PSS1S": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "1",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;2;SG;MASC;ACT;PSS2SF": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "2",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;2;SG;MASC;ACT;PSS2SM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "2",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;2;SG;MASC;PASS;PSS1P": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;2;SG;MASC;PASS;PSS2SM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "2",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;2;SG;PASS": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;3;PL;ACT": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;3;PL;MASC;ACT;PSS1P": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;3;PL;MASC;ACT;PSS1S": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "1",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;3;PL;MASC;ACT;PSS2PM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "2",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;3;PL;MASC;ACT;PSS3PM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "3",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;3;PL;MASC;PASS;PSS1P": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;3;PL;MASC;PASS;PSS2PM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "2",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;3;PL;PASS": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;3;SG;ACT": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;3;SG;FEM;ACT;PSS1S": {
+        "morpho": {
+            "Gender": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "1",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;3;SG;FEM;ACT;PSS2SF": {
+        "morpho": {
+            "Gender": "Fem",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "2",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;3;SG;FEM;PASS;PSS2SF": {
+        "morpho": {
+            "Gender": "Fem",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "2",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;3;SG;MASC;ACT;PSS1P": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;3;SG;MASC;ACT;PSS1S": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "1",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;3;SG;MASC;ACT;PSS2SF": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "2",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;3;SG;MASC;ACT;PSS2SM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "2",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;3;SG;MASC;PASS;PSS1P": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;3;SG;MASC;PASS;PSS2SM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "2",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;3;SG;PASS": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;PL;ACT": {
+        "morpho": {
+            "Number": "Plur",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;PL;PASS": {
+        "morpho": {
+            "Number": "Plur",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;SG;ACT": {
+        "morpho": {
+            "Number": "Sing",
+            "VerbForm": "Part",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;SG;FEM;PASS;PSS2SF": {
+        "morpho": {
+            "Gender": "Fem",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;SG;PASS": {
+        "morpho": {
+            "Number": "Sing",
+            "VerbForm": "Part",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Number": "Plur",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;MASC;PSS1P": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;MASC;PSS2PM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;NEUT;IPFV;PSS2PM": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Neut",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;NEUT;IPFV;PSS2SM": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Neut",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;NEUT;IPFV;PSS3SF": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Neut",
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;NEUT;IPFV;PSS3SM": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Neut",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;NEUT;PRF;PSS1P": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Neut",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;NEUT;PRF;PSS2PM": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Neut",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;NEUT;PRF;PSS2SM": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Neut",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;NEUT;PRF;PSS3SF": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Neut",
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;NEUT;PRF;PSS3SM": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Neut",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;1;PL;PRF": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Plur",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Number": "Sing",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;NEUT;IPFV;PSS2PM": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Neut",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;NEUT;IPFV;PSS2SM": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Neut",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;NEUT;IPFV;PSS3SF": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Neut",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;NEUT;IPFV;PSS3SM": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Neut",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;NEUT;PRF;PSS2PM": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Neut",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "1",
+            "Person[psor]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;NEUT;PRF;PSS2SM": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Neut",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;NEUT;PRF;PSS3SF": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Neut",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;NEUT;PRF;PSS3SM": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Neut",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "1",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;1;SG;PRF": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing",
+            "Person": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;FEM;IMP;PSS1P": {
+        "morpho": {
+            "Gender": "Fem",
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;FEM;IMP;PSS3SM": {
+        "morpho": {
+            "Gender": "Fem",
+            "Gender[psor]": "Masc",
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;IMP": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Number": "Plur",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;MASC;IMP;PSS1S": {
+        "morpho": {
+            "Gender": "Masc",
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;MASC;IMP;PSS3SF": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;MASC;IMP;PSS3SM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;MASC;IPFV;PSS1S": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;MASC;IPFV;PSS3SF": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;MASC;IPFV;PSS3SM": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;MASC;PRF;PSS1S": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;MASC;PRF;PSS3SF": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;MASC;PRF;PSS3SM": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;MASC;PSS1P": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;MASC;PSS2PM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;PL;PRF": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Plur",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;FEM;IMP;PSS1S": {
+        "morpho": {
+            "Gender": "Fem",
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;IMP": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;MASC;IMP;PSS1P": {
+        "morpho": {
+            "Gender": "Masc",
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;MASC;IMP;PSS1S": {
+        "morpho": {
+            "Gender": "Masc",
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;MASC;IMP;PSS3SF": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;MASC;IMP;PSS3SM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;MASC;IPFV;PSS1P": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;MASC;IPFV;PSS1S": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;MASC;IPFV;PSS3SF": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;MASC;IPFV;PSS3SM": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;MASC;PRF;PSS1P": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "2",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;MASC;PRF;PSS1S": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;MASC;PRF;PSS3SM": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "2",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;2;SG;PRF": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL": {
+        "morpho": {
+            "Number": "Plur",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;FEM;IPFV;PSS3SM": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Fem",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;FEM;PRF;PSS1P": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;FEM;PRF;PSS3PF": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Fem",
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;FEM;PRF;PSS3SM": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Fem",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Number": "Plur",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;MASC;IPFV;PSS1P": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;MASC;IPFV;PSS1S": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;MASC;IPFV;PSS2PM": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;MASC;IPFV;PSS2SF": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;MASC;IPFV;PSS2SM": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;MASC;IPFV;PSS3SF": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;MASC;IPFV;PSS3SM": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;MASC;PRF;PSS1P": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;MASC;PRF;PSS1S": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;MASC;PRF;PSS2SM": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;MASC;PRF;PSS3SF": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;MASC;PRF;PSS3SM": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;MASC;PSS1P": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;MASC;PSS2PM": {
+        "morpho": {
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;3;PL;PRF": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Plur",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG": {
+        "morpho": {
+            "Number": "Sing",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;FEM;IPFV;PSS1S": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;FEM;IPFV;PSS2PM": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Fem",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;FEM;IPFV;PSS3SF": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Fem",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;FEM;IPFV;PSS3SM": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Fem",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;FEM;PRF;PSS1P": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;FEM;PRF;PSS1S": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;FEM;PRF;PSS2PM": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Fem",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;FEM;PRF;PSS2SF": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Fem",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;FEM;PRF;PSS2SM": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Fem",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;FEM;PRF;PSS3SF": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Fem",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;FEM;PRF;PSS3SM": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Fem",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;IPFV": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Number": "Sing",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;MASC;IPFV;PSS1P": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;MASC;IPFV;PSS1S": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;MASC;IPFV;PSS2PM": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;MASC;IPFV;PSS2SM": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;MASC;IPFV;PSS3SF": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;MASC;IPFV;PSS3SM": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;MASC;PRF;PSS1P": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;MASC;PRF;PSS1S": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;MASC;PRF;PSS2PM": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Plur",
+            "Person": "3",
+            "Person[psor]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;MASC;PRF;PSS2SF": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;MASC;PRF;PSS2SM": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;MASC;PRF;PSS3SF": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Masc",
+            "Gender[psor]": "Fem",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;MASC;PRF;PSS3SM": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Masc",
+            "Gender[psor]": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3",
+            "Person[psor]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;MASC;PRF;PSSS": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Gender": "Masc",
+            "Number": "Sing",
+            "Number[psor]": "Sing",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;3;SG;PRF": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing",
+            "Person": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;NFIN": {
+        "morpho": {
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    },
+    "V;NFIN;PSS1P": {
+        "morpho": {
+            "Number[psor]": "Plur",
+            "Person[psor]": "1",
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    },
+    "V;NFIN;PSS1S": {
+        "morpho": {
+            "Number[psor]": "Sing",
+            "Person[psor]": "1",
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    },
+    "V;NFIN;PSS2PM": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "Number[psor]": "Plur",
+            "Person[psor]": "2",
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    },
+    "V;NFIN;PSS2SM": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2",
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    },
+    "V;NFIN;PSS3PM": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3",
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    },
+    "V;NFIN;PSS3SF": {
+        "morpho": {
+            "Gender[psor]": "Fem",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3",
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    },
+    "V;NFIN;PSS3SM": {
+        "morpho": {
+            "Gender[psor]": "Masc",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3",
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    },
+    "V;SG;PRF": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing"
+        },
+        "upos": "VERB"
+    }
+}

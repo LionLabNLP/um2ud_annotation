@@ -1,0 +1,229 @@
+{
+    "ADJ;NO1PE": {
+        "morpho": {},
+        "upos": "ADJ"
+    },
+    "ADJ;NO1PI": {
+        "morpho": {},
+        "upos": "ADJ"
+    },
+    "ADJ;NO1S": {
+        "morpho": {},
+        "upos": "ADJ"
+    },
+    "ADJ;NO2P": {
+        "morpho": {},
+        "upos": "ADJ"
+    },
+    "ADJ;NO2S": {
+        "morpho": {},
+        "upos": "ADJ"
+    },
+    "ADJ;NO3P": {
+        "morpho": {},
+        "upos": "ADJ"
+    },
+    "ADJ;NO3S": {
+        "morpho": {},
+        "upos": "ADJ"
+    },
+    "N;ACC;PL;1+EXCL": {
+        "morpho": {
+            "Case": "Acc",
+            "Clusivity": "Ex",
+            "Number": "Plur",
+            "Person": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;PL;1+INCL": {
+        "morpho": {
+            "Case": "Acc",
+            "Clusivity": "In",
+            "Number": "Plur",
+            "Person": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;PL;2": {
+        "morpho": {
+            "Case": "Acc",
+            "Number": "Plur",
+            "Person": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;PL;3": {
+        "morpho": {
+            "Case": "Acc",
+            "Number": "Plur",
+            "Person": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;SG;1": {
+        "morpho": {
+            "Case": "Acc",
+            "Number": "Sing",
+            "Person": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;SG;2": {
+        "morpho": {
+            "Case": "Acc",
+            "Number": "Sing",
+            "Person": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;ACC;SG;3": {
+        "morpho": {
+            "Case": "Acc",
+            "Number": "Sing",
+            "Person": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;PL;PSS1PE": {
+        "morpho": {
+            "Case": "Gen",
+            "Number": "Plur",
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;PSS1PI": {
+        "morpho": {
+            "Case": "Gen",
+            "Number[psor]": "Plur",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;PSS1S": {
+        "morpho": {
+            "Case": "Gen",
+            "Number[psor]": "Sing",
+            "Person[psor]": "1"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;PSS2P": {
+        "morpho": {
+            "Case": "Gen",
+            "Number[psor]": "Plur",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;PSS2S": {
+        "morpho": {
+            "Case": "Gen",
+            "Number[psor]": "Sing",
+            "Person[psor]": "2"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;PSS3P": {
+        "morpho": {
+            "Case": "Gen",
+            "Number[psor]": "Plur",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "N;GEN;PSS3S": {
+        "morpho": {
+            "Case": "Gen",
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "V;NO1PE": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;NO1PE;AC2P": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;NO1PE;DA2P": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;NO1PI": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;NO1PI;AC2S": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;NO1PI;DA2S": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;NO1S": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;NO1S;AC3P": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;NO1S;DA3P": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;NO2P": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;NO2P;AC3S": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;NO2P;DA3S": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;NO2S": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;NO2S;AC1PI": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;NO2S;DA1PI": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;NO3P": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;NO3P;AC1S": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;NO3P;DA1S": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;NO3S": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;NO3S;AC1PE": {
+        "morpho": {},
+        "upos": "VERB"
+    },
+    "V;NO3S;DA1PE": {
+        "morpho": {},
+        "upos": "VERB"
+    }
+}

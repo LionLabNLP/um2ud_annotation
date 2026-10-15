@@ -1,0 +1,357 @@
+{
+    "ADJ;SPRL": {
+        "morpho": {
+            "Degree": "Sup"
+        },
+        "upos": "ADJ"
+    },
+    "N;ALN+PSS3S": {
+        "morpho": {
+            "Number[psor]": "Sing",
+            "Person[psor]": "3",
+            "Poss": "Yes"
+        },
+        "upos": "NOUN"
+    },
+    "N;NALN+PSS3S": {
+        "morpho": {
+            "Number[psor]": "Sing",
+            "Person[psor]": "3"
+        },
+        "upos": "NOUN"
+    },
+    "NUM;LGSPEC03": {
+        "morpho": {
+            "NumType": "Card"
+        },
+        "upos": "NUM"
+    },
+    "NUM;PL;1+EXCL": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "NumType": "Card",
+            "Number": "Plur",
+            "Person": "1"
+        },
+        "upos": "NUM"
+    },
+    "NUM;PL;3": {
+        "morpho": {
+            "NumType": "Card",
+            "Number": "Plur",
+            "Person": "3"
+        },
+        "upos": "NUM"
+    },
+    "PRO;GEN": {
+        "morpho": {
+            "Case": "Gen",
+            "PronType": "Prn"
+        },
+        "upos": "PRON"
+    },
+    "V.MSDR": {
+        "morpho": {
+            "VerbForm": "Vnoun"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;LGSPEC01": {
+        "morpho": {
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;LGSPEC02": {
+        "morpho": {
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;SPRL;LGSPEC01": {
+        "morpho": {
+            "Degree": "Sup",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;SPRL;LGSPEC02": {
+        "morpho": {
+            "Degree": "Sup",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGAC1P+ARGNO1P;SBJV;EXCL": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Mood": "Sub",
+            "Number[acc]": "Plur",
+            "Number[nom]": "Plur",
+            "Person[acc]": "1",
+            "Person[nom]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGAC1P+ARGNO1P;SBJV;INCL": {
+        "morpho": {
+            "Clusivity": "In",
+            "Mood": "Sub",
+            "Number[acc]": "Plur",
+            "Number[nom]": "Plur",
+            "Person[acc]": "1",
+            "Person[nom]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGAC1P;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number[acc]": "Plur",
+            "Person[acc]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGAC1P;SBJV;EXCL": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Mood": "Sub",
+            "Number[acc]": "Plur",
+            "Person[acc]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGAC1P;SBJV;INCL": {
+        "morpho": {
+            "Clusivity": "In",
+            "Mood": "Sub",
+            "Number[acc]": "Plur",
+            "Person[acc]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGAC1S+ARGNO1S;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number[acc]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[acc]": "1",
+            "Person[nom]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGAC1S;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number[acc]": "Sing",
+            "Person[acc]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGAC2P+ARGNO2P;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number[acc]": "Plur",
+            "Number[nom]": "Plur",
+            "Person[acc]": "2",
+            "Person[nom]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGAC2P;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number[acc]": "Plur",
+            "Person[acc]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGAC2S+ARGNO2S;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number[acc]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[acc]": "2",
+            "Person[nom]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGAC2S;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number[acc]": "Sing",
+            "Person[acc]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGAC3P+ARGNO3P;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number[acc]": "Plur",
+            "Number[nom]": "Plur",
+            "Person[acc]": "3",
+            "Person[nom]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGAC3P;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number[acc]": "Plur",
+            "Person[acc]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGAC3S+ARGNO1P;SBJV;EXCL": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Mood": "Sub",
+            "Number[acc]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[acc]": "3",
+            "Person[nom]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGAC3S+ARGNO1P;SBJV;INCL": {
+        "morpho": {
+            "Clusivity": "In",
+            "Mood": "Sub",
+            "Number[acc]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[acc]": "3",
+            "Person[nom]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGAC3S+ARGNO1S;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number[acc]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[acc]": "3",
+            "Person[nom]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGAC3S+ARGNO2P;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number[acc]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[acc]": "3",
+            "Person[nom]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGAC3S+ARGNO2S;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number[acc]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[acc]": "3",
+            "Person[nom]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGAC3S+ARGNO3P;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number[acc]": "Sing",
+            "Number[nom]": "Plur",
+            "Person[acc]": "3",
+            "Person[nom]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGAC3S+ARGNO3S;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number[acc]": "Sing",
+            "Number[nom]": "Sing",
+            "Person[acc]": "3",
+            "Person[nom]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGAC3S;IND": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number[acc]": "Sing",
+            "Person[acc]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGAC3S;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number[acc]": "Sing",
+            "Person[acc]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGNO1P;SBJV;EXCL": {
+        "morpho": {
+            "Clusivity": "Ex",
+            "Mood": "Sub",
+            "Number[nom]": "Plur",
+            "Person[nom]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGNO1P;SBJV;INCL": {
+        "morpho": {
+            "Clusivity": "In",
+            "Mood": "Sub",
+            "Number[nom]": "Plur",
+            "Person[nom]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGNO1S;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number[nom]": "Sing",
+            "Person[nom]": "1"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGNO2P;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number[nom]": "Plur",
+            "Person[nom]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGNO2S;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number[nom]": "Sing",
+            "Person[nom]": "2"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGNO3P;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number[nom]": "Plur",
+            "Person[nom]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;ARGNO3S;SBJV": {
+        "morpho": {
+            "Mood": "Sub",
+            "Number[nom]": "Sing",
+            "Person[nom]": "3"
+        },
+        "upos": "VERB"
+    },
+    "V;CAUS": {
+        "morpho": {
+            "Voice": "Cau"
+        },
+        "upos": "VERB"
+    }
+}

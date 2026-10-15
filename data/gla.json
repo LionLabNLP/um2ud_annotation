@@ -1,0 +1,143 @@
+{
+    "ADJ;PL;DAT": {
+        "morpho": {
+            "Case": "Dat",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;PL;GEN": {
+        "morpho": {
+            "Case": "Gen",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;PL;NOM": {
+        "morpho": {
+            "Case": "Nom",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;PL;VOC": {
+        "morpho": {
+            "Case": "Voc",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;SG;FEM;DAT": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;SG;FEM;GEN": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;SG;FEM;NOM": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;SG;FEM;VOC": {
+        "morpho": {
+            "Case": "Voc",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;SG;MASC;DAT": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;SG;MASC;GEN": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;SG;MASC;NOM": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;SG;MASC;VOC": {
+        "morpho": {
+            "Case": "Voc",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "V;COND;ACT": {
+        "morpho": {
+            "Mood": "Cnd",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V;COND;PASS": {
+        "morpho": {
+            "Mood": "Cnd",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V;FUT;ACT": {
+        "morpho": {
+            "Tense": "Fut",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V;FUT;PASS": {
+        "morpho": {
+            "Tense": "Fut",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;ACT": {
+        "morpho": {
+            "Tense": "Past",
+            "Voice": "Act"
+        },
+        "upos": "VERB"
+    },
+    "V;PST;PASS": {
+        "morpho": {
+            "Tense": "Past",
+            "Voice": "Pass"
+        },
+        "upos": "VERB"
+    },
+    "V;V.PTCP;PRS": {
+        "morpho": {
+            "Tense": "Pres",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    }
+}

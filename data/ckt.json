@@ -1,4 +1,8 @@
 {
+    "": {
+        "morpho": {},
+        "upos": null
+    },
     "1;PRO;PL;ABS": {
         "morpho": {
             "Case": "Abs",
@@ -47,10 +51,7 @@
     "ANIM;PRO;ABS;GEN;PL": {
         "morpho": {
             "Animacy": "Anim",
-            "Case": [
-                "Gen",
-                "Abs"
-            ],
+            "Case": "Abs,Gen",
             "Number": "Plur",
             "PronType": "Prn"
         },
@@ -141,7 +142,7 @@
     "N;COM;PSSD": {
         "morpho": {
             "Case": "Com",
-            "Definite[psor]": "Cons"
+            "Definite": "Cons"
         },
         "upos": "NOUN"
     },
@@ -410,7 +411,7 @@
         },
         "upos": "VERB"
     },
-    "V;IND;ARGER3S;ARGAB3S                           ": {
+    "V;IND;ARGER3S;ARGAB3S": {
         "morpho": {
             "Mood": "Ind",
             "Number[abs]": "Sing",
@@ -420,18 +421,7 @@
         },
         "upos": "VERB"
     },
-    "V;IND;FUT;ARGER1P;ARBAB3S": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number[abs]": "Sing",
-            "Number[erg]": "Plur",
-            "Person[abs]": "3",
-            "Person[erg]": "1",
-            "Tense": "Fut"
-        },
-        "upos": "VERB"
-    },
-    "V;IND;FUT;ARGER1P;ARGAB3S    ": {
+    "V;IND;FUT;ARGER1P;ARGAB3S": {
         "morpho": {
             "Mood": "Ind",
             "Number[abs]": "Sing",
@@ -444,10 +434,7 @@
     },
     "V;IND;PFV;ITER;SG;3": {
         "morpho": {
-            "Aspect": [
-                "Iter",
-                "Perf"
-            ],
+            "Aspect": "Iter,Perf",
             "Mood": "Ind",
             "Number": "Sing",
             "Person": "3"
@@ -490,18 +477,6 @@
         },
         "upos": "VERB"
     },
-    "V;IND;PFV;PST;ARGER3S;ARGAB3P    ": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Ind",
-            "Number[abs]": "Plur",
-            "Number[erg]": "Sing",
-            "Person[abs]": "3",
-            "Person[erg]": "3",
-            "Tense": "Past"
-        },
-        "upos": "VERB"
-    },
     "V;IND;PFV;PST;PL;3": {
         "morpho": {
             "Aspect": "Perf",
@@ -521,7 +496,7 @@
         },
         "upos": "VERB"
     },
-    "V;IND;PRF;ARGER1S;ARGAB3P           ": {
+    "V;IND;PRF;ARGER1S;ARGAB3P": {
         "morpho": {
             "Aspect": "Perf",
             "Mood": "Ind",
@@ -543,7 +518,7 @@
         },
         "upos": "VERB"
     },
-    "V;IND;PRS;ARGER1S;ARGAB3S ": {
+    "V;IND;PRS;ARGER1S;ARGAB3S": {
         "morpho": {
             "Mood": "Ind",
             "Number[abs]": "Sing",
@@ -554,7 +529,7 @@
         },
         "upos": "VERB"
     },
-    "V;IND;PRS;ARGER3S;ARGAB3S  ": {
+    "V;IND;PRS;ARGER3S;ARGAB3S": {
         "morpho": {
             "Mood": "Ind",
             "Number[abs]": "Sing",
@@ -565,7 +540,7 @@
         },
         "upos": "VERB"
     },
-    "V;IND;PRS;IPFV;ARGER3S;ARGAB3S ": {
+    "V;IND;PRS;IPFV;ARGER3S;ARGAB3S": {
         "morpho": {
             "Aspect": "Imp",
             "Mood": "Ind",
@@ -587,7 +562,7 @@
         },
         "upos": "VERB"
     },
-    "V;IND;PST;ARGER1P;ARGAB3P      ": {
+    "V;IND;PST;ARGER1P;ARGAB3P": {
         "morpho": {
             "Mood": "Ind",
             "Number[abs]": "Plur",
@@ -598,7 +573,7 @@
         },
         "upos": "VERB"
     },
-    "V;IND;PST;ARGER3P;ARGAB3P   ": {
+    "V;IND;PST;ARGER3P;ARGAB3P": {
         "morpho": {
             "Mood": "Ind",
             "Number[abs]": "Plur",
@@ -638,17 +613,6 @@
         },
         "upos": "VERB"
     },
-    "V;IND;PST;ARGER3S;ARGAB3S ": {
-        "morpho": {
-            "Mood": "Ind",
-            "Number[abs]": "Sing",
-            "Number[erg]": "Sing",
-            "Person[abs]": "3",
-            "Person[erg]": "3",
-            "Tense": "Past"
-        },
-        "upos": "VERB"
-    },
     "V;IND;PST;PFV;1;SG": {
         "morpho": {
             "Aspect": "Perf",
@@ -669,7 +633,7 @@
         },
         "upos": "VERB"
     },
-    "V;IND;PST;PFV;ARGER1P;ARBAB1S": {
+    "V;IND;PST;PFV;ARGER1P;ARGAB1S": {
         "morpho": {
             "Aspect": "Perf",
             "Mood": "Ind",
@@ -693,30 +657,6 @@
         },
         "upos": "VERB"
     },
-    "V;IND;PST;PFV;ARGER1P;ARGAB3S  ": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Ind",
-            "Number[abs]": "Sing",
-            "Number[erg]": "Plur",
-            "Person[abs]": "3",
-            "Person[erg]": "1",
-            "Tense": "Past"
-        },
-        "upos": "VERB"
-    },
-    "V;IND;PST;PFV;ARGER1S;ARBAB3S": {
-        "morpho": {
-            "Aspect": "Perf",
-            "Mood": "Ind",
-            "Number[abs]": "Sing",
-            "Number[erg]": "Sing",
-            "Person[abs]": "3",
-            "Person[erg]": "1",
-            "Tense": "Past"
-        },
-        "upos": "VERB"
-    },
     "V;IND;PST;PFV;ARGER1S;ARGAB3P": {
         "morpho": {
             "Aspect": "Perf",
@@ -729,19 +669,19 @@
         },
         "upos": "VERB"
     },
-    "V;IND;PST;PFV;ARGER3S;ARBAB3S": {
+    "V;IND;PST;PFV;ARGER1S;ARGAB3S": {
         "morpho": {
             "Aspect": "Perf",
             "Mood": "Ind",
             "Number[abs]": "Sing",
             "Number[erg]": "Sing",
             "Person[abs]": "3",
-            "Person[erg]": "3",
+            "Person[erg]": "1",
             "Tense": "Past"
         },
         "upos": "VERB"
     },
-    "V;IND;PST;PFV;ARGER3S;ARGAB3S  ": {
+    "V;IND;PST;PFV;ARGER3S;ARGAB3S": {
         "morpho": {
             "Aspect": "Perf",
             "Mood": "Ind",
@@ -835,7 +775,7 @@
         },
         "upos": "VERB"
     },
-    "V;SBJV;ARGER1P;ARGAB3S ": {
+    "V;SBJV;ARGER1P;ARGAB3S": {
         "morpho": {
             "Mood": "Sub",
             "Number[abs]": "Sing",
@@ -874,7 +814,7 @@
         },
         "upos": "VERB"
     },
-    "V;SBJV;PFV;ARGER1S;ARGAB3S ": {
+    "V;SBJV;PFV;ARGER1S;ARGAB3S": {
         "morpho": {
             "Aspect": "Perf",
             "Mood": "Sub",
@@ -907,6 +847,5 @@
             "Person": "3"
         },
         "upos": "VERB"
-    },
-    "nan": {}
+    }
 }

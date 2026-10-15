@@ -58,7 +58,7 @@
         },
         "upos": "ADV"
     },
-    "ADV;SUP": {
+    "ADV;SPRL": {
         "morpho": {
             "Degree": "Sup"
         },
@@ -67,14 +67,14 @@
     "ART;DEF": {
         "morpho": {
             "Definite": "Def",
-            "Prontype": "Art"
+            "PronType": "Art"
         },
         "upos": "DET"
     },
     "ART;INDF": {
         "morpho": {
             "Definite": "Ind",
-            "Prontype": "Art"
+            "PronType": "Art"
         },
         "upos": "DET"
     },

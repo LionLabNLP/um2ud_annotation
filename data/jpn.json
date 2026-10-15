@@ -2,10 +2,7 @@
     "V;FORM;ELEV;IMP;COL": {
         "morpho": {
             "Mood": "Imp",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Coll"
         },
         "upos": "VERB"
@@ -14,85 +11,52 @@
         "morpho": {
             "Mood": "Imp",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Coll"
         },
         "upos": "VERB"
     },
     "V;FORM;ELEV;IMP;OBLIG": {
         "morpho": {
-            "Mood": [
-                "Imp",
-                "Nec"
-            ],
-            "Polite": [
-                "Elev",
-                "Form"
-            ]
+            "Mood": "Imp,Nec",
+            "Polite": "Elev,Form"
         },
         "upos": "VERB"
     },
     "V;FORM;ELEV;IMP;OBLIG;COL": {
         "morpho": {
-            "Mood": [
-                "Imp",
-                "Nec"
-            ],
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Mood": "Imp,Nec",
+            "Polite": "Elev,Form",
             "Style": "Coll"
         },
         "upos": "VERB"
     },
     "V;FORM;ELEV;IMP;OBLIG;NEG": {
         "morpho": {
-            "Mood": [
-                "Imp",
-                "Nec"
-            ],
+            "Mood": "Imp,Nec",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ]
+            "Polite": "Elev,Form"
         },
         "upos": "VERB"
     },
     "V;FORM;ELEV;IMP;OBLIG;POL": {
         "morpho": {
-            "Mood": [
-                "Imp",
-                "Nec"
-            ],
-            "Polite": [
-                "Elev",
-                "Form"
-            ]
+            "Mood": "Imp,Nec",
+            "Polite": "Elev,Form"
         },
         "upos": "VERB"
     },
     "V;FORM;ELEV;IMP;POL": {
         "morpho": {
             "Mood": "Imp",
-            "Polite": [
-                "Elev",
-                "Form"
-            ]
+            "Polite": "Elev,Form"
         },
         "upos": "VERB"
     },
     "V;FORM;ELEV;IMP;POL;COL": {
         "morpho": {
             "Mood": "Imp",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Coll"
         },
         "upos": "VERB"
@@ -101,10 +65,7 @@
         "morpho": {
             "Mood": "Imp",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ]
+            "Polite": "Elev,Form"
         },
         "upos": "VERB"
     },
@@ -112,10 +73,7 @@
         "morpho": {
             "Mood": "Imp",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Coll"
         },
         "upos": "VERB"
@@ -123,20 +81,14 @@
     "V;FORM;ELEV;INTEN": {
         "morpho": {
             "Mood": "Des",
-            "Polite": [
-                "Elev",
-                "Form"
-            ]
+            "Polite": "Elev,Form"
         },
         "upos": "VERB"
     },
     "V;FORM;ELEV;INTEN;POL;FOREG": {
         "morpho": {
             "Mood": "Des",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Form"
         },
         "upos": "VERB"
@@ -144,10 +96,7 @@
     "V;FORM;ELEV;PRS;IPFV": {
         "morpho": {
             "Aspect": "Imp",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -155,10 +104,7 @@
     "V;FORM;ELEV;PRS;IPFV;CAUS": {
         "morpho": {
             "Aspect": "Imp",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Pres",
             "Voice": "Cau"
         },
@@ -168,10 +114,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Pres",
             "Voice": "Cau"
         },
@@ -180,15 +123,9 @@
     "V;FORM;ELEV;PRS;IPFV;CAUS;PASS": {
         "morpho": {
             "Aspect": "Imp",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Pres",
-            "Voice": [
-                "Pass",
-                "Cau"
-            ]
+            "Voice": "Cau,Pass"
         },
         "upos": "VERB"
     },
@@ -196,41 +133,26 @@
         "morpho": {
             "Aspect": "Imp",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Pres",
-            "Voice": [
-                "Pass",
-                "Cau"
-            ]
+            "Voice": "Cau,Pass"
         },
         "upos": "VERB"
     },
     "V;FORM;ELEV;PRS;IPFV;CAUS;PASS;POL;FOREG": {
         "morpho": {
             "Aspect": "Imp",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Form",
             "Tense": "Pres",
-            "Voice": [
-                "Pass",
-                "Cau"
-            ]
+            "Voice": "Cau,Pass"
         },
         "upos": "VERB"
     },
     "V;FORM;ELEV;PRS;IPFV;CAUS;POL;FOREG": {
         "morpho": {
             "Aspect": "Imp",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Form",
             "Tense": "Pres",
             "Voice": "Cau"
@@ -241,10 +163,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Form",
             "Tense": "Pres",
             "Voice": "Cau"
@@ -254,10 +173,7 @@
     "V;FORM;ELEV;PRS;IPFV;COL": {
         "morpho": {
             "Aspect": "Imp",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Coll",
             "Tense": "Pres"
         },
@@ -267,10 +183,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -279,10 +192,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Coll",
             "Tense": "Pres"
         },
@@ -293,10 +203,7 @@
             "Aspect": "Imp",
             "Mood": "Opt",
             "Person": "1",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -306,10 +213,7 @@
             "Aspect": "Imp",
             "Mood": "Opt",
             "Person": "3",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -320,10 +224,7 @@
             "Mood": "Opt",
             "Person": "1",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -334,10 +235,7 @@
             "Mood": "Opt",
             "Person": "3",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -347,10 +245,7 @@
             "Aspect": "Imp",
             "Mood": "Opt",
             "Person": "1",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -360,10 +255,7 @@
             "Aspect": "Imp",
             "Mood": "Opt",
             "Person": "3",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Form",
             "Tense": "Pres"
         },
@@ -375,10 +267,7 @@
             "Mood": "Opt",
             "Person": "1",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -386,10 +275,7 @@
     "V;FORM;ELEV;PRS;IPFV;PASS": {
         "morpho": {
             "Aspect": "Imp",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Pres",
             "Voice": "Pass"
         },
@@ -399,10 +285,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Pres",
             "Voice": "Pass"
         },
@@ -411,10 +294,7 @@
     "V;FORM;ELEV;PRS;IPFV;PASS;POL;FOREG": {
         "morpho": {
             "Aspect": "Imp",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Form",
             "Tense": "Pres",
             "Voice": "Pass"
@@ -425,10 +305,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Form",
             "Tense": "Pres",
             "Voice": "Pass"
@@ -438,10 +315,7 @@
     "V;FORM;ELEV;PRS;IPFV;POL;FOREG": {
         "morpho": {
             "Aspect": "Imp",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Form",
             "Tense": "Pres"
         },
@@ -450,14 +324,8 @@
     "V;FORM;ELEV;PRS;IPFV;POL;FOREG;COL": {
         "morpho": {
             "Aspect": "Imp",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
-            "Style": [
-                "Form",
-                "Coll"
-            ],
+            "Polite": "Elev,Form",
+            "Style": "Coll,Form",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -466,10 +334,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Form",
             "Tense": "Pres"
         },
@@ -479,14 +344,8 @@
         "morpho": {
             "Aspect": "Imp",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
-            "Style": [
-                "Form",
-                "Coll"
-            ],
+            "Polite": "Elev,Form",
+            "Style": "Coll,Form",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -495,10 +354,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Coll",
             "Tense": "Pres"
         },
@@ -508,10 +364,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Mood": "Pot",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -521,10 +374,7 @@
             "Aspect": "Imp",
             "Mood": "Pot",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -533,10 +383,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Mood": "Pot",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Form",
             "Tense": "Pres"
         },
@@ -547,10 +394,7 @@
             "Aspect": "Imp",
             "Mood": "Pot",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Form",
             "Tense": "Pres"
         },
@@ -558,58 +402,34 @@
     },
     "V;FORM;ELEV;PRS;IPFV;PROSP": {
         "morpho": {
-            "Aspect": [
-                "Prosp",
-                "Imp"
-            ],
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Aspect": "Imp,Prosp",
+            "Polite": "Elev,Form",
             "Tense": "Pres"
         },
         "upos": "VERB"
     },
     "V;FORM;ELEV;PRS;IPFV;PROSP;NEG": {
         "morpho": {
-            "Aspect": [
-                "Prosp",
-                "Imp"
-            ],
+            "Aspect": "Imp,Prosp",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Pres"
         },
         "upos": "VERB"
     },
     "V;FORM;ELEV;PRS;IPFV;PROSP;POL": {
         "morpho": {
-            "Aspect": [
-                "Prosp",
-                "Imp"
-            ],
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Aspect": "Imp,Prosp",
+            "Polite": "Elev,Form",
             "Tense": "Pres"
         },
         "upos": "VERB"
     },
     "V;FORM;ELEV;PRS;IPFV;PROSP;POL;NEG": {
         "morpho": {
-            "Aspect": [
-                "Prosp",
-                "Imp"
-            ],
+            "Aspect": "Imp,Prosp",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -617,10 +437,7 @@
     "V;FORM;ELEV;PST;PFV": {
         "morpho": {
             "Aspect": "Perf",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Past"
         },
         "upos": "VERB"
@@ -628,10 +445,7 @@
     "V;FORM;ELEV;PST;PFV;CAUS": {
         "morpho": {
             "Aspect": "Perf",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Past",
             "Voice": "Cau"
         },
@@ -641,10 +455,7 @@
         "morpho": {
             "Aspect": "Perf",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Past",
             "Voice": "Cau"
         },
@@ -653,41 +464,26 @@
     "V;FORM;ELEV;PST;PFV;CAUS;PASS": {
         "morpho": {
             "Aspect": "Perf",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Past",
-            "Voice": [
-                "Pass",
-                "Cau"
-            ]
+            "Voice": "Cau,Pass"
         },
         "upos": "VERB"
     },
     "V;FORM;ELEV;PST;PFV;CAUS;PASS;POL;FOREG": {
         "morpho": {
             "Aspect": "Perf",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Form",
             "Tense": "Past",
-            "Voice": [
-                "Pass",
-                "Cau"
-            ]
+            "Voice": "Cau,Pass"
         },
         "upos": "VERB"
     },
     "V;FORM;ELEV;PST;PFV;CAUS;POL;FOREG": {
         "morpho": {
             "Aspect": "Perf",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Form",
             "Tense": "Past",
             "Voice": "Cau"
@@ -698,10 +494,7 @@
         "morpho": {
             "Aspect": "Perf",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Form",
             "Tense": "Past",
             "Voice": "Cau"
@@ -711,10 +504,7 @@
     "V;FORM;ELEV;PST;PFV;COL": {
         "morpho": {
             "Aspect": "Perf",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Coll",
             "Tense": "Past"
         },
@@ -724,10 +514,7 @@
         "morpho": {
             "Aspect": "Perf",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Past"
         },
         "upos": "VERB"
@@ -736,10 +523,7 @@
         "morpho": {
             "Aspect": "Perf",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Coll",
             "Tense": "Past"
         },
@@ -750,10 +534,7 @@
             "Aspect": "Perf",
             "Mood": "Opt",
             "Person": "1",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Past"
         },
         "upos": "VERB"
@@ -763,10 +544,7 @@
             "Aspect": "Perf",
             "Mood": "Opt",
             "Person": "3",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Past"
         },
         "upos": "VERB"
@@ -777,10 +555,7 @@
             "Mood": "Opt",
             "Person": "1",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Past"
         },
         "upos": "VERB"
@@ -790,10 +565,7 @@
             "Aspect": "Perf",
             "Mood": "Opt",
             "Person": "1",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Past"
         },
         "upos": "VERB"
@@ -801,10 +573,7 @@
     "V;FORM;ELEV;PST;PFV;PASS": {
         "morpho": {
             "Aspect": "Perf",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Past",
             "Voice": "Pass"
         },
@@ -814,10 +583,7 @@
         "morpho": {
             "Aspect": "Perf",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Past",
             "Voice": "Pass"
         },
@@ -826,10 +592,7 @@
     "V;FORM;ELEV;PST;PFV;PASS;POL;FOREG": {
         "morpho": {
             "Aspect": "Perf",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Form",
             "Tense": "Past",
             "Voice": "Pass"
@@ -840,10 +603,7 @@
         "morpho": {
             "Aspect": "Perf",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Form",
             "Tense": "Past",
             "Voice": "Pass"
@@ -853,10 +613,7 @@
     "V;FORM;ELEV;PST;PFV;POL;FOREG": {
         "morpho": {
             "Aspect": "Perf",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Form",
             "Tense": "Past"
         },
@@ -865,14 +622,8 @@
     "V;FORM;ELEV;PST;PFV;POL;FOREG;COL": {
         "morpho": {
             "Aspect": "Perf",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
-            "Style": [
-                "Form",
-                "Coll"
-            ],
+            "Polite": "Elev,Form",
+            "Style": "Coll,Form",
             "Tense": "Past"
         },
         "upos": "VERB"
@@ -881,10 +632,7 @@
         "morpho": {
             "Aspect": "Perf",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Form",
             "Tense": "Past"
         },
@@ -894,14 +642,8 @@
         "morpho": {
             "Aspect": "Perf",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
-            "Style": [
-                "Form",
-                "Coll"
-            ],
+            "Polite": "Elev,Form",
+            "Style": "Coll,Form",
             "Tense": "Past"
         },
         "upos": "VERB"
@@ -910,10 +652,7 @@
         "morpho": {
             "Aspect": "Perf",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Coll",
             "Tense": "Past"
         },
@@ -923,10 +662,7 @@
         "morpho": {
             "Aspect": "Perf",
             "Mood": "Pot",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Past"
         },
         "upos": "VERB"
@@ -936,10 +672,7 @@
             "Aspect": "Perf",
             "Mood": "Pot",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Past"
         },
         "upos": "VERB"
@@ -948,10 +681,7 @@
         "morpho": {
             "Aspect": "Perf",
             "Mood": "Pot",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Form",
             "Tense": "Past"
         },
@@ -962,10 +692,7 @@
             "Aspect": "Perf",
             "Mood": "Pot",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Form",
             "Tense": "Past"
         },
@@ -973,58 +700,34 @@
     },
     "V;FORM;ELEV;PST;PFV;PROSP": {
         "morpho": {
-            "Aspect": [
-                "Prosp",
-                "Perf"
-            ],
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Aspect": "Perf,Prosp",
+            "Polite": "Elev,Form",
             "Tense": "Past"
         },
         "upos": "VERB"
     },
     "V;FORM;ELEV;PST;PFV;PROSP;NEG": {
         "morpho": {
-            "Aspect": [
-                "Prosp",
-                "Perf"
-            ],
+            "Aspect": "Perf,Prosp",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Past"
         },
         "upos": "VERB"
     },
     "V;FORM;ELEV;PST;PFV;PROSP;POL": {
         "morpho": {
-            "Aspect": [
-                "Prosp",
-                "Perf"
-            ],
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Aspect": "Perf,Prosp",
+            "Polite": "Elev,Form",
             "Tense": "Past"
         },
         "upos": "VERB"
     },
     "V;FORM;ELEV;PST;PFV;PROSP;POL;NEG": {
         "morpho": {
-            "Aspect": [
-                "Prosp",
-                "Perf"
-            ],
+            "Aspect": "Perf,Prosp",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Tense": "Past"
         },
         "upos": "VERB"
@@ -1032,10 +735,7 @@
     "V;FORM;HUMB;IMP;COL": {
         "morpho": {
             "Mood": "Imp",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Coll"
         },
         "upos": "VERB"
@@ -1044,75 +744,45 @@
         "morpho": {
             "Mood": "Imp",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Coll"
         },
         "upos": "VERB"
     },
     "V;FORM;HUMB;IMP;OBLIG": {
         "morpho": {
-            "Mood": [
-                "Imp",
-                "Nec"
-            ],
-            "Polite": [
-                "Form",
-                "Humb"
-            ]
+            "Mood": "Imp,Nec",
+            "Polite": "Form,Humb"
         },
         "upos": "VERB"
     },
     "V;FORM;HUMB;IMP;OBLIG;COL": {
         "morpho": {
-            "Mood": [
-                "Imp",
-                "Nec"
-            ],
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Mood": "Imp,Nec",
+            "Polite": "Form,Humb",
             "Style": "Coll"
         },
         "upos": "VERB"
     },
     "V;FORM;HUMB;IMP;OBLIG;NEG": {
         "morpho": {
-            "Mood": [
-                "Imp",
-                "Nec"
-            ],
+            "Mood": "Imp,Nec",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ]
+            "Polite": "Form,Humb"
         },
         "upos": "VERB"
     },
     "V;FORM;HUMB;IMP;OBLIG;POL": {
         "morpho": {
-            "Mood": [
-                "Imp",
-                "Nec"
-            ],
-            "Polite": [
-                "Form",
-                "Humb"
-            ]
+            "Mood": "Imp,Nec",
+            "Polite": "Form,Humb"
         },
         "upos": "VERB"
     },
     "V;FORM;HUMB;IMP;POL": {
         "morpho": {
             "Mood": "Imp",
-            "Polite": [
-                "Form",
-                "Humb"
-            ]
+            "Polite": "Form,Humb"
         },
         "upos": "VERB"
     },
@@ -1120,30 +790,21 @@
         "morpho": {
             "Mood": "Imp",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ]
+            "Polite": "Form,Humb"
         },
         "upos": "VERB"
     },
     "V;FORM;HUMB;INTEN": {
         "morpho": {
             "Mood": "Des",
-            "Polite": [
-                "Form",
-                "Humb"
-            ]
+            "Polite": "Form,Humb"
         },
         "upos": "VERB"
     },
     "V;FORM;HUMB;INTEN;POL;FOREG": {
         "morpho": {
             "Mood": "Des",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form"
         },
         "upos": "VERB"
@@ -1151,10 +812,7 @@
     "V;FORM;HUMB;PRS;IPFV": {
         "morpho": {
             "Aspect": "Imp",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -1162,10 +820,7 @@
     "V;FORM;HUMB;PRS;IPFV;CAUS": {
         "morpho": {
             "Aspect": "Imp",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Pres",
             "Voice": "Cau"
         },
@@ -1175,10 +830,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Pres",
             "Voice": "Cau"
         },
@@ -1187,15 +839,9 @@
     "V;FORM;HUMB;PRS;IPFV;CAUS;PASS": {
         "morpho": {
             "Aspect": "Imp",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Pres",
-            "Voice": [
-                "Pass",
-                "Cau"
-            ]
+            "Voice": "Cau,Pass"
         },
         "upos": "VERB"
     },
@@ -1203,41 +849,26 @@
         "morpho": {
             "Aspect": "Imp",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Pres",
-            "Voice": [
-                "Pass",
-                "Cau"
-            ]
+            "Voice": "Cau,Pass"
         },
         "upos": "VERB"
     },
     "V;FORM;HUMB;PRS;IPFV;CAUS;PASS;POL;FOREG": {
         "morpho": {
             "Aspect": "Imp",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form",
             "Tense": "Pres",
-            "Voice": [
-                "Pass",
-                "Cau"
-            ]
+            "Voice": "Cau,Pass"
         },
         "upos": "VERB"
     },
     "V;FORM;HUMB;PRS;IPFV;CAUS;POL;FOREG": {
         "morpho": {
             "Aspect": "Imp",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form",
             "Tense": "Pres",
             "Voice": "Cau"
@@ -1248,10 +879,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form",
             "Tense": "Pres",
             "Voice": "Cau"
@@ -1262,10 +890,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -1275,10 +900,7 @@
             "Aspect": "Imp",
             "Mood": "Perm",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -1288,10 +910,7 @@
             "Aspect": "Imp",
             "Mood": "Opt",
             "Person": "1",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -1301,10 +920,7 @@
             "Aspect": "Imp",
             "Mood": "Opt",
             "Person": "3",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -1315,10 +931,7 @@
             "Mood": "Opt",
             "Person": "1",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -1329,10 +942,7 @@
             "Mood": "Opt",
             "Person": "3",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -1342,10 +952,7 @@
             "Aspect": "Imp",
             "Mood": "Opt",
             "Person": "1",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -1355,10 +962,7 @@
             "Aspect": "Imp",
             "Mood": "Opt",
             "Person": "3",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form",
             "Tense": "Pres"
         },
@@ -1370,10 +974,7 @@
             "Mood": "Opt",
             "Person": "3",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form",
             "Tense": "Pres"
         },
@@ -1385,10 +986,7 @@
             "Mood": "Opt",
             "Person": "1",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -1396,10 +994,7 @@
     "V;FORM;HUMB;PRS;IPFV;PASS": {
         "morpho": {
             "Aspect": "Imp",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Pres",
             "Voice": "Pass"
         },
@@ -1409,10 +1004,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Pres",
             "Voice": "Pass"
         },
@@ -1421,10 +1013,7 @@
     "V;FORM;HUMB;PRS;IPFV;PASS;POL;FOREG": {
         "morpho": {
             "Aspect": "Imp",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form",
             "Tense": "Pres",
             "Voice": "Pass"
@@ -1435,10 +1024,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form",
             "Tense": "Pres",
             "Voice": "Pass"
@@ -1449,10 +1035,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Mood": "Perm",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -1460,10 +1043,7 @@
     "V;FORM;HUMB;PRS;IPFV;POL;FOREG": {
         "morpho": {
             "Aspect": "Imp",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form",
             "Tense": "Pres"
         },
@@ -1473,10 +1053,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form",
             "Tense": "Pres"
         },
@@ -1487,10 +1064,7 @@
             "Aspect": "Imp",
             "Mood": "Perm",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form",
             "Tense": "Pres"
         },
@@ -1500,10 +1074,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Mood": "Perm",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form",
             "Tense": "Pres"
         },
@@ -1513,10 +1084,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Coll",
             "Tense": "Pres"
         },
@@ -1526,10 +1094,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Mood": "Pot",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -1539,10 +1104,7 @@
             "Aspect": "Imp",
             "Mood": "Pot",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -1551,10 +1113,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Mood": "Pot",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form",
             "Tense": "Pres"
         },
@@ -1565,10 +1124,7 @@
             "Aspect": "Imp",
             "Mood": "Pot",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form",
             "Tense": "Pres"
         },
@@ -1576,58 +1132,34 @@
     },
     "V;FORM;HUMB;PRS;IPFV;PROSP": {
         "morpho": {
-            "Aspect": [
-                "Prosp",
-                "Imp"
-            ],
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Aspect": "Imp,Prosp",
+            "Polite": "Form,Humb",
             "Tense": "Pres"
         },
         "upos": "VERB"
     },
     "V;FORM;HUMB;PRS;IPFV;PROSP;NEG": {
         "morpho": {
-            "Aspect": [
-                "Prosp",
-                "Imp"
-            ],
+            "Aspect": "Imp,Prosp",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Pres"
         },
         "upos": "VERB"
     },
     "V;FORM;HUMB;PRS;IPFV;PROSP;POL": {
         "morpho": {
-            "Aspect": [
-                "Prosp",
-                "Imp"
-            ],
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Aspect": "Imp,Prosp",
+            "Polite": "Form,Humb",
             "Tense": "Pres"
         },
         "upos": "VERB"
     },
     "V;FORM;HUMB;PRS;IPFV;PROSP;POL;NEG": {
         "morpho": {
-            "Aspect": [
-                "Prosp",
-                "Imp"
-            ],
+            "Aspect": "Imp,Prosp",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Pres"
         },
         "upos": "VERB"
@@ -1635,10 +1167,7 @@
     "V;FORM;HUMB;PST;PFV": {
         "morpho": {
             "Aspect": "Perf",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Past"
         },
         "upos": "VERB"
@@ -1646,10 +1175,7 @@
     "V;FORM;HUMB;PST;PFV;CAUS": {
         "morpho": {
             "Aspect": "Perf",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Past",
             "Voice": "Cau"
         },
@@ -1659,10 +1185,7 @@
         "morpho": {
             "Aspect": "Perf",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Past",
             "Voice": "Cau"
         },
@@ -1671,15 +1194,9 @@
     "V;FORM;HUMB;PST;PFV;CAUS;PASS": {
         "morpho": {
             "Aspect": "Perf",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Past",
-            "Voice": [
-                "Pass",
-                "Cau"
-            ]
+            "Voice": "Cau,Pass"
         },
         "upos": "VERB"
     },
@@ -1687,41 +1204,26 @@
         "morpho": {
             "Aspect": "Perf",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Past",
-            "Voice": [
-                "Pass",
-                "Cau"
-            ]
+            "Voice": "Cau,Pass"
         },
         "upos": "VERB"
     },
     "V;FORM;HUMB;PST;PFV;CAUS;PASS;POL;FOREG": {
         "morpho": {
             "Aspect": "Perf",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form",
             "Tense": "Past",
-            "Voice": [
-                "Pass",
-                "Cau"
-            ]
+            "Voice": "Cau,Pass"
         },
         "upos": "VERB"
     },
     "V;FORM;HUMB;PST;PFV;CAUS;POL;FOREG": {
         "morpho": {
             "Aspect": "Perf",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form",
             "Tense": "Past",
             "Voice": "Cau"
@@ -1732,10 +1234,7 @@
         "morpho": {
             "Aspect": "Perf",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form",
             "Tense": "Past",
             "Voice": "Cau"
@@ -1746,10 +1245,7 @@
         "morpho": {
             "Aspect": "Perf",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Past"
         },
         "upos": "VERB"
@@ -1759,10 +1255,7 @@
             "Aspect": "Perf",
             "Mood": "Perm",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Past"
         },
         "upos": "VERB"
@@ -1772,10 +1265,7 @@
             "Aspect": "Perf",
             "Mood": "Opt",
             "Person": "1",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Past"
         },
         "upos": "VERB"
@@ -1785,10 +1275,7 @@
             "Aspect": "Perf",
             "Mood": "Opt",
             "Person": "3",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Past"
         },
         "upos": "VERB"
@@ -1799,10 +1286,7 @@
             "Mood": "Opt",
             "Person": "1",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Past"
         },
         "upos": "VERB"
@@ -1813,10 +1297,7 @@
             "Mood": "Opt",
             "Person": "3",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Past"
         },
         "upos": "VERB"
@@ -1826,10 +1307,7 @@
             "Aspect": "Perf",
             "Mood": "Opt",
             "Person": "1",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Past"
         },
         "upos": "VERB"
@@ -1839,10 +1317,7 @@
             "Aspect": "Perf",
             "Mood": "Opt",
             "Person": "3",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form",
             "Tense": "Past"
         },
@@ -1854,10 +1329,7 @@
             "Mood": "Opt",
             "Person": "1",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Past"
         },
         "upos": "VERB"
@@ -1865,10 +1337,7 @@
     "V;FORM;HUMB;PST;PFV;PASS": {
         "morpho": {
             "Aspect": "Perf",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Past",
             "Voice": "Pass"
         },
@@ -1878,10 +1347,7 @@
         "morpho": {
             "Aspect": "Perf",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Past",
             "Voice": "Pass"
         },
@@ -1890,10 +1356,7 @@
     "V;FORM;HUMB;PST;PFV;PASS;POL;FOREG": {
         "morpho": {
             "Aspect": "Perf",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form",
             "Tense": "Past",
             "Voice": "Pass"
@@ -1904,10 +1367,7 @@
         "morpho": {
             "Aspect": "Perf",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form",
             "Tense": "Past",
             "Voice": "Pass"
@@ -1918,10 +1378,7 @@
         "morpho": {
             "Aspect": "Perf",
             "Mood": "Perm",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Past"
         },
         "upos": "VERB"
@@ -1929,10 +1386,7 @@
     "V;FORM;HUMB;PST;PFV;POL;FOREG": {
         "morpho": {
             "Aspect": "Perf",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form",
             "Tense": "Past"
         },
@@ -1942,10 +1396,7 @@
         "morpho": {
             "Aspect": "Perf",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form",
             "Tense": "Past"
         },
@@ -1956,10 +1407,7 @@
             "Aspect": "Perf",
             "Mood": "Perm",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form",
             "Tense": "Past"
         },
@@ -1969,10 +1417,7 @@
         "morpho": {
             "Aspect": "Perf",
             "Mood": "Perm",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form",
             "Tense": "Past"
         },
@@ -1982,10 +1427,7 @@
         "morpho": {
             "Aspect": "Perf",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Coll",
             "Tense": "Past"
         },
@@ -1995,10 +1437,7 @@
         "morpho": {
             "Aspect": "Perf",
             "Mood": "Pot",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Past"
         },
         "upos": "VERB"
@@ -2008,10 +1447,7 @@
             "Aspect": "Perf",
             "Mood": "Pot",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Past"
         },
         "upos": "VERB"
@@ -2020,10 +1456,7 @@
         "morpho": {
             "Aspect": "Perf",
             "Mood": "Pot",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form",
             "Tense": "Past"
         },
@@ -2034,10 +1467,7 @@
             "Aspect": "Perf",
             "Mood": "Pot",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Style": "Form",
             "Tense": "Past"
         },
@@ -2045,58 +1475,34 @@
     },
     "V;FORM;HUMB;PST;PFV;PROSP": {
         "morpho": {
-            "Aspect": [
-                "Prosp",
-                "Perf"
-            ],
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Aspect": "Perf,Prosp",
+            "Polite": "Form,Humb",
             "Tense": "Past"
         },
         "upos": "VERB"
     },
     "V;FORM;HUMB;PST;PFV;PROSP;NEG": {
         "morpho": {
-            "Aspect": [
-                "Prosp",
-                "Perf"
-            ],
+            "Aspect": "Perf,Prosp",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Past"
         },
         "upos": "VERB"
     },
     "V;FORM;HUMB;PST;PFV;PROSP;POL": {
         "morpho": {
-            "Aspect": [
-                "Prosp",
-                "Perf"
-            ],
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Aspect": "Perf,Prosp",
+            "Polite": "Form,Humb",
             "Tense": "Past"
         },
         "upos": "VERB"
     },
     "V;FORM;HUMB;PST;PFV;PROSP;POL;NEG": {
         "morpho": {
-            "Aspect": [
-                "Prosp",
-                "Perf"
-            ],
+            "Aspect": "Perf,Prosp",
             "Polarity": "Neg",
-            "Polite": [
-                "Form",
-                "Humb"
-            ],
+            "Polite": "Form,Humb",
             "Tense": "Past"
         },
         "upos": "VERB"
@@ -2133,39 +1539,27 @@
     },
     "V;IMP;OBLIG": {
         "morpho": {
-            "Mood": [
-                "Imp",
-                "Nec"
-            ]
+            "Mood": "Imp,Nec"
         },
         "upos": "VERB"
     },
     "V;IMP;OBLIG;COL": {
         "morpho": {
-            "Mood": [
-                "Imp",
-                "Nec"
-            ],
+            "Mood": "Imp,Nec",
             "Style": "Coll"
         },
         "upos": "VERB"
     },
     "V;IMP;OBLIG;NEG": {
         "morpho": {
-            "Mood": [
-                "Imp",
-                "Nec"
-            ],
+            "Mood": "Imp,Nec",
             "Polarity": "Neg"
         },
         "upos": "VERB"
     },
     "V;IMP;OBLIG;POL": {
         "morpho": {
-            "Mood": [
-                "Imp",
-                "Nec"
-            ],
+            "Mood": "Imp,Nec",
             "Polite": "Form"
         },
         "upos": "VERB"
@@ -2227,10 +1621,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Tense": "Pres",
-            "Voice": [
-                "Pass",
-                "Cau"
-            ]
+            "Voice": "Cau,Pass"
         },
         "upos": "VERB"
     },
@@ -2239,10 +1630,7 @@
             "Aspect": "Imp",
             "Polarity": "Neg",
             "Tense": "Pres",
-            "Voice": [
-                "Pass",
-                "Cau"
-            ]
+            "Voice": "Cau,Pass"
         },
         "upos": "VERB"
     },
@@ -2252,10 +1640,7 @@
             "Polite": "Form",
             "Style": "Form",
             "Tense": "Pres",
-            "Voice": [
-                "Pass",
-                "Cau"
-            ]
+            "Voice": "Cau,Pass"
         },
         "upos": "VERB"
     },
@@ -2266,10 +1651,7 @@
             "Polite": "Form",
             "Style": "Form",
             "Tense": "Pres",
-            "Voice": [
-                "Pass",
-                "Cau"
-            ]
+            "Voice": "Cau,Pass"
         },
         "upos": "VERB"
     },
@@ -2314,10 +1696,7 @@
     "V;PRS;IPFV;ELEV;POL;FOREG": {
         "morpho": {
             "Aspect": "Imp",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Form",
             "Tense": "Pres"
         },
@@ -2327,10 +1706,7 @@
         "morpho": {
             "Aspect": "Imp",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Form",
             "Tense": "Pres"
         },
@@ -2533,20 +1909,14 @@
     },
     "V;PRS;IPFV;PROSP": {
         "morpho": {
-            "Aspect": [
-                "Prosp",
-                "Imp"
-            ],
+            "Aspect": "Imp,Prosp",
             "Tense": "Pres"
         },
         "upos": "VERB"
     },
     "V;PRS;IPFV;PROSP;NEG": {
         "morpho": {
-            "Aspect": [
-                "Prosp",
-                "Imp"
-            ],
+            "Aspect": "Imp,Prosp",
             "Polarity": "Neg",
             "Tense": "Pres"
         },
@@ -2554,10 +1924,7 @@
     },
     "V;PRS;IPFV;PROSP;POL": {
         "morpho": {
-            "Aspect": [
-                "Prosp",
-                "Imp"
-            ],
+            "Aspect": "Imp,Prosp",
             "Polite": "Form",
             "Tense": "Pres"
         },
@@ -2565,10 +1932,7 @@
     },
     "V;PRS;IPFV;PROSP;POL;NEG": {
         "morpho": {
-            "Aspect": [
-                "Prosp",
-                "Imp"
-            ],
+            "Aspect": "Imp,Prosp",
             "Polarity": "Neg",
             "Polite": "Form",
             "Tense": "Pres"
@@ -2603,10 +1967,7 @@
         "morpho": {
             "Aspect": "Perf",
             "Tense": "Past",
-            "Voice": [
-                "Pass",
-                "Cau"
-            ]
+            "Voice": "Cau,Pass"
         },
         "upos": "VERB"
     },
@@ -2615,10 +1976,7 @@
             "Aspect": "Perf",
             "Polarity": "Neg",
             "Tense": "Past",
-            "Voice": [
-                "Pass",
-                "Cau"
-            ]
+            "Voice": "Cau,Pass"
         },
         "upos": "VERB"
     },
@@ -2628,10 +1986,7 @@
             "Polite": "Form",
             "Style": "Form",
             "Tense": "Past",
-            "Voice": [
-                "Pass",
-                "Cau"
-            ]
+            "Voice": "Cau,Pass"
         },
         "upos": "VERB"
     },
@@ -2642,10 +1997,7 @@
             "Polite": "Form",
             "Style": "Form",
             "Tense": "Past",
-            "Voice": [
-                "Pass",
-                "Cau"
-            ]
+            "Voice": "Cau,Pass"
         },
         "upos": "VERB"
     },
@@ -2690,10 +2042,7 @@
     "V;PST;PFV;ELEV;POL;FOREG": {
         "morpho": {
             "Aspect": "Perf",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Form",
             "Tense": "Past"
         },
@@ -2703,10 +2052,7 @@
         "morpho": {
             "Aspect": "Perf",
             "Polarity": "Neg",
-            "Polite": [
-                "Elev",
-                "Form"
-            ],
+            "Polite": "Elev,Form",
             "Style": "Form",
             "Tense": "Past"
         },
@@ -2909,20 +2255,14 @@
     },
     "V;PST;PFV;PROSP": {
         "morpho": {
-            "Aspect": [
-                "Prosp",
-                "Perf"
-            ],
+            "Aspect": "Perf,Prosp",
             "Tense": "Past"
         },
         "upos": "VERB"
     },
     "V;PST;PFV;PROSP;NEG": {
         "morpho": {
-            "Aspect": [
-                "Prosp",
-                "Perf"
-            ],
+            "Aspect": "Perf,Prosp",
             "Polarity": "Neg",
             "Tense": "Past"
         },
@@ -2930,10 +2270,7 @@
     },
     "V;PST;PFV;PROSP;POL": {
         "morpho": {
-            "Aspect": [
-                "Prosp",
-                "Perf"
-            ],
+            "Aspect": "Perf,Prosp",
             "Polite": "Form",
             "Tense": "Past"
         },
@@ -2941,10 +2278,7 @@
     },
     "V;PST;PFV;PROSP;POL;NEG": {
         "morpho": {
-            "Aspect": [
-                "Prosp",
-                "Perf"
-            ],
+            "Aspect": "Perf,Prosp",
             "Polarity": "Neg",
             "Polite": "Form",
             "Tense": "Past"

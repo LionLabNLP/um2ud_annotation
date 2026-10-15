@@ -191,7 +191,7 @@ UM_feature2values = {
     "V.MSDR",  # Masdar (Verbal Noun)
     "V.CVB",   # Converb (Verbal Adverb)
     "ADP",     # Adposition
-    "COMP",    # Complementizer
+    "COMP",    # Complementizer (Zeman's Interset mapping, not in UM data); no language uses it as upos. kca has it after the upos on -šək forms, probably the comparative, unmapped
     "CONJ",    # Conjunction
     "NUM",     # Numeral
     "PART",    # Particle
@@ -286,11 +286,14 @@ UM_feature2values["Local Case"] += [
 ]
 UM_feature2values["Degree"] += [
     "SUP",   # Afrikaans
+    "DIM",   # diminutive, Itelmen
+    "BASE",  # positive degree; synthetic, not in UM data (the mappers' stand-in for POS on ADJ/ADV)
 ]
 UM_feature2values["Gender"] += [
     "MASV",  # Irish
 ]
 UM_feature2values["Mood"] += [
+    "HYP",   # hypothetical, Basque
     "INFR",  # Turkish
     "SUBJ",  # Portugese, SBJV mistag
 ]
@@ -305,7 +308,23 @@ UM_feature2values["upos"] += [
     "PRON", # Irish, pronoun PRO mistag
     "PRE",  # preposition?
 ]
+UM_feature2values["Aspect"] += [
+    "INCH",  # inchoative, Aikana
+]
+UM_feature2values["Definite"] += [
+    "NDEF",  # indefinite, mistag of INDF
+    "PSSD",  # possessed noun / construct state, Hebrew
+]
+UM_feature2values["Possession"] = [
+    "ALN",   # alienable possession, Evenki
+    "PSS",   # bare possessor marker (no person/number), Ket, Hungarian "-e" forms
+]
 UM_feature2values["VerbForm"] += [
+    "SUPI",  # supine; synthetic, UM has no supine tag (SUP is Degree)
+    "MSDR",  # masdar, bare tag
+    "COP",   # copula, Kurmanji
+    "V.NFIN",# nonfinite verb tag, found in UM data
+    "ADJ.CVB", "ADJ.MSDR", "ADJ.PTCP",  # verbal tags on ADJ, Korean/Yakut
     "INF",  # infinitive?
     "PTCP", # participle?
     "PCTP", # V.PCTP mistag -> V:PTCP, slovenian
@@ -314,6 +333,7 @@ UM_feature2values["VerbForm"] += [
     "CV",   # CVB mistag, korean
 ]
 UM_feature2values["Tense"] += [
+    "NPST",  # non-past, Yakut
     "PRES",  # PRS mistag, basque, sanskrit, yiddish
     "PAST",  # PST mistag, basque
 ]

@@ -1,0 +1,37 @@
+{
+    "V;IPFV": {
+        "morpho": {
+            "Aspect": "Imp"
+        },
+        "upos": "VERB"
+    },
+    "V;IRR": {
+        "morpho": {
+            "Mood": "Irr"
+        },
+        "upos": "VERB"
+    },
+    "V;IRR;NEG": {
+        "morpho": {
+            "Mood": "Irr",
+            "Polarity": "Neg"
+        },
+        "upos": "VERB"
+    },
+    "V;PFV;LGSPEC1": {
+        "morpho": {
+            "Aspect": "Perf"
+        },
+        "upos": "VERB"
+    },
+    "V;PFV;LGSPEC2": {
+        "morpho": {
+            "Aspect": "Perf"
+        },
+        "upos": "VERB"
+    },
+    "V;STAT": {
+        "morpho": {},
+        "upos": "VERB"
+    }
+}

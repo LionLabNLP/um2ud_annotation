@@ -1,0 +1,1641 @@
+{
+    "ADJ;ACC;CMPR;DEF;FEM;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Definite": "Def",
+            "Degree": "Cmp",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;CMPR;DEF;MASC;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Definite": "Def",
+            "Degree": "Cmp",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;CMPR;DEF;NEUT;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Definite": "Def",
+            "Degree": "Cmp",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;CMPR;DEF;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Definite": "Def",
+            "Degree": "Cmp",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;CMPR;FEM;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Degree": "Cmp",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;CMPR;INDF;FEM;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Definite": "Ind",
+            "Degree": "Cmp",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;CMPR;INDF;MASC;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Definite": "Ind",
+            "Degree": "Cmp",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;CMPR;INDF;NEUT;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Definite": "Ind",
+            "Degree": "Cmp",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;CMPR;INDF;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Definite": "Ind",
+            "Degree": "Cmp",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;CMPR;MASC;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Degree": "Cmp",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;CMPR;NEUT;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Degree": "Cmp",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;CMPR;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Degree": "Cmp",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;DEF;FEM;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;DEF;MASC;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;DEF;NEUT;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Definite": "Def",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;DEF;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Definite": "Def",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;FEM;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;INDF;FEM;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Definite": "Ind",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;INDF;MASC;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Definite": "Ind",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;INDF;NEUT;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Definite": "Ind",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;INDF;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Definite": "Ind",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;MASC;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;NEUT;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;SPRL;DEF;FEM;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Definite": "Def",
+            "Degree": "Sup",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;SPRL;DEF;MASC;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Definite": "Def",
+            "Degree": "Sup",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;SPRL;DEF;NEUT;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Definite": "Def",
+            "Degree": "Sup",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;SPRL;DEF;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Definite": "Def",
+            "Degree": "Sup",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;SPRL;FEM;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Degree": "Sup",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;SPRL;INDF;FEM;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Definite": "Ind",
+            "Degree": "Sup",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;SPRL;INDF;MASC;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Definite": "Ind",
+            "Degree": "Sup",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;SPRL;INDF;NEUT;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Definite": "Ind",
+            "Degree": "Sup",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;SPRL;INDF;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Definite": "Ind",
+            "Degree": "Sup",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;SPRL;MASC;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Degree": "Sup",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;SPRL;NEUT;SG": {
+        "morpho": {
+            "Case": "Acc",
+            "Degree": "Sup",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;ACC;SPRL;PL": {
+        "morpho": {
+            "Case": "Acc",
+            "Degree": "Sup",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;CMPR;FEM;SG;LGSPEC01": {
+        "morpho": {
+            "Degree": "Cmp",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;CMPR;MASC;SG;LGSPEC01": {
+        "morpho": {
+            "Degree": "Cmp",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;CMPR;NEUT;SG;LGSPEC01": {
+        "morpho": {
+            "Degree": "Cmp",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;CMPR;PL;LGSPEC01": {
+        "morpho": {
+            "Degree": "Cmp",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;CMPR;DEF;FEM;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Definite": "Def",
+            "Degree": "Cmp",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;CMPR;DEF;MASC;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Definite": "Def",
+            "Degree": "Cmp",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;CMPR;DEF;NEUT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Definite": "Def",
+            "Degree": "Cmp",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;CMPR;DEF;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Definite": "Def",
+            "Degree": "Cmp",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;CMPR;FEM;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Degree": "Cmp",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;CMPR;INDF;FEM;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Definite": "Ind",
+            "Degree": "Cmp",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;CMPR;INDF;MASC;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Definite": "Ind",
+            "Degree": "Cmp",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;CMPR;INDF;NEUT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Definite": "Ind",
+            "Degree": "Cmp",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;CMPR;INDF;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Definite": "Ind",
+            "Degree": "Cmp",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;CMPR;MASC;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Degree": "Cmp",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;CMPR;NEUT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Degree": "Cmp",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;CMPR;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Degree": "Cmp",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;DEF;FEM;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;DEF;MASC;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;DEF;NEUT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Definite": "Def",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;DEF;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Definite": "Def",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;FEM;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;INDF;FEM;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Definite": "Ind",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;INDF;MASC;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Definite": "Ind",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;INDF;NEUT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Definite": "Ind",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;INDF;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Definite": "Ind",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;MASC;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;NEUT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;SPRL;DEF;FEM;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Definite": "Def",
+            "Degree": "Sup",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;SPRL;DEF;MASC;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Definite": "Def",
+            "Degree": "Sup",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;SPRL;DEF;NEUT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Definite": "Def",
+            "Degree": "Sup",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;SPRL;DEF;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Definite": "Def",
+            "Degree": "Sup",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;SPRL;FEM;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Degree": "Sup",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;SPRL;INDF;FEM;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Definite": "Ind",
+            "Degree": "Sup",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;SPRL;INDF;MASC;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Definite": "Ind",
+            "Degree": "Sup",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;SPRL;INDF;NEUT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Definite": "Ind",
+            "Degree": "Sup",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;SPRL;INDF;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Definite": "Ind",
+            "Degree": "Sup",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;SPRL;MASC;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Degree": "Sup",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;SPRL;NEUT;SG": {
+        "morpho": {
+            "Case": "Dat",
+            "Degree": "Sup",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;DAT;SPRL;PL": {
+        "morpho": {
+            "Case": "Dat",
+            "Degree": "Sup",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;FEM;SG;LGSPEC01": {
+        "morpho": {
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;CMPR;DEF;FEM;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Def",
+            "Degree": "Cmp",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;CMPR;DEF;MASC;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Def",
+            "Degree": "Cmp",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;CMPR;DEF;NEUT;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Def",
+            "Degree": "Cmp",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;CMPR;DEF;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Def",
+            "Degree": "Cmp",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;CMPR;FEM;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Degree": "Cmp",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;CMPR;INDF;FEM;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Ind",
+            "Degree": "Cmp",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;CMPR;INDF;MASC;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Ind",
+            "Degree": "Cmp",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;CMPR;INDF;NEUT;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Ind",
+            "Degree": "Cmp",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;CMPR;INDF;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Ind",
+            "Degree": "Cmp",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;CMPR;MASC;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Degree": "Cmp",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;CMPR;NEUT;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Degree": "Cmp",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;CMPR;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Degree": "Cmp",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;DEF;FEM;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;DEF;MASC;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;DEF;NEUT;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Def",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;DEF;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Def",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;FEM;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;INDF;FEM;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Ind",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;INDF;MASC;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Ind",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;INDF;NEUT;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Ind",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;INDF;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Ind",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;MASC;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;NEUT;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;SPRL;DEF;FEM;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Def",
+            "Degree": "Sup",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;SPRL;DEF;MASC;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Def",
+            "Degree": "Sup",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;SPRL;DEF;NEUT;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Def",
+            "Degree": "Sup",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;SPRL;DEF;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Def",
+            "Degree": "Sup",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;SPRL;FEM;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Degree": "Sup",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;SPRL;INDF;FEM;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Ind",
+            "Degree": "Sup",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;SPRL;INDF;MASC;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Ind",
+            "Degree": "Sup",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;SPRL;INDF;NEUT;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Ind",
+            "Degree": "Sup",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;SPRL;INDF;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Definite": "Ind",
+            "Degree": "Sup",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;SPRL;MASC;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Degree": "Sup",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;SPRL;NEUT;SG": {
+        "morpho": {
+            "Case": "Gen",
+            "Degree": "Sup",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;GEN;SPRL;PL": {
+        "morpho": {
+            "Case": "Gen",
+            "Degree": "Sup",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;MASC;SG;LGSPEC01": {
+        "morpho": {
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NEUT;SG;LGSPEC01": {
+        "morpho": {
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;CMPR;DEF;FEM;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Def",
+            "Degree": "Cmp",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;CMPR;DEF;MASC;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Def",
+            "Degree": "Cmp",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;CMPR;DEF;NEUT;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Def",
+            "Degree": "Cmp",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;CMPR;DEF;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Def",
+            "Degree": "Cmp",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;CMPR;FEM;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Degree": "Cmp",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;CMPR;INDF;FEM;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Ind",
+            "Degree": "Cmp",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;CMPR;INDF;MASC;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Ind",
+            "Degree": "Cmp",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;CMPR;INDF;NEUT;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Ind",
+            "Degree": "Cmp",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;CMPR;INDF;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Ind",
+            "Degree": "Cmp",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;CMPR;MASC;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Degree": "Cmp",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;CMPR;NEUT;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Degree": "Cmp",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;CMPR;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Degree": "Cmp",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;DEF;FEM;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Def",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;DEF;MASC;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Def",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;DEF;NEUT;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Def",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;DEF;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Def",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;FEM;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;INDF;FEM;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Ind",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;INDF;MASC;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Ind",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;INDF;NEUT;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Ind",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;INDF;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Ind",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;MASC;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;NEUT;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;SPRL;DEF;FEM;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Def",
+            "Degree": "Sup",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;SPRL;DEF;MASC;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Def",
+            "Degree": "Sup",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;SPRL;DEF;NEUT;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Def",
+            "Degree": "Sup",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;SPRL;DEF;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Def",
+            "Degree": "Sup",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;SPRL;FEM;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Degree": "Sup",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;SPRL;INDF;FEM;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Ind",
+            "Degree": "Sup",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;SPRL;INDF;MASC;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Ind",
+            "Degree": "Sup",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;SPRL;INDF;NEUT;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Ind",
+            "Degree": "Sup",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;SPRL;INDF;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Definite": "Ind",
+            "Degree": "Sup",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;SPRL;MASC;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Degree": "Sup",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;SPRL;NEUT;SG": {
+        "morpho": {
+            "Case": "Nom",
+            "Degree": "Sup",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;NOM;SPRL;PL": {
+        "morpho": {
+            "Case": "Nom",
+            "Degree": "Sup",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;PL;LGSPEC01": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;PRT;CMPR;FEM;SG": {
+        "morpho": {
+            "Case": "Par",
+            "Degree": "Cmp",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;PRT;CMPR;MASC;SG": {
+        "morpho": {
+            "Case": "Par",
+            "Degree": "Cmp",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;PRT;CMPR;NEUT;SG": {
+        "morpho": {
+            "Case": "Par",
+            "Degree": "Cmp",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;PRT;CMPR;PL": {
+        "morpho": {
+            "Case": "Par",
+            "Degree": "Cmp",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;PRT;FEM;SG": {
+        "morpho": {
+            "Case": "Par",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;PRT;MASC;SG": {
+        "morpho": {
+            "Case": "Par",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;PRT;NEUT;SG": {
+        "morpho": {
+            "Case": "Par",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;PRT;PL": {
+        "morpho": {
+            "Case": "Par",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;SPRL;FEM;SG;LGSPEC01": {
+        "morpho": {
+            "Degree": "Sup",
+            "Gender": "Fem",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;SPRL;MASC;SG;LGSPEC01": {
+        "morpho": {
+            "Degree": "Sup",
+            "Gender": "Masc",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;SPRL;NEUT;SG;LGSPEC01": {
+        "morpho": {
+            "Degree": "Sup",
+            "Gender": "Neut",
+            "Number": "Sing"
+        },
+        "upos": "ADJ"
+    },
+    "ADJ;SPRL;PL;LGSPEC01": {
+        "morpho": {
+            "Degree": "Sup",
+            "Number": "Plur"
+        },
+        "upos": "ADJ"
+    },
+    "V.PTCP;PRS": {
+        "morpho": {
+            "Tense": "Pres",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V.PTCP;PST": {
+        "morpho": {
+            "Tense": "Past",
+            "VerbForm": "Part"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;PL;PRS": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;SG;PRS": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;PL;PRS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;PL;PRS;LGSPEC02": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;PL;PST": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;PL;PST;LGSPEC02": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Plur",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;SG;1;PRS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;SG;1;PRS;LGSPEC02": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;SG;1;PST": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;SG;1;PST;LGSPEC02": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "1",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;SG;2;PRS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;SG;2;PRS;LGSPEC02": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;SG;2;PST": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;SG;2;PST;LGSPEC02": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "2",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;SG;3;PRS": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;SG;3;PRS;LGSPEC02": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;SG;3;PST": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;IND;SG;3;PST;LGSPEC02": {
+        "morpho": {
+            "Mood": "Ind",
+            "Number": "Sing",
+            "Person": "3",
+            "Tense": "Past"
+        },
+        "upos": "VERB"
+    },
+    "V;NFIN": {
+        "morpho": {
+            "VerbForm": "NonFin"
+        },
+        "upos": "VERB"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "V;HAB": {
+        "morpho": {
+            "Aspect": "Hab"
+        },
+        "upos": "VERB"
+    },
+    "V;PFV": {
+        "morpho": {
+            "Aspect": "Perf"
+        },
+        "upos": "VERB"
+    },
+    "V;POT": {
+        "morpho": {
+            "Mood": "Pot"
+        },
+        "upos": "VERB"
+    }
+}

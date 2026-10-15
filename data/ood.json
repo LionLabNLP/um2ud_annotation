@@ -1,0 +1,78 @@
+{
+    "N;PL": {
+        "morpho": {
+            "Number": "Plur"
+        },
+        "upos": "NOUN"
+    },
+    "N;SG": {
+        "morpho": {
+            "Number": "Sing"
+        },
+        "upos": "NOUN"
+    },
+    "V;IMP;PL;PRS": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Plur",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IMP;SG;PRS": {
+        "morpho": {
+            "Mood": "Imp",
+            "Number": "Sing",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IPFV;PL;FUT": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Number": "Plur",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;IPFV;PL;PRS": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Number": "Plur",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;IPFV;SG;FUT": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Number": "Sing",
+            "Tense": "Fut"
+        },
+        "upos": "VERB"
+    },
+    "V;IPFV;SG;PRS": {
+        "morpho": {
+            "Aspect": "Imp",
+            "Number": "Sing",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRF;PL;PRS": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Plur",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    },
+    "V;PRF;SG;PRS": {
+        "morpho": {
+            "Aspect": "Perf",
+            "Number": "Sing",
+            "Tense": "Pres"
+        },
+        "upos": "VERB"
+    }
+}

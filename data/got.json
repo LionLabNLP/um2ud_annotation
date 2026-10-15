@@ -834,10 +834,7 @@
     "N;ACC;MASC+FEM;PL": {
         "morpho": {
             "Case": "Acc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -845,10 +842,7 @@
     "N;ACC;MASC+FEM;SG": {
         "morpho": {
             "Case": "Acc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -918,10 +912,7 @@
     "N;DAT;MASC+FEM;PL": {
         "morpho": {
             "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -929,10 +920,7 @@
     "N;DAT;MASC+FEM;SG": {
         "morpho": {
             "Case": "Dat",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -1002,10 +990,7 @@
     "N;GEN;MASC+FEM;PL": {
         "morpho": {
             "Case": "Gen",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -1013,10 +998,7 @@
     "N;GEN;MASC+FEM;SG": {
         "morpho": {
             "Case": "Gen",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -1086,10 +1068,7 @@
     "N;NOM;MASC+FEM;PL": {
         "morpho": {
             "Case": "Nom",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -1097,10 +1076,7 @@
     "N;NOM;MASC+FEM;SG": {
         "morpho": {
             "Case": "Nom",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "NOUN"
@@ -1170,10 +1146,7 @@
     "N;VOC;MASC+FEM;PL": {
         "morpho": {
             "Case": "Voc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Plur"
         },
         "upos": "NOUN"
@@ -1181,10 +1154,7 @@
     "N;VOC;MASC+FEM;SG": {
         "morpho": {
             "Case": "Voc",
-            "Gender": [
-                "Fem",
-                "Masc"
-            ],
+            "Gender": "Fem,Masc",
             "Number": "Sing"
         },
         "upos": "NOUN"
